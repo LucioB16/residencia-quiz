@@ -12,25 +12,12 @@ export function looksLikeQuestionStart(line, previousNumber) {
   const match = line.match(questionStartPattern);
   if (!match) return false;
 
-  const number = Number(match[1]);
   const text = match[2] ?? "";
-
-  // Consider it a question start if it's the next sequential number, or if it's 1.
-  // Or if it starts with an uppercase letter, or if the text is empty (sometimes just the number)
-  // Check if it's an option that happens to start with a number like "2. A-"
   if (/^[A-Ea-e][.-]/.test(text)) {
       return false;
   }
-
-  if (previousNumber !== null && (number === previousNumber + 1 || number === 1)) {
-    return true;
-  }
   
-  if (text === "" || /[A-ZÁÉÍÓÚÑÜ¿?]/.test(text[0] ?? "")) {
-      return true;
-  }
-
-  return false;
+  return true;
 }
 
 export function detectQuestionBlocks(lines) {
