@@ -278,16 +278,20 @@ export function parseMarkdownFiles() {
     allValid.push(...valid);
   }
 
-  const questions = allValid.map((block, index) => ({
-    id: questionId(index + 1),
-    order: index + 1,
-    statement: block.statement.trim() || "(Pregunta sin enunciado en PDF original)",
-    options: block.options.map((option) => ({
-      id: option.id,
-      text: option.text.trim() || "(Opción sin texto)",
-      isCorrect: option.isCorrect,
-    })),
-  }));
+  const questions = allValid.map((block, index) => {
+    const yearMatch = block.file.match(/20\d{2}/);
+    const year = yearMatch ? yearMatch[0] : "Desconocido";
+    return {
+      id: `${year} - Pregunta ${block.sourceNumber}`,
+      order: index + 1,
+      statement: block.statement.trim() || "(Pregunta sin enunciado en PDF original)",
+      options: block.options.map((option) => ({
+        id: option.id,
+        text: option.text.trim() || "(Opción sin texto)",
+        isCorrect: option.isCorrect,
+      })),
+    };
+  });
 
   return {
     totalBlocks,

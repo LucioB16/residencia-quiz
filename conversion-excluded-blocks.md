@@ -5,21 +5,21 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 ## Resumen
 
 - Preguntas detectadas en total: 647
-- Bloques excluidos: 237
+- Bloques excluidos: 238
 
 ## Conteo Por Tipo De Problema
 
 - `correct_count_0`: 8
 - `correct_count_2`: 6
 - `correct_count_29`: 1
-- `correct_count_3`: 1
+- `correct_count_3`: 2
 - `correct_count_4`: 1
 - `correct_count_5`: 1
 - `correct_count_7`: 1
 - `correct_count_9`: 1
 - `duplicate_option_ids_a_b`: 1
 - `duplicate_option_ids_a_b_c_d`: 6
-- `duplicate_option_ids_d`: 5
+- `duplicate_option_ids_d`: 6
 - `no_options`: 214
 - `option_count_1`: 1
 
@@ -27,249 +27,250 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 | # | Archivo | Num | Linea | Opciones | Correctas | Problemas | Primera linea |
 | ---: | --- | ---: | ---: | ---: | ---: | --- | --- |
-| 1 | 2016 Examen LISTO.pdf.md | 29 | 326 | 0 | 0 | no_options | ¿? |
-| 2 | 2016 Examen LISTO.pdf.md | 53 | 606 | 5 | 2 | correct_count_2, duplicate_option_ids_d | - 53) Una paciente de 64 años, diabética y depresiva, cumple tratamiento con 5mg de glibenclamida y 75mg de amitriptilina, presenta depresión del sensorio. ¿Cuál sería el primer diagnóstico a considerar? |
+| 1 | 2016 Examen LISTO.pdf.md | 29 | 327 | 0 | 0 | no_options | ¿? |
+| 2 | 2016 Examen LISTO.pdf.md | 53 | 607 | 7 | 3 | correct_count_3, duplicate_option_ids_d | - 53) Una paciente de 64 años, diabética y depresiva, cumple tratamiento con 5mg de glibenclamida y 75mg de amitriptilina, presenta depresión del sensorio. ¿Cuál sería el primer diagnóstico a considerar? |
 | 3 | 2017 Examen LISTO.pdf.md | 8 | 89 | 5 | 3 | correct_count_3, duplicate_option_ids_d | - 8) Un ejecutivo de una gran empresa, de 40 años y sin antecedentes de interés, acude al servicio de urgencias por presentar un dolor brusco y de gran intensidad, localizado en el epigastrio que ha comenzado una hora antes y no cede. A la exploración, el paciente está pálido, sudoroso, hipotenso, con respiración superficial; el abdomen tenso y muy doloroso a la palpación superficial, mostrando desaparición de la matidez hepática a la percusión. ¿Cuál de los siguientes es el diagnóstico más probable? |
 | 4 | 2017 Examen LISTO.pdf.md | 47 | 554 | 4 | 2 | correct_count_2 | - 47) Paciente de 28 años de edad, consulta por presentar lesiones en piel con pápula central, redondeadas y ovales, bordeadas por franja eritematosa, muy pruriginosas, en brazos, región del tórax y muslo, de 10 horas de evolución posterior a automedicación con amoxicilina por dolor de garganta. No presenta otras lesiones ni en cara ni en mucosas. Su diagnóstico es urticaria por fármacos. ¿Qué tratamiento sugiere para este paciente? |
 | 5 | 2017 Examen LISTO.pdf.md | 64 | 756 | 4 | 2 | correct_count_2 | - 64) Ante un bebé de 1 mes, que súbitamente comienza con vómitos no biliosos, justo luego de ingerir leche, con ictericia leve, cuya madre le relata que después de vomitar el niño se muestra hambriento, usted sospecha: |
-| 6 | 2017 Examen LISTO.pdf.md | 100 | 1185 | 5 | 2 | correct_count_2, duplicate_option_ids_d | 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada respecto a: |
-| 7 | 2018 Examen LISTO.pdf.md | 32 | 269 | 5 | 1 | duplicate_option_ids_d | - 32) ¿Cuál es la causa más frecuente de meningitis aséptica? |
-| 8 | 2018 Examen LISTO.pdf.md | 78 | 812 | 5 | 1 | duplicate_option_ids_d | - 78) ¿Cuál es la causa más frecuente de cáncer de cuello uterino? |
-| 9 | 2019 Examen LISTO.pdf.md | 1 | 1 | 0 | 0 | no_options | Fisura anal: dolor |
-| 10 | 2019 Examen LISTO.pdf.md | 2 | 2 | 0 | 0 | no_options | Colelitiasis simple: Vesícula con cálculos: la clínica es asintomática: No se opera |
-| 11 | 2019 Examen LISTO.pdf.md | 3 | 3 | 0 | 0 | no_options | Cáncer de colon derecho: Hemicolectomía derecha + ileotransversoanastomosis |
-| 12 | 2019 Examen LISTO.pdf.md | 4 | 4 | 0 | 0 | no_options | Cáncer de colon derecho: (ángulo hepático): Unión Ileotransverso |
-| 13 | 2019 Examen LISTO.pdf.md | 5 | 5 | 0 | 0 | no_options | Peritonitis bacteriana espontánea: |
-| 14 | 2019 Examen LISTO.pdf.md | 6 | 6 | 0 | 0 | no_options | -Clínica: Fiebre, dolor abdominal, encefalopatía, deterioro del Estado general. |
-| 15 | 2019 Examen LISTO.pdf.md | 7 | 7 | 0 | 0 | no_options | -Liquido ascítico: Leucocitos ˃ 500, Neutrófilos ˃ 250. |
-| 16 | 2019 Examen LISTO.pdf.md | 8 | 8 | 0 | 0 | no_options | -Tratamiento: Cefalosporinas de 3 ra  generación por 5-10 días. |
-| 17 | 2019 Examen LISTO.pdf.md | 9 | 9 | 0 | 0 | no_options | -Profilaxis: Norfloxacina |
-| 18 | 2019 Examen LISTO.pdf.md | 6 | 10 | 0 | 0 | no_options | ERCP: Calculo que migró desde vesícula hacia vía biliar. |
-| 19 | 2019 Examen LISTO.pdf.md | 11 | 11 | 0 | 0 | no_options | -Complicaciones:  La más frecuente: hemorragia La más grave: perforación |
-| 20 | 2019 Examen LISTO.pdf.md | 7 | 12 | 0 | 0 | no_options | Clínica de cólico biliar |
-| 21 | 2019 Examen LISTO.pdf.md | 8 | 13 | 0 | 0 | no_options | Oclusión por tumor de colon descendente: si se produce un abdomen agudo oclusivo los ruidos hidroaéreos van a estar aumentados. Rx directa de abdomen: niveles hidroaéreos? |
-| 22 | 2019 Examen LISTO.pdf.md | 9 | 14 | 0 | 0 | no_options | Anciano con dolor abdominal alto que irradia a dorso: IAM de Base?. Disección de aorta (se diagnostica con TAC con contraste). |
-| 23 | 2019 Examen LISTO.pdf.md | 15 | 15 | 0 | 0 | no_options | 10) |
-| 24 | 2019 Examen LISTO.pdf.md | 16 | 16 | 0 | 0 | no_options | Persona con traumatismo precordial: Diagnóstico: taponamiento cardíaco. Qué método complementario usaría para diagnosticar el taponamiento cardíaco? Eco fast |
-| 25 | 2019 Examen LISTO.pdf.md | 11 | 17 | 0 | 0 | no_options | Rectorragia: cáncer de colon |
-| 26 | 2019 Examen LISTO.pdf.md | 12 | 18 | 0 | 0 | no_options | Tumor más frecuente de vía biliar: Klatsking (Porción proximal o superior) |
-| 27 | 2019 Examen LISTO.pdf.md | 13 | 24 | 0 | 0 | no_options | Hepatopatía alcohólica: Profilaxis: abandono del alcohol. (GGT aumentada en hepatograma) |
-| 28 | 2019 Examen LISTO.pdf.md | 14 | 25 | 0 | 0 | no_options | Colelitiasis: Diagnóstico: ecografía |
-| 29 | 2019 Examen LISTO.pdf.md | 15 | 26 | 0 | 0 | no_options | Intoxicación con benzodiacepinas: Lavado gástrico + Carbón Activado (Flumazenil no estaba) |
-| 30 | 2019 Examen LISTO.pdf.md | 16 | 27 | 0 | 0 | no_options | Intoxicación con carbamazepina: Intubar‼ (porque se produce una alteración de la ventilación mecánica). |
-| 31 | 2019 Examen LISTO.pdf.md | 17 | 28 | 0 | 0 | no_options | Líquido pleural con ADA positivo: exudado por tuberculosis |
-| 32 | 2019 Examen LISTO.pdf.md | 18 | 29 | 0 | 0 | no_options | Hipoamilasemia: |
-| 33 | 2019 Examen LISTO.pdf.md | 19 | 40 | 0 | 0 | no_options | Anemia hemolítica: se produce un aumento de Bilirrubina a predominio Indirecto y de LDH. Se produce destrucción celular, por lo que la anemia es REGENERATIVA. |
-| 34 | 2019 Examen LISTO.pdf.md | 20 | 41 | 0 | 0 | no_options | Cáncer que produce hipercalcemia: |
-| 35 | 2019 Examen LISTO.pdf.md | 21 | 45 | 0 | 0 | no_options | Oat Cell. (Cáncer microcítico de pulmón): |
-| 36 | 2019 Examen LISTO.pdf.md | 22 | 54 | 0 | 0 | no_options | Cáncer anaplásico de células grandes: |
-| 37 | 2019 Examen LISTO.pdf.md | 23 | 55 | 0 | 0 | no_options | EPOC y tabaquismo. |
-| 38 | 2019 Examen LISTO.pdf.md | 24 | 56 | 0 | 0 | no_options | Niño sano de 18 meses con diarrea autolimitada: |
-| 39 | 2019 Examen LISTO.pdf.md | 25 | 64 | 0 | 0 | no_options | Causa de Cáncer de cuello de útero: HPV |
-| 40 | 2019 Examen LISTO.pdf.md | 26 | 65 | 3 | 0 | correct_count_0 | - 26) Recién Nacido con APGAR de 8, con cianosis acra y auscultación normal: |
-| 41 | 2019 Examen LISTO.pdf.md | 27 | 72 | 0 | 0 | no_options | A quien se le coloca la vacuna antigripal: |
-| 42 | 2019 Examen LISTO.pdf.md | 5 | 73 | 0 | 0 | no_options | -Embarazo en cualquier trimestre |
-| 43 | 2019 Examen LISTO.pdf.md | 6 | 74 | 0 | 0 | no_options | -Trabajadores de salud |
-| 44 | 2019 Examen LISTO.pdf.md | 7 | 75 | 0 | 0 | no_options | -Niños de 6 meses a 2 años (2 dosis separadas por un mes) |
-| 45 | 2019 Examen LISTO.pdf.md | 8 | 76 | 0 | 0 | no_options | -Menores de 65 años con factores de riesgo |
-| 46 | 2019 Examen LISTO.pdf.md | 9 | 77 | 0 | 0 | no_options | -Mayores de 65 años con o sin factores de riesgo |
-| 47 | 2019 Examen LISTO.pdf.md | 28 | 78 | 0 | 0 | no_options | Características de la talasemia: |
-| 48 | 2019 Examen LISTO.pdf.md | 11 | 79 | 0 | 0 | no_options | -Anemia drepanocítica |
-| 49 | 2019 Examen LISTO.pdf.md | 12 | 80 | 0 | 0 | no_options | -Predomina la Hb F? |
-| 50 | 2019 Examen LISTO.pdf.md | 13 | 81 | 0 | 0 | no_options | -Anemia de Cooley (Talasemia mayor o beta: es la más grave) |
-| 51 | 2019 Examen LISTO.pdf.md | 14 | 82 | 0 | 0 | no_options | -Hierro normal o aumentado |
-| 52 | 2019 Examen LISTO.pdf.md | 15 | 83 | 0 | 0 | no_options | -Ferritina y Transferrina normal |
-| 53 | 2019 Examen LISTO.pdf.md | 29 | 84 | 0 | 0 | no_options | Síndrome de Cushing: tiene miopatía: debilidad muscular próxima. |
-| 54 | 2019 Examen LISTO.pdf.md | 17 | 85 | 0 | 0 | no_options | 30) |
-| 55 | 2019 Examen LISTO.pdf.md | 18 | 86 | 0 | 0 | no_options | Disfagia en Cáncer de esófago: es progresiva y comienza con sólidos. |
-| 56 | 2019 Examen LISTO.pdf.md | 31 | 90 | 0 | 0 | no_options | Dolor epigástrico: ulcera péptica |
-| 57 | 2019 Examen LISTO.pdf.md | 32 | 91 | 0 | 0 | no_options | Ulcera duodenal de cara posterior: produce hemorragia por erosión de la Arteria Gastroduodenal. |
-| 58 | 2019 Examen LISTO.pdf.md | 33 | 92 | 0 | 0 | no_options | Durante el trabajo de parto cual es la actitud en la que no se puede llevar a cabo un parto vaginal: Cara. » RESPUESTA CORRECTA « |
-| 59 | 2019 Examen LISTO.pdf.md | 34 | 93 | 0 | 0 | no_options | Hormonas en la menopausia: aumento de gonadotrofinas (FSH, LH), disminución de estrógeno y progesterona. |
-| 60 | 2019 Examen LISTO.pdf.md | 35 | 94 | 0 | 0 | no_options | EPI: Leucorrea purulenta + DIU: |
-| 61 | 2019 Examen LISTO.pdf.md | 36 | 106 | 0 | 0 | no_options | Hiperaldosteronismo: hipernatremia, hipopotasemia, HTA, alcalosis metabólica. |
-| 62 | 2019 Examen LISTO.pdf.md | 2 | 107 | 0 | 0 | no_options | -PRIMARIO: aumenta la aldosterona, disminuye la renina y la angiotensina. |
-| 63 | 2019 Examen LISTO.pdf.md | 3 | 108 | 0 | 0 | no_options | -SECUNDARIO: aumenta la renina, aumenta la angiotensina y la aldosterona. |
-| 64 | 2019 Examen LISTO.pdf.md | 37 | 109 | 0 | 0 | no_options | Síndrome carcinoide del aparato digestivo: se produce por un aumento de la serotonina. |
-| 65 | 2019 Examen LISTO.pdf.md | 42 | 146 | 0 | 0 | no_options | Cáncer de endometrio: el signo más frecuente es la metrorragia. |
-| 66 | 2019 Examen LISTO.pdf.md | 43 | 147 | 0 | 0 | no_options | Diagnóstico de cáncer de mama: mamografía. |
-| 67 | 2019 Examen LISTO.pdf.md | 44 | 148 | 0 | 0 | no_options | Lactante de 2 - 3 semanas con vómitos blancos en escopetazo, con oliva pilórica + signo de la cuerda. Laboratorio: alcalosis metabólica hipoclorémica. |
-| 68 | 2019 Examen LISTO.pdf.md | 45 | 149 | 0 | 0 | no_options | Corioamnionitis: inducir el parto por vía más adecuada.? (Cesárea?) |
-| 69 | 2019 Examen LISTO.pdf.md | 46 | 150 | 0 | 0 | no_options | Sufrimiento fetal agudo: se representa con liquido meconial. |
-| 70 | 2019 Examen LISTO.pdf.md | 47 | 154 | 0 | 0 | no_options | ITU en embarazo: E. coli |
-| 71 | 2019 Examen LISTO.pdf.md | 48 | 155 | 0 | 0 | no_options | Cómo se previene la muerte súbita del lactante: lactancia materna, dormirlo de decúbito dorsal! |
-| 72 | 2019 Examen LISTO.pdf.md | 49 | 156 | 0 | 0 | no_options | Cuáles son las malformaciones cardiacas en hijo de madre DBT: macrosómicos, TGV, Hipertrofia simétrica del septum, prematurez, hipoglucemia, hipocalcemia, RCIU, defecto del tubo neural, macro/micro/hidrocefalia, estenosis pilórica, atresia duodenal, hernias. Urogenitales: agenesia renal, hidronefrosis, micropene, criptorquidias, hipospadia. Musculoesquelético: pie varo, labio leporino. |
-| 73 | 2019 Examen LISTO.pdf.md | 50 | 157 | 3 | 0 | correct_count_0 | - 50) Cuando se presenta la DBT pregestacional (que produce las malformaciones cardiacas) Las opciones del choise eran las siguientes: |
-| 74 | 2019 Examen LISTO.pdf.md | 52 | 170 | 0 | 0 | no_options | DPPNI: sufrimiento fetal agudo + HTA + hipertono uterino: Cesárea de urgencia!! |
-| 75 | 2019 Examen LISTO.pdf.md | 53 | 171 | 0 | 0 | no_options | Exantema súbito es sinónimo de: Virus Herpes 6, Roséola, Sexta Enfermedad. |
-| 76 | 2019 Examen LISTO.pdf.md | 54 | 172 | 0 | 0 | no_options | Cefalea en racimos: Cefalea de Horton: |
-| 77 | 2019 Examen LISTO.pdf.md | 55 | 180 | 0 | 0 | no_options | Parálisis del 6  to  par (Motor Ocular Externo): estrabismo convergente |
-| 78 | 2019 Examen LISTO.pdf.md | 58 | 192 | 0 | 0 | no_options | Retinoblastoma: da leucocoria. |
-| 79 | 2019 Examen LISTO.pdf.md | 59 | 193 | 0 | 0 | no_options | Sonrisa social: 2 meses |
-| 80 | 2019 Examen LISTO.pdf.md | 60 | 194 | 0 | 0 | no_options | Lactante con falta de crecimiento + fiebre de origen desconocido: realizar urocultivo. (sospechar ITU). |
-| 81 | 2019 Examen LISTO.pdf.md | 62 | 208 | 0 | 0 | no_options | 9-10 meses: nena se sienta y con ayuda da pasos. |
-| 82 | 2019 Examen LISTO.pdf.md | 63 | 214 | 0 | 0 | no_options | Nena que patea la pelota: entre 15 y 20 meses |
-| 83 | 2019 Examen LISTO.pdf.md | 65 | 218 | 0 | 0 | no_options | Hierro en lactante de 3 meses: |
-| 84 | 2019 Examen LISTO.pdf.md | 2 | 219 | 0 | 0 | no_options | -Prematuro: 2mg/kg/día desde el nacimiento |
-| 85 | 2019 Examen LISTO.pdf.md | 3 | 220 | 0 | 0 | no_options | -A término: 1 mg/kg/día a partir de los 2 meses |
-| 86 | 2019 Examen LISTO.pdf.md | 4 | 221 | 0 | 0 | no_options | -A partir del 3 mes: 4mg/kg/día. |
-| 87 | 2019 Examen LISTO.pdf.md | 5 | 222 | 0 | 0 | no_options | -Hijo de madre anémica: 2 mg desde los 2 meses |
-| 88 | 2019 Examen LISTO.pdf.md | 6 | 223 | 0 | 0 | no_options | -Formula de suplemento de hierro: Número de mes x 400 + peso al nacer. |
-| 89 | 2019 Examen LISTO.pdf.md | 66 | 224 | 0 | 0 | no_options | De donde se obtiene la mayor fuente de hierro en un lactante de 3 meses: lactancia!! |
-| 90 | 2019 Examen LISTO.pdf.md | 67 | 225 | 0 | 0 | no_options | Endometritis: es la infección puerperal mas frecuente (complicación tardía de parto)!! |
-| 91 | 2019 Examen LISTO.pdf.md | 68 | 226 | 0 | 0 | no_options | ¿Como se contagia la madre embarazada de listeriosis? Por vía digestiva!! (carne, frutas, verduras, lácteos mal pasteurizados, quesos blancos y productos de mar). Clínica: cuadro pseudogripal. |
-| 92 | 2019 Examen LISTO.pdf.md | 69 | 232 | 0 | 0 | no_options | Colpitis con puntos blancos: cándida. |
-| 93 | 2019 Examen LISTO.pdf.md | 70 | 233 | 0 | 0 | no_options | Kernicterus: incompatibilidad RH (enfermedad hemolítica del RN) |
-| 94 | 2019 Examen LISTO.pdf.md | 71 | 234 | 0 | 0 | no_options | Hipotiroidismo congénito: ictericia persistente |
-| 95 | 2019 Examen LISTO.pdf.md | 72 | 235 | 0 | 0 | no_options | Síndrome de Down: se da por trisomía del par 21 (cariotipo 21) |
-| 96 | 2019 Examen LISTO.pdf.md | 74 | 244 | 0 | 0 | no_options | Test del sudor (fibrosis quística): |
-| 97 | 2019 Examen LISTO.pdf.md | 75 | 248 | 0 | 0 | no_options | Hiperparatiroidismo Secundario: ↑ PTH , ↑ Ca ++ , ↓ PO4 -. |
-| 98 | 2019 Examen LISTO.pdf.md | 76 | 252 | 0 | 0 | no_options | Enfermedad de Graves: Ac. Anti receptor TSH. |
-| 99 | 2019 Examen LISTO.pdf.md | 77 | 258 | 0 | 0 | no_options | Complicaciones de Enfermedad de Crohn: oclusión, suboclusion, fistulas » PREGUNTA DE CHOISE «, abscesos. Manifestaciones extraintestinales: uveítis anterior aguda. |
-| 100 | 2019 Examen LISTO.pdf.md | 78 | 259 | 0 | 0 | no_options | Localización del embarazo ectópico:  trompa / ampolla. |
-| 101 | 2019 Examen LISTO.pdf.md | 79 | 260 | 0 | 0 | no_options | Mujer embarazada de 16 semanas de gestación con TVP, ¿qué hacer? |
-| 102 | 2019 Examen LISTO.pdf.md | 80 | 268 | 0 | 0 | no_options | Sulfato de Magnesio EV en prematuros: es un uteroinhibidor! También se usa para profilaxis de parálisis cerebral. |
-| 103 | 2019 Examen LISTO.pdf.md | 81 | 269 | 0 | 0 | no_options | Vómitos en el lactante: |
-| 104 | 2019 Examen LISTO.pdf.md | 82 | 272 | 0 | 0 | no_options | Fecha probable de parto: FUM + 10 días - 3 meses. |
-| 105 | 2019 Examen LISTO.pdf.md | 83 | 273 | 0 | 0 | no_options | Embarazo: hiperuricemia = predispone HTA en el embarazo!!! Es un predictor de preeclampsia. |
-| 106 | 2019 Examen LISTO.pdf.md | 84 | 274 | 0 | 0 | no_options | Variedad de posición: se puede determinar con el Tacto Vaginal. |
-| 107 | 2019 Examen LISTO.pdf.md | 85 | 275 | 0 | 0 | no_options | Historia clínica: ver definición de consentimiento informado. |
-| 108 | 2019 Examen LISTO.pdf.md | 86 | 276 | 0 | 0 | no_options | Autonomía: ver definición de consentimiento informado. |
-| 109 | 2019 Examen LISTO.pdf.md | 87 | 277 | 0 | 0 | no_options | Solicitar HC: ver definición de consentimiento informado. |
-| 110 | 2019 Examen LISTO.pdf.md | 88 | 278 | 0 | 0 | no_options | ¿Cuál es la fractura que más sangra? Fractura de Fémur |
-| 111 | 2019 Examen LISTO.pdf.md | 89 | 279 | 0 | 0 | no_options | ¿Que favorece el acercamiento de la madre con el recién nacido en la 1 er  hora? El apego. |
-| 112 | 2019 Examen LISTO.pdf.md | 90 | 280 | 0 | 0 | no_options | Diagnostico de sinusitis: es clínico! |
-| 113 | 2019 Examen LISTO.pdf.md | 95 | 331 | 0 | 0 | no_options | Shock en un niño: ¿cuál es el signo más precoz?: relleno capilar mayor a 2 segundos. Tratamiento del shock hipovolémico: ¿con que empiezo? Con expansores y coloides (Ringer Lactato). |
-| 114 | 2019 Examen LISTO.pdf.md | 96 | 333 | 0 | 0 | no_options | Diagnóstico de cardiopatía ventricular hipertrófica: ecocardiograma. |
-| 115 | 2019 Examen LISTO.pdf.md | 97 | 335 | 0 | 0 | no_options | Hematuria glomerular: características: |
-| 116 | 2019 Examen LISTO.pdf.md | 98 | 349 | 0 | 0 | no_options | Tumor benigno de pulmón: Hamartoma. (tiene forma de palomita de maíz) |
-| 117 | 2019 Examen LISTO.pdf.md | 99 | 351 | 0 | 0 | no_options | Serotipos de HPV predictores de Cáncer: 16-18-31-33-35-41… |
-| 118 | 2019 Examen LISTO.pdf.md | 100 | 352 | 0 | 0 | no_options | Causa más frecuente de colecistitis: litiasis |
-| 119 | 2019 Examen LISTO.pdf.md | 101 | 353 | 0 | 0 | no_options | Trastornos de ansiedad e hiperactividad: DX: impulsos? Control? Memoria, lenguaje y pensamiento abstracto. |
-| 120 | 2019 Examen LISTO.pdf.md | 102 | 354 | 0 | 0 | no_options | Hombre con cálculos biliares sin comorbilidades: ¿cuál es el abordaje quirúrgico? Laparoscopia. |
-| 121 | 2019 Examen LISTO.pdf.md | 103 | 355 | 0 | 0 | no_options | Triada clínica de Cáncer de Células Renales: hematuria - dolor - tumor. |
-| 122 | 2019 Examen LISTO.pdf.md | 104 | 356 | 0 | 0 | no_options | Diagnóstico de cariotipo de: |
-| 123 | 2019 Examen LISTO.pdf.md | 7 | 357 | 0 | 0 | no_options | -5: Síndrome de Marfan. |
-| 124 | 2019 Examen LISTO.pdf.md | 8 | 358 | 0 | 0 | no_options | -7: Fibrosis quística |
-| 125 | 2019 Examen LISTO.pdf.md | 9 | 359 | 0 | 0 | no_options | -13: Síndrome de Patau: labio leporino, microcefalia, anencefalia |
-| 126 | 2019 Examen LISTO.pdf.md | 10 | 360 | 0 | 0 | no_options | -18: Síndrome de Edward |
-| 127 | 2019 Examen LISTO.pdf.md | 11 | 361 | 0 | 0 | no_options | -21: Síndrome de Down » PREGUNTAS DE CHOISE « |
-| 128 | 2019 Examen LISTO.pdf.md | 12 | 362 | 0 | 0 | no_options | -22: Síndrome Di George. |
-| 129 | 2019 Examen LISTO.pdf.md | 105 | 366 | 3 | 0 | correct_count_0 | - 105) Cefalea en racimo en pediatría: |
-| 130 | 2019 Examen LISTO.pdf.md | 106 | 373 | 0 | 0 | no_options | ¿Cuando colocar la gamma globulina dentro de las 72 hs del parto? |
-| 131 | 2019 Examen LISTO.pdf.md | 5 | 374 | 0 | 0 | no_options | -Madre RH negativa: coombs indirecta negtiva |
-| 132 | 2019 Examen LISTO.pdf.md | 6 | 375 | 0 | 0 | no_options | -Hijo RH positivo: coombs directa negativa. (Está bien explicado en el Botita de obstetricia) |
-| 133 | 2019 Examen LISTO.pdf.md | 107 | 376 | 0 | 0 | no_options | Como se realiza el diagnostico de un incidentaloma renal: ecografía. |
-| 134 | 2019 Examen LISTO.pdf.md | 108 | 377 | 0 | 0 | no_options | Caso clínico de Artritis Reumatoidea y anemia normocítica normocrómica que no responde al tratamiento con Hierro, con aumento de plaquetas y aumento de GB con predominio de eosinófilos. |
-| 135 | 2019 Examen LISTO.pdf.md | 109 | 379 | 0 | 0 | no_options | Patología poligénica multifactorial con participación ambiental: |
-| 136 | 2019 Examen LISTO.pdf.md | 110 | 389 | 0 | 0 | no_options | Migraña: cual es el aura más frecuente: visual: fotopsias! |
-| 137 | 2020 Examen LISTO.pdf.md | 29 | 312 | 8 | 1 | duplicate_option_ids_a_b_c_d | - 29) En un traumatismo abdominal cerrado de abdomen en un niño, el órgano que mas frecuentemente puede lesionarse es: |
-| 138 | 2020 Examen LISTO.pdf.md | 49 | 363 | 0 | 0 | no_options | ¿Cuál es el cáncer de páncreas más frecuente?: Adenocarcinoma ductal. |
-| 139 | 2020 Examen LISTO.pdf.md | 50 | 364 | 0 | 0 | no_options | Paciente con abdomen agudo hemorrágico con shock, que es lo primero que haces: tratar la inestabilidad. |
-| 140 | 2020 Examen LISTO.pdf.md | 51 | 365 | 0 | 0 | no_options | Te daba la clínica de un viejo con síndrome pilórico, en que dx piensas: Ca gástrico. |
-| 141 | 2020 Examen LISTO.pdf.md | 52 | 366 | 0 | 0 | no_options | Que tumor causa síndrome obstructivo: Ca de colon descendente. |
-| 142 | 2020 Examen LISTO.pdf.md | 68 | 388 | 0 | 0 | no_options | Difteria |
-| 143 | 2020 Examen LISTO.pdf.md | 69 | 390 | 0 | 0 | no_options | Paciente vacunado con la Vacuna de HB, que encontras en sangre: Anticuerpo anti HBags |
-| 144 | 2020 Examen LISTO.pdf.md | 70 | 392 | 0 | 0 | no_options | Caso de un nene con clínica de Púrpura SH |
-| 145 | 2020 Examen LISTO.pdf.md | 71 | 394 | 0 | 0 | no_options | Niño con fiebre, estado tóxico y púrpura, Dx: meningococcemia |
-| 146 | 2020 Examen LISTO.pdf.md | 72 | 396 | 0 | 0 | no_options | Principal causa de derrame exudativo: Neumonía |
-| 147 | 2020 Examen LISTO.pdf.md | 73 | 398 | 0 | 0 | no_options | Cuerpo extraño en vías aéreas superiores, clínica: ahogo, sofocamiento, tos. |
-| 148 | 2020 Examen LISTO.pdf.md | 74 | 400 | 0 | 0 | no_options | Artrosis primaria |
-| 149 | 2020 Examen LISTO.pdf.md | 75 | 402 | 0 | 0 | no_options | Causas de DPPNI: preeclampsia |
-| 150 | 2020 Examen LISTO.pdf.md | 76 | 404 | 0 | 0 | no_options | Cuál es el musculo del cual deriva el Cremáster: oblicuo menor (algo así, vofi) |
-| 151 | 2020 Examen LISTO.pdf.md | 77 | 406 | 0 | 0 | no_options | Origen arteria ovárica: aorta |
-| 152 | 2020 Examen LISTO.pdf.md | 78 | 408 | 0 | 0 | no_options | Candidiasis esofágica: marcadora de sida |
-| 153 | 2020 Examen LISTO.pdf.md | 79 | 410 | 0 | 0 | no_options | Niño mayor a 6 meses con vómitos: reflujo / sobrealimentación (averiguar) |
-| 154 | 2020 Examen LISTO.pdf.md | 80 | 412 | 0 | 0 | no_options | Niño con ttraumatismo y convulsiones: interno y tac |
-| 155 | 2020 Examen LISTO.pdf.md | 81 | 414 | 0 | 0 | no_options | Principal causa de marcha hemiparetica en &gt; 60: ACV |
-| 156 | 2020 Examen LISTO.pdf.md | 82 | 416 | 0 | 0 | no_options | Complicación de resfrío común: otitis |
-| 157 | 2020 Examen LISTO.pdf.md | 83 | 418 | 0 | 0 | no_options | Debilidad en miembros inferior que cede con el descanso, leve ptosis palpebral: Miastenia Gravis |
-| 158 | 2020 Examen LISTO.pdf.md | 84 | 420 | 0 | 0 | no_options | Cual no es complicación de Enfermedad de Crohn: poliposis |
-| 159 | 2020 Examen LISTO.pdf.md | 85 | 422 | 0 | 0 | no_options | Infección puerperal más frecuente: endometritis (no mastitis) |
-| 160 | 2020 Examen LISTO.pdf.md | 86 | 424 | 0 | 0 | no_options | Triada de Charcot: ictericia, dolor en hipocondrio derecho y fiebre |
-| 161 | 2020 Examen LISTO.pdf.md | 87 | 426 | 0 | 0 | no_options | Enfermedad Hemolítica: madre Rh -, padre Rh +, Coombs indirecta negativa |
-| 162 | 2020 Examen LISTO.pdf.md | 88 | 428 | 0 | 0 | no_options | Como realizo diagnóstico de presencia de estrógenos: prueba de progesterona |
-| 163 | 2020 Examen LISTO.pdf.md | 89 | 430 | 0 | 0 | no_options | Dengue |
-| 164 | 2020 Examen LISTO.pdf.md | 90 | 432 | 0 | 0 | no_options | Síndrome nefrotico primario en pediatría: enfermedad de cambios mínimos |
-| 165 | 2020 Examen LISTO.pdf.md | 91 | 434 | 0 | 0 | no_options | Screening de mama: mamografía |
-| 166 | 2020 Examen LISTO.pdf.md | 92 | 436 | 0 | 0 | no_options | Mujer embarazada de 9 meses le diagnostican Listeriosis. Cuál es la vía de contagio de más frecuente de la madre: vía digestiva CORRECTA (otras opciones: vía transplacentaria, canal de parto, transfusiones) (PREGUNTA SOBRE LA VIA DE CONTAGIO DE LA MADRE NO DEL HIJO) |
-| 167 | 2020 Examen LISTO.pdf.md | 93 | 438 | 0 | 0 | no_options | Criterio mayor de IC (criterios de Framingam): reflujo hepatoyugular |
-| 168 | 2020 Examen LISTO.pdf.md | 94 | 440 | 0 | 0 | no_options | Hemorragia en la posmenopausia: histeroscopia + biopsia |
-| 169 | 2020 Examen LISTO.pdf.md | 95 | 442 | 0 | 0 | no_options | Mamo y palpación anual a partir de los 40: screeing de cáncer de mama |
-| 170 | 2020 Examen LISTO.pdf.md | 96 | 444 | 0 | 0 | no_options | Nena de 11 meses que desde los 8 presenta esteatorrea, hipoalbuminemia, anemia. A los 6 había incorporado harinas: enfermedad celiaca |
-| 171 | 2020 Examen LISTO.pdf.md | 97 | 446 | 0 | 0 | no_options | Causa de alcalosis metabólica: Diurético de asa |
-| 172 | 2020 Examen LISTO.pdf.md | 98 | 448 | 0 | 0 | no_options | Empiezan a caminar: de 12 a 15 |
-| 173 | 2021 Examen LISTO.pdf.md | 5 | 7 | 0 | 0 | no_options | d .Arteria coronaria estomaquica |
-| 174 | 2021 Examen LISTO.pdf.md | 9 | 43 | 0 | 0 | no_options | Un caso de dengue |
-| 175 | 2021 Examen LISTO.pdf.md | 10 | 44 | 0 | 0 | no_options | Un caso de fiebre tifoidea/malaria/dengue? |
-| 176 | 2021 Examen LISTO.pdf.md | 12 | 50 | 0 | 0 | no_options | Sindrome de basedow triada : Hipertitoidismo, bocio y oftalmopatia |
-| 177 | 2021 Examen LISTO.pdf.md | 13 | 51 | 0 | 0 | no_options | Causa de nefritis en niños: Postinfecciosa |
-| 178 | 2021 Examen LISTO.pdf.md | 15 | 56 | 0 | 0 | no_options | Niño de 9 meses con fiebre alta de 24 hs de evolucion, a las 12 hs de la desaparición de la fiebre aparece un rash morbiliforme en tronco, cara y extremidades: Exantema súbito (6ta enfermedad) |
-| 179 | 2021 Examen LISTO.pdf.md | 17 | 62 | 0 | 0 | no_options | Punto de referencia en la presentación de vértice |
-| 180 | 2021 Examen LISTO.pdf.md | 19 | 68 | 0 | 0 | no_options | Causa de obstrucción de intestino delgado más frecuente: bridas. |
-| 181 | 2021 Examen LISTO.pdf.md | 20 | 69 | 0 | 0 | no_options | Caso en paciente pediátrico con deposiciones sanguinolentas y dolor cólico (llora un rato, se calma y vuelve a llorar): invaginación intestinal |
-| 182 | 2022 Preguntero LISTO.pdf.md | 13 | 52 | 0 | 0 | no_options | test de schiller negativo que significa: epitelio normal |
-| 183 | 2022 Preguntero LISTO.pdf.md | 28 | 108 | 0 | 0 | no_options | Niño con antecedente de impetigo, presenta edema periorbitario bilateral, hipertension y hematuria: Sx nefritico |
-| 184 | 2022 Preguntero LISTO.pdf.md | 33 | 127 | 0 | 0 | no_options | Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservativo, consejeria para prevencion de its. Habia otras opciones que hablaban que primero habia que pedirle estudios o hacerle pap y colpo y recien darle los aco cuando tengas los resultados… no. |
-| 185 | 2022 Preguntero LISTO.pdf.md | 34 | 136 | 2 | 0 | correct_count_0 | 34. Si consulta un anciano con clinica de sindrome pilorico cual es la causa que pensas: |
-| 186 | 2022 Preguntero LISTO.pdf.md | 35 | 139 | 3 | 0 | correct_count_0 | 35. Que es lo primero que solicitas cuando sospechas colestasis |
-| 187 | 2022 Preguntero LISTO.pdf.md | 36 | 143 | 2 | 0 | correct_count_0 | 36. Cuando sospechas que hay sinusitis (esta en otros pregunteros) |
-| 188 | 2022 Preguntero LISTO.pdf.md | 40 | 160 | 0 | 0 | no_options | Agente etiologico de FR: Streptococo B hemolitico del grupo A |
-| 189 | 2022 Preguntero LISTO.pdf.md | 42 | 165 | 0 | 0 | no_options | Niño con hematuria, orina espumosa: Sc nefrotico |
-| 190 | 2022 Preguntero LISTO.pdf.md | 43 | 166 | 0 | 0 | no_options | Hacia donde se desvia el ojo en la paralisis del VI par: Hacia adentro |
-| 191 | 2022 Preguntero LISTO.pdf.md | 45 | 171 | 0 | 0 | no_options | Cual de estas es correcta sobre la sutura sagital: Va del bregma hacia la fontanela menor, el punto medio corresponde la vertice, algo asi… |
-| 192 | 2022 Preguntero LISTO.pdf.md | 46 | 177 | 0 | 0 | no_options | Causa de hipotiroidismo en lugares donde el iodo es suficiente: Autoinmune |
-| 193 | 2022 Preguntero LISTO.pdf.md | 48 | 181 | 0 | 0 | no_options | Cual es la tercer maniobra de leopold |
-| 194 | 2022 Preguntero LISTO.pdf.md | 49 | 182 | 0 | 0 | no_options | Casito de hemorragia posparto con hipotension, utero blando: Atonia uterina |
-| 195 | 2022 Preguntero LISTO.pdf.md | 55 | 199 | 0 | 0 | no_options | Mujer 25 años con dolor abdominal y signos de shock. Hay que estabilizar hemodinamicamente |
-| 196 | 2022 Preguntero LISTO.pdf.md | 56 | 200 | 0 | 0 | no_options | Caso paciente con dolor post defecacion, estrias de sangre en papel higienico: Fisura 57. Si una mujer de 40 años tiene antecedentes de abortos, parto prematuro, accidente isquemico transitorio, que pensas: Sindrome antifosfolipidos |
-| 197 | 2022 Preguntero LISTO.pdf.md | 59 | 210 | 0 | 0 | no_options | Niño 13 años con dolor en escroto (creo que era) y reflejo cremasteriano ausente: |
-| 198 | 2022 Preguntero LISTO.pdf.md | 60 | 214 | 0 | 0 | no_options | Que produce la hipopotasemia en el ecg: Prolongacion del QT |
-| 199 | 2022 Preguntero LISTO.pdf.md | 62 | 218 | 0 | 0 | no_options | Consentimiento informado |
-| 200 | 2022 Preguntero LISTO.pdf.md | 63 | 219 | 0 | 0 | no_options | Autonomia |
-| 201 | 2022 Preguntero LISTO.pdf.md | 64 | 220 | 0 | 0 | no_options | Historia clinica |
-| 202 | 2022 Preguntero LISTO.pdf.md | 65 | 221 | 0 | 0 | no_options | Triada de charcot |
-| 203 | 2022 Preguntero LISTO.pdf.md | 66 | 222 | 0 | 0 | no_options | Trada de beck |
-| 204 | 2022 Preguntero LISTO.pdf.md | 68 | 226 | 0 | 0 | no_options | Paciente con asma parcialmente controlada y ataques en el ejercicio. |
-| 205 | 2022 Preguntero LISTO.pdf.md | 69 | 227 | 0 | 0 | no_options | Marcar la incorrecta sobre hitos del desarrollo |
-| 206 | 2022 Preguntero LISTO.pdf.md | 70 | 228 | 0 | 0 | no_options | En un paciente con abdomen agudo obstructivo con sospecha de CA de colon, en que porcion es mas frecuente: Descendente |
-| 207 | 2022 Preguntero LISTO.pdf.md | 71 | 229 | 0 | 0 | no_options | Cuando esta contraindicada la colecistectomia por videolaparoscopia |
-| 208 | 2022 Preguntero LISTO.pdf.md | 72 | 230 | 0 | 0 | no_options | Todos son complicacion de Chron excepto: Polipos |
-| 209 | 2022 Preguntero LISTO.pdf.md | 73 | 231 | 0 | 0 | no_options | Lo correcto sobre convulsion febril: se presenta desde los 6 m hasta los 6a |
-| 210 | 2022 Preguntero LISTO.pdf.md | 74 | 232 | 0 | 0 | no_options | Caso que esta en otros pregunteros del niño con PTI |
-| 211 | 2022 Preguntero LISTO.pdf.md | 75 | 233 | 0 | 0 | no_options | Fiebre, aftas orales, manos y pies: Enterovirus no polio |
-| 212 | 2022 Preguntero LISTO.pdf.md | 76 | 234 | 0 | 0 | no_options | Que produce el deficit de acido folico: Defectos en el tubo neural |
-| 213 | 2022 Preguntero LISTO.pdf.md | 77 | 235 | 0 | 0 | no_options | Lo correcto sobre el cordon umbilical: Tiene dos arterias y una vena |
-| 214 | 2022 Preguntero LISTO.pdf.md | 78 | 236 | 0 | 0 | no_options | Causa de neumotorax espontaneo: Bullas supleurales |
-| 215 | 2022 Preguntero LISTO.pdf.md | 79 | 237 | 0 | 0 | no_options | Cancer de tiroides mas frecuente: Papilar |
-| 216 | 2022 Preguntero LISTO.pdf.md | 80 | 238 | 0 | 0 | no_options | Correcto sobre sincope: Recuperacion espontanea |
-| 217 | 2022 Preguntero LISTO.pdf.md | 81 | 239 | 0 | 0 | no_options | Correcto sobre addison: disminuye el cortisol plasmatico |
-| 218 | 2022 Preguntero LISTO.pdf.md | 82 | 240 | 0 | 0 | no_options | Factor importante en ulcera peptica: pylori y aines |
-| 219 | 2022 Preguntero LISTO.pdf.md | 83 | 241 | 0 | 0 | no_options | Patologia maligna de higado mas frecuente: metastasis |
-| 220 | 2022 Preguntero LISTO.pdf.md | 84 | 242 | 0 | 0 | no_options | Mujer posmenopausica con dolor cervical que empeora con el movimiento y cede en reposo, rigidez de interfalangicas distales que a la mañana dura menos de una hora: Artrosis primaria |
-| 221 | 2022 Preguntero LISTO.pdf.md | 87 | 251 | 0 | 0 | no_options | Cancer de estomago, ubicacion mas frecuente: Antro |
-| 222 | 2022 Preguntero LISTO.pdf.md | 89 | 256 | 0 | 0 | no_options | Bebe con ictericia, acolia: Atresia de vias biliares |
-| 223 | 2022 Preguntero LISTO.pdf.md | 90 | 257 | 0 | 0 | no_options | Niño con diarrea sanguinolenta y oliguria: SUH |
-| 224 | 2022 Preguntero LISTO.pdf.md | 92 | 261 | 0 | 0 | no_options | Que se observa en el hiperaldosteronismo: Hipopotasemia por perdida urinaria |
-| 225 | 2023 Examen LISTO.pdf.md | 14 | 24 | 0 | 0 | no_options | 5 Hernia de Spiegel (protuberancia por debajo de arco de douglas por fuera de músculo recto anterior del abdomen) **[CORRECTA]** |
-| 226 | 2023 Examen LISTO.pdf.md | 24 | 34 | 0 | 0 | no_options | 8 Caso clínico de Nena con Varicela con clínica característica: máculas , pápulas y vesículas que comienza en cabeza y luego en tronco. Fiebre. **[CORRECTA]** |
-| 227 | 2023 Examen LISTO.pdf.md | 11 | 47 | 30 | 9 | correct_count_9, duplicate_option_ids_a_b_c_d | - 11) paciente caída de 6mts de altura que ingresa con taquipnea, taquicardia, ingurgitación yugular, y no ingresaba aire en pulmón derecho.Que hacer: |
-| 228 | 2023 Examen LISTO.pdf.md | 5 | 153 | 6 | 2 | correct_count_2, duplicate_option_ids_a_b | 5. 28 28. Caso de paciente con dismetria,reflejos pendulares Opciones: |
-| 229 | 2023 Examen LISTO.pdf.md | 3 | 163 | 2 | 0 | correct_count_0 | 3. C)guillain barre |
-| 230 | 2023 Examen LISTO.pdf.md | 5 | 165 | 84 | 29 | correct_count_29, duplicate_option_ids_a_b_c_d | 5. 30 Enfermedad multifactorial, poligénica y que se relaciona con estilo de vida: |
-| 231 | 2023 Examen LISTO.pdf.md | 4 | 398 | 20 | 7 | correct_count_7, duplicate_option_ids_a_b_c_d | 4. 63 Causa más fr hipertiroidismo ? |
-| 232 | 2023 Examen LISTO.pdf.md | 71 | 449 | 13 | 5 | correct_count_5, duplicate_option_ids_a_b_c_d | - 71) ¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis? |
-| 233 | 2023 Examen LISTO.pdf.md | 81 | 497 | 14 | 4 | correct_count_4, duplicate_option_ids_a_b_c_d | - 81) El trastorno de conducción mas frecuente en la Enfermedad de Chagas es: |
-| 234 | 2023 Examen LISTO.pdf.md | 88 | 550 | 0 | 0 | no_options | Niño con shock como lo hidratas: |
-| 235 | 2023 Examen LISTO.pdf.md | 92 | 578 | 4 | 2 | correct_count_2 | - 92) ¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico? |
-| 236 | 2023 Examen LISTO.pdf.md | 94 | 584 | 0 | 0 | no_options | Cual NO es complicación de crohn |
-| 237 | 2023 Examen LISTO.pdf.md | 100 | 623 | 1 | 0 | correct_count_0, option_count_1 | - 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada |
+| 6 | 2017 Examen LISTO.pdf.md | 84 | 996 | 5 | 2 | correct_count_2, duplicate_option_ids_d | - 84) La medicación local más efectiva indicada ante el prurito vulvar por liquen escleroso es: |
+| 7 | 2017 Examen LISTO.pdf.md | 100 | 1186 | 5 | 2 | correct_count_2, duplicate_option_ids_d | 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada respecto a: |
+| 8 | 2018 Examen LISTO.pdf.md | 32 | 269 | 5 | 1 | duplicate_option_ids_d | - 32) ¿Cuál es la causa más frecuente de meningitis aséptica? |
+| 9 | 2018 Examen LISTO.pdf.md | 78 | 812 | 5 | 1 | duplicate_option_ids_d | - 78) ¿Cuál es la causa más frecuente de cáncer de cuello uterino? |
+| 10 | 2019 Examen LISTO.pdf.md | 1 | 1 | 0 | 0 | no_options | Fisura anal: dolor |
+| 11 | 2019 Examen LISTO.pdf.md | 2 | 2 | 0 | 0 | no_options | Colelitiasis simple: Vesícula con cálculos: la clínica es asintomática: No se opera |
+| 12 | 2019 Examen LISTO.pdf.md | 3 | 3 | 0 | 0 | no_options | Cáncer de colon derecho: Hemicolectomía derecha + ileotransversoanastomosis |
+| 13 | 2019 Examen LISTO.pdf.md | 4 | 4 | 0 | 0 | no_options | Cáncer de colon derecho: (ángulo hepático): Unión Ileotransverso |
+| 14 | 2019 Examen LISTO.pdf.md | 5 | 5 | 0 | 0 | no_options | Peritonitis bacteriana espontánea: |
+| 15 | 2019 Examen LISTO.pdf.md | 6 | 6 | 0 | 0 | no_options | -Clínica: Fiebre, dolor abdominal, encefalopatía, deterioro del Estado general. |
+| 16 | 2019 Examen LISTO.pdf.md | 7 | 7 | 0 | 0 | no_options | -Liquido ascítico: Leucocitos ˃ 500, Neutrófilos ˃ 250. |
+| 17 | 2019 Examen LISTO.pdf.md | 8 | 8 | 0 | 0 | no_options | -Tratamiento: Cefalosporinas de 3 ra  generación por 5-10 días. |
+| 18 | 2019 Examen LISTO.pdf.md | 9 | 9 | 0 | 0 | no_options | -Profilaxis: Norfloxacina |
+| 19 | 2019 Examen LISTO.pdf.md | 6 | 10 | 0 | 0 | no_options | ERCP: Calculo que migró desde vesícula hacia vía biliar. |
+| 20 | 2019 Examen LISTO.pdf.md | 11 | 11 | 0 | 0 | no_options | -Complicaciones:  La más frecuente: hemorragia La más grave: perforación |
+| 21 | 2019 Examen LISTO.pdf.md | 7 | 12 | 0 | 0 | no_options | Clínica de cólico biliar |
+| 22 | 2019 Examen LISTO.pdf.md | 8 | 13 | 0 | 0 | no_options | Oclusión por tumor de colon descendente: si se produce un abdomen agudo oclusivo los ruidos hidroaéreos van a estar aumentados. Rx directa de abdomen: niveles hidroaéreos? |
+| 23 | 2019 Examen LISTO.pdf.md | 9 | 14 | 0 | 0 | no_options | Anciano con dolor abdominal alto que irradia a dorso: IAM de Base?. Disección de aorta (se diagnostica con TAC con contraste). |
+| 24 | 2019 Examen LISTO.pdf.md | 15 | 15 | 0 | 0 | no_options | 10) |
+| 25 | 2019 Examen LISTO.pdf.md | 16 | 16 | 0 | 0 | no_options | Persona con traumatismo precordial: Diagnóstico: taponamiento cardíaco. Qué método complementario usaría para diagnosticar el taponamiento cardíaco? Eco fast |
+| 26 | 2019 Examen LISTO.pdf.md | 11 | 17 | 0 | 0 | no_options | Rectorragia: cáncer de colon |
+| 27 | 2019 Examen LISTO.pdf.md | 12 | 18 | 0 | 0 | no_options | Tumor más frecuente de vía biliar: Klatsking (Porción proximal o superior) |
+| 28 | 2019 Examen LISTO.pdf.md | 13 | 24 | 0 | 0 | no_options | Hepatopatía alcohólica: Profilaxis: abandono del alcohol. (GGT aumentada en hepatograma) |
+| 29 | 2019 Examen LISTO.pdf.md | 14 | 25 | 0 | 0 | no_options | Colelitiasis: Diagnóstico: ecografía |
+| 30 | 2019 Examen LISTO.pdf.md | 15 | 26 | 0 | 0 | no_options | Intoxicación con benzodiacepinas: Lavado gástrico + Carbón Activado (Flumazenil no estaba) |
+| 31 | 2019 Examen LISTO.pdf.md | 16 | 27 | 0 | 0 | no_options | Intoxicación con carbamazepina: Intubar‼ (porque se produce una alteración de la ventilación mecánica). |
+| 32 | 2019 Examen LISTO.pdf.md | 17 | 28 | 0 | 0 | no_options | Líquido pleural con ADA positivo: exudado por tuberculosis |
+| 33 | 2019 Examen LISTO.pdf.md | 18 | 29 | 0 | 0 | no_options | Hipoamilasemia: |
+| 34 | 2019 Examen LISTO.pdf.md | 19 | 40 | 0 | 0 | no_options | Anemia hemolítica: se produce un aumento de Bilirrubina a predominio Indirecto y de LDH. Se produce destrucción celular, por lo que la anemia es REGENERATIVA. |
+| 35 | 2019 Examen LISTO.pdf.md | 20 | 41 | 0 | 0 | no_options | Cáncer que produce hipercalcemia: |
+| 36 | 2019 Examen LISTO.pdf.md | 21 | 45 | 0 | 0 | no_options | Oat Cell. (Cáncer microcítico de pulmón): |
+| 37 | 2019 Examen LISTO.pdf.md | 22 | 54 | 0 | 0 | no_options | Cáncer anaplásico de células grandes: |
+| 38 | 2019 Examen LISTO.pdf.md | 23 | 55 | 0 | 0 | no_options | EPOC y tabaquismo. |
+| 39 | 2019 Examen LISTO.pdf.md | 24 | 56 | 0 | 0 | no_options | Niño sano de 18 meses con diarrea autolimitada: |
+| 40 | 2019 Examen LISTO.pdf.md | 25 | 64 | 0 | 0 | no_options | Causa de Cáncer de cuello de útero: HPV |
+| 41 | 2019 Examen LISTO.pdf.md | 26 | 65 | 3 | 0 | correct_count_0 | - 26) Recién Nacido con APGAR de 8, con cianosis acra y auscultación normal: |
+| 42 | 2019 Examen LISTO.pdf.md | 27 | 72 | 0 | 0 | no_options | A quien se le coloca la vacuna antigripal: |
+| 43 | 2019 Examen LISTO.pdf.md | 5 | 73 | 0 | 0 | no_options | -Embarazo en cualquier trimestre |
+| 44 | 2019 Examen LISTO.pdf.md | 6 | 74 | 0 | 0 | no_options | -Trabajadores de salud |
+| 45 | 2019 Examen LISTO.pdf.md | 7 | 75 | 0 | 0 | no_options | -Niños de 6 meses a 2 años (2 dosis separadas por un mes) |
+| 46 | 2019 Examen LISTO.pdf.md | 8 | 76 | 0 | 0 | no_options | -Menores de 65 años con factores de riesgo |
+| 47 | 2019 Examen LISTO.pdf.md | 9 | 77 | 0 | 0 | no_options | -Mayores de 65 años con o sin factores de riesgo |
+| 48 | 2019 Examen LISTO.pdf.md | 28 | 78 | 0 | 0 | no_options | Características de la talasemia: |
+| 49 | 2019 Examen LISTO.pdf.md | 11 | 79 | 0 | 0 | no_options | -Anemia drepanocítica |
+| 50 | 2019 Examen LISTO.pdf.md | 12 | 80 | 0 | 0 | no_options | -Predomina la Hb F? |
+| 51 | 2019 Examen LISTO.pdf.md | 13 | 81 | 0 | 0 | no_options | -Anemia de Cooley (Talasemia mayor o beta: es la más grave) |
+| 52 | 2019 Examen LISTO.pdf.md | 14 | 82 | 0 | 0 | no_options | -Hierro normal o aumentado |
+| 53 | 2019 Examen LISTO.pdf.md | 15 | 83 | 0 | 0 | no_options | -Ferritina y Transferrina normal |
+| 54 | 2019 Examen LISTO.pdf.md | 29 | 84 | 0 | 0 | no_options | Síndrome de Cushing: tiene miopatía: debilidad muscular próxima. |
+| 55 | 2019 Examen LISTO.pdf.md | 17 | 85 | 0 | 0 | no_options | 30) |
+| 56 | 2019 Examen LISTO.pdf.md | 18 | 86 | 0 | 0 | no_options | Disfagia en Cáncer de esófago: es progresiva y comienza con sólidos. |
+| 57 | 2019 Examen LISTO.pdf.md | 31 | 90 | 0 | 0 | no_options | Dolor epigástrico: ulcera péptica |
+| 58 | 2019 Examen LISTO.pdf.md | 32 | 91 | 0 | 0 | no_options | Ulcera duodenal de cara posterior: produce hemorragia por erosión de la Arteria Gastroduodenal. |
+| 59 | 2019 Examen LISTO.pdf.md | 33 | 92 | 0 | 0 | no_options | Durante el trabajo de parto cual es la actitud en la que no se puede llevar a cabo un parto vaginal: Cara. » RESPUESTA CORRECTA « |
+| 60 | 2019 Examen LISTO.pdf.md | 34 | 93 | 0 | 0 | no_options | Hormonas en la menopausia: aumento de gonadotrofinas (FSH, LH), disminución de estrógeno y progesterona. |
+| 61 | 2019 Examen LISTO.pdf.md | 35 | 94 | 0 | 0 | no_options | EPI: Leucorrea purulenta + DIU: |
+| 62 | 2019 Examen LISTO.pdf.md | 36 | 106 | 0 | 0 | no_options | Hiperaldosteronismo: hipernatremia, hipopotasemia, HTA, alcalosis metabólica. |
+| 63 | 2019 Examen LISTO.pdf.md | 2 | 107 | 0 | 0 | no_options | -PRIMARIO: aumenta la aldosterona, disminuye la renina y la angiotensina. |
+| 64 | 2019 Examen LISTO.pdf.md | 3 | 108 | 0 | 0 | no_options | -SECUNDARIO: aumenta la renina, aumenta la angiotensina y la aldosterona. |
+| 65 | 2019 Examen LISTO.pdf.md | 37 | 109 | 0 | 0 | no_options | Síndrome carcinoide del aparato digestivo: se produce por un aumento de la serotonina. |
+| 66 | 2019 Examen LISTO.pdf.md | 42 | 146 | 0 | 0 | no_options | Cáncer de endometrio: el signo más frecuente es la metrorragia. |
+| 67 | 2019 Examen LISTO.pdf.md | 43 | 147 | 0 | 0 | no_options | Diagnóstico de cáncer de mama: mamografía. |
+| 68 | 2019 Examen LISTO.pdf.md | 44 | 148 | 0 | 0 | no_options | Lactante de 2 - 3 semanas con vómitos blancos en escopetazo, con oliva pilórica + signo de la cuerda. Laboratorio: alcalosis metabólica hipoclorémica. |
+| 69 | 2019 Examen LISTO.pdf.md | 45 | 149 | 0 | 0 | no_options | Corioamnionitis: inducir el parto por vía más adecuada.? (Cesárea?) |
+| 70 | 2019 Examen LISTO.pdf.md | 46 | 150 | 0 | 0 | no_options | Sufrimiento fetal agudo: se representa con liquido meconial. |
+| 71 | 2019 Examen LISTO.pdf.md | 47 | 154 | 0 | 0 | no_options | ITU en embarazo: E. coli |
+| 72 | 2019 Examen LISTO.pdf.md | 48 | 155 | 0 | 0 | no_options | Cómo se previene la muerte súbita del lactante: lactancia materna, dormirlo de decúbito dorsal! |
+| 73 | 2019 Examen LISTO.pdf.md | 49 | 156 | 0 | 0 | no_options | Cuáles son las malformaciones cardiacas en hijo de madre DBT: macrosómicos, TGV, Hipertrofia simétrica del septum, prematurez, hipoglucemia, hipocalcemia, RCIU, defecto del tubo neural, macro/micro/hidrocefalia, estenosis pilórica, atresia duodenal, hernias. Urogenitales: agenesia renal, hidronefrosis, micropene, criptorquidias, hipospadia. Musculoesquelético: pie varo, labio leporino. |
+| 74 | 2019 Examen LISTO.pdf.md | 50 | 157 | 3 | 0 | correct_count_0 | - 50) Cuando se presenta la DBT pregestacional (que produce las malformaciones cardiacas) Las opciones del choise eran las siguientes: |
+| 75 | 2019 Examen LISTO.pdf.md | 52 | 170 | 0 | 0 | no_options | DPPNI: sufrimiento fetal agudo + HTA + hipertono uterino: Cesárea de urgencia!! |
+| 76 | 2019 Examen LISTO.pdf.md | 53 | 171 | 0 | 0 | no_options | Exantema súbito es sinónimo de: Virus Herpes 6, Roséola, Sexta Enfermedad. |
+| 77 | 2019 Examen LISTO.pdf.md | 54 | 172 | 0 | 0 | no_options | Cefalea en racimos: Cefalea de Horton: |
+| 78 | 2019 Examen LISTO.pdf.md | 55 | 180 | 0 | 0 | no_options | Parálisis del 6  to  par (Motor Ocular Externo): estrabismo convergente |
+| 79 | 2019 Examen LISTO.pdf.md | 58 | 192 | 0 | 0 | no_options | Retinoblastoma: da leucocoria. |
+| 80 | 2019 Examen LISTO.pdf.md | 59 | 193 | 0 | 0 | no_options | Sonrisa social: 2 meses |
+| 81 | 2019 Examen LISTO.pdf.md | 60 | 194 | 0 | 0 | no_options | Lactante con falta de crecimiento + fiebre de origen desconocido: realizar urocultivo. (sospechar ITU). |
+| 82 | 2019 Examen LISTO.pdf.md | 62 | 208 | 0 | 0 | no_options | 9-10 meses: nena se sienta y con ayuda da pasos. |
+| 83 | 2019 Examen LISTO.pdf.md | 63 | 214 | 0 | 0 | no_options | Nena que patea la pelota: entre 15 y 20 meses |
+| 84 | 2019 Examen LISTO.pdf.md | 65 | 218 | 0 | 0 | no_options | Hierro en lactante de 3 meses: |
+| 85 | 2019 Examen LISTO.pdf.md | 2 | 219 | 0 | 0 | no_options | -Prematuro: 2mg/kg/día desde el nacimiento |
+| 86 | 2019 Examen LISTO.pdf.md | 3 | 220 | 0 | 0 | no_options | -A término: 1 mg/kg/día a partir de los 2 meses |
+| 87 | 2019 Examen LISTO.pdf.md | 4 | 221 | 0 | 0 | no_options | -A partir del 3 mes: 4mg/kg/día. |
+| 88 | 2019 Examen LISTO.pdf.md | 5 | 222 | 0 | 0 | no_options | -Hijo de madre anémica: 2 mg desde los 2 meses |
+| 89 | 2019 Examen LISTO.pdf.md | 6 | 223 | 0 | 0 | no_options | -Formula de suplemento de hierro: Número de mes x 400 + peso al nacer. |
+| 90 | 2019 Examen LISTO.pdf.md | 66 | 224 | 0 | 0 | no_options | De donde se obtiene la mayor fuente de hierro en un lactante de 3 meses: lactancia!! |
+| 91 | 2019 Examen LISTO.pdf.md | 67 | 225 | 0 | 0 | no_options | Endometritis: es la infección puerperal mas frecuente (complicación tardía de parto)!! |
+| 92 | 2019 Examen LISTO.pdf.md | 68 | 226 | 0 | 0 | no_options | ¿Como se contagia la madre embarazada de listeriosis? Por vía digestiva!! (carne, frutas, verduras, lácteos mal pasteurizados, quesos blancos y productos de mar). Clínica: cuadro pseudogripal. |
+| 93 | 2019 Examen LISTO.pdf.md | 69 | 232 | 0 | 0 | no_options | Colpitis con puntos blancos: cándida. |
+| 94 | 2019 Examen LISTO.pdf.md | 70 | 233 | 0 | 0 | no_options | Kernicterus: incompatibilidad RH (enfermedad hemolítica del RN) |
+| 95 | 2019 Examen LISTO.pdf.md | 71 | 234 | 0 | 0 | no_options | Hipotiroidismo congénito: ictericia persistente |
+| 96 | 2019 Examen LISTO.pdf.md | 72 | 235 | 0 | 0 | no_options | Síndrome de Down: se da por trisomía del par 21 (cariotipo 21) |
+| 97 | 2019 Examen LISTO.pdf.md | 74 | 244 | 0 | 0 | no_options | Test del sudor (fibrosis quística): |
+| 98 | 2019 Examen LISTO.pdf.md | 75 | 248 | 0 | 0 | no_options | Hiperparatiroidismo Secundario: ↑ PTH , ↑ Ca ++ , ↓ PO4 -. |
+| 99 | 2019 Examen LISTO.pdf.md | 76 | 252 | 0 | 0 | no_options | Enfermedad de Graves: Ac. Anti receptor TSH. |
+| 100 | 2019 Examen LISTO.pdf.md | 77 | 258 | 0 | 0 | no_options | Complicaciones de Enfermedad de Crohn: oclusión, suboclusion, fistulas » PREGUNTA DE CHOISE «, abscesos. Manifestaciones extraintestinales: uveítis anterior aguda. |
+| 101 | 2019 Examen LISTO.pdf.md | 78 | 259 | 0 | 0 | no_options | Localización del embarazo ectópico:  trompa / ampolla. |
+| 102 | 2019 Examen LISTO.pdf.md | 79 | 260 | 0 | 0 | no_options | Mujer embarazada de 16 semanas de gestación con TVP, ¿qué hacer? |
+| 103 | 2019 Examen LISTO.pdf.md | 80 | 268 | 0 | 0 | no_options | Sulfato de Magnesio EV en prematuros: es un uteroinhibidor! También se usa para profilaxis de parálisis cerebral. |
+| 104 | 2019 Examen LISTO.pdf.md | 81 | 269 | 0 | 0 | no_options | Vómitos en el lactante: |
+| 105 | 2019 Examen LISTO.pdf.md | 82 | 272 | 0 | 0 | no_options | Fecha probable de parto: FUM + 10 días - 3 meses. |
+| 106 | 2019 Examen LISTO.pdf.md | 83 | 273 | 0 | 0 | no_options | Embarazo: hiperuricemia = predispone HTA en el embarazo!!! Es un predictor de preeclampsia. |
+| 107 | 2019 Examen LISTO.pdf.md | 84 | 274 | 0 | 0 | no_options | Variedad de posición: se puede determinar con el Tacto Vaginal. |
+| 108 | 2019 Examen LISTO.pdf.md | 85 | 275 | 0 | 0 | no_options | Historia clínica: ver definición de consentimiento informado. |
+| 109 | 2019 Examen LISTO.pdf.md | 86 | 276 | 0 | 0 | no_options | Autonomía: ver definición de consentimiento informado. |
+| 110 | 2019 Examen LISTO.pdf.md | 87 | 277 | 0 | 0 | no_options | Solicitar HC: ver definición de consentimiento informado. |
+| 111 | 2019 Examen LISTO.pdf.md | 88 | 278 | 0 | 0 | no_options | ¿Cuál es la fractura que más sangra? Fractura de Fémur |
+| 112 | 2019 Examen LISTO.pdf.md | 89 | 279 | 0 | 0 | no_options | ¿Que favorece el acercamiento de la madre con el recién nacido en la 1 er  hora? El apego. |
+| 113 | 2019 Examen LISTO.pdf.md | 90 | 280 | 0 | 0 | no_options | Diagnostico de sinusitis: es clínico! |
+| 114 | 2019 Examen LISTO.pdf.md | 95 | 331 | 0 | 0 | no_options | Shock en un niño: ¿cuál es el signo más precoz?: relleno capilar mayor a 2 segundos. Tratamiento del shock hipovolémico: ¿con que empiezo? Con expansores y coloides (Ringer Lactato). |
+| 115 | 2019 Examen LISTO.pdf.md | 96 | 333 | 0 | 0 | no_options | Diagnóstico de cardiopatía ventricular hipertrófica: ecocardiograma. |
+| 116 | 2019 Examen LISTO.pdf.md | 97 | 335 | 0 | 0 | no_options | Hematuria glomerular: características: |
+| 117 | 2019 Examen LISTO.pdf.md | 98 | 349 | 0 | 0 | no_options | Tumor benigno de pulmón: Hamartoma. (tiene forma de palomita de maíz) |
+| 118 | 2019 Examen LISTO.pdf.md | 99 | 351 | 0 | 0 | no_options | Serotipos de HPV predictores de Cáncer: 16-18-31-33-35-41… |
+| 119 | 2019 Examen LISTO.pdf.md | 100 | 352 | 0 | 0 | no_options | Causa más frecuente de colecistitis: litiasis |
+| 120 | 2019 Examen LISTO.pdf.md | 101 | 353 | 0 | 0 | no_options | Trastornos de ansiedad e hiperactividad: DX: impulsos? Control? Memoria, lenguaje y pensamiento abstracto. |
+| 121 | 2019 Examen LISTO.pdf.md | 102 | 354 | 0 | 0 | no_options | Hombre con cálculos biliares sin comorbilidades: ¿cuál es el abordaje quirúrgico? Laparoscopia. |
+| 122 | 2019 Examen LISTO.pdf.md | 103 | 355 | 0 | 0 | no_options | Triada clínica de Cáncer de Células Renales: hematuria - dolor - tumor. |
+| 123 | 2019 Examen LISTO.pdf.md | 104 | 356 | 0 | 0 | no_options | Diagnóstico de cariotipo de: |
+| 124 | 2019 Examen LISTO.pdf.md | 7 | 357 | 0 | 0 | no_options | -5: Síndrome de Marfan. |
+| 125 | 2019 Examen LISTO.pdf.md | 8 | 358 | 0 | 0 | no_options | -7: Fibrosis quística |
+| 126 | 2019 Examen LISTO.pdf.md | 9 | 359 | 0 | 0 | no_options | -13: Síndrome de Patau: labio leporino, microcefalia, anencefalia |
+| 127 | 2019 Examen LISTO.pdf.md | 10 | 360 | 0 | 0 | no_options | -18: Síndrome de Edward |
+| 128 | 2019 Examen LISTO.pdf.md | 11 | 361 | 0 | 0 | no_options | -21: Síndrome de Down » PREGUNTAS DE CHOISE « |
+| 129 | 2019 Examen LISTO.pdf.md | 12 | 362 | 0 | 0 | no_options | -22: Síndrome Di George. |
+| 130 | 2019 Examen LISTO.pdf.md | 105 | 366 | 3 | 0 | correct_count_0 | - 105) Cefalea en racimo en pediatría: |
+| 131 | 2019 Examen LISTO.pdf.md | 106 | 373 | 0 | 0 | no_options | ¿Cuando colocar la gamma globulina dentro de las 72 hs del parto? |
+| 132 | 2019 Examen LISTO.pdf.md | 5 | 374 | 0 | 0 | no_options | -Madre RH negativa: coombs indirecta negtiva |
+| 133 | 2019 Examen LISTO.pdf.md | 6 | 375 | 0 | 0 | no_options | -Hijo RH positivo: coombs directa negativa. (Está bien explicado en el Botita de obstetricia) |
+| 134 | 2019 Examen LISTO.pdf.md | 107 | 376 | 0 | 0 | no_options | Como se realiza el diagnostico de un incidentaloma renal: ecografía. |
+| 135 | 2019 Examen LISTO.pdf.md | 108 | 377 | 0 | 0 | no_options | Caso clínico de Artritis Reumatoidea y anemia normocítica normocrómica que no responde al tratamiento con Hierro, con aumento de plaquetas y aumento de GB con predominio de eosinófilos. |
+| 136 | 2019 Examen LISTO.pdf.md | 109 | 379 | 0 | 0 | no_options | Patología poligénica multifactorial con participación ambiental: |
+| 137 | 2019 Examen LISTO.pdf.md | 110 | 389 | 0 | 0 | no_options | Migraña: cual es el aura más frecuente: visual: fotopsias! |
+| 138 | 2020 Examen LISTO.pdf.md | 29 | 312 | 8 | 1 | duplicate_option_ids_a_b_c_d | - 29) En un traumatismo abdominal cerrado de abdomen en un niño, el órgano que mas frecuentemente puede lesionarse es: |
+| 139 | 2020 Examen LISTO.pdf.md | 49 | 363 | 0 | 0 | no_options | ¿Cuál es el cáncer de páncreas más frecuente?: Adenocarcinoma ductal. |
+| 140 | 2020 Examen LISTO.pdf.md | 50 | 364 | 0 | 0 | no_options | Paciente con abdomen agudo hemorrágico con shock, que es lo primero que haces: tratar la inestabilidad. |
+| 141 | 2020 Examen LISTO.pdf.md | 51 | 365 | 0 | 0 | no_options | Te daba la clínica de un viejo con síndrome pilórico, en que dx piensas: Ca gástrico. |
+| 142 | 2020 Examen LISTO.pdf.md | 52 | 366 | 0 | 0 | no_options | Que tumor causa síndrome obstructivo: Ca de colon descendente. |
+| 143 | 2020 Examen LISTO.pdf.md | 68 | 388 | 0 | 0 | no_options | Difteria |
+| 144 | 2020 Examen LISTO.pdf.md | 69 | 390 | 0 | 0 | no_options | Paciente vacunado con la Vacuna de HB, que encontras en sangre: Anticuerpo anti HBags |
+| 145 | 2020 Examen LISTO.pdf.md | 70 | 392 | 0 | 0 | no_options | Caso de un nene con clínica de Púrpura SH |
+| 146 | 2020 Examen LISTO.pdf.md | 71 | 394 | 0 | 0 | no_options | Niño con fiebre, estado tóxico y púrpura, Dx: meningococcemia |
+| 147 | 2020 Examen LISTO.pdf.md | 72 | 396 | 0 | 0 | no_options | Principal causa de derrame exudativo: Neumonía |
+| 148 | 2020 Examen LISTO.pdf.md | 73 | 398 | 0 | 0 | no_options | Cuerpo extraño en vías aéreas superiores, clínica: ahogo, sofocamiento, tos. |
+| 149 | 2020 Examen LISTO.pdf.md | 74 | 400 | 0 | 0 | no_options | Artrosis primaria |
+| 150 | 2020 Examen LISTO.pdf.md | 75 | 402 | 0 | 0 | no_options | Causas de DPPNI: preeclampsia |
+| 151 | 2020 Examen LISTO.pdf.md | 76 | 404 | 0 | 0 | no_options | Cuál es el musculo del cual deriva el Cremáster: oblicuo menor (algo así, vofi) |
+| 152 | 2020 Examen LISTO.pdf.md | 77 | 406 | 0 | 0 | no_options | Origen arteria ovárica: aorta |
+| 153 | 2020 Examen LISTO.pdf.md | 78 | 408 | 0 | 0 | no_options | Candidiasis esofágica: marcadora de sida |
+| 154 | 2020 Examen LISTO.pdf.md | 79 | 410 | 0 | 0 | no_options | Niño mayor a 6 meses con vómitos: reflujo / sobrealimentación (averiguar) |
+| 155 | 2020 Examen LISTO.pdf.md | 80 | 412 | 0 | 0 | no_options | Niño con ttraumatismo y convulsiones: interno y tac |
+| 156 | 2020 Examen LISTO.pdf.md | 81 | 414 | 0 | 0 | no_options | Principal causa de marcha hemiparetica en &gt; 60: ACV |
+| 157 | 2020 Examen LISTO.pdf.md | 82 | 416 | 0 | 0 | no_options | Complicación de resfrío común: otitis |
+| 158 | 2020 Examen LISTO.pdf.md | 83 | 418 | 0 | 0 | no_options | Debilidad en miembros inferior que cede con el descanso, leve ptosis palpebral: Miastenia Gravis |
+| 159 | 2020 Examen LISTO.pdf.md | 84 | 420 | 0 | 0 | no_options | Cual no es complicación de Enfermedad de Crohn: poliposis |
+| 160 | 2020 Examen LISTO.pdf.md | 85 | 422 | 0 | 0 | no_options | Infección puerperal más frecuente: endometritis (no mastitis) |
+| 161 | 2020 Examen LISTO.pdf.md | 86 | 424 | 0 | 0 | no_options | Triada de Charcot: ictericia, dolor en hipocondrio derecho y fiebre |
+| 162 | 2020 Examen LISTO.pdf.md | 87 | 426 | 0 | 0 | no_options | Enfermedad Hemolítica: madre Rh -, padre Rh +, Coombs indirecta negativa |
+| 163 | 2020 Examen LISTO.pdf.md | 88 | 428 | 0 | 0 | no_options | Como realizo diagnóstico de presencia de estrógenos: prueba de progesterona |
+| 164 | 2020 Examen LISTO.pdf.md | 89 | 430 | 0 | 0 | no_options | Dengue |
+| 165 | 2020 Examen LISTO.pdf.md | 90 | 432 | 0 | 0 | no_options | Síndrome nefrotico primario en pediatría: enfermedad de cambios mínimos |
+| 166 | 2020 Examen LISTO.pdf.md | 91 | 434 | 0 | 0 | no_options | Screening de mama: mamografía |
+| 167 | 2020 Examen LISTO.pdf.md | 92 | 436 | 0 | 0 | no_options | Mujer embarazada de 9 meses le diagnostican Listeriosis. Cuál es la vía de contagio de más frecuente de la madre: vía digestiva CORRECTA (otras opciones: vía transplacentaria, canal de parto, transfusiones) (PREGUNTA SOBRE LA VIA DE CONTAGIO DE LA MADRE NO DEL HIJO) |
+| 168 | 2020 Examen LISTO.pdf.md | 93 | 438 | 0 | 0 | no_options | Criterio mayor de IC (criterios de Framingam): reflujo hepatoyugular |
+| 169 | 2020 Examen LISTO.pdf.md | 94 | 440 | 0 | 0 | no_options | Hemorragia en la posmenopausia: histeroscopia + biopsia |
+| 170 | 2020 Examen LISTO.pdf.md | 95 | 442 | 0 | 0 | no_options | Mamo y palpación anual a partir de los 40: screeing de cáncer de mama |
+| 171 | 2020 Examen LISTO.pdf.md | 96 | 444 | 0 | 0 | no_options | Nena de 11 meses que desde los 8 presenta esteatorrea, hipoalbuminemia, anemia. A los 6 había incorporado harinas: enfermedad celiaca |
+| 172 | 2020 Examen LISTO.pdf.md | 97 | 446 | 0 | 0 | no_options | Causa de alcalosis metabólica: Diurético de asa |
+| 173 | 2020 Examen LISTO.pdf.md | 98 | 448 | 0 | 0 | no_options | Empiezan a caminar: de 12 a 15 |
+| 174 | 2021 Examen LISTO.pdf.md | 5 | 7 | 0 | 0 | no_options | d .Arteria coronaria estomaquica |
+| 175 | 2021 Examen LISTO.pdf.md | 9 | 43 | 0 | 0 | no_options | Un caso de dengue |
+| 176 | 2021 Examen LISTO.pdf.md | 10 | 44 | 0 | 0 | no_options | Un caso de fiebre tifoidea/malaria/dengue? |
+| 177 | 2021 Examen LISTO.pdf.md | 12 | 50 | 0 | 0 | no_options | Sindrome de basedow triada : Hipertitoidismo, bocio y oftalmopatia |
+| 178 | 2021 Examen LISTO.pdf.md | 13 | 51 | 0 | 0 | no_options | Causa de nefritis en niños: Postinfecciosa |
+| 179 | 2021 Examen LISTO.pdf.md | 15 | 56 | 0 | 0 | no_options | Niño de 9 meses con fiebre alta de 24 hs de evolucion, a las 12 hs de la desaparición de la fiebre aparece un rash morbiliforme en tronco, cara y extremidades: Exantema súbito (6ta enfermedad) |
+| 180 | 2021 Examen LISTO.pdf.md | 17 | 62 | 0 | 0 | no_options | Punto de referencia en la presentación de vértice |
+| 181 | 2021 Examen LISTO.pdf.md | 19 | 68 | 0 | 0 | no_options | Causa de obstrucción de intestino delgado más frecuente: bridas. |
+| 182 | 2021 Examen LISTO.pdf.md | 20 | 69 | 0 | 0 | no_options | Caso en paciente pediátrico con deposiciones sanguinolentas y dolor cólico (llora un rato, se calma y vuelve a llorar): invaginación intestinal |
+| 183 | 2022 Preguntero LISTO.pdf.md | 13 | 52 | 0 | 0 | no_options | test de schiller negativo que significa: epitelio normal |
+| 184 | 2022 Preguntero LISTO.pdf.md | 28 | 108 | 0 | 0 | no_options | Niño con antecedente de impetigo, presenta edema periorbitario bilateral, hipertension y hematuria: Sx nefritico |
+| 185 | 2022 Preguntero LISTO.pdf.md | 33 | 127 | 0 | 0 | no_options | Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservativo, consejeria para prevencion de its. Habia otras opciones que hablaban que primero habia que pedirle estudios o hacerle pap y colpo y recien darle los aco cuando tengas los resultados… no. |
+| 186 | 2022 Preguntero LISTO.pdf.md | 34 | 136 | 2 | 0 | correct_count_0 | 34. Si consulta un anciano con clinica de sindrome pilorico cual es la causa que pensas: |
+| 187 | 2022 Preguntero LISTO.pdf.md | 35 | 139 | 3 | 0 | correct_count_0 | 35. Que es lo primero que solicitas cuando sospechas colestasis |
+| 188 | 2022 Preguntero LISTO.pdf.md | 36 | 143 | 2 | 0 | correct_count_0 | 36. Cuando sospechas que hay sinusitis (esta en otros pregunteros) |
+| 189 | 2022 Preguntero LISTO.pdf.md | 40 | 160 | 0 | 0 | no_options | Agente etiologico de FR: Streptococo B hemolitico del grupo A |
+| 190 | 2022 Preguntero LISTO.pdf.md | 42 | 165 | 0 | 0 | no_options | Niño con hematuria, orina espumosa: Sc nefrotico |
+| 191 | 2022 Preguntero LISTO.pdf.md | 43 | 166 | 0 | 0 | no_options | Hacia donde se desvia el ojo en la paralisis del VI par: Hacia adentro |
+| 192 | 2022 Preguntero LISTO.pdf.md | 45 | 171 | 0 | 0 | no_options | Cual de estas es correcta sobre la sutura sagital: Va del bregma hacia la fontanela menor, el punto medio corresponde la vertice, algo asi… |
+| 193 | 2022 Preguntero LISTO.pdf.md | 46 | 177 | 0 | 0 | no_options | Causa de hipotiroidismo en lugares donde el iodo es suficiente: Autoinmune |
+| 194 | 2022 Preguntero LISTO.pdf.md | 48 | 181 | 0 | 0 | no_options | Cual es la tercer maniobra de leopold |
+| 195 | 2022 Preguntero LISTO.pdf.md | 49 | 182 | 0 | 0 | no_options | Casito de hemorragia posparto con hipotension, utero blando: Atonia uterina |
+| 196 | 2022 Preguntero LISTO.pdf.md | 55 | 199 | 0 | 0 | no_options | Mujer 25 años con dolor abdominal y signos de shock. Hay que estabilizar hemodinamicamente |
+| 197 | 2022 Preguntero LISTO.pdf.md | 56 | 200 | 0 | 0 | no_options | Caso paciente con dolor post defecacion, estrias de sangre en papel higienico: Fisura 57. Si una mujer de 40 años tiene antecedentes de abortos, parto prematuro, accidente isquemico transitorio, que pensas: Sindrome antifosfolipidos |
+| 198 | 2022 Preguntero LISTO.pdf.md | 59 | 210 | 0 | 0 | no_options | Niño 13 años con dolor en escroto (creo que era) y reflejo cremasteriano ausente: |
+| 199 | 2022 Preguntero LISTO.pdf.md | 60 | 214 | 0 | 0 | no_options | Que produce la hipopotasemia en el ecg: Prolongacion del QT |
+| 200 | 2022 Preguntero LISTO.pdf.md | 62 | 218 | 0 | 0 | no_options | Consentimiento informado |
+| 201 | 2022 Preguntero LISTO.pdf.md | 63 | 219 | 0 | 0 | no_options | Autonomia |
+| 202 | 2022 Preguntero LISTO.pdf.md | 64 | 220 | 0 | 0 | no_options | Historia clinica |
+| 203 | 2022 Preguntero LISTO.pdf.md | 65 | 221 | 0 | 0 | no_options | Triada de charcot |
+| 204 | 2022 Preguntero LISTO.pdf.md | 66 | 222 | 0 | 0 | no_options | Trada de beck |
+| 205 | 2022 Preguntero LISTO.pdf.md | 68 | 226 | 0 | 0 | no_options | Paciente con asma parcialmente controlada y ataques en el ejercicio. |
+| 206 | 2022 Preguntero LISTO.pdf.md | 69 | 227 | 0 | 0 | no_options | Marcar la incorrecta sobre hitos del desarrollo |
+| 207 | 2022 Preguntero LISTO.pdf.md | 70 | 228 | 0 | 0 | no_options | En un paciente con abdomen agudo obstructivo con sospecha de CA de colon, en que porcion es mas frecuente: Descendente |
+| 208 | 2022 Preguntero LISTO.pdf.md | 71 | 229 | 0 | 0 | no_options | Cuando esta contraindicada la colecistectomia por videolaparoscopia |
+| 209 | 2022 Preguntero LISTO.pdf.md | 72 | 230 | 0 | 0 | no_options | Todos son complicacion de Chron excepto: Polipos |
+| 210 | 2022 Preguntero LISTO.pdf.md | 73 | 231 | 0 | 0 | no_options | Lo correcto sobre convulsion febril: se presenta desde los 6 m hasta los 6a |
+| 211 | 2022 Preguntero LISTO.pdf.md | 74 | 232 | 0 | 0 | no_options | Caso que esta en otros pregunteros del niño con PTI |
+| 212 | 2022 Preguntero LISTO.pdf.md | 75 | 233 | 0 | 0 | no_options | Fiebre, aftas orales, manos y pies: Enterovirus no polio |
+| 213 | 2022 Preguntero LISTO.pdf.md | 76 | 234 | 0 | 0 | no_options | Que produce el deficit de acido folico: Defectos en el tubo neural |
+| 214 | 2022 Preguntero LISTO.pdf.md | 77 | 235 | 0 | 0 | no_options | Lo correcto sobre el cordon umbilical: Tiene dos arterias y una vena |
+| 215 | 2022 Preguntero LISTO.pdf.md | 78 | 236 | 0 | 0 | no_options | Causa de neumotorax espontaneo: Bullas supleurales |
+| 216 | 2022 Preguntero LISTO.pdf.md | 79 | 237 | 0 | 0 | no_options | Cancer de tiroides mas frecuente: Papilar |
+| 217 | 2022 Preguntero LISTO.pdf.md | 80 | 238 | 0 | 0 | no_options | Correcto sobre sincope: Recuperacion espontanea |
+| 218 | 2022 Preguntero LISTO.pdf.md | 81 | 239 | 0 | 0 | no_options | Correcto sobre addison: disminuye el cortisol plasmatico |
+| 219 | 2022 Preguntero LISTO.pdf.md | 82 | 240 | 0 | 0 | no_options | Factor importante en ulcera peptica: pylori y aines |
+| 220 | 2022 Preguntero LISTO.pdf.md | 83 | 241 | 0 | 0 | no_options | Patologia maligna de higado mas frecuente: metastasis |
+| 221 | 2022 Preguntero LISTO.pdf.md | 84 | 242 | 0 | 0 | no_options | Mujer posmenopausica con dolor cervical que empeora con el movimiento y cede en reposo, rigidez de interfalangicas distales que a la mañana dura menos de una hora: Artrosis primaria |
+| 222 | 2022 Preguntero LISTO.pdf.md | 87 | 251 | 0 | 0 | no_options | Cancer de estomago, ubicacion mas frecuente: Antro |
+| 223 | 2022 Preguntero LISTO.pdf.md | 89 | 256 | 0 | 0 | no_options | Bebe con ictericia, acolia: Atresia de vias biliares |
+| 224 | 2022 Preguntero LISTO.pdf.md | 90 | 257 | 0 | 0 | no_options | Niño con diarrea sanguinolenta y oliguria: SUH |
+| 225 | 2022 Preguntero LISTO.pdf.md | 92 | 261 | 0 | 0 | no_options | Que se observa en el hiperaldosteronismo: Hipopotasemia por perdida urinaria |
+| 226 | 2023 Examen LISTO.pdf.md | 14 | 24 | 0 | 0 | no_options | 5 Hernia de Spiegel (protuberancia por debajo de arco de douglas por fuera de músculo recto anterior del abdomen) **[CORRECTA]** |
+| 227 | 2023 Examen LISTO.pdf.md | 24 | 34 | 0 | 0 | no_options | 8 Caso clínico de Nena con Varicela con clínica característica: máculas , pápulas y vesículas que comienza en cabeza y luego en tronco. Fiebre. **[CORRECTA]** |
+| 228 | 2023 Examen LISTO.pdf.md | 11 | 47 | 30 | 9 | correct_count_9, duplicate_option_ids_a_b_c_d | - 11) paciente caída de 6mts de altura que ingresa con taquipnea, taquicardia, ingurgitación yugular, y no ingresaba aire en pulmón derecho.Que hacer: |
+| 229 | 2023 Examen LISTO.pdf.md | 5 | 153 | 6 | 2 | correct_count_2, duplicate_option_ids_a_b | 5. 28 28. 28. Caso de paciente con dismetria,reflejos pendulares Opciones: |
+| 230 | 2023 Examen LISTO.pdf.md | 3 | 163 | 2 | 0 | correct_count_0 | 3. C)guillain barre |
+| 231 | 2023 Examen LISTO.pdf.md | 5 | 165 | 84 | 29 | correct_count_29, duplicate_option_ids_a_b_c_d | 5. 30 Enfermedad multifactorial, poligénica y que se relaciona con estilo de vida: |
+| 232 | 2023 Examen LISTO.pdf.md | 4 | 398 | 20 | 7 | correct_count_7, duplicate_option_ids_a_b_c_d | 4. 63 Causa más fr hipertiroidismo ? |
+| 233 | 2023 Examen LISTO.pdf.md | 71 | 449 | 13 | 5 | correct_count_5, duplicate_option_ids_a_b_c_d | - 71) ¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis? |
+| 234 | 2023 Examen LISTO.pdf.md | 81 | 497 | 14 | 4 | correct_count_4, duplicate_option_ids_a_b_c_d | - 81) El trastorno de conducción mas frecuente en la Enfermedad de Chagas es: |
+| 235 | 2023 Examen LISTO.pdf.md | 88 | 550 | 0 | 0 | no_options | Niño con shock como lo hidratas: |
+| 236 | 2023 Examen LISTO.pdf.md | 92 | 578 | 4 | 2 | correct_count_2 | - 92) ¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico? |
+| 237 | 2023 Examen LISTO.pdf.md | 94 | 584 | 0 | 0 | no_options | Cual NO es complicación de crohn |
+| 238 | 2023 Examen LISTO.pdf.md | 100 | 623 | 1 | 0 | correct_count_0, option_count_1 | - 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada |
 
 ## Bloque excluido 001
 
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 29
-- Linea inicial: 326
+- Linea inicial: 327
 - Opciones detectadas: 0
 - Marcadores `## `: 0
 - Problemas: `no_options`
@@ -284,10 +285,10 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 53
-- Linea inicial: 606
-- Opciones detectadas: 5
-- Marcadores `## `: 2
-- Problemas: `correct_count_2`, `duplicate_option_ids_d`
+- Linea inicial: 607
+- Opciones detectadas: 7
+- Marcadores `## `: 3
+- Problemas: `correct_count_3`, `duplicate_option_ids_d`
 
 ~~~markdown
 - 53) Una paciente de 64 años, diabética y depresiva, cumple tratamiento con 5mg de glibenclamida y 75mg de amitriptilina, presenta depresión del sensorio. ¿Cuál sería el primer diagnóstico a considerar?
@@ -298,6 +299,9 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - C- Crisis histérica.
 - D- Hipoglucemia. **[CORRECTA]**
+
+- D- Hipoglucemia. **[CORRECTA]**
+- E- Hipoglucemia.
 
 - D- Hipoglucemia. **[CORRECTA]**
 ~~~
@@ -373,8 +377,29 @@ A- Los antihistamínicos orales son suficientes para este caso, control clínico
 ## Bloque excluido 006
 
 - Archivo: 2017 Examen LISTO.pdf.md
+- Numero fuente: 84
+- Linea inicial: 996
+- Opciones detectadas: 5
+- Marcadores `## `: 2
+- Problemas: `correct_count_2`, `duplicate_option_ids_d`
+
+~~~markdown
+- 84) La medicación local más efectiva indicada ante el prurito vulvar por liquen escleroso es:
+
+- A- Estrógenos.
+
+- B- Progesterona.
+
+- C- Estrógenos conjugados equinos.
+- D- Propionato de clobetasol. **[CORRECTA]**
+- D- Propionato de clobetasol. **[CORRECTA]**
+~~~
+
+## Bloque excluido 007
+
+- Archivo: 2017 Examen LISTO.pdf.md
 - Numero fuente: 100
-- Linea inicial: 1185
+- Linea inicial: 1186
 - Opciones detectadas: 5
 - Marcadores `## `: 2
 - Problemas: `correct_count_2`, `duplicate_option_ids_d`
@@ -389,7 +414,7 @@ A- Los antihistamínicos orales son suficientes para este caso, control clínico
 D- Su estado de salud, el procedimiento propuesto con especificación de los objetivos perseguidos; los beneficios esperados del riesgos y las consecuencias previsibles de la no realización del procedimiento propuesto o de los alternativos especificados. **[CORRECTA]**
 ~~~
 
-## Bloque excluido 007
+## Bloque excluido 008
 
 - Archivo: 2018 Examen LISTO.pdf.md
 - Numero fuente: 32
@@ -411,7 +436,7 @@ D- Su estado de salud, el procedimiento propuesto con especificación de los obj
 - D- Dermatomiositis.
 ~~~
 
-## Bloque excluido 008
+## Bloque excluido 009
 
 - Archivo: 2018 Examen LISTO.pdf.md
 - Numero fuente: 78
@@ -433,7 +458,7 @@ D- Su estado de salud, el procedimiento propuesto con especificación de los obj
 - D- Tumor de células granulosas.
 ~~~
 
-## Bloque excluido 009
+## Bloque excluido 010
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 1
@@ -446,7 +471,7 @@ D- Su estado de salud, el procedimiento propuesto con especificación de los obj
 Fisura anal: dolor
 ~~~
 
-## Bloque excluido 010
+## Bloque excluido 011
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 2
@@ -459,7 +484,7 @@ Fisura anal: dolor
 Colelitiasis simple: Vesícula con cálculos: la clínica es asintomática: No se opera
 ~~~
 
-## Bloque excluido 011
+## Bloque excluido 012
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 3
@@ -472,7 +497,7 @@ Colelitiasis simple: Vesícula con cálculos: la clínica es asintomática: No s
 Cáncer de colon derecho: Hemicolectomía derecha + ileotransversoanastomosis
 ~~~
 
-## Bloque excluido 012
+## Bloque excluido 013
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 4
@@ -485,7 +510,7 @@ Cáncer de colon derecho: Hemicolectomía derecha + ileotransversoanastomosis
 Cáncer de colon derecho: (ángulo hepático): Unión Ileotransverso
 ~~~
 
-## Bloque excluido 013
+## Bloque excluido 014
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 5
@@ -498,7 +523,7 @@ Cáncer de colon derecho: (ángulo hepático): Unión Ileotransverso
 Peritonitis bacteriana espontánea:
 ~~~
 
-## Bloque excluido 014
+## Bloque excluido 015
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 6
@@ -511,7 +536,7 @@ Peritonitis bacteriana espontánea:
 -Clínica: Fiebre, dolor abdominal, encefalopatía, deterioro del Estado general.
 ~~~
 
-## Bloque excluido 015
+## Bloque excluido 016
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 7
@@ -524,7 +549,7 @@ Peritonitis bacteriana espontánea:
 -Liquido ascítico: Leucocitos ˃ 500, Neutrófilos ˃ 250.
 ~~~
 
-## Bloque excluido 016
+## Bloque excluido 017
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 8
@@ -537,7 +562,7 @@ Peritonitis bacteriana espontánea:
 -Tratamiento: Cefalosporinas de 3 ra  generación por 5-10 días.
 ~~~
 
-## Bloque excluido 017
+## Bloque excluido 018
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 9
@@ -550,7 +575,7 @@ Peritonitis bacteriana espontánea:
 -Profilaxis: Norfloxacina
 ~~~
 
-## Bloque excluido 018
+## Bloque excluido 019
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 6
@@ -563,7 +588,7 @@ Peritonitis bacteriana espontánea:
 ERCP: Calculo que migró desde vesícula hacia vía biliar.
 ~~~
 
-## Bloque excluido 019
+## Bloque excluido 020
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 11
@@ -576,7 +601,7 @@ ERCP: Calculo que migró desde vesícula hacia vía biliar.
 -Complicaciones:  La más frecuente: hemorragia La más grave: perforación
 ~~~
 
-## Bloque excluido 020
+## Bloque excluido 021
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 7
@@ -589,7 +614,7 @@ ERCP: Calculo que migró desde vesícula hacia vía biliar.
 Clínica de cólico biliar
 ~~~
 
-## Bloque excluido 021
+## Bloque excluido 022
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 8
@@ -602,7 +627,7 @@ Clínica de cólico biliar
 Oclusión por tumor de colon descendente: si se produce un abdomen agudo oclusivo los ruidos hidroaéreos van a estar aumentados. Rx directa de abdomen: niveles hidroaéreos?
 ~~~
 
-## Bloque excluido 022
+## Bloque excluido 023
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 9
@@ -615,7 +640,7 @@ Oclusión por tumor de colon descendente: si se produce un abdomen agudo oclusiv
 Anciano con dolor abdominal alto que irradia a dorso: IAM de Base?. Disección de aorta (se diagnostica con TAC con contraste).
 ~~~
 
-## Bloque excluido 023
+## Bloque excluido 024
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 15
@@ -628,7 +653,7 @@ Anciano con dolor abdominal alto que irradia a dorso: IAM de Base?. Disección d
 10)
 ~~~
 
-## Bloque excluido 024
+## Bloque excluido 025
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 16
@@ -641,7 +666,7 @@ Anciano con dolor abdominal alto que irradia a dorso: IAM de Base?. Disección d
 Persona con traumatismo precordial: Diagnóstico: taponamiento cardíaco. Qué método complementario usaría para diagnosticar el taponamiento cardíaco? Eco fast
 ~~~
 
-## Bloque excluido 025
+## Bloque excluido 026
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 11
@@ -654,7 +679,7 @@ Persona con traumatismo precordial: Diagnóstico: taponamiento cardíaco. Qué m
 Rectorragia: cáncer de colon
 ~~~
 
-## Bloque excluido 026
+## Bloque excluido 027
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 12
@@ -671,7 +696,7 @@ Tumor más frecuente de vía biliar: Klatsking (Porción proximal o superior)
 CÓRDOBA - 2019
 ~~~
 
-## Bloque excluido 027
+## Bloque excluido 028
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 13
@@ -684,7 +709,7 @@ CÓRDOBA - 2019
 Hepatopatía alcohólica: Profilaxis: abandono del alcohol. (GGT aumentada en hepatograma)
 ~~~
 
-## Bloque excluido 028
+## Bloque excluido 029
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 14
@@ -697,7 +722,7 @@ Hepatopatía alcohólica: Profilaxis: abandono del alcohol. (GGT aumentada en he
 Colelitiasis: Diagnóstico: ecografía
 ~~~
 
-## Bloque excluido 029
+## Bloque excluido 030
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 15
@@ -710,7 +735,7 @@ Colelitiasis: Diagnóstico: ecografía
 Intoxicación con benzodiacepinas: Lavado gástrico + Carbón Activado (Flumazenil no estaba)
 ~~~
 
-## Bloque excluido 030
+## Bloque excluido 031
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 16
@@ -723,7 +748,7 @@ Intoxicación con benzodiacepinas: Lavado gástrico + Carbón Activado (Flumazen
 Intoxicación con carbamazepina: Intubar‼ (porque se produce una alteración de la ventilación mecánica).
 ~~~
 
-## Bloque excluido 031
+## Bloque excluido 032
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 17
@@ -736,7 +761,7 @@ Intoxicación con carbamazepina: Intubar‼ (porque se produce una alteración d
 Líquido pleural con ADA positivo: exudado por tuberculosis
 ~~~
 
-## Bloque excluido 032
+## Bloque excluido 033
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 18
@@ -759,7 +784,7 @@ Pancreatitis Crónica? (Triada: dolor abdominal + DBT + Esteatorrea y malabsorci
 - -Patología de: ovario, trompa de Falopio, glándula salival.
 ~~~
 
-## Bloque excluido 033
+## Bloque excluido 034
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 19
@@ -772,7 +797,7 @@ Pancreatitis Crónica? (Triada: dolor abdominal + DBT + Esteatorrea y malabsorci
 Anemia hemolítica: se produce un aumento de Bilirrubina a predominio Indirecto y de LDH. Se produce destrucción celular, por lo que la anemia es REGENERATIVA.
 ~~~
 
-## Bloque excluido 034
+## Bloque excluido 035
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 20
@@ -788,7 +813,7 @@ Cáncer que produce hipercalcemia:
 - -15% Mieloma múltiple y linfoma.
 ~~~
 
-## Bloque excluido 035
+## Bloque excluido 036
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 21
@@ -809,7 +834,7 @@ Clínica paraneoplásica:
 - -Síndrome de vena cava superior
 ~~~
 
-## Bloque excluido 036
+## Bloque excluido 037
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 22
@@ -822,7 +847,7 @@ Clínica paraneoplásica:
 Cáncer anaplásico de células grandes:
 ~~~
 
-## Bloque excluido 037
+## Bloque excluido 038
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 23
@@ -835,7 +860,7 @@ Cáncer anaplásico de células grandes:
 EPOC y tabaquismo.
 ~~~
 
-## Bloque excluido 038
+## Bloque excluido 039
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 24
@@ -854,7 +879,7 @@ Si es prevalente es secretora por toxinas?
 Si es una diarrea que inicia en menos de 6 horas desde la ingesta de comida tengo que pensar en infección por S. Aureus (porque ya tiene la toxina pre formada)
 ~~~
 
-## Bloque excluido 039
+## Bloque excluido 040
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 25
@@ -867,7 +892,7 @@ Si es una diarrea que inicia en menos de 6 horas desde la ingesta de comida teng
 Causa de Cáncer de cuello de útero: HPV
 ~~~
 
-## Bloque excluido 040
+## Bloque excluido 041
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 26
@@ -886,7 +911,7 @@ Las opciones del choise eran las siguientes:
 - c) Bebé con frío. » RESPUESTA CORRECTA « (porque tiene cianosis periférica)
 ~~~
 
-## Bloque excluido 041
+## Bloque excluido 042
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 27
@@ -899,7 +924,7 @@ Las opciones del choise eran las siguientes:
 A quien se le coloca la vacuna antigripal:
 ~~~
 
-## Bloque excluido 042
+## Bloque excluido 043
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 5
@@ -912,7 +937,7 @@ A quien se le coloca la vacuna antigripal:
 -Embarazo en cualquier trimestre
 ~~~
 
-## Bloque excluido 043
+## Bloque excluido 044
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 6
@@ -925,7 +950,7 @@ A quien se le coloca la vacuna antigripal:
 -Trabajadores de salud
 ~~~
 
-## Bloque excluido 044
+## Bloque excluido 045
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 7
@@ -938,7 +963,7 @@ A quien se le coloca la vacuna antigripal:
 -Niños de 6 meses a 2 años (2 dosis separadas por un mes)
 ~~~
 
-## Bloque excluido 045
+## Bloque excluido 046
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 8
@@ -951,7 +976,7 @@ A quien se le coloca la vacuna antigripal:
 -Menores de 65 años con factores de riesgo
 ~~~
 
-## Bloque excluido 046
+## Bloque excluido 047
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 9
@@ -964,7 +989,7 @@ A quien se le coloca la vacuna antigripal:
 -Mayores de 65 años con o sin factores de riesgo
 ~~~
 
-## Bloque excluido 047
+## Bloque excluido 048
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 28
@@ -977,7 +1002,7 @@ A quien se le coloca la vacuna antigripal:
 Características de la talasemia:
 ~~~
 
-## Bloque excluido 048
+## Bloque excluido 049
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 11
@@ -990,7 +1015,7 @@ Características de la talasemia:
 -Anemia drepanocítica
 ~~~
 
-## Bloque excluido 049
+## Bloque excluido 050
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 12
@@ -1003,7 +1028,7 @@ Características de la talasemia:
 -Predomina la Hb F?
 ~~~
 
-## Bloque excluido 050
+## Bloque excluido 051
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 13
@@ -1016,7 +1041,7 @@ Características de la talasemia:
 -Anemia de Cooley (Talasemia mayor o beta: es la más grave)
 ~~~
 
-## Bloque excluido 051
+## Bloque excluido 052
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 14
@@ -1029,7 +1054,7 @@ Características de la talasemia:
 -Hierro normal o aumentado
 ~~~
 
-## Bloque excluido 052
+## Bloque excluido 053
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 15
@@ -1042,7 +1067,7 @@ Características de la talasemia:
 -Ferritina y Transferrina normal
 ~~~
 
-## Bloque excluido 053
+## Bloque excluido 054
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 29
@@ -1055,7 +1080,7 @@ Características de la talasemia:
 Síndrome de Cushing: tiene miopatía: debilidad muscular próxima.
 ~~~
 
-## Bloque excluido 054
+## Bloque excluido 055
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 17
@@ -1068,7 +1093,7 @@ Síndrome de Cushing: tiene miopatía: debilidad muscular próxima.
 30)
 ~~~
 
-## Bloque excluido 055
+## Bloque excluido 056
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 18
@@ -1083,7 +1108,7 @@ Disfagia en Cáncer de esófago: es progresiva y comienza con sólidos.
 (Nemotecnia: 'El Mecánico Organiza': la disfagia es mecánica y / u orgánica)
 ~~~
 
-## Bloque excluido 056
+## Bloque excluido 057
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 31
@@ -1096,7 +1121,7 @@ Disfagia en Cáncer de esófago: es progresiva y comienza con sólidos.
 Dolor epigástrico: ulcera péptica
 ~~~
 
-## Bloque excluido 057
+## Bloque excluido 058
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 32
@@ -1109,7 +1134,7 @@ Dolor epigástrico: ulcera péptica
 Ulcera duodenal de cara posterior: produce hemorragia por erosión de la Arteria Gastroduodenal.
 ~~~
 
-## Bloque excluido 058
+## Bloque excluido 059
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 33
@@ -1122,7 +1147,7 @@ Ulcera duodenal de cara posterior: produce hemorragia por erosión de la Arteria
 Durante el trabajo de parto cual es la actitud en la que no se puede llevar a cabo un parto vaginal: Cara. » RESPUESTA CORRECTA «
 ~~~
 
-## Bloque excluido 059
+## Bloque excluido 060
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 34
@@ -1135,7 +1160,7 @@ Durante el trabajo de parto cual es la actitud en la que no se puede llevar a ca
 Hormonas en la menopausia: aumento de gonadotrofinas (FSH, LH), disminución de estrógeno y progesterona.
 ~~~
 
-## Bloque excluido 060
+## Bloque excluido 061
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 35
@@ -1158,7 +1183,7 @@ Criterios mayores:   -      Dolor a la movilización del cuello
 - Cervicitis purulenta
 ~~~
 
-## Bloque excluido 061
+## Bloque excluido 062
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 36
@@ -1171,7 +1196,7 @@ Criterios mayores:   -      Dolor a la movilización del cuello
 Hiperaldosteronismo: hipernatremia, hipopotasemia, HTA, alcalosis metabólica.
 ~~~
 
-## Bloque excluido 062
+## Bloque excluido 063
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 2
@@ -1184,7 +1209,7 @@ Hiperaldosteronismo: hipernatremia, hipopotasemia, HTA, alcalosis metabólica.
 -PRIMARIO: aumenta la aldosterona, disminuye la renina y la angiotensina.
 ~~~
 
-## Bloque excluido 063
+## Bloque excluido 064
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 3
@@ -1197,7 +1222,7 @@ Hiperaldosteronismo: hipernatremia, hipopotasemia, HTA, alcalosis metabólica.
 -SECUNDARIO: aumenta la renina, aumenta la angiotensina y la aldosterona.
 ~~~
 
-## Bloque excluido 064
+## Bloque excluido 065
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 37
@@ -1246,7 +1271,7 @@ Tratamiento: furosemida + IECA o ARA II
 - -Diagnóstico: Mamografía anual en mayores de 40 años, ecografía, PAAF. (* La mamografía digital mejora la manipulación de la imagen)
 ~~~
 
-## Bloque excluido 065
+## Bloque excluido 066
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 42
@@ -1259,7 +1284,7 @@ Tratamiento: furosemida + IECA o ARA II
 Cáncer de endometrio: el signo más frecuente es la metrorragia.
 ~~~
 
-## Bloque excluido 066
+## Bloque excluido 067
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 43
@@ -1272,7 +1297,7 @@ Cáncer de endometrio: el signo más frecuente es la metrorragia.
 Diagnóstico de cáncer de mama: mamografía.
 ~~~
 
-## Bloque excluido 067
+## Bloque excluido 068
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 44
@@ -1285,7 +1310,7 @@ Diagnóstico de cáncer de mama: mamografía.
 Lactante de 2 - 3 semanas con vómitos blancos en escopetazo, con oliva pilórica + signo de la cuerda. Laboratorio: alcalosis metabólica hipoclorémica.
 ~~~
 
-## Bloque excluido 068
+## Bloque excluido 069
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 45
@@ -1298,7 +1323,7 @@ Lactante de 2 - 3 semanas con vómitos blancos en escopetazo, con oliva pilóric
 Corioamnionitis: inducir el parto por vía más adecuada.? (Cesárea?)
 ~~~
 
-## Bloque excluido 069
+## Bloque excluido 070
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 46
@@ -1314,7 +1339,7 @@ Sufrimiento fetal agudo: se representa con liquido meconial.
 - -DIPS 3: variable o umbilical: significa que tiene compresión del cordón.
 ~~~
 
-## Bloque excluido 070
+## Bloque excluido 071
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 47
@@ -1327,7 +1352,7 @@ Sufrimiento fetal agudo: se representa con liquido meconial.
 ITU en embarazo: E. coli
 ~~~
 
-## Bloque excluido 071
+## Bloque excluido 072
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 48
@@ -1340,7 +1365,7 @@ ITU en embarazo: E. coli
 Cómo se previene la muerte súbita del lactante: lactancia materna, dormirlo de decúbito dorsal!
 ~~~
 
-## Bloque excluido 072
+## Bloque excluido 073
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 49
@@ -1353,7 +1378,7 @@ Cómo se previene la muerte súbita del lactante: lactancia materna, dormirlo de
 Cuáles son las malformaciones cardiacas en hijo de madre DBT: macrosómicos, TGV, Hipertrofia simétrica del septum, prematurez, hipoglucemia, hipocalcemia, RCIU, defecto del tubo neural, macro/micro/hidrocefalia, estenosis pilórica, atresia duodenal, hernias. Urogenitales: agenesia renal, hidronefrosis, micropene, criptorquidias, hipospadia. Musculoesquelético: pie varo, labio leporino.
 ~~~
 
-## Bloque excluido 073
+## Bloque excluido 074
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 50
@@ -1378,7 +1403,7 @@ Tratamiento: Pilorotomía.
 - -CRONICA: tibia en sable, ulceras gomosas, tabes, queratitis intersticial, atrofia óptica, sordera, malformaciones dentales y óseas. (Triada típica: sordera + queratitis + malformaciones dentales.) Se contagia antes del 4to mes.
 ~~~
 
-## Bloque excluido 074
+## Bloque excluido 075
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 52
@@ -1391,7 +1416,7 @@ Tratamiento: Pilorotomía.
 DPPNI: sufrimiento fetal agudo + HTA + hipertono uterino: Cesárea de urgencia!!
 ~~~
 
-## Bloque excluido 075
+## Bloque excluido 076
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 53
@@ -1404,7 +1429,7 @@ DPPNI: sufrimiento fetal agudo + HTA + hipertono uterino: Cesárea de urgencia!!
 Exantema súbito es sinónimo de: Virus Herpes 6, Roséola, Sexta Enfermedad.
 ~~~
 
-## Bloque excluido 076
+## Bloque excluido 077
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 54
@@ -1424,7 +1449,7 @@ Cefalea en racimos: Cefalea de Horton:
 - -En pediatría: Migraña. » RESPUESTA CORRECTA «
 ~~~
 
-## Bloque excluido 077
+## Bloque excluido 078
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 55
@@ -1448,7 +1473,7 @@ Parálisis del 3  er  par (Motor Ocular Común): estrabismo divergente + ptosis.
 - -Subdural o subaracnoideo: es venoso? Se produce entre la duramadre y la aracnoides. (es de peor pronóstico). Se lesiona la arteria subaracnoidea. En imágenes: forma de 'banana', no se desplaza la línea media. Clínica: deterioro profundo de la consciencia (somnolientos o comatosos desde el momento de la lesión).
 ~~~
 
-## Bloque excluido 078
+## Bloque excluido 079
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 58
@@ -1461,7 +1486,7 @@ Parálisis del 3  er  par (Motor Ocular Común): estrabismo divergente + ptosis.
 Retinoblastoma: da leucocoria.
 ~~~
 
-## Bloque excluido 079
+## Bloque excluido 080
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 59
@@ -1474,7 +1499,7 @@ Retinoblastoma: da leucocoria.
 Sonrisa social: 2 meses
 ~~~
 
-## Bloque excluido 080
+## Bloque excluido 081
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 60
@@ -1500,7 +1525,7 @@ ITU:
 - -3 años: alterna los pies al bajar las escaleras.
 ~~~
 
-## Bloque excluido 081
+## Bloque excluido 082
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 62
@@ -1517,7 +1542,7 @@ ITU:
 6 meses (trípode): nena que se sienta con apoyo.
 ~~~
 
-## Bloque excluido 082
+## Bloque excluido 083
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 63
@@ -1532,7 +1557,7 @@ Nena que patea la pelota: entre 15 y 20 meses
 ## 64) Nena que lanza la pelota: 2 años.
 ~~~
 
-## Bloque excluido 083
+## Bloque excluido 084
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 65
@@ -1545,7 +1570,7 @@ Nena que patea la pelota: entre 15 y 20 meses
 Hierro en lactante de 3 meses:
 ~~~
 
-## Bloque excluido 084
+## Bloque excluido 085
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 2
@@ -1558,7 +1583,7 @@ Hierro en lactante de 3 meses:
 -Prematuro: 2mg/kg/día desde el nacimiento
 ~~~
 
-## Bloque excluido 085
+## Bloque excluido 086
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 3
@@ -1571,7 +1596,7 @@ Hierro en lactante de 3 meses:
 -A término: 1 mg/kg/día a partir de los 2 meses
 ~~~
 
-## Bloque excluido 086
+## Bloque excluido 087
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 4
@@ -1584,7 +1609,7 @@ Hierro en lactante de 3 meses:
 -A partir del 3 mes: 4mg/kg/día.
 ~~~
 
-## Bloque excluido 087
+## Bloque excluido 088
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 5
@@ -1597,7 +1622,7 @@ Hierro en lactante de 3 meses:
 -Hijo de madre anémica: 2 mg desde los 2 meses
 ~~~
 
-## Bloque excluido 088
+## Bloque excluido 089
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 6
@@ -1610,7 +1635,7 @@ Hierro en lactante de 3 meses:
 -Formula de suplemento de hierro: Número de mes x 400 + peso al nacer.
 ~~~
 
-## Bloque excluido 089
+## Bloque excluido 090
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 66
@@ -1623,7 +1648,7 @@ Hierro en lactante de 3 meses:
 De donde se obtiene la mayor fuente de hierro en un lactante de 3 meses: lactancia!!
 ~~~
 
-## Bloque excluido 090
+## Bloque excluido 091
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 67
@@ -1636,7 +1661,7 @@ De donde se obtiene la mayor fuente de hierro en un lactante de 3 meses: lactanc
 Endometritis: es la infección puerperal mas frecuente (complicación tardía de parto)!!
 ~~~
 
-## Bloque excluido 091
+## Bloque excluido 092
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 68
@@ -1654,7 +1679,7 @@ Endometritis: es la infección puerperal mas frecuente (complicación tardía de
 - -Vía por canal de parto: Clínica: meningitis a los 14 días.
 ~~~
 
-## Bloque excluido 092
+## Bloque excluido 093
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 69
@@ -1667,7 +1692,7 @@ Endometritis: es la infección puerperal mas frecuente (complicación tardía de
 Colpitis con puntos blancos: cándida.
 ~~~
 
-## Bloque excluido 093
+## Bloque excluido 094
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 70
@@ -1680,7 +1705,7 @@ Colpitis con puntos blancos: cándida.
 Kernicterus: incompatibilidad RH (enfermedad hemolítica del RN)
 ~~~
 
-## Bloque excluido 094
+## Bloque excluido 095
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 71
@@ -1693,7 +1718,7 @@ Kernicterus: incompatibilidad RH (enfermedad hemolítica del RN)
 Hipotiroidismo congénito: ictericia persistente
 ~~~
 
-## Bloque excluido 095
+## Bloque excluido 096
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 72
@@ -1714,7 +1739,7 @@ Síndrome de Down: se da por trisomía del par 21 (cariotipo 21)
 - -Complicaciones: gastroparesia y polineuropatía distal.
 ~~~
 
-## Bloque excluido 096
+## Bloque excluido 097
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 74
@@ -1730,7 +1755,7 @@ Test del sudor (fibrosis quística):
 - -Mayor a 60 mmol/L: DX. » RESPUESTA CORRECTA «
 ~~~
 
-## Bloque excluido 097
+## Bloque excluido 098
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 75
@@ -1745,7 +1770,7 @@ Hiperparatiroidismo Secundario: ↑ PTH , ↑ Ca ++ , ↓ PO4 -.
 Causa más frecuente: IRC»RESPUESTA CORRECTA«(↓ Vit D, ↓ Ca ++ , ↑ PTH, ↑ Ca ++ ,↓ PO4 - ), osteodistrofia renal, etc.
 ~~~
 
-## Bloque excluido 098
+## Bloque excluido 099
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 76
@@ -1762,7 +1787,7 @@ Es la causa más frecuente de hipertiroidismo
 Triada clínica: bocio, exoftalmos, hipertiroidismo.
 ~~~
 
-## Bloque excluido 099
+## Bloque excluido 100
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 77
@@ -1775,7 +1800,7 @@ Triada clínica: bocio, exoftalmos, hipertiroidismo.
 Complicaciones de Enfermedad de Crohn: oclusión, suboclusion, fistulas » PREGUNTA DE CHOISE «, abscesos. Manifestaciones extraintestinales: uveítis anterior aguda.
 ~~~
 
-## Bloque excluido 100
+## Bloque excluido 101
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 78
@@ -1788,7 +1813,7 @@ Complicaciones de Enfermedad de Crohn: oclusión, suboclusion, fistulas » PREGU
 Localización del embarazo ectópico:  trompa / ampolla.
 ~~~
 
-## Bloque excluido 101
+## Bloque excluido 102
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 79
@@ -1808,7 +1833,7 @@ TVP en embarazo:
 - 1 semana antes del parto: Enoxaparina (HBPM), luego se da Warfarina (no contraindicada durante la lactancia).
 ~~~
 
-## Bloque excluido 102
+## Bloque excluido 103
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 80
@@ -1821,7 +1846,7 @@ TVP en embarazo:
 Sulfato de Magnesio EV en prematuros: es un uteroinhibidor! También se usa para profilaxis de parálisis cerebral.
 ~~~
 
-## Bloque excluido 103
+## Bloque excluido 104
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 81
@@ -1836,7 +1861,7 @@ Vómitos en el lactante:
 - -No biliosos: hipertrofia del píloro. ERGE (se da a los 6 meses), hiperplasia suprarrenal congénita (se da a los pocos días de vida).
 ~~~
 
-## Bloque excluido 104
+## Bloque excluido 105
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 82
@@ -1849,7 +1874,7 @@ Vómitos en el lactante:
 Fecha probable de parto: FUM + 10 días - 3 meses.
 ~~~
 
-## Bloque excluido 105
+## Bloque excluido 106
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 83
@@ -1862,7 +1887,7 @@ Fecha probable de parto: FUM + 10 días - 3 meses.
 Embarazo: hiperuricemia = predispone HTA en el embarazo!!! Es un predictor de preeclampsia.
 ~~~
 
-## Bloque excluido 106
+## Bloque excluido 107
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 84
@@ -1875,7 +1900,7 @@ Embarazo: hiperuricemia = predispone HTA en el embarazo!!! Es un predictor de pr
 Variedad de posición: se puede determinar con el Tacto Vaginal.
 ~~~
 
-## Bloque excluido 107
+## Bloque excluido 108
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 85
@@ -1888,7 +1913,7 @@ Variedad de posición: se puede determinar con el Tacto Vaginal.
 Historia clínica: ver definición de consentimiento informado.
 ~~~
 
-## Bloque excluido 108
+## Bloque excluido 109
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 86
@@ -1901,7 +1926,7 @@ Historia clínica: ver definición de consentimiento informado.
 Autonomía: ver definición de consentimiento informado.
 ~~~
 
-## Bloque excluido 109
+## Bloque excluido 110
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 87
@@ -1914,7 +1939,7 @@ Autonomía: ver definición de consentimiento informado.
 Solicitar HC: ver definición de consentimiento informado.
 ~~~
 
-## Bloque excluido 110
+## Bloque excluido 111
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 88
@@ -1927,7 +1952,7 @@ Solicitar HC: ver definición de consentimiento informado.
 ¿Cuál es la fractura que más sangra? Fractura de Fémur
 ~~~
 
-## Bloque excluido 111
+## Bloque excluido 112
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 89
@@ -1940,7 +1965,7 @@ Solicitar HC: ver definición de consentimiento informado.
 ¿Que favorece el acercamiento de la madre con el recién nacido en la 1 er  hora? El apego.
 ~~~
 
-## Bloque excluido 112
+## Bloque excluido 113
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 90
@@ -2002,7 +2027,7 @@ Hombre joven con HTA controlada = ASA II.
 - Edema en miembros inferiores
 ~~~
 
-## Bloque excluido 113
+## Bloque excluido 114
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 95
@@ -2015,7 +2040,7 @@ Hombre joven con HTA controlada = ASA II.
 Shock en un niño: ¿cuál es el signo más precoz?: relleno capilar mayor a 2 segundos. Tratamiento del shock hipovolémico: ¿con que empiezo? Con expansores y coloides (Ringer Lactato).
 ~~~
 
-## Bloque excluido 114
+## Bloque excluido 115
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 96
@@ -2028,7 +2053,7 @@ Shock en un niño: ¿cuál es el signo más precoz?: relleno capilar mayor a 2 s
 Diagnóstico de cardiopatía ventricular hipertrófica: ecocardiograma.
 ~~~
 
-## Bloque excluido 115
+## Bloque excluido 116
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 97
@@ -2053,7 +2078,7 @@ Hematuria glomerular: características:
 - Examen de orina con 30 glóbulos rojos por campo con eritrocitos dismórficos: Glomerulopatía.
 ~~~
 
-## Bloque excluido 116
+## Bloque excluido 117
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 98
@@ -2066,7 +2091,7 @@ Hematuria glomerular: características:
 Tumor benigno de pulmón: Hamartoma. (tiene forma de palomita de maíz)
 ~~~
 
-## Bloque excluido 117
+## Bloque excluido 118
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 99
@@ -2079,7 +2104,7 @@ Tumor benigno de pulmón: Hamartoma. (tiene forma de palomita de maíz)
 Serotipos de HPV predictores de Cáncer: 16-18-31-33-35-41…
 ~~~
 
-## Bloque excluido 118
+## Bloque excluido 119
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 100
@@ -2092,7 +2117,7 @@ Serotipos de HPV predictores de Cáncer: 16-18-31-33-35-41…
 Causa más frecuente de colecistitis: litiasis
 ~~~
 
-## Bloque excluido 119
+## Bloque excluido 120
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 101
@@ -2105,7 +2130,7 @@ Causa más frecuente de colecistitis: litiasis
 Trastornos de ansiedad e hiperactividad: DX: impulsos? Control? Memoria, lenguaje y pensamiento abstracto.
 ~~~
 
-## Bloque excluido 120
+## Bloque excluido 121
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 102
@@ -2118,7 +2143,7 @@ Trastornos de ansiedad e hiperactividad: DX: impulsos? Control? Memoria, lenguaj
 Hombre con cálculos biliares sin comorbilidades: ¿cuál es el abordaje quirúrgico? Laparoscopia.
 ~~~
 
-## Bloque excluido 121
+## Bloque excluido 122
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 103
@@ -2131,7 +2156,7 @@ Hombre con cálculos biliares sin comorbilidades: ¿cuál es el abordaje quirúr
 Triada clínica de Cáncer de Células Renales: hematuria - dolor - tumor.
 ~~~
 
-## Bloque excluido 122
+## Bloque excluido 123
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 104
@@ -2144,7 +2169,7 @@ Triada clínica de Cáncer de Células Renales: hematuria - dolor - tumor.
 Diagnóstico de cariotipo de:
 ~~~
 
-## Bloque excluido 123
+## Bloque excluido 124
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 7
@@ -2157,7 +2182,7 @@ Diagnóstico de cariotipo de:
 -5: Síndrome de Marfan.
 ~~~
 
-## Bloque excluido 124
+## Bloque excluido 125
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 8
@@ -2170,7 +2195,7 @@ Diagnóstico de cariotipo de:
 -7: Fibrosis quística
 ~~~
 
-## Bloque excluido 125
+## Bloque excluido 126
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 9
@@ -2183,7 +2208,7 @@ Diagnóstico de cariotipo de:
 -13: Síndrome de Patau: labio leporino, microcefalia, anencefalia
 ~~~
 
-## Bloque excluido 126
+## Bloque excluido 127
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 10
@@ -2196,7 +2221,7 @@ Diagnóstico de cariotipo de:
 -18: Síndrome de Edward
 ~~~
 
-## Bloque excluido 127
+## Bloque excluido 128
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 11
@@ -2209,7 +2234,7 @@ Diagnóstico de cariotipo de:
 -21: Síndrome de Down » PREGUNTAS DE CHOISE «
 ~~~
 
-## Bloque excluido 128
+## Bloque excluido 129
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 12
@@ -2224,7 +2249,7 @@ Diagnóstico de cariotipo de:
 TIENEN PALADAR HENDIDO
 ~~~
 
-## Bloque excluido 129
+## Bloque excluido 130
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 105
@@ -2243,7 +2268,7 @@ Las opciones del choise eran las siguientes:
 - c) Hipertensión Endocraneana
 ~~~
 
-## Bloque excluido 130
+## Bloque excluido 131
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 106
@@ -2256,7 +2281,7 @@ Las opciones del choise eran las siguientes:
 ¿Cuando colocar la gamma globulina dentro de las 72 hs del parto?
 ~~~
 
-## Bloque excluido 131
+## Bloque excluido 132
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 5
@@ -2269,7 +2294,7 @@ Las opciones del choise eran las siguientes:
 -Madre RH negativa: coombs indirecta negtiva
 ~~~
 
-## Bloque excluido 132
+## Bloque excluido 133
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 6
@@ -2282,7 +2307,7 @@ Las opciones del choise eran las siguientes:
 -Hijo RH positivo: coombs directa negativa. (Está bien explicado en el Botita de obstetricia)
 ~~~
 
-## Bloque excluido 133
+## Bloque excluido 134
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 107
@@ -2295,7 +2320,7 @@ Las opciones del choise eran las siguientes:
 Como se realiza el diagnostico de un incidentaloma renal: ecografía.
 ~~~
 
-## Bloque excluido 134
+## Bloque excluido 135
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 108
@@ -2308,7 +2333,7 @@ Como se realiza el diagnostico de un incidentaloma renal: ecografía.
 Caso clínico de Artritis Reumatoidea y anemia normocítica normocrómica que no responde al tratamiento con Hierro, con aumento de plaquetas y aumento de GB con predominio de eosinófilos.
 ~~~
 
-## Bloque excluido 135
+## Bloque excluido 136
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 109
@@ -2329,7 +2354,7 @@ Patología poligénica multifactorial con participación ambiental:
 - Klinefelter
 ~~~
 
-## Bloque excluido 136
+## Bloque excluido 137
 
 - Archivo: 2019 Examen LISTO.pdf.md
 - Numero fuente: 110
@@ -2342,7 +2367,7 @@ Patología poligénica multifactorial con participación ambiental:
 Migraña: cual es el aura más frecuente: visual: fotopsias!
 ~~~
 
-## Bloque excluido 137
+## Bloque excluido 138
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 29
@@ -2368,7 +2393,7 @@ Migraña: cual es el aura más frecuente: visual: fotopsias!
 - d) Hiperuremia.
 ~~~
 
-## Bloque excluido 138
+## Bloque excluido 139
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 49
@@ -2381,7 +2406,7 @@ Migraña: cual es el aura más frecuente: visual: fotopsias!
 ¿Cuál es el cáncer de páncreas más frecuente?: Adenocarcinoma ductal.
 ~~~
 
-## Bloque excluido 139
+## Bloque excluido 140
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 50
@@ -2394,7 +2419,7 @@ Migraña: cual es el aura más frecuente: visual: fotopsias!
 Paciente con abdomen agudo hemorrágico con shock, que es lo primero que haces: tratar la inestabilidad.
 ~~~
 
-## Bloque excluido 140
+## Bloque excluido 141
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 51
@@ -2407,7 +2432,7 @@ Paciente con abdomen agudo hemorrágico con shock, que es lo primero que haces: 
 Te daba la clínica de un viejo con síndrome pilórico, en que dx piensas: Ca gástrico.
 ~~~
 
-## Bloque excluido 141
+## Bloque excluido 142
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 52
@@ -2420,7 +2445,7 @@ Te daba la clínica de un viejo con síndrome pilórico, en que dx piensas: Ca g
 Que tumor causa síndrome obstructivo: Ca de colon descendente.
 ~~~
 
-## Bloque excluido 142
+## Bloque excluido 143
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 68
@@ -2433,7 +2458,7 @@ Que tumor causa síndrome obstructivo: Ca de colon descendente.
 Difteria
 ~~~
 
-## Bloque excluido 143
+## Bloque excluido 144
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 69
@@ -2446,7 +2471,7 @@ Difteria
 Paciente vacunado con la Vacuna de HB, que encontras en sangre: Anticuerpo anti HBags
 ~~~
 
-## Bloque excluido 144
+## Bloque excluido 145
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 70
@@ -2459,7 +2484,7 @@ Paciente vacunado con la Vacuna de HB, que encontras en sangre: Anticuerpo anti 
 Caso de un nene con clínica de Púrpura SH
 ~~~
 
-## Bloque excluido 145
+## Bloque excluido 146
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 71
@@ -2472,7 +2497,7 @@ Caso de un nene con clínica de Púrpura SH
 Niño con fiebre, estado tóxico y púrpura, Dx: meningococcemia
 ~~~
 
-## Bloque excluido 146
+## Bloque excluido 147
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 72
@@ -2485,7 +2510,7 @@ Niño con fiebre, estado tóxico y púrpura, Dx: meningococcemia
 Principal causa de derrame exudativo: Neumonía
 ~~~
 
-## Bloque excluido 147
+## Bloque excluido 148
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 73
@@ -2498,7 +2523,7 @@ Principal causa de derrame exudativo: Neumonía
 Cuerpo extraño en vías aéreas superiores, clínica: ahogo, sofocamiento, tos.
 ~~~
 
-## Bloque excluido 148
+## Bloque excluido 149
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 74
@@ -2511,7 +2536,7 @@ Cuerpo extraño en vías aéreas superiores, clínica: ahogo, sofocamiento, tos.
 Artrosis primaria
 ~~~
 
-## Bloque excluido 149
+## Bloque excluido 150
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 75
@@ -2524,7 +2549,7 @@ Artrosis primaria
 Causas de DPPNI: preeclampsia
 ~~~
 
-## Bloque excluido 150
+## Bloque excluido 151
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 76
@@ -2537,7 +2562,7 @@ Causas de DPPNI: preeclampsia
 Cuál es el musculo del cual deriva el Cremáster: oblicuo menor (algo así, vofi)
 ~~~
 
-## Bloque excluido 151
+## Bloque excluido 152
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 77
@@ -2550,7 +2575,7 @@ Cuál es el musculo del cual deriva el Cremáster: oblicuo menor (algo así, vof
 Origen arteria ovárica: aorta
 ~~~
 
-## Bloque excluido 152
+## Bloque excluido 153
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 78
@@ -2563,7 +2588,7 @@ Origen arteria ovárica: aorta
 Candidiasis esofágica: marcadora de sida
 ~~~
 
-## Bloque excluido 153
+## Bloque excluido 154
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 79
@@ -2576,7 +2601,7 @@ Candidiasis esofágica: marcadora de sida
 Niño mayor a 6 meses con vómitos: reflujo / sobrealimentación (averiguar)
 ~~~
 
-## Bloque excluido 154
+## Bloque excluido 155
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 80
@@ -2589,7 +2614,7 @@ Niño mayor a 6 meses con vómitos: reflujo / sobrealimentación (averiguar)
 Niño con ttraumatismo y convulsiones: interno y tac
 ~~~
 
-## Bloque excluido 155
+## Bloque excluido 156
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 81
@@ -2602,7 +2627,7 @@ Niño con ttraumatismo y convulsiones: interno y tac
 Principal causa de marcha hemiparetica en &gt; 60: ACV
 ~~~
 
-## Bloque excluido 156
+## Bloque excluido 157
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 82
@@ -2615,7 +2640,7 @@ Principal causa de marcha hemiparetica en &gt; 60: ACV
 Complicación de resfrío común: otitis
 ~~~
 
-## Bloque excluido 157
+## Bloque excluido 158
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 83
@@ -2628,7 +2653,7 @@ Complicación de resfrío común: otitis
 Debilidad en miembros inferior que cede con el descanso, leve ptosis palpebral: Miastenia Gravis
 ~~~
 
-## Bloque excluido 158
+## Bloque excluido 159
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 84
@@ -2641,7 +2666,7 @@ Debilidad en miembros inferior que cede con el descanso, leve ptosis palpebral: 
 Cual no es complicación de Enfermedad de Crohn: poliposis
 ~~~
 
-## Bloque excluido 159
+## Bloque excluido 160
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 85
@@ -2654,7 +2679,7 @@ Cual no es complicación de Enfermedad de Crohn: poliposis
 Infección puerperal más frecuente: endometritis (no mastitis)
 ~~~
 
-## Bloque excluido 160
+## Bloque excluido 161
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 86
@@ -2667,7 +2692,7 @@ Infección puerperal más frecuente: endometritis (no mastitis)
 Triada de Charcot: ictericia, dolor en hipocondrio derecho y fiebre
 ~~~
 
-## Bloque excluido 161
+## Bloque excluido 162
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 87
@@ -2680,7 +2705,7 @@ Triada de Charcot: ictericia, dolor en hipocondrio derecho y fiebre
 Enfermedad Hemolítica: madre Rh -, padre Rh +, Coombs indirecta negativa
 ~~~
 
-## Bloque excluido 162
+## Bloque excluido 163
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 88
@@ -2693,7 +2718,7 @@ Enfermedad Hemolítica: madre Rh -, padre Rh +, Coombs indirecta negativa
 Como realizo diagnóstico de presencia de estrógenos: prueba de progesterona
 ~~~
 
-## Bloque excluido 163
+## Bloque excluido 164
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 89
@@ -2706,7 +2731,7 @@ Como realizo diagnóstico de presencia de estrógenos: prueba de progesterona
 Dengue
 ~~~
 
-## Bloque excluido 164
+## Bloque excluido 165
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 90
@@ -2719,7 +2744,7 @@ Dengue
 Síndrome nefrotico primario en pediatría: enfermedad de cambios mínimos
 ~~~
 
-## Bloque excluido 165
+## Bloque excluido 166
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 91
@@ -2732,7 +2757,7 @@ Síndrome nefrotico primario en pediatría: enfermedad de cambios mínimos
 Screening de mama: mamografía
 ~~~
 
-## Bloque excluido 166
+## Bloque excluido 167
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 92
@@ -2745,7 +2770,7 @@ Screening de mama: mamografía
 Mujer embarazada de 9 meses le diagnostican Listeriosis. Cuál es la vía de contagio de más frecuente de la madre: vía digestiva CORRECTA (otras opciones: vía transplacentaria, canal de parto, transfusiones) (PREGUNTA SOBRE LA VIA DE CONTAGIO DE LA MADRE NO DEL HIJO)
 ~~~
 
-## Bloque excluido 167
+## Bloque excluido 168
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 93
@@ -2758,7 +2783,7 @@ Mujer embarazada de 9 meses le diagnostican Listeriosis. Cuál es la vía de con
 Criterio mayor de IC (criterios de Framingam): reflujo hepatoyugular
 ~~~
 
-## Bloque excluido 168
+## Bloque excluido 169
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 94
@@ -2771,7 +2796,7 @@ Criterio mayor de IC (criterios de Framingam): reflujo hepatoyugular
 Hemorragia en la posmenopausia: histeroscopia + biopsia
 ~~~
 
-## Bloque excluido 169
+## Bloque excluido 170
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 95
@@ -2784,7 +2809,7 @@ Hemorragia en la posmenopausia: histeroscopia + biopsia
 Mamo y palpación anual a partir de los 40: screeing de cáncer de mama
 ~~~
 
-## Bloque excluido 170
+## Bloque excluido 171
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 96
@@ -2797,7 +2822,7 @@ Mamo y palpación anual a partir de los 40: screeing de cáncer de mama
 Nena de 11 meses que desde los 8 presenta esteatorrea, hipoalbuminemia, anemia. A los 6 había incorporado harinas: enfermedad celiaca
 ~~~
 
-## Bloque excluido 171
+## Bloque excluido 172
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 97
@@ -2810,7 +2835,7 @@ Nena de 11 meses que desde los 8 presenta esteatorrea, hipoalbuminemia, anemia. 
 Causa de alcalosis metabólica: Diurético de asa
 ~~~
 
-## Bloque excluido 172
+## Bloque excluido 173
 
 - Archivo: 2020 Examen LISTO.pdf.md
 - Numero fuente: 98
@@ -2823,7 +2848,7 @@ Causa de alcalosis metabólica: Diurético de asa
 Empiezan a caminar: de 12 a 15
 ~~~
 
-## Bloque excluido 173
+## Bloque excluido 174
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 5
@@ -2836,7 +2861,7 @@ Empiezan a caminar: de 12 a 15
 d .Arteria coronaria estomaquica
 ~~~
 
-## Bloque excluido 174
+## Bloque excluido 175
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 9
@@ -2849,7 +2874,7 @@ d .Arteria coronaria estomaquica
 Un caso de dengue
 ~~~
 
-## Bloque excluido 175
+## Bloque excluido 176
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 10
@@ -2862,7 +2887,7 @@ Un caso de dengue
 Un caso de fiebre tifoidea/malaria/dengue?
 ~~~
 
-## Bloque excluido 176
+## Bloque excluido 177
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 12
@@ -2875,7 +2900,7 @@ Un caso de fiebre tifoidea/malaria/dengue?
 Sindrome de basedow triada : Hipertitoidismo, bocio y oftalmopatia
 ~~~
 
-## Bloque excluido 177
+## Bloque excluido 178
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 13
@@ -2888,7 +2913,7 @@ Sindrome de basedow triada : Hipertitoidismo, bocio y oftalmopatia
 Causa de nefritis en niños: Postinfecciosa
 ~~~
 
-## Bloque excluido 178
+## Bloque excluido 179
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 15
@@ -2901,7 +2926,7 @@ Causa de nefritis en niños: Postinfecciosa
 Niño de 9 meses con fiebre alta de 24 hs de evolucion, a las 12 hs de la desaparición de la fiebre aparece un rash morbiliforme en tronco, cara y extremidades: Exantema súbito (6ta enfermedad)
 ~~~
 
-## Bloque excluido 179
+## Bloque excluido 180
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 17
@@ -2914,7 +2939,7 @@ Niño de 9 meses con fiebre alta de 24 hs de evolucion, a las 12 hs de la desapa
 Punto de referencia en la presentación de vértice
 ~~~
 
-## Bloque excluido 180
+## Bloque excluido 181
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 19
@@ -2927,7 +2952,7 @@ Punto de referencia en la presentación de vértice
 Causa de obstrucción de intestino delgado más frecuente: bridas.
 ~~~
 
-## Bloque excluido 181
+## Bloque excluido 182
 
 - Archivo: 2021 Examen LISTO.pdf.md
 - Numero fuente: 20
@@ -2940,7 +2965,7 @@ Causa de obstrucción de intestino delgado más frecuente: bridas.
 Caso en paciente pediátrico con deposiciones sanguinolentas y dolor cólico (llora un rato, se calma y vuelve a llorar): invaginación intestinal
 ~~~
 
-## Bloque excluido 182
+## Bloque excluido 183
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 13
@@ -2953,7 +2978,7 @@ Caso en paciente pediátrico con deposiciones sanguinolentas y dolor cólico (ll
 test de schiller negativo que significa: epitelio normal
 ~~~
 
-## Bloque excluido 183
+## Bloque excluido 184
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 28
@@ -2966,7 +2991,7 @@ test de schiller negativo que significa: epitelio normal
 Niño con antecedente de impetigo, presenta edema periorbitario bilateral, hipertension y hematuria: Sx nefritico
 ~~~
 
-## Bloque excluido 184
+## Bloque excluido 185
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 33
@@ -2979,7 +3004,7 @@ Niño con antecedente de impetigo, presenta edema periorbitario bilateral, hiper
 Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservativo, consejeria para prevencion de its. Habia otras opciones que hablaban que primero habia que pedirle estudios o hacerle pap y colpo y recien darle los aco cuando tengas los resultados… no.
 ~~~
 
-## Bloque excluido 185
+## Bloque excluido 186
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 34
@@ -2994,7 +3019,7 @@ Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservat
 - b. hipetrofia pilorica
 ~~~
 
-## Bloque excluido 186
+## Bloque excluido 187
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 35
@@ -3010,7 +3035,7 @@ Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservat
 - c. rx abdomen
 ~~~
 
-## Bloque excluido 187
+## Bloque excluido 188
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 36
@@ -3025,7 +3050,7 @@ Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservat
 - b. rx
 ~~~
 
-## Bloque excluido 188
+## Bloque excluido 189
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 40
@@ -3038,7 +3063,7 @@ Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservat
 Agente etiologico de FR: Streptococo B hemolitico del grupo A
 ~~~
 
-## Bloque excluido 189
+## Bloque excluido 190
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 42
@@ -3051,7 +3076,7 @@ Agente etiologico de FR: Streptococo B hemolitico del grupo A
 Niño con hematuria, orina espumosa: Sc nefrotico
 ~~~
 
-## Bloque excluido 190
+## Bloque excluido 191
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 43
@@ -3064,7 +3089,7 @@ Niño con hematuria, orina espumosa: Sc nefrotico
 Hacia donde se desvia el ojo en la paralisis del VI par: Hacia adentro
 ~~~
 
-## Bloque excluido 191
+## Bloque excluido 192
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 45
@@ -3077,7 +3102,7 @@ Hacia donde se desvia el ojo en la paralisis del VI par: Hacia adentro
 Cual de estas es correcta sobre la sutura sagital: Va del bregma hacia la fontanela menor, el punto medio corresponde la vertice, algo asi…
 ~~~
 
-## Bloque excluido 192
+## Bloque excluido 193
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 46
@@ -3090,7 +3115,7 @@ Cual de estas es correcta sobre la sutura sagital: Va del bregma hacia la fontan
 Causa de hipotiroidismo en lugares donde el iodo es suficiente: Autoinmune
 ~~~
 
-## Bloque excluido 193
+## Bloque excluido 194
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 48
@@ -3103,7 +3128,7 @@ Causa de hipotiroidismo en lugares donde el iodo es suficiente: Autoinmune
 Cual es la tercer maniobra de leopold
 ~~~
 
-## Bloque excluido 194
+## Bloque excluido 195
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 49
@@ -3116,7 +3141,7 @@ Cual es la tercer maniobra de leopold
 Casito de hemorragia posparto con hipotension, utero blando: Atonia uterina
 ~~~
 
-## Bloque excluido 195
+## Bloque excluido 196
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 55
@@ -3129,7 +3154,7 @@ Casito de hemorragia posparto con hipotension, utero blando: Atonia uterina
 Mujer 25 años con dolor abdominal y signos de shock. Hay que estabilizar hemodinamicamente
 ~~~
 
-## Bloque excluido 196
+## Bloque excluido 197
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 56
@@ -3142,7 +3167,7 @@ Mujer 25 años con dolor abdominal y signos de shock. Hay que estabilizar hemodi
 Caso paciente con dolor post defecacion, estrias de sangre en papel higienico: Fisura 57. Si una mujer de 40 años tiene antecedentes de abortos, parto prematuro, accidente isquemico transitorio, que pensas: Sindrome antifosfolipidos
 ~~~
 
-## Bloque excluido 197
+## Bloque excluido 198
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 59
@@ -3157,7 +3182,7 @@ Niño 13 años con dolor en escroto (creo que era) y reflejo cremasteriano ausen
 Torsion testicular
 ~~~
 
-## Bloque excluido 198
+## Bloque excluido 199
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 60
@@ -3170,7 +3195,7 @@ Torsion testicular
 Que produce la hipopotasemia en el ecg: Prolongacion del QT
 ~~~
 
-## Bloque excluido 199
+## Bloque excluido 200
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 62
@@ -3183,7 +3208,7 @@ Que produce la hipopotasemia en el ecg: Prolongacion del QT
 Consentimiento informado
 ~~~
 
-## Bloque excluido 200
+## Bloque excluido 201
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 63
@@ -3196,7 +3221,7 @@ Consentimiento informado
 Autonomia
 ~~~
 
-## Bloque excluido 201
+## Bloque excluido 202
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 64
@@ -3209,7 +3234,7 @@ Autonomia
 Historia clinica
 ~~~
 
-## Bloque excluido 202
+## Bloque excluido 203
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 65
@@ -3222,7 +3247,7 @@ Historia clinica
 Triada de charcot
 ~~~
 
-## Bloque excluido 203
+## Bloque excluido 204
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 66
@@ -3235,7 +3260,7 @@ Triada de charcot
 Trada de beck
 ~~~
 
-## Bloque excluido 204
+## Bloque excluido 205
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 68
@@ -3248,7 +3273,7 @@ Trada de beck
 Paciente con asma parcialmente controlada y ataques en el ejercicio.
 ~~~
 
-## Bloque excluido 205
+## Bloque excluido 206
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 69
@@ -3261,7 +3286,7 @@ Paciente con asma parcialmente controlada y ataques en el ejercicio.
 Marcar la incorrecta sobre hitos del desarrollo
 ~~~
 
-## Bloque excluido 206
+## Bloque excluido 207
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 70
@@ -3274,7 +3299,7 @@ Marcar la incorrecta sobre hitos del desarrollo
 En un paciente con abdomen agudo obstructivo con sospecha de CA de colon, en que porcion es mas frecuente: Descendente
 ~~~
 
-## Bloque excluido 207
+## Bloque excluido 208
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 71
@@ -3287,7 +3312,7 @@ En un paciente con abdomen agudo obstructivo con sospecha de CA de colon, en que
 Cuando esta contraindicada la colecistectomia por videolaparoscopia
 ~~~
 
-## Bloque excluido 208
+## Bloque excluido 209
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 72
@@ -3300,7 +3325,7 @@ Cuando esta contraindicada la colecistectomia por videolaparoscopia
 Todos son complicacion de Chron excepto: Polipos
 ~~~
 
-## Bloque excluido 209
+## Bloque excluido 210
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 73
@@ -3313,7 +3338,7 @@ Todos son complicacion de Chron excepto: Polipos
 Lo correcto sobre convulsion febril: se presenta desde los 6 m hasta los 6a
 ~~~
 
-## Bloque excluido 210
+## Bloque excluido 211
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 74
@@ -3326,7 +3351,7 @@ Lo correcto sobre convulsion febril: se presenta desde los 6 m hasta los 6a
 Caso que esta en otros pregunteros del niño con PTI
 ~~~
 
-## Bloque excluido 211
+## Bloque excluido 212
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 75
@@ -3339,7 +3364,7 @@ Caso que esta en otros pregunteros del niño con PTI
 Fiebre, aftas orales, manos y pies: Enterovirus no polio
 ~~~
 
-## Bloque excluido 212
+## Bloque excluido 213
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 76
@@ -3352,7 +3377,7 @@ Fiebre, aftas orales, manos y pies: Enterovirus no polio
 Que produce el deficit de acido folico: Defectos en el tubo neural
 ~~~
 
-## Bloque excluido 213
+## Bloque excluido 214
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 77
@@ -3365,7 +3390,7 @@ Que produce el deficit de acido folico: Defectos en el tubo neural
 Lo correcto sobre el cordon umbilical: Tiene dos arterias y una vena
 ~~~
 
-## Bloque excluido 214
+## Bloque excluido 215
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 78
@@ -3378,7 +3403,7 @@ Lo correcto sobre el cordon umbilical: Tiene dos arterias y una vena
 Causa de neumotorax espontaneo: Bullas supleurales
 ~~~
 
-## Bloque excluido 215
+## Bloque excluido 216
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 79
@@ -3391,7 +3416,7 @@ Causa de neumotorax espontaneo: Bullas supleurales
 Cancer de tiroides mas frecuente: Papilar
 ~~~
 
-## Bloque excluido 216
+## Bloque excluido 217
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 80
@@ -3404,7 +3429,7 @@ Cancer de tiroides mas frecuente: Papilar
 Correcto sobre sincope: Recuperacion espontanea
 ~~~
 
-## Bloque excluido 217
+## Bloque excluido 218
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 81
@@ -3417,7 +3442,7 @@ Correcto sobre sincope: Recuperacion espontanea
 Correcto sobre addison: disminuye el cortisol plasmatico
 ~~~
 
-## Bloque excluido 218
+## Bloque excluido 219
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 82
@@ -3430,7 +3455,7 @@ Correcto sobre addison: disminuye el cortisol plasmatico
 Factor importante en ulcera peptica: pylori y aines
 ~~~
 
-## Bloque excluido 219
+## Bloque excluido 220
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 83
@@ -3443,7 +3468,7 @@ Factor importante en ulcera peptica: pylori y aines
 Patologia maligna de higado mas frecuente: metastasis
 ~~~
 
-## Bloque excluido 220
+## Bloque excluido 221
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 84
@@ -3456,7 +3481,7 @@ Patologia maligna de higado mas frecuente: metastasis
 Mujer posmenopausica con dolor cervical que empeora con el movimiento y cede en reposo, rigidez de interfalangicas distales que a la mañana dura menos de una hora: Artrosis primaria
 ~~~
 
-## Bloque excluido 221
+## Bloque excluido 222
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 87
@@ -3469,7 +3494,7 @@ Mujer posmenopausica con dolor cervical que empeora con el movimiento y cede en 
 Cancer de estomago, ubicacion mas frecuente: Antro
 ~~~
 
-## Bloque excluido 222
+## Bloque excluido 223
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 89
@@ -3482,7 +3507,7 @@ Cancer de estomago, ubicacion mas frecuente: Antro
 Bebe con ictericia, acolia: Atresia de vias biliares
 ~~~
 
-## Bloque excluido 223
+## Bloque excluido 224
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 90
@@ -3495,7 +3520,7 @@ Bebe con ictericia, acolia: Atresia de vias biliares
 Niño con diarrea sanguinolenta y oliguria: SUH
 ~~~
 
-## Bloque excluido 224
+## Bloque excluido 225
 
 - Archivo: 2022 Preguntero LISTO.pdf.md
 - Numero fuente: 92
@@ -3508,7 +3533,7 @@ Niño con diarrea sanguinolenta y oliguria: SUH
 Que se observa en el hiperaldosteronismo: Hipopotasemia por perdida urinaria
 ~~~
 
-## Bloque excluido 225
+## Bloque excluido 226
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 14
@@ -3521,7 +3546,7 @@ Que se observa en el hiperaldosteronismo: Hipopotasemia por perdida urinaria
 5 Hernia de Spiegel (protuberancia por debajo de arco de douglas por fuera de músculo recto anterior del abdomen) **[CORRECTA]**
 ~~~
 
-## Bloque excluido 226
+## Bloque excluido 227
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 24
@@ -3534,7 +3559,7 @@ Que se observa en el hiperaldosteronismo: Hipopotasemia por perdida urinaria
 8 Caso clínico de Nena con Varicela con clínica característica: máculas , pápulas y vesículas que comienza en cabeza y luego en tronco. Fiebre. **[CORRECTA]**
 ~~~
 
-## Bloque excluido 227
+## Bloque excluido 228
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 11
@@ -3631,7 +3656,7 @@ A.Ictericia persistente (correcta) **[CORRECTA]**
 b pelvis simétrica con reducción del diámetro anteroposterior C. Pelvis asimétrica por un diámetro oblicuo
 ~~~
 
-## Bloque excluido 228
+## Bloque excluido 229
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 5
@@ -3641,7 +3666,7 @@ b pelvis simétrica con reducción del diámetro anteroposterior C. Pelvis asim�
 - Problemas: `correct_count_2`, `duplicate_option_ids_a_b`
 
 ~~~markdown
-5. 28 28. Caso de paciente con dismetria,reflejos pendulares Opciones:
+5. 28 28. 28. Caso de paciente con dismetria,reflejos pendulares Opciones:
 - A. sx piramidal
 - B. sx cerebeloso (correcta) **[CORRECTA]**
 - C. sx extrapiramidal,
@@ -3653,7 +3678,7 @@ b pelvis simétrica con reducción del diámetro anteroposterior C. Pelvis asim�
 - B) miastenia gravis (correcta) **[CORRECTA]**
 ~~~
 
-## Bloque excluido 229
+## Bloque excluido 230
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 3
@@ -3667,7 +3692,7 @@ b pelvis simétrica con reducción del diámetro anteroposterior C. Pelvis asim�
 - D) sx piramidal
 ~~~
 
-## Bloque excluido 230
+## Bloque excluido 231
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 5
@@ -3912,7 +3937,7 @@ B cirrosis
 - C. Manos que palpando laterales del utero
 ~~~
 
-## Bloque excluido 231
+## Bloque excluido 232
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 4
@@ -3974,7 +3999,7 @@ A.útero y trompas (correcta) **[CORRECTA]**
 C.Ercp
 ~~~
 
-## Bloque excluido 232
+## Bloque excluido 233
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 71
@@ -4033,7 +4058,7 @@ D) Ecocardiograma
 <!-- image -->
 ~~~
 
-## Bloque excluido 233
+## Bloque excluido 234
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 81
@@ -4079,7 +4104,7 @@ A.en general con fiebre y conjuntivitis
 - C. Cursa con rinorrea y tos
 ~~~
 
-## Bloque excluido 234
+## Bloque excluido 235
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 88
@@ -4110,7 +4135,7 @@ Parto prematuro (correcta) 💕 **[CORRECTA]**
 Hipotensión Parto post término Incompatibilidad RH
 ~~~
 
-## Bloque excluido 235
+## Bloque excluido 236
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 92
@@ -4128,7 +4153,7 @@ Hipotensión Parto post término Incompatibilidad RH
 - 93 Caso de paciente con cuerpo extraño en vía aérea, como se presentaba: sensación de ahogo, tos **[CORRECTA]**
 ~~~
 
-## Bloque excluido 236
+## Bloque excluido 237
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 94
@@ -4143,7 +4168,7 @@ Cual NO es complicación de crohn
 Pólipos
 ~~~
 
-## Bloque excluido 237
+## Bloque excluido 238
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 100
