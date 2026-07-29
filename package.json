@@ -1,0 +1,18 @@
+{
+  "name": "residencia-quiz",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "bun@1.3.10",
+  "scripts": {
+    "convert": "node ./scripts/convert-questions.mjs",
+    "validate": "node ./scripts/validate-questions.mjs",
+    "dev": "astro dev",
+    "build": "bun run validate && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.16.1"
+  },
+  "devDependencies": {}
+}

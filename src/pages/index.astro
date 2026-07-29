@@ -1,0 +1,404 @@
+---
+import questions from "../data/questions.json";
+import "../styles/global.css";
+
+const totalQuestions = questions.length;
+const base = import.meta.env.BASE_URL;
+const normalizedBase = base.endsWith("/") ? base : `${base}/`;
+const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c");
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Quiz estatico de preguntas Residencias Médicas Córdoba con ranking local en el navegador."
+    />
+    <link rel="icon" href={`${normalizedBase}favicon.svg`} />
+    <title>Residencias Médicas Córdoba Quiz</title>
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="topbar" aria-label="Encabezado">
+        <a class="brand" href={normalizedBase} aria-label="Residencias Médicas Córdoba Quiz">
+          <span class="brand-mark" aria-hidden="true">R</span>
+          <span>
+            <strong>Residencias Córdoba Quiz</strong>
+            <small>{totalQuestions} preguntas</small>
+          </span>
+        </a>
+      </header>
+
+      <section class="quiz-surface" data-app aria-live="polite"></section>
+    </main>
+
+    <script id="questions-data" type="application/json" set:html={serializedQuestions}></script>
+    <script>
+      const questions = JSON.parse(document.getElementById("questions-data")?.textContent ?? "[]");
+      const HISTORY_KEY = "residencia-quiz-history-v1";
+      const app = document.querySelector("[data-app]");
+      const modeLabels = {
+        original: "orden original",
+        random: "orden aleatorio",
+      };
+
+      const state = {
+        mode: "original",
+        sequence: [],
+        current: 0,
+        correct: 0,
+        incorrect: 0,
+        startedAt: 0,
+        finalDurationMs: 0,
+        result: null,
+      };
+
+      function escapeHtml(value) {
+        return String(value)
+          .replaceAll("&", "&amp;")
+          .replaceAll("<", "&lt;")
+          .replaceAll(">", "&gt;")
+          .replaceAll('"', "&quot;")
+          .replaceAll("'", "&#039;");
+      }
+
+      function formatDuration(ms) {
+        const totalSeconds = Math.max(0, Math.round(ms / 1000));
+        const minutes = Math.floor(totalSeconds / 60);
+        const seconds = totalSeconds % 60;
+        return `${minutes}:${String(seconds).padStart(2, "0")}`;
+      }
+
+      function percentage(correct, total) {
+        if (total === 0) return 0;
+        return Math.round((correct / total) * 100);
+      }
+
+      function shuffle(items) {
+        const copy = [...items];
+        for (let index = copy.length - 1; index > 0; index -= 1) {
+          const swapIndex = Math.floor(Math.random() * (index + 1));
+          [copy[index], copy[swapIndex]] = [copy[swapIndex], copy[index]];
+        }
+        return copy;
+      }
+
+      function loadHistory() {
+        try {
+          const stored = localStorage.getItem(HISTORY_KEY);
+          return stored ? JSON.parse(stored) : [];
+        } catch {
+          return [];
+        }
+      }
+
+      function saveCompletedAttempt(record) {
+        const history = loadHistory();
+        history.push(record);
+        localStorage.setItem(HISTORY_KEY, JSON.stringify(history.slice(-50)));
+      }
+
+      function rankedHistory() {
+        return [...loadHistory()]
+          .sort((left, right) => {
+            if (right.percentage !== left.percentage) return right.percentage - left.percentage;
+            if (left.durationMs !== right.durationMs) return left.durationMs - right.durationMs;
+            return new Date(right.finishedAt).getTime() - new Date(left.finishedAt).getTime();
+          })
+          .slice(0, 8);
+      }
+
+      function renderHistory() {
+        const history = rankedHistory();
+        if (history.length === 0) {
+          return `
+            <section class="history-panel empty" aria-label="Ranking local">
+              <h2>Ranking local</h2>
+              <p>Sin intentos completos.</p>
+            </section>
+          `;
+        }
+
+        const rows = history.map((record, index) => {
+          const date = new Intl.DateTimeFormat("es-AR", {
+            dateStyle: "short",
+            timeStyle: "short",
+          }).format(new Date(record.finishedAt));
+
+          return `
+            <tr>
+              <td>${index + 1}</td>
+              <td>${escapeHtml(date)}</td>
+              <td>${record.correct}</td>
+              <td>${record.incorrect}</td>
+              <td>${record.percentage}%</td>
+              <td>${formatDuration(record.durationMs)}</td>
+              <td>${escapeHtml(modeLabels[record.mode] ?? record.mode)}</td>
+            </tr>
+          `;
+        }).join("");
+
+        return `
+          <section class="history-panel" aria-label="Ranking local">
+            <h2>Ranking local</h2>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>#</th>
+                    <th>Fecha</th>
+                    <th>Ok</th>
+                    <th>Mal</th>
+                    <th>%</th>
+                    <th>Tiempo</th>
+                    <th>Modo</th>
+                  </tr>
+                </thead>
+                <tbody>${rows}</tbody>
+              </table>
+            </div>
+          </section>
+        `;
+      }
+
+      function bindStartEvents() {
+        app.querySelectorAll("input[name='mode']").forEach((input) => {
+          input.addEventListener("change", () => {
+            state.mode = input.value;
+          });
+        });
+        app.querySelector("[data-action='start']").addEventListener("click", startQuiz);
+      }
+
+      function renderStart() {
+        app.innerHTML = `
+          <div class="start-layout">
+            <section class="hero-panel">
+              <p class="eyebrow">Banco Residencias Médicas Córdoba</p>
+              <h1>Cuestionario interactivo</h1>
+              <div class="metric-strip" aria-label="Resumen">
+                <span><strong>${questions.length}</strong> preguntas</span>
+                <span><strong>38</strong> excluidas</span>
+                <span><strong>local</strong> ranking</span>
+              </div>
+            </section>
+
+            <section class="control-panel" aria-label="Inicio">
+              <fieldset class="mode-picker">
+                <legend>Modo</legend>
+                <label>
+                  <input type="radio" name="mode" value="original" ${state.mode === "original" ? "checked" : ""} />
+                  <span>Orden original</span>
+                </label>
+                <label>
+                  <input type="radio" name="mode" value="random" ${state.mode === "random" ? "checked" : ""} />
+                  <span>Orden aleatorio</span>
+                </label>
+              </fieldset>
+              <button class="primary-action" type="button" data-action="start">Play</button>
+            </section>
+
+            ${renderHistory()}
+          </div>
+        `;
+        bindStartEvents();
+      }
+
+      function startQuiz() {
+        state.sequence = state.mode === "random" ? shuffle(questions) : [...questions];
+        state.current = 0;
+        state.correct = 0;
+        state.incorrect = 0;
+        state.startedAt = performance.now();
+        state.finalDurationMs = 0;
+        state.result = null;
+        renderQuestion();
+      }
+
+      function answer(optionId) {
+        if (state.result) return;
+
+        const question = state.sequence[state.current];
+        const selected = question.options.find((option) => option.id === optionId);
+        const correctOption = question.options.find((option) => option.isCorrect);
+
+        if (selected?.isCorrect) {
+          state.correct += 1;
+          state.result = {
+            kind: "correct",
+            selectedId: optionId,
+            correctId: correctOption.id,
+          };
+        } else {
+          state.incorrect += 1;
+          state.result = {
+            kind: "incorrect",
+            selectedId: optionId,
+            correctId: correctOption.id,
+          };
+        }
+
+        renderQuestion();
+      }
+
+      function skipQuestion() {
+        if (state.result) return;
+
+        const question = state.sequence[state.current];
+        const correctOption = question.options.find((option) => option.isCorrect);
+        state.incorrect += 1;
+        state.result = {
+          kind: "skipped",
+          selectedId: null,
+          correctId: correctOption.id,
+        };
+        renderQuestion();
+      }
+
+      function continueQuiz() {
+        if (state.current + 1 >= state.sequence.length) {
+          finishQuiz();
+          return;
+        }
+
+        state.current += 1;
+        state.result = null;
+        renderQuestion();
+      }
+
+      function finishQuiz() {
+        state.finalDurationMs = performance.now() - state.startedAt;
+        const finalPercentage = percentage(state.correct, state.sequence.length);
+        saveCompletedAttempt({
+          finishedAt: new Date().toISOString(),
+          correct: state.correct,
+          incorrect: state.incorrect,
+          percentage: finalPercentage,
+          durationMs: Math.round(state.finalDurationMs),
+          mode: state.mode,
+        });
+        renderFinal();
+      }
+
+      function optionClass(option) {
+        if (!state.result) return "option-button";
+        if (option.isCorrect) return "option-button is-correct";
+        if (state.result.selectedId === option.id) return "option-button is-wrong";
+        return "option-button is-muted";
+      }
+
+      function renderResult(question) {
+        if (!state.result) return "";
+
+        const correctOption = question.options.find((option) => option.id === state.result.correctId);
+        const resultTitle = {
+          correct: "Correcta",
+          incorrect: "Incorrecta",
+          skipped: "Salteada",
+        }[state.result.kind];
+
+        return `
+          <section class="result-panel ${state.result.kind}" aria-label="Resultado">
+            <h2>${resultTitle}</h2>
+            <p><strong>Opción correcta:</strong> ${correctOption.id}) ${escapeHtml(correctOption.text)}</p>
+            <button class="primary-action compact" type="button" data-action="continue">Continuar</button>
+          </section>
+        `;
+      }
+
+      function bindQuestionEvents() {
+        app.querySelectorAll("[data-option-id]").forEach((button) => {
+          button.addEventListener("click", () => answer(button.dataset.optionId));
+        });
+        app.querySelector("[data-action='skip']")?.addEventListener("click", skipQuestion);
+        app.querySelector("[data-action='continue']")?.addEventListener("click", continueQuiz);
+      }
+
+      function renderQuestion() {
+        const question = state.sequence[state.current];
+        const currentNumber = state.current + 1;
+        const total = state.sequence.length;
+        const progress = Math.round((currentNumber / total) * 100);
+        const options = question.options.map((option) => `
+          <button
+            class="${optionClass(option)}"
+            type="button"
+            data-option-id="${option.id}"
+            ${state.result ? "disabled" : ""}
+          >
+            <span class="option-id">${option.id}</span>
+            <span>${escapeHtml(option.text)}</span>
+          </button>
+        `).join("");
+
+        app.innerHTML = `
+          <article class="question-layout">
+            <header class="question-meta">
+              <div>
+                <p class="eyebrow">Pregunta ${currentNumber} de ${total}</p>
+                <h1>${escapeHtml(question.id)}</h1>
+              </div>
+              <div class="scoreboard" aria-label="Puntaje">
+                <span><strong>${state.correct}</strong> correctas</span>
+                <span><strong>${state.incorrect}</strong> incorrectas</span>
+              </div>
+            </header>
+
+            <div class="progress-track" aria-hidden="true">
+              <span style="width: ${progress}%"></span>
+            </div>
+
+            <section class="statement-panel">
+              <p>${escapeHtml(question.statement)}</p>
+            </section>
+
+            <section class="options-grid" aria-label="Opciones">
+              ${options}
+            </section>
+
+            <div class="quiz-actions">
+              <span>Modo: ${escapeHtml(modeLabels[state.mode])}</span>
+              <button class="secondary-action" type="button" data-action="skip" ${state.result ? "disabled" : ""}>Saltear</button>
+            </div>
+
+            ${renderResult(question)}
+          </article>
+        `;
+        bindQuestionEvents();
+      }
+
+      function bindFinalEvents() {
+        app.querySelector("[data-action='restart']").addEventListener("click", () => {
+          state.result = null;
+          renderStart();
+        });
+      }
+
+      function renderFinal() {
+        const finalPercentage = percentage(state.correct, state.sequence.length);
+        app.innerHTML = `
+          <div class="final-layout">
+            <section class="final-panel">
+              <p class="eyebrow">Resultado final</p>
+              <h1>${finalPercentage}%</h1>
+              <div class="final-stats">
+                <span><strong>${state.correct}</strong> correctas</span>
+                <span><strong>${state.incorrect}</strong> incorrectas</span>
+                <span><strong>${formatDuration(state.finalDurationMs)}</strong> tiempo</span>
+                <span><strong>${escapeHtml(modeLabels[state.mode])}</strong> modo</span>
+              </div>
+              <button class="primary-action compact" type="button" data-action="restart">Reiniciar</button>
+            </section>
+            ${renderHistory()}
+          </div>
+        `;
+        bindFinalEvents();
+      }
+
+      renderStart();
+    </script>
+  </body>
+</html>

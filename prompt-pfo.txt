@@ -1,0 +1,181 @@
+Actúa como Codex GPT-5.5 con razonamiento EXTRA HIGH.
+
+Tu tarea es transformar `PFO CORRECTAS VVIC.md` en un JSON de preguntas y crear un repositorio GitHub completo con una mini web en Astro, lista para desplegar automáticamente en GitHub Pages mediante GitHub Actions.
+
+## Archivo de entrada
+
+Usa únicamente este archivo local:
+
+- `PFO CORRECTAS VVIC.md`
+
+El PDF original ya fue procesado. No uses el PDF, no lo copies al repo y no dependas de él para esta tarea.
+
+El Markdown contiene preguntas, opciones y la opción correcta marcada como:
+
+`**[CORRECTA]**`
+
+No modifiques el contenido original del Markdown.
+
+## Objetivo general
+
+Crear un repo nuevo usando GitHub CLI (`gh`) llamado:
+
+`pfo-vvic-quiz`
+
+Dentro del repo deben quedar incluidos:
+
+- `PFO CORRECTAS VVIC.md`
+- `src/data/questions.json`
+- una app Astro estática
+- workflow de GitHub Actions para GitHub Pages
+- README profesional con badges/shields
+
+## Conversión a JSON
+
+Crea el archivo:
+
+`src/data/questions.json`
+
+Con esta estructura:
+
+```json
+[
+  {
+    "id": "q001",
+    "order": 1,
+    "statement": "Texto exacto del enunciado",
+    "options": [
+      {
+        "id": "a",
+        "text": "Texto exacto de la opción",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Texto exacto de la opción",
+        "isCorrect": true
+      }
+    ]
+  }
+]
+```
+
+Reglas críticas:
+
+- No cambies ni corrijas el texto de preguntas u opciones.
+- Conserva comas, números, tildes, signos, fórmulas y mayúsculas tal como están.
+- Elimina `**[CORRECTA]**` del texto de la opción y conviértelo únicamente en `isCorrect: true`.
+- Cada pregunta debe tener exactamente una opción correcta.
+- Si una pregunta no tiene correcta o tiene más de una correcta, crea `conversion-issues.md` y detente antes de construir la app.
+- Haz doble pasada de verificación comparando Markdown contra JSON.
+
+## App Astro
+
+Crea una mini web estática con Astro, apta para GitHub Pages.
+
+Pantalla inicial:
+
+- botón `Play`
+- selector para iniciar en:
+  - orden original
+  - orden aleatorio
+
+Durante el cuestionario:
+
+- muestra una pregunta por vez
+- muestra todas sus opciones
+- permite elegir una opción
+- permite saltear la pregunta
+- si responde bien, indica que fue correcta
+- si responde mal, indica que fue incorrecta y muestra la opción correcta
+- si saltea, cuenta como incorrecta y muestra la correcta
+- después del resultado, permite continuar
+
+Final del cuestionario:
+
+- cantidad de correctas
+- cantidad de incorrectas
+- porcentaje final
+- tiempo total empleado
+- botón para reiniciar
+
+## Persistencia local
+
+No guardes ningún dato en la nube.
+
+Guarda localmente en el navegador un historial/ranking solo cuando el usuario completa todo el cuestionario.
+
+Usa `localStorage` o IndexedDB, eligiendo la opción más simple y menos invasiva.
+
+Cada registro debe incluir:
+
+- fecha y hora
+- correctas
+- incorrectas
+- porcentaje
+- tiempo total
+- modo usado: orden original o aleatorio
+
+No guardes respuestas individuales.
+
+## README
+
+Crea un `README.md` profesional con:
+
+- título
+- descripción breve
+- badges/shields
+- características principales
+- estructura del proyecto
+- comandos de desarrollo
+- instrucciones de despliegue en GitHub Pages
+- nota de privacidad
+- licencia si corresponde
+
+## GitHub Pages y Actions
+
+Configura despliegue automático en GitHub Pages con GitHub Actions al hacer push a `main`.
+
+Requisitos:
+
+- Astro debe generar un sitio estático.
+- Configura `astro.config.*` correctamente para GitHub Pages.
+- Usa el nombre del repo como `base` si corresponde.
+- Agrega `.github/workflows/deploy.yml`.
+- El workflow debe instalar dependencias, compilar y publicar el sitio.
+- Verifica localmente que el build funcione antes de hacer push.
+
+## Uso de GitHub CLI
+
+Usa `gh` para:
+
+1. crear el repo
+2. inicializar git si hace falta
+3. hacer commit inicial
+4. subir el código a GitHub
+5. configurar GitHub Pages o informar el paso manual mínimo si falta permiso
+
+Si `gh` no está autenticado o no tiene permisos suficientes, detente y reporta exactamente qué comando falló.
+
+## Validaciones finales obligatorias
+
+Antes de terminar:
+
+- instala dependencias
+- ejecuta build de Astro
+- valida que `questions.json` sea JSON válido
+- valida que cada pregunta tenga exactamente una correcta
+- valida que la cantidad de preguntas coincida con el Markdown
+- confirma que `PFO CORRECTAS VVIC.md` quedó incluido en el repo
+- confirma que el PDF no fue usado ni incluido
+- confirma que no se guarda información en la nube
+
+## Entregable final
+
+Informa brevemente:
+
+- URL del repo GitHub
+- URL esperada de GitHub Pages
+- cantidad de preguntas convertidas
+- resultado del build
+- si GitHub Pages quedó activo o si falta algún paso manual

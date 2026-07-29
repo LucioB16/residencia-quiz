@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "q0001",
+    "order": 1,
+    "statement": "Una paciente de 40 años de edad, con antecedentes de esterilidad primaria viene a la consulta para una segunda opinión porque refiere dismenorrea en aumento durante el último año, dispareunia profunda y dolor al defecar durante la menstruación. La ecografía muestra un mioma subseroso de 6cm, quistes ováricos bilaterales con contenido ecogénico denso sin vascularización al Doppler, y un CA 125 de 79. Al tacto hay dolor en el fondo de saco y el útero está fijo. ¿Cuál es el diagnóstico más probable? A- Cáncer de ovario.",
+    "options": [
+      {
+        "id": "b",
+        "text": "Endometriosis.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Tumor dermoide.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Disgerminoma.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0002",
+    "order": 2,
+    "statement": "Mujer de 60 años, que uso durante 6 años etinilestradiol y medroxiprogesterona como terapia de reemplazo hormonal. ¿Cuál de las siguientes complicaciones posibles, pueden deberse al aumento del riesgo absoluto por el uso de TRH?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enfermedad coronaria.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Cáncer de mama.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Cáncer colorrectal.",
+        "isCorrect": false
+      },
+      {
+        "id": "e",
+        "text": "Tromboembolismo pulmonar.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0003",
+    "order": 3,
+    "statement": "¿Cuál neoplasia primaria de la mama es la que representa la mayor incidencia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Carcinoma Lobulillar.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Carcinoma Ductal.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Sarcoma Philoides.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Fibrosarcoma.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0004",
+    "order": 4,
+    "statement": "¿Cuál es la complicación materno fetal más frecuente durante la ruptura prematura de membrana?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Corioamnionitis.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Procidencia de cordón.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cesárea.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Hipertonía uterina.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0005",
+    "order": 5,
+    "statement": "¿Cuál es el tumor benigno de mama más frecuente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fibroadenoma.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Adenoma de pezón.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Papiloma intraductal.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Tumor Philoides.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0006",
+    "order": 6,
+    "statement": "A una gestante a término que ingresa en trabajo de parto se le detectan unas pequeñas vesículas vulvares de herpes simple recidivante. Años antes de la gestación tuvo una primoinfección de herpes genital. ¿Cuál es la conducta a seguir?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hacer una cesárea.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Permitir el parto vaginal y tratar con aciclovir al recién nacido.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "No es necesaria una conducta especial ya que el herpes recidivante no tiene riesgo para el recién nacido.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Tratar inmediatamente las lesiones con ácido tricloroacético y luego permitir el parto vaginal.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0007",
+    "order": 7,
+    "statement": "Un niño de 2 años consulta por fiebre de 6 días de evolución, tiene inyección conjuntival, labios secos y resquebrajados, lengua aframbuesada, adenomegalia submaxilar y exantema macular generalizado. A las 48hs se agrega descamación subungueal. El diagnóstico clínico corresponde a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Escarlatina.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Sarampión.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Síndrome de Kawasaki.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Eritema infeccioso.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0008",
+    "order": 8,
+    "statement": "Consulta paciente varón de 14 años quien refiere dolor sordo leve en zona del testículo izquierdo. Al examinarlo usted nota una tumoración paratesticular que a la palpación recuerda a una bolsa de gusanos. Usted cree que puede corresponder a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Torsión del testículo.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Varicocele.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Hernia inguinal.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Hidrocele.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0009",
+    "order": 9,
+    "statement": "Usted atiende a un escolar de 7 años que presenta desde el día anterior lesiones pápulo-vesiculares en cabeza, cavidad oral, cuello y tronco. Está febril y en buenas condiciones generales. El diagnóstico más probable es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Varicela.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Herpangina.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Prúrigo sobreinfectado.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Gingivoestomatitis herpética.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0010",
+    "order": 10,
+    "statement": "El primer signo visible de inicio de la pubertad en la mujer es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "La presencia de vello pubiano a los 10 años.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "La menarquia.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "El desarrollo del botón mamario en niñas mayores de 8 años.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "El aumento de peso a expensas de hiperplasia del tejido adiposo en la primera etapa de la pubertad.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0011",
+    "order": 11,
+    "statement": "¿Cuál de estas situaciones representa una contraindicación absoluta de lactancia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Plaquetopenia de la madre.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "VIH materno.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Madre hipotiroidea medicada.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Desnutrición materna.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0012",
+    "order": 12,
+    "statement": "Niño de 10 años con episodios breves de distracciones (&lt; 1 minuto) en los que no responde a llamadas y parpadea. Un EEG muestra descargas punta-onda a 3 ciclos por segundo. El tratamiento electivo de primera línea lo haría con:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Valproato.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Carbamacepina.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Fenitoína.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Gabapentina.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0013",
+    "order": 13,
+    "statement": "En un paciente con sospecha de hipertiroidismo primario, ¿qué espera encontrar en el laboratorio?",
+    "options": [
+      {
+        "id": "a",
+        "text": "TSH suprimida, T3, T4 y T4 libre elevadas.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "TSH suprimida, T3, T4 y T4 libre suprimidas.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "TSH elevada, T3, T4 y T4 libre suprimidas.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "TSH normal con T3, T4 y T4 libre elevadas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0014",
+    "order": 14,
+    "statement": "Usted define crisis isquémica transitoria como:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disfunción neurológica transitoria por isquemia sin infarto.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Disfunción neurológica transitoria por isquemia con infarto.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Disfunción neurológica permanente por isquemia con infarto.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Crisis de ausencia sin convulsiones.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0015",
+    "order": 15,
+    "statement": "Durante el examen clínico de un paciente portador de un nódulo tiroideo ¿Cuál sería el algoritmo diagnóstico inicial?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ecografía, TSH y T4.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "PAAF.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Centellografía tiroidea.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "TSH y T4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0016",
+    "order": 16,
+    "statement": "El patrón típico del líquido cefalorraquídeo de un paciente con meningitis bacteriana es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leucocitos aumentados con predominio de polimorfonucleares, hipoglucorraquia, proteínas elevadas y presencia de bacterias.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Sin leucocitos, glucorraquia aumentada, proteinorraquia disminuida.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Leucocitos aumentados con predominio linfocítico, glucorraquia normal, proteinorraquia aumentada y presencia de bacterias.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Leucocitos aumentados con predominio de polimorfonucleares, hipoglucorraquia, proteínas disminuidas y presencia de bacterias.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0017",
+    "order": 17,
+    "statement": "La talasemia se diferencia de la anemia ferropénica porque:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es una anemia microcítica hipocrómica.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Cursa con hierro normal o alto.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Tiene baja saturación de transferrina.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Presenta ferritina baja.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0018",
+    "order": 18,
+    "statement": "En el estadio inicial ¿cuál es la forma de presentación clínica más frecuente de la glomerulonefritis membranosa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Síndrome nefrótico.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Síndrome nefrítico.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Síndrome urémico.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Insuficiencia renal aguda.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0019",
+    "order": 19,
+    "statement": "¿Cuál es el factor etiopatogénico más frecuente de las pancreatitis crónicas?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Idiopática.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Alcoholismo.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Litiasis biliar.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Traumatismos.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0020",
+    "order": 20,
+    "statement": "¿Cuál es la manifestación más frecuente en los pacientes con litiasis biliar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cólico biliar.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Síndrome coledociano.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cáncer de vesícula.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Fístula colecisto-digestiva.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0021",
+    "order": 21,
+    "statement": "Los abscesos perianales se originan frecuentemente en:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Glándulas perianales inter esfinterianas.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Erosiones perianales.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Hemorroides trombosadas.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Enfermedad de Crohn.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0022",
+    "order": 22,
+    "statement": "¿Cuál es el cáncer de tiroides más frecuente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Papilar.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Folicular.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Medular.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Anaplásico.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0023",
+    "order": 23,
+    "statement": "Mujer de 70 años que consulta por cuadro de poco tiempo […] Muestra una intensa pigmentación melánica cutáneo-mucosa […] hiperpotasemia e hipoglucemia. Con estos datos, la sospecha diagnóstica será:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Insulinoma.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Insuficiencia suprarrenal primaria crónica.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Coma mixedematoso.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Crisis tirotóxica.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0024",
+    "order": 24,
+    "statement": "Erupción en alas de mariposa, manifestaciones musculoesqueléticas (artritis, miositis), serositis, hepatoesplenoegalia, pericarditis y signos de afectación neurológica, son manifestaciones de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lupus.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Artritis reumatoidea juvenil.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Dermatomiositis.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Esclerodermia.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0025",
+    "order": 25,
+    "statement": "¿Cuál de los siguientes alimentos puede gatillar anafilaxia en edad pediátrica con más frecuencia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maní y frutos secos.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Verduras de hoja.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Frutos carnosos.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Arroz.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0026",
+    "order": 26,
+    "statement": "Ante un bebé de 1 mes, que súbitamente comienza con vómitos no biliosos, justo luego de ingerir leche, con ictericia leve, cuya madre le relata que después de vomitar el niño se muestra hambriento, usted sospecha:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Estenosis hipertrófica del píloro.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Gastroenteritis aguda.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Invaginación intestinal.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Oclusión intestinal.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0027",
+    "order": 27,
+    "statement": "La carencia de folatos antes y durante el embarazo puede producir en el feto (marcar lo correcto):",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hidrops fetal.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Defectos del tubo neural.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Trastornos hemorrágicos.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Deformidades faciales.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0028",
+    "order": 28,
+    "statement": "La leucocoria en niño es la presentación inicial de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Retinoblastoma.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Condrosarcoma.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Glioma óptico.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Leucemia.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0029",
+    "order": 29,
+    "statement": "¿Cuál de los siguientes hallazgos están presentes en el síndrome de ovario poliquístico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hirsutismo.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Hipertensión arterial.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Disminución de la testosterona.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Hiperplasia suprarrenal.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0030",
+    "order": 30,
+    "statement": "Paciente de 25 años, gestas: 1, paras: 1. Refiere dolor abdominal de comienzo brusco de 3 hs de evolución, fiebre de 38°C, leucorrea escasa con olor fétido verdoso. Refiere utilizar como método anticonceptivo dispositivo intrauterino desde hace 2 años. ¿Qué diagnóstico sospecha?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enfermedad pélvica inflamatoria.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Embarazo ectópico.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Quiste hemorrágico.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Infección urinaria.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0031",
+    "order": 31,
+    "statement": "En una mujer postmenopáusica con hemorragia uterina anormal, la actitud diagnóstica a seguir es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Legrado uterino fraccionado.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Administración de estrógenos y gestágenos y luego legrado.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Administración de gestágenos para controlar la hemorragia.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Hacer histeroscopía solamente.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0032",
+    "order": 32,
+    "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cuando mediare grave peligro para la salud pública.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Cuando mediare una situación de emergencia, con grave peligro para la salud incluso cuando el paciente puede prestar su consentimiento por sí mismo.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cuando el paciente se encuentre en una situación de emergencia, con grave peligro para la salud incluso cuando el paciente no puede expresar su consentimiento, pero si puede hacerlo un pariente.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Cuando el paciente se encuentre con la posibilidad de poder rechazar el tratamiento indicado.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0033",
+    "order": 33,
+    "statement": "En los pacientes son síndrome de Cushing, la causa de muerte más importante es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enfermedad cardiovascular.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Infecciones bacterianas.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Suicidios",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Miopatía proximal.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0034",
+    "order": 34,
+    "statement": "Juan Ignacio cumplió 11 años el 5 de enero y concurre para realizar la ficha médica escolar. ¿Qué vacuna le corresponde aplicarse según las normas vigentes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Anti Papiloma Virus Humano.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Antigripal.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Doble adulto acelular.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Sabin oral.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0035",
+    "order": 35,
+    "statement": "La mayoría de los niños comienzan a caminar de manera independiente a la edad de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entre los 12 y 15 meses.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Entre los 8 y 10 meses.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Entre los 15 y 18 meses.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Entre los 18 y 20 meses.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0036",
+    "order": 36,
+    "statement": "Un niño de dos años ingirió accidentalmente una pila alcalina, tipo botón, hace una hora y por estudio radiográfico se encuentra ubicada en una de las estrecheces fisiológicas del esófago. Usted considera que la conducta terapéutica es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ninguna, ya que no considera que se trate de una situación de riesgo para el paciente.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Indica extracción endoscópica inmediata.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Seguimiento radiológico hasta su eliminación.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Medica con proquinéticos para estimular la contractilidad esofágica y favorecer el pasaje de la pila al estómago.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0037",
+    "order": 37,
+    "statement": "En niños, la causa principal de hipertensión arterial secundaria es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disautonomía.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Hipertensión nefrovascular.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Endocrinopatías.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Drogas o toxinas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0038",
+    "order": 38,
+    "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cuando mediare grave peligro para la salud pública.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Cuando mediare una situación de emergencia, con grave peligro para la salud incluso cuando el paciente puede prestar su consentimiento por sí mismo.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cuando el paciente se encuentra en una situación de emergencia, con grave peligro para la salud incluso cuando el paciente no puede expresar su consentimiento, pero si puede hacerlo un pariente.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Cuando el paciente se encuentra con la posibilidad de poder rechazar el tratamiento indicado.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0039",
+    "order": 39,
+    "statement": "Los abscesos perianales se originan frecuentemente en:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Glándulas perianales interesfinterianas (CORRECTA)",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Erosiones perianales.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Hemorroides trombosadas.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Enfermedad de Crohn.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0040",
+    "order": 40,
+    "statement": "La infección urinaria baja presenta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frecuencia mayor en mujeres. (Correcta)",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Dolor lumbar.\n\n<!-- image -->",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Fiebre mayor a 39°.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Cilindros leucocitarios en orina.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
