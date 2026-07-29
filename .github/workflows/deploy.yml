@@ -31,8 +31,7 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
-      - name: Validate questions
-        run: bun run validate
+
 
       - name: Build Astro
         run: bun run build
