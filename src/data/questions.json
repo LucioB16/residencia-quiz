@@ -7451,6 +7451,1059 @@
   {
     "id": "q0278",
     "order": 278,
+    "statement": "¿Cuál es la manifestación más frecuente en los pacientes con litiasis biliar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cólico biliar.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Síndrome coledociano.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cáncer de vesícula.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Fistula colédoco digestivo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0279",
+    "order": 279,
+    "statement": "Todas las siguientes lesiones son premalignas excepto:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pólipos hiperplásicos aislados.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Adenoma velloso.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Poliposis familiar.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Pseudopolipos en colitis ulcerosa.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0280",
+    "order": 280,
+    "statement": "Las infecciones quirúrgicas forman parte de las más frecuentes infecciones nosocomiales, provocando un incremento notable de la morbimortalidad y de los costos asistenciales y sociales de los pacientes. Hay algunas medidas que consiguen reducir estas infecciones. Indique cual es la mas eficaz:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nutrir al enfermo adecuadamente, ingresándolo para un mejor control en el hospital tres días antes de la intervención.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Darle antibióticos profilácticos de bajo costo antes de todo tipo de intervención.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Evitar las transfusiones.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Reducir todo lo posible la estancia preoperatoria del enfermo, ingresándolo el mismo día de la intervención o como máximo la tarde anterior.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0281",
+    "order": 281,
+    "statement": "La colecistectomía por cirugía videolaparoscópica está contraindicada en:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Colecistitis aguda.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Síndrome coledociano.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Insuficiencia renal.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Sospecha de cáncer de vesícula.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0282",
+    "order": 282,
+    "statement": "¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Perforación de ulcera gástrica.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Perforación de apéndice.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Pancreatitis.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Embarazo ectópico.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0283",
+    "order": 283,
+    "statement": "¿Cuál es el tipo histológico más común en el cancer gástrico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Linfoma.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Adenocarcinoma.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Leiomioma.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Carcinoides.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0284",
+    "order": 284,
+    "statement": "Mujer de 70 años, que consulta por cuadro de poco tiempo de evolución, con intensa astenia, dolor abdominal y vómitos a repetición. Muestra una intensa pigmentación melánica cutáneo mucosa y esta con hipotensión arterial. Se comprueba hiponatremia intensa, con hiperpotasemia e hipoglucemia. Con estos datos, la sospecha diagnostica ser:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Insulinoma.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Insuficiencia suprarrenal primaria crónica.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Coma mixedematoso.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Crisis tirotoxica.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0285",
+    "order": 285,
+    "statement": "¿Cuál es la manifestación clínica más frecuente de los tumores renales?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dolor lumbar.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Hematuria.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Hipercalcemia.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Hipertensión arterial.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0286",
+    "order": 286,
+    "statement": "La anemia perniciosa presenta como característica:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eritrocitos microcíticos e hipocrómicos.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Anticuerpos contra el factor intrínseco de Castle",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Hipertrófica de la mucosa gástrica.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Ausencia de predisposición genética.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0287",
+    "order": 287,
+    "statement": "¿Cuál es el tumor que frecuentemente se asocia a miastenia gravis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cáncer de mama.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Cáncer de colon.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Timoma.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Cáncer de pulmón.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0288",
+    "order": 288,
+    "statement": "Para el diagnostico de artritis gotosa es necesario la identificación de depósitos de cristales intraarticulares. Marque la opción CORRECTA respecto a su composición:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cristales de urato monosódico.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Cristales de pirofosfato de calcio.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cristales de hidroxiapatita.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Cristales de oxalato de calcio.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0289",
+    "order": 289,
+    "statement": "La causa más frecuente de una marcha hemiparetica en las personas mayores de 60 años es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Contusión cerebral.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Tumor cerebral.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Accidente cerebrovascular.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Absceso cerebral.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0290",
+    "order": 290,
+    "statement": "¿Cuál es la cefalea primaria más frecuente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cefalea en racimos.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Cefalea de esfuerzo.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cefalea tensional.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Cefalea ortostática.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0291",
+    "order": 291,
+    "statement": "El trastorno de conducción mas frecuente en la Enfermedad de Chagas es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bloqueo completo de rama izquierda.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Hemibloqueo posterior izquierdo.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Bloqueo completo de rama derecha.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Bloqueo A - V de primer grado.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0292",
+    "order": 292,
+    "statement": "Señale cual de las siguientes recomendaciones profesionales promueve la lactancia materna.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Contacto precoz piel a piel con el recién nacido y lactancia a demanda espontanea.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Lactancia por 10 minutos de cada pecho cada 3 o 4 horas.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Complementar con biberones por la noche para mejorar el descanso de la madre.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Extracción de leche para evitar la ingurgitación mamaria y administrársela con biberón.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0293",
+    "order": 293,
+    "statement": "Hasta que edad recomienda lactancia materna exclusiva la Organización Mundial de la Salud.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hasta los 2 meses.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Hasta los 4 meses.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Hasta los 6 meses.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Hasta los 12 meses.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0294",
+    "order": 294,
+    "statement": "Según el CALENDARIO vigente en Argentina, la vacuna triple viral se administra:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Solo a los 12 meses.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "A los 18 meses y a los 15 años.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "A los 12 meses y a los 6 años.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Depende del posible riesgo de epidemia de varicela.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0295",
+    "order": 295,
+    "statement": "Niño de 2 meses que acude a urgencias por tos emetizante, con antecedentes de congestión de vías aéreas superiores y episodios de apnea con cianosis. No a presentado fiebre. ¿Cuál es el agente etiológico más probable de este cuadro?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Virus Respiratorio Sincitial.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Influenza.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Rinovirus.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Bordetella pertussis.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0296",
+    "order": 296,
+    "statement": "Niño de 7 meses de edad, con deshidratación debido a vómitos y diarrea, presenta los siguientes resultados de laboratorio. Sodio 137mEq/L; Potasio 5,6 mEq/L; pH 7,20; pCO2 25 mmHg; CO3H 11 mEq/L; EB - 19 mEq/L; Lactato 5,3 mEq/L; ¿Cuál es la valoración metabólica de la deshidratación que presenta este paciente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deshidratación isotónica con acidosis mixta.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Deshidratación hipotónica con acidosis metabólica.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Deshidratación isotónica con acidosis metabólica.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Deshidratación hipertónica con acidosis metabólica.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0297",
+    "order": 297,
+    "statement": "Con respecto a las convulsiones febriles típicas:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Puede ocasionar secuelas.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Se presentan entre los 6 meses y los 6 años.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Debe medicarse con fenobarbital hasta los 6 años.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Ocurren una sola vez en la vida.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0298",
+    "order": 298,
+    "statement": "Señale cuál de las siguientes vacunar requiere, antes de su aplicación, conocer el grado de inmunosupresión en pacientes con infección por HIV.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vacuna Triple Bacteriana.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Vacuna Antipolio (IPV).",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Vacuna Anti-Hepatitis B.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Vacuna Triple Viral.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0299",
+    "order": 299,
+    "statement": "Niño de 6 años que comienza hace 24 hs con fiebre, dolor de garganta y vómitos. Hoy presenta exantemas en cara y tronco, micropapular rojo, rugoso al tacto con lengua saburral, sin adenomegalia, usted piensa en:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sarampión.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Rubeola.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Escarlatina.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Mononucleosis Infecciosa.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0300",
+    "order": 300,
+    "statement": "¿En qué consiste el Plan A para tratar un lactante con diarrea sin deshidratación, en la terapia de rehidratación oral (TRO)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Administrar Sales de Rehidratación Oral (SRO) en un plan de 4 a 5 horas.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Continuar con la alimentación habitual, dar mas liquido que lo habitual, ofrecer SRO después de cada deposición diarreica y reconocer signos de alarma.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Continuar con la alimentación habitual y concurrir a control a las 48 hs.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Internación urgente del paciente con rehidratación parenteral exclusiva.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0301",
+    "order": 301,
+    "statement": "¿La aparición de Kernicterus del Recién Nacido se asocia con cual de estas patologías?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Infección connatal.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Rotura prematura y precoz de membranas.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Hiperbilirrubinemia por incompatibilidad sanguínea materno-fetal.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Diabetes gestacional.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0302",
+    "order": 302,
+    "statement": "La localización mas frecuente del embarazo ectópico es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Porción ístmica de la trompa.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Porción intersticial de la trompa.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Porción ampular de la trompa.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Porción intramural.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0303",
+    "order": 303,
+    "statement": "¿Cuál de las siguientes malformaciones congénitas se asocia con el déficit de ácido fólico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Malformaciones retinianas.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Acondroplasia.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Defectos del tubo neural.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Cretinismo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0304",
+    "order": 304,
+    "statement": "De todas las masas anexiales malignas diagnosticadas en el embarazo, la mas frecuente es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Disgerminoma.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Cistoadenocarcinoma seroso.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cistoadenocarcinoma mucinoso.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Tumor de células granulosas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0305",
+    "order": 305,
+    "statement": "La medicación local mas efectiva indicada ante el prurito vulvar por liquen escleroso es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Estrógenos.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Progesterona.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Estrógenos conjugados equinos.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Corticoides locales.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0306",
+    "order": 306,
+    "statement": "Paciente de 35 años cursando embarazo de 32 semanas de gestación, consulta a la guardia con genitorragia, al examen físico se constata: TA 180/120, hipertonía uterina, latidos cardiofetales 100x'. Cual seria la conducta correcta:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Estabilización de la TA y monitoreo fetal.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Solicita laboratorio con perfil de preeclampsia y ecografía Doppler.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cesárea de urgencia",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Internación en UTI para completar maduración pulmonar con estricto control de TA.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0307",
+    "order": 307,
+    "statement": "Paciente de 25 años, gestas 1, paras 1. Refiere dolor abdominal de comienzo brusco de 3 hs de evolución, fiebre de 38 ̊C, leucorrea escasa con olor fétido verdoso. ¿Qué diagnostico sospecha?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Enfermedad Pélvica Inflamatoria.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Embarazo Ectópico.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Quiste hemorrágico.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Infección Urinaria.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0308",
+    "order": 308,
+    "statement": "Señale de los siguientes cual es un hito anormal durante el primer año de vida.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Desaparición del reflejo de moro luego del primer mes de vida.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Sostén cefálico completo al sexto mes de vida.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Reflejo tónico del cuello (postura de espadachín) persistente hasta el séptimo mes.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Reflejo de búsqueda en el primer trimestre.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0309",
+    "order": 309,
+    "statement": "Paciente de 4 años de edad que consulta por diarrea aguda, amaurosis aguda e hipertensión arterial, se objetivan lesiones impetiginizadas en piel, su sospecha diagnostica es:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Migraña compleja.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Glomerulonefritis.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Tumor cerebral.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Endocarditis bacteriana.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0310",
+    "order": 310,
+    "statement": "El cuadro clínico caracterizado por fiebre, aftas orales y vesículas en manos y pies, es producido por el siguiente agente etiológico:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parvovirus B 19.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Virus Herpes Simple.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Virus Herpes Humano 6 y 7.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Enterovirus no polio.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0311",
+    "order": 311,
+    "statement": "¿Cuál de las siguientes definiciones corresponde al termino metrorragia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hemorragia proveniente del útero sin relación con el ciclo.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Hemorragia proveniente de cualquier lugar del tracto genital sin relación con el ciclo.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Hemorragia en relación con el ciclo.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Perdida sanguínea postcoital.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0312",
+    "order": 312,
+    "statement": "¿Cuál de los siguientes patrones hormonales de las postmenopáusicas es más probable en una mujer de 65 años?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gonadotrofinas disminuidas, y estrógenos y progesterona disminuidas.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Gonadotrofinas disminuidas, y progesterona elevada.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Gonadotrofinas elevadas, y hormonas ováricas disminuidas.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Gonadotrofinas elevadas, estrógenos y progesterona elevadas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0313",
+    "order": 313,
+    "statement": "Paciente de 70 años de edad con tumor palpable en cuadrante superoexterno de mama derecha, asociado en la mamografía a imagen de bordes espiculados y microcalcificaciones. Usted debe pensar en:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fibroadenoma de mama.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Enfermedad de Paget.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Displasia mamaria severa.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Cáncer de mama.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0314",
+    "order": 314,
+    "statement": "Se entiende por consentimiento informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada con respecto a:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Su estado de salud.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Su estado de salud, el procedimiento propuesto con especificación de los objetivos perseguidos.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Su estado de salud, el procedimiento propuesto con especificación de los objetivos perseguidos; los beneficios esperados del procedimiento; los riesgos, molestias y efectos previsibles.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Su estado de salud, el procedimiento propuesto con especificación de los objetivos perseguidos; los beneficios esperados del procedimiento; los riesgos, molestias y efectos previsibles; la especificación de los procedimientos alternativos y sus riesgos y las consecuencias previsibles de la no realización del procedimiento propuesto o de los alternativos especificados.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0315",
+    "order": 315,
+    "statement": "Uno de los derechos del paciente es la 'Autonomía de la Voluntad', esto le permite al paciente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aceptar o rechazar determinadas terapias o procedimientos médicos o biológicos, con o sin expresión de causa.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Solicitar al profesional de la salud la destrucción total de la historia clínica la cual el paciente es el titular.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "En caso de extrema gravedad y situación de emergencia del paciente, imponerle al medico que interviene un tratamiento determinado sobre su cuerpo.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Solicitarle al medico medicamentos que no corresponden con ningún diagnostico determinado realizado en el paciente.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0316",
+    "order": 316,
+    "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cuando mediare grave peligro para la salud pública.",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "Cuando mediare una situación de emergencia, con grave peligro para la salud incluso cuando el paciente pueda presentar su consentimiento por si mismo.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Cuando mediare una situación de emergencia, con grave peligro para la salud incluso cuando el paciente no pueda presentar su consentimiento, pero si puede hacerlo un pariente.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Cuando el paciente se encuentre con la posibilidad de poder rechazar tratamiento indicados.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0317",
+    "order": 317,
     "statement": "¿De quién es rama la arteria cística?",
     "options": [
       {
@@ -7471,8 +8524,8 @@
     ]
   },
   {
-    "id": "q0279",
-    "order": 279,
+    "id": "q0318",
+    "order": 318,
     "statement": "¿Qué arteria irriga al nodulo AV en el 90% de los casos?",
     "options": [
       {
@@ -7498,8 +8551,8 @@
     ]
   },
   {
-    "id": "q0280",
-    "order": 280,
+    "id": "q0319",
+    "order": 319,
     "statement": "Caso de un niño de 12 años con dolor agudo testicular y ausencia de reflejo cremasteriano",
     "options": [
       {
@@ -7525,8 +8578,8 @@
     ]
   },
   {
-    "id": "q0281",
-    "order": 281,
+    "id": "q0320",
+    "order": 320,
     "statement": "Causa más frecuente de hemoptisis",
     "options": [
       {
@@ -7552,8 +8605,8 @@
     ]
   },
   {
-    "id": "q0282",
-    "order": 282,
+    "id": "q0321",
+    "order": 321,
     "statement": "Madre consumidora de cocaína efectos sobre el feto",
     "options": [
       {
@@ -7579,8 +8632,8 @@
     ]
   },
   {
-    "id": "q0283",
-    "order": 283,
+    "id": "q0322",
+    "order": 322,
     "statement": "Agua que tiene altos contenido de nitritos, consecuencias",
     "options": [
       {
@@ -7606,8 +8659,8 @@
     ]
   },
   {
-    "id": "q0284",
-    "order": 284,
+    "id": "q0323",
+    "order": 323,
     "statement": "¿Cuál de las siguientes drogas puede generar hiperkalemia?",
     "options": [
       {
@@ -7633,8 +8686,8 @@
     ]
   },
   {
-    "id": "q0285",
-    "order": 285,
+    "id": "q0324",
+    "order": 324,
     "statement": "Unión escamo columnar tipo 1 que significa",
     "options": [
       {
@@ -7660,8 +8713,8 @@
     ]
   },
   {
-    "id": "q0286",
-    "order": 286,
+    "id": "q0325",
+    "order": 325,
     "statement": "Niño de 16 años afebril con ataxia, cefalea y vómitos matutinos",
     "options": [
       {
@@ -7687,8 +8740,8 @@
     ]
   },
   {
-    "id": "q0287",
-    "order": 287,
+    "id": "q0326",
+    "order": 326,
     "statement": "ECG  con hipokalemia",
     "options": [
       {
@@ -7709,8 +8762,8 @@
     ]
   },
   {
-    "id": "q0288",
-    "order": 288,
+    "id": "q0327",
+    "order": 327,
     "statement": "Todas las siguientes están presentes en la acalasia excepto",
     "options": [
       {
@@ -7736,8 +8789,8 @@
     ]
   },
   {
-    "id": "q0289",
-    "order": 289,
+    "id": "q0328",
+    "order": 328,
     "statement": "Componente más importante de las hernias inguinales",
     "options": [
       {
@@ -7763,8 +8816,8 @@
     ]
   },
   {
-    "id": "q0290",
-    "order": 290,
+    "id": "q0329",
+    "order": 329,
     "statement": "¿Cuándo se pueden objetivar los LCF en la ecografía transvaginal?",
     "options": [
       {
@@ -7790,8 +8843,8 @@
     ]
   },
   {
-    "id": "q0291",
-    "order": 291,
+    "id": "q0330",
+    "order": 330,
     "statement": "Ca renal mas frecuente (no esta el de celulas claras)",
     "options": [
       {
@@ -7817,8 +8870,8 @@
     ]
   },
   {
-    "id": "q0292",
-    "order": 292,
+    "id": "q0331",
+    "order": 331,
     "statement": "tto giardiasis:",
     "options": [
       {
@@ -7834,8 +8887,8 @@
     ]
   },
   {
-    "id": "q0293",
-    "order": 293,
+    "id": "q0332",
+    "order": 332,
     "statement": "tto ascariasis no complicada:",
     "options": [
       {
@@ -7851,8 +8904,8 @@
     ]
   },
   {
-    "id": "q0294",
-    "order": 294,
+    "id": "q0333",
+    "order": 333,
     "statement": "Cuando se diagnostica en ecografia el embarazo gemelar:",
     "options": [
       {
@@ -7873,8 +8926,8 @@
     ]
   },
   {
-    "id": "q0295",
-    "order": 295,
+    "id": "q0334",
+    "order": 334,
     "statement": "En que caso se ve en eco el 'estomago pequeño' en el feto",
     "options": [
       {
@@ -7900,8 +8953,8 @@
     ]
   },
   {
-    "id": "q0296",
-    "order": 296,
+    "id": "q0335",
+    "order": 335,
     "statement": "Origen embriologico del útero",
     "options": [
       {
@@ -7917,8 +8970,8 @@
     ]
   },
   {
-    "id": "q0297",
-    "order": 297,
+    "id": "q0336",
+    "order": 336,
     "statement": "el aleron anterior del ligamento ancho esta constituido por:",
     "options": [
       {
@@ -7939,8 +8992,8 @@
     ]
   },
   {
-    "id": "q0298",
-    "order": 298,
+    "id": "q0337",
+    "order": 337,
     "statement": "cual de todos estos farmacos provoca ginecomastia como ram:",
     "options": [
       {
@@ -7961,8 +9014,8 @@
     ]
   },
   {
-    "id": "q0299",
-    "order": 299,
+    "id": "q0338",
+    "order": 338,
     "statement": "Caso de hombre con hipersecreción y miosis. Estuvo haciendo trabajo en jardinería. Intoxicacion por:",
     "options": [
       {
@@ -7983,8 +9036,8 @@
     ]
   },
   {
-    "id": "q0300",
-    "order": 300,
+    "id": "q0339",
+    "order": 339,
     "statement": "diámetro mas grande del estrecho superior",
     "options": [
       {
@@ -8010,8 +9063,8 @@
     ]
   },
   {
-    "id": "q0301",
-    "order": 301,
+    "id": "q0340",
+    "order": 340,
     "statement": "Niño con hemofilia por deficiencia de favtor VIII grave, sufre caida de bicicleta, sin perdida de conocimiento, solo hematoma en cabeza, que hacer:",
     "options": [
       {
@@ -8037,8 +9090,8 @@
     ]
   },
   {
-    "id": "q0302",
-    "order": 302,
+    "id": "q0341",
+    "order": 341,
     "statement": "Que pedis cuando sospechas adenomiosis?",
     "options": [
       {
@@ -8059,8 +9112,8 @@
     ]
   },
   {
-    "id": "q0303",
-    "order": 303,
+    "id": "q0342",
+    "order": 342,
     "statement": "Factor de riesgo para enfermedad coronaria",
     "options": [
       {
@@ -8081,8 +9134,8 @@
     ]
   },
   {
-    "id": "q0304",
-    "order": 304,
+    "id": "q0343",
+    "order": 343,
     "statement": "Con respecto a abdomen agudo marcar correcta:",
     "options": [
       {
@@ -8103,8 +9156,8 @@
     ]
   },
   {
-    "id": "q0305",
-    "order": 305,
+    "id": "q0344",
+    "order": 344,
     "statement": "Signo o sintoma mas especifico en niño al que se le sospecha diagnostico de neumonia?",
     "options": [
       {
@@ -8125,8 +9178,8 @@
     ]
   },
   {
-    "id": "q0306",
-    "order": 306,
+    "id": "q0345",
+    "order": 345,
     "statement": "la anteroversion del utero se refiere a:",
     "options": [
       {
@@ -8147,8 +9200,8 @@
     ]
   },
   {
-    "id": "q0307",
-    "order": 307,
+    "id": "q0346",
+    "order": 346,
     "statement": "El dolor de la fisura anal es",
     "options": [
       {
@@ -8174,8 +9227,8 @@
     ]
   },
   {
-    "id": "q0308",
-    "order": 308,
+    "id": "q0347",
+    "order": 347,
     "statement": "Causa mas frecuente de proctorragia en el adulto",
     "options": [
       {
@@ -8191,8 +9244,8 @@
     ]
   },
   {
-    "id": "q0309",
-    "order": 309,
+    "id": "q0348",
+    "order": 348,
     "statement": "paciente diabetico que consulta por parestesias bilaterales, calambres, etc, diagnostico?:",
     "options": [
       {
@@ -8208,8 +9261,8 @@
     ]
   },
   {
-    "id": "q0310",
-    "order": 310,
+    "id": "q0349",
+    "order": 349,
     "statement": "Forma de presentacion mas frecuente del cancer renal",
     "options": [
       {
@@ -8225,8 +9278,8 @@
     ]
   },
   {
-    "id": "q0311",
-    "order": 311,
+    "id": "q0350",
+    "order": 350,
     "statement": "Paciente joven sin antecedentes, se diagnostica colelitiasis, conducta:",
     "options": [
       {
@@ -8242,8 +9295,8 @@
     ]
   },
   {
-    "id": "q0312",
-    "order": 312,
+    "id": "q0351",
+    "order": 351,
     "statement": "Niño de 9 meses con dolor abdominal, letargo, llora y se calma, deposición roja oscura:",
     "options": [
       {
@@ -8259,8 +9312,8 @@
     ]
   },
   {
-    "id": "q0313",
-    "order": 313,
+    "id": "q0352",
+    "order": 352,
     "statement": "Aporte nutricional a un niño con desnutricion moderada, cuantas calorias diarias y proteinas hay que darle.",
     "options": [
       {
@@ -8286,8 +9339,8 @@
     ]
   },
   {
-    "id": "q0314",
-    "order": 314,
+    "id": "q0353",
+    "order": 353,
     "statement": "A que se asocia la esplenectomia:",
     "options": [
       {
@@ -8313,8 +9366,8 @@
     ]
   },
   {
-    "id": "q0315",
-    "order": 315,
+    "id": "q0354",
+    "order": 354,
     "statement": "Primer parametro que disminuye en anemia ferropenica",
     "options": [
       {
@@ -8340,8 +9393,8 @@
     ]
   },
   {
-    "id": "q0316",
-    "order": 316,
+    "id": "q0355",
+    "order": 355,
     "statement": "Principal consulta de niñas:",
     "options": [
       {
@@ -8367,8 +9420,8 @@
     ]
   },
   {
-    "id": "q0317",
-    "order": 317,
+    "id": "q0356",
+    "order": 356,
     "statement": "Principal motivo de consulta en cancer esofagico",
     "options": [
       {
@@ -8384,8 +9437,8 @@
     ]
   },
   {
-    "id": "q0318",
-    "order": 318,
+    "id": "q0357",
+    "order": 357,
     "statement": "Si consulta un anciano con clinica de sindrome pilorico cual es la causa que pensas:",
     "options": [
       {
@@ -8401,8 +9454,8 @@
     ]
   },
   {
-    "id": "q0319",
-    "order": 319,
+    "id": "q0358",
+    "order": 358,
     "statement": "Que es lo primero que solicitas cuando sospechas colestasis",
     "options": [
       {
@@ -8423,8 +9476,8 @@
     ]
   },
   {
-    "id": "q0320",
-    "order": 320,
+    "id": "q0359",
+    "order": 359,
     "statement": "Cuando sospechas que hay sinusitis (esta en otros pregunteros)",
     "options": [
       {
@@ -8440,8 +9493,8 @@
     ]
   },
   {
-    "id": "q0321",
-    "order": 321,
+    "id": "q0360",
+    "order": 360,
     "statement": "Cefalea en pediatria tipo en racimos, pensar:",
     "options": [
       {
@@ -8467,8 +9520,8 @@
     ]
   },
   {
-    "id": "q0322",
-    "order": 322,
+    "id": "q0361",
+    "order": 361,
     "statement": "Acalasia se define por:",
     "options": [
       {
@@ -8489,8 +9542,8 @@
     ]
   },
   {
-    "id": "q0323",
-    "order": 323,
+    "id": "q0362",
+    "order": 362,
     "statement": "Sintoma mas frecuente de hipertiroidismo:",
     "options": [
       {
@@ -8516,8 +9569,8 @@
     ]
   },
   {
-    "id": "q0324",
-    "order": 324,
+    "id": "q0363",
+    "order": 363,
     "statement": "Signo de parkinson:",
     "options": [
       {
@@ -8538,8 +9591,8 @@
     ]
   },
   {
-    "id": "q0325",
-    "order": 325,
+    "id": "q0364",
+    "order": 364,
     "statement": "Que se afecta en la desnutricion aguda",
     "options": [
       {
@@ -8565,8 +9618,8 @@
     ]
   },
   {
-    "id": "q0326",
-    "order": 326,
+    "id": "q0365",
+    "order": 365,
     "statement": "Peritonitis bacteriana espontanea, en quienes se presenta?",
     "options": [
       {
@@ -8582,8 +9635,8 @@
     ]
   },
   {
-    "id": "q0327",
-    "order": 327,
+    "id": "q0366",
+    "order": 366,
     "statement": "Arteria ovarica: Aorta\n- 51: Factor de riesgo para placenta acreta",
     "options": [
       {
@@ -8599,8 +9652,8 @@
     ]
   },
   {
-    "id": "q0328",
-    "order": 328,
+    "id": "q0367",
+    "order": 367,
     "statement": "Itu baja se caracteriza por:",
     "options": [
       {
@@ -8621,8 +9674,8 @@
     ]
   },
   {
-    "id": "q0329",
-    "order": 329,
+    "id": "q0368",
+    "order": 368,
     "statement": "Que le solicitas a una mujer con feto muerto y retenido",
     "options": [
       {
@@ -8643,8 +9696,8 @@
     ]
   },
   {
-    "id": "q0330",
-    "order": 330,
+    "id": "q0369",
+    "order": 369,
     "statement": "Que hacer en un paciente con HDA activa?",
     "options": [
       {
@@ -8665,8 +9718,8 @@
     ]
   },
   {
-    "id": "q0331",
-    "order": 331,
+    "id": "q0370",
+    "order": 370,
     "statement": "Con que hb se diagnostica anemia en la embarazada",
     "options": [
       {
@@ -8692,8 +9745,8 @@
     ]
   },
   {
-    "id": "q0332",
-    "order": 332,
+    "id": "q0371",
+    "order": 371,
     "statement": "Embarazada primer control con glucemia en ayunas menos de 100 mg/dl, sin factores de riesgo, que hacer",
     "options": [
       {
@@ -8714,8 +9767,8 @@
     ]
   },
   {
-    "id": "q0333",
-    "order": 333,
+    "id": "q0372",
+    "order": 372,
     "statement": "Niño con mucosas semihumedas, sediento, examen fisico normal",
     "options": [
       {
@@ -8736,8 +9789,8 @@
     ]
   },
   {
-    "id": "q0334",
-    "order": 334,
+    "id": "q0373",
+    "order": 373,
     "statement": "Cuando esta conraindicada la colecistectomia por video:",
     "options": [
       {
@@ -8758,8 +9811,8 @@
     ]
   },
   {
-    "id": "q0335",
-    "order": 335,
+    "id": "q0374",
+    "order": 374,
     "statement": "Complicacion mas frecuente en todas las tiroidectomias:",
     "options": [
       {
@@ -8775,8 +9828,8 @@
     ]
   },
   {
-    "id": "q0336",
-    "order": 336,
+    "id": "q0375",
+    "order": 375,
     "statement": "Los abscesos perianales se originan frecuentemente en:",
     "options": [
       {
@@ -8802,8 +9855,8 @@
     ]
   },
   {
-    "id": "q0337",
-    "order": 337,
+    "id": "q0376",
+    "order": 376,
     "statement": "La infección urinaria baja presenta:",
     "options": [
       {
@@ -8829,8 +9882,8 @@
     ]
   },
   {
-    "id": "q0338",
-    "order": 338,
+    "id": "q0377",
+    "order": 377,
     "statement": "¿Por qué se caracterizan las QUEMADURAS DE TIPO A o de 1° Grado?",
     "options": [
       {
@@ -8856,8 +9909,35 @@
     ]
   },
   {
-    "id": "q0339",
-    "order": 339,
+    "id": "q0378",
+    "order": 378,
+    "statement": "¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Perforación de ulcera gástrica.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Perforación de apéndice.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Pancreatitis (correcta)",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Embarazo ectópico.\n- 93 Caso de paciente con cuerpo extraño en vía aérea, como se presentaba: sensación de ahogo, tos",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0379",
+    "order": 379,
     "statement": "El edema en esclavina es característico de:",
     "options": [
       {
@@ -8883,8 +9963,8 @@
     ]
   },
   {
-    "id": "q0340",
-    "order": 340,
+    "id": "q0380",
+    "order": 380,
     "statement": "¿Cuál de éstos es criterio de posible benignidad en una lesión pigmentada melanocítica?",
     "options": [
       {
@@ -8900,8 +9980,8 @@
     ]
   },
   {
-    "id": "q0341",
-    "order": 341,
+    "id": "q0381",
+    "order": 381,
     "statement": "Usted siendo profesional de la salud ¿Quién tiene permitido solicitarle una historia clínica?",
     "options": [
       {
@@ -8927,8 +10007,8 @@
     ]
   },
   {
-    "id": "q0342",
-    "order": 342,
+    "id": "q0382",
+    "order": 382,
     "statement": "Uno de los derechos del paciente es la 'Autonomía de la Voluntad', esto le permite al paciente:",
     "options": [
       {
