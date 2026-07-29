@@ -8,7 +8,7 @@
     "convert": "node ./scripts/convert-questions.mjs",
     "validate": "node ./scripts/validate-questions.mjs",
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "bun run validate && astro build",
     "preview": "astro preview"
   },
   "dependencies": {
