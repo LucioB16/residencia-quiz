@@ -10,8 +10,9 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 ## Conteo Por Tipo De Problema
 
 - `correct_count_0`: 68
-- `correct_count_2`: 8
+- `correct_count_2`: 7
 - `correct_count_25`: 1
+- `correct_count_3`: 1
 - `correct_count_4`: 2
 - `correct_count_8`: 1
 - `correct_count_9`: 1
@@ -20,7 +21,8 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 - `duplicate_option_ids_a_d_b_c`: 1
 - `duplicate_option_ids_b`: 1
 - `duplicate_option_ids_b_c_d_a`: 1
-- `duplicate_option_ids_d`: 4
+- `duplicate_option_ids_d`: 3
+- `duplicate_option_ids_e_d`: 1
 - `no_options`: 213
 - `option_count_1`: 3
 
@@ -35,12 +37,12 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 | 5 | 2016 Examen LISTO.pdf.md | 29 | 326 | 0 | 0 | no_options | ¿? |
 | 6 | 2016 Examen LISTO.pdf.md | 33 | 366 | 3 | 0 | correct_count_0 | - 33) Usted atiende a un escolar de 7 años que presenta desde el día anterior lesiones pápulo-vesiculares en cabeza, cavidad oral, cuello y tronco. Está febril y en buenas condiciones generales. El diagnóstico más probable es: |
 | 7 | 2016 Examen LISTO.pdf.md | 43 | 488 | 3 | 0 | correct_count_0 | - 43) Niño de 10 años con episodios breves de distracciones (&lt; 1 minuto) en los que no responde a llamadas y parpadea. Un EEG muestra descargas punta-onda a 3 ciclos por segundo. El tratamiento electivo de primera línea lo haría con: |
-| 8 | 2016 Examen LISTO.pdf.md | 53 | 606 | 6 | 2 | correct_count_2, duplicate_option_ids_d | - 53) Una paciente de 64 años, diabética y depresiva, cumple tratamiento con 5mg de glibenclamida y 75mg de amitriptilina, presenta depresión del sensorio. ¿Cuál sería el primer diagnóstico a considerar? |
-| 9 | 2016 Examen LISTO.pdf.md | 60 | 692 | 3 | 0 | correct_count_0 | - 60) En un paciente con sospecha de hipertiroidismo primario, ¿qué espera encontrar en el laboratorio? |
-| 10 | 2016 Examen LISTO.pdf.md | 62 | 716 | 3 | 0 | correct_count_0 | - 62) Usted define crisis isquémica transitoria como: |
-| 11 | 2016 Examen LISTO.pdf.md | 64 | 740 | 3 | 0 | correct_count_0 | - 64) Durante el examen clínico de un paciente portador de un nódulo tiroideo ¿Cuál sería el algoritmo diagnóstico inicial? |
-| 12 | 2016 Examen LISTO.pdf.md | 65 | 752 | 3 | 0 | correct_count_0 | - 65) El patrón típico del líquido cefalorraquídeo de un paciente con meningitis bacteriana es: |
-| 13 | 2016 Examen LISTO.pdf.md | 70 | 812 | 3 | 0 | correct_count_0 | 70) En el estadio inicial ¿cuál es la forma de presentación clínica más frecuente de la glomerulonefritis membranosa? |
+| 8 | 2016 Examen LISTO.pdf.md | 53 | 606 | 8 | 2 | correct_count_2, duplicate_option_ids_e_d | - 53) Una paciente de 64 años, diabética y depresiva, cumple tratamiento con 5mg de glibenclamida y 75mg de amitriptilina, presenta depresión del sensorio. ¿Cuál sería el primer diagnóstico a considerar? |
+| 9 | 2016 Examen LISTO.pdf.md | 60 | 696 | 3 | 0 | correct_count_0 | - 60) En un paciente con sospecha de hipertiroidismo primario, ¿qué espera encontrar en el laboratorio? |
+| 10 | 2016 Examen LISTO.pdf.md | 62 | 720 | 3 | 0 | correct_count_0 | - 62) Usted define crisis isquémica transitoria como: |
+| 11 | 2016 Examen LISTO.pdf.md | 64 | 744 | 3 | 0 | correct_count_0 | - 64) Durante el examen clínico de un paciente portador de un nódulo tiroideo ¿Cuál sería el algoritmo diagnóstico inicial? |
+| 12 | 2016 Examen LISTO.pdf.md | 65 | 756 | 3 | 0 | correct_count_0 | - 65) El patrón típico del líquido cefalorraquídeo de un paciente con meningitis bacteriana es: |
+| 13 | 2016 Examen LISTO.pdf.md | 70 | 816 | 3 | 0 | correct_count_0 | 70) En el estadio inicial ¿cuál es la forma de presentación clínica más frecuente de la glomerulonefritis membranosa? |
 | 14 | 2017 Examen LISTO.pdf.md | 4 | 41 | 3 | 0 | correct_count_0 | - 4) ¿Cuál es la manifestación más frecuente en los pacientes con litiasis biliar? |
 | 15 | 2017 Examen LISTO.pdf.md | 18 | 208 | 3 | 0 | correct_count_0 | - 18) Los abscesos perianales se originan frecuentemente en: |
 | 16 | 2017 Examen LISTO.pdf.md | 22 | 256 | 3 | 0 | correct_count_0 | - 22) ¿Cuál es el cáncer de tiroides más frecuente? |
@@ -52,10 +54,10 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 | 22 | 2017 Examen LISTO.pdf.md | 70 | 828 | 3 | 0 | correct_count_0 | 70) La leucocoria en niño es la presentación inicial de: |
 | 23 | 2017 Examen LISTO.pdf.md | 74 | 876 | 3 | 0 | correct_count_0 | - 74) ¿Cuál de los siguientes hallazgos están presentes en el síndrome de ovario poliquístico? |
 | 24 | 2017 Examen LISTO.pdf.md | 78 | 924 | 3 | 0 | correct_count_0 | 78) Paciente de 25 años, gestas: 1, paras: 1. Refiere dolor abdominal de comienzo brusco de 3 hs de evolución, fiebre de 38°C, leucorrea escasa con olor fétido verdoso. Refiere utilizar como método anticonceptivo dispositivo intrauterino desde hace 2 años. ¿Qué diagnóstico sospecha? |
-| 25 | 2017 Examen LISTO.pdf.md | 84 | 996 | 5 | 2 | correct_count_2, duplicate_option_ids_d | - 84) La medicación local más efectiva indicada ante el prurito vulvar por liquen escleroso es: |
-| 26 | 2017 Examen LISTO.pdf.md | 93 | 1104 | 3 | 0 | correct_count_0 | - 93) En una mujer postmenopáusica con hemorragia uterina anormal, la actitud diagnóstica a seguir es: |
-| 27 | 2017 Examen LISTO.pdf.md | 97 | 1152 | 3 | 0 | correct_count_0 | - 97) ¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente? |
-| 28 | 2017 Examen LISTO.pdf.md | 100 | 1188 | 4 | 2 | correct_count_2 | 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada respecto a: |
+| 25 | 2017 Examen LISTO.pdf.md | 84 | 996 | 6 | 3 | correct_count_3, duplicate_option_ids_d | - 84) La medicación local más efectiva indicada ante el prurito vulvar por liquen escleroso es: |
+| 26 | 2017 Examen LISTO.pdf.md | 93 | 1106 | 3 | 0 | correct_count_0 | - 93) En una mujer postmenopáusica con hemorragia uterina anormal, la actitud diagnóstica a seguir es: |
+| 27 | 2017 Examen LISTO.pdf.md | 97 | 1154 | 3 | 0 | correct_count_0 | - 97) ¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente? |
+| 28 | 2017 Examen LISTO.pdf.md | 100 | 1190 | 4 | 2 | correct_count_2 | 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada respecto a: |
 | 29 | 2018 Examen LISTO.pdf.md | 32 | 269 | 5 | 1 | duplicate_option_ids_d | - 32) ¿Cuál es la causa más frecuente de meningitis aséptica? |
 | 30 | 2018 Examen LISTO.pdf.md | 36 | 316 | 3 | 0 | correct_count_0 | 36) En los pacientes son síndrome de Cushing, la causa de muerte más importante es: |
 | 31 | 2018 Examen LISTO.pdf.md | 65 | 656 | 3 | 0 | correct_count_0 | - 65) Juan Ignacio cumplió 11 años el 5 de enero y concurre para realizar la ficha médica escolar. ¿Qué vacuna le corresponde aplicarse según las normas vigentes? |
@@ -481,9 +483,9 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 53
 - Linea inicial: 606
-- Opciones detectadas: 6
+- Opciones detectadas: 8
 - Marcadores `## `: 2
-- Problemas: `correct_count_2`, `duplicate_option_ids_d`
+- Problemas: `correct_count_2`, `duplicate_option_ids_e_d`
 
 ~~~markdown
 - 53) Una paciente de 64 años, diabética y depresiva, cumple tratamiento con 5mg de glibenclamida y 75mg de amitriptilina, presenta depresión del sensorio. ¿Cuál sería el primer diagnóstico a considerar?
@@ -498,6 +500,10 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - E- Hipoglucemia.
 
+- E- Hipoglucemia.
+
+- E- Hipoglucemia.
+
 - D- Ninguna de las anteriores. **[CORRECTA]**
 ~~~
 
@@ -505,7 +511,7 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 60
-- Linea inicial: 692
+- Linea inicial: 696
 - Opciones detectadas: 3
 - Marcadores `## `: 0
 - Problemas: `correct_count_0`
@@ -528,7 +534,7 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 62
-- Linea inicial: 716
+- Linea inicial: 720
 - Opciones detectadas: 3
 - Marcadores `## `: 0
 - Problemas: `correct_count_0`
@@ -551,7 +557,7 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 64
-- Linea inicial: 740
+- Linea inicial: 744
 - Opciones detectadas: 3
 - Marcadores `## `: 0
 - Problemas: `correct_count_0`
@@ -574,7 +580,7 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 65
-- Linea inicial: 752
+- Linea inicial: 756
 - Opciones detectadas: 3
 - Marcadores `## `: 0
 - Problemas: `correct_count_0`
@@ -597,7 +603,7 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2016 Examen LISTO.pdf.md
 - Numero fuente: 70
-- Linea inicial: 812
+- Linea inicial: 816
 - Opciones detectadas: 3
 - Marcadores `## `: 0
 - Problemas: `correct_count_0`
@@ -874,9 +880,9 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 - Archivo: 2017 Examen LISTO.pdf.md
 - Numero fuente: 84
 - Linea inicial: 996
-- Opciones detectadas: 5
-- Marcadores `## `: 2
-- Problemas: `correct_count_2`, `duplicate_option_ids_d`
+- Opciones detectadas: 6
+- Marcadores `## `: 3
+- Problemas: `correct_count_3`, `duplicate_option_ids_d`
 
 ~~~markdown
 - 84) La medicación local más efectiva indicada ante el prurito vulvar por liquen escleroso es:
@@ -890,13 +896,15 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 - D- Propionato de clobetasol. **[CORRECTA]**
 
 - D- Propionato de clobetasol. **[CORRECTA]**
+
+- D- Propionato de clobetasol. **[CORRECTA]**
 ~~~
 
 ## Bloque excluido 026
 
 - Archivo: 2017 Examen LISTO.pdf.md
 - Numero fuente: 93
-- Linea inicial: 1104
+- Linea inicial: 1106
 - Opciones detectadas: 3
 - Marcadores `## `: 0
 - Problemas: `correct_count_0`
@@ -919,7 +927,7 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2017 Examen LISTO.pdf.md
 - Numero fuente: 97
-- Linea inicial: 1152
+- Linea inicial: 1154
 - Opciones detectadas: 3
 - Marcadores `## `: 0
 - Problemas: `correct_count_0`
@@ -942,7 +950,7 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 - Archivo: 2017 Examen LISTO.pdf.md
 - Numero fuente: 100
-- Linea inicial: 1188
+- Linea inicial: 1190
 - Opciones detectadas: 4
 - Marcadores `## `: 2
 - Problemas: `correct_count_2`
