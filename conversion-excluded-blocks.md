@@ -4,24 +4,24 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 
 ## Resumen
 
-- Preguntas detectadas en total: 647
-- Bloques excluidos: 266
+- Preguntas detectadas en total: 650
+- Bloques excluidos: 265
 
 ## Conteo Por Tipo De Problema
 
-- `correct_count_0`: 39
-- `correct_count_2`: 6
-- `correct_count_28`: 1
+- `correct_count_0`: 38
+- `correct_count_2`: 5
+- `correct_count_24`: 1
 - `correct_count_4`: 1
 - `correct_count_5`: 1
-- `correct_count_7`: 1
+- `correct_count_8`: 1
 - `correct_count_9`: 1
-- `duplicate_option_ids_a`: 1
 - `duplicate_option_ids_a_b`: 1
-- `duplicate_option_ids_a_b_c_d`: 6
+- `duplicate_option_ids_a_b_c_d`: 5
+- `duplicate_option_ids_a_d_c_b`: 1
 - `duplicate_option_ids_d`: 2
 - `no_options`: 213
-- `option_count_1`: 1
+- `option_count_1`: 2
 
 ## Indice
 
@@ -284,15 +284,14 @@ Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exa
 | 255 | 2023 Examen LISTO.pdf.md | 14 | 24 | 0 | 0 | no_options | 5 Hernia de Spiegel (protuberancia por debajo de arco de douglas por fuera de músculo recto anterior del abdomen) |
 | 256 | 2023 Examen LISTO.pdf.md | 24 | 34 | 0 | 0 | no_options | 8 Caso clínico de Nena con Varicela con clínica característica: máculas , pápulas y vesículas que comienza en cabeza y luego en tronco. Fiebre. |
 | 257 | 2023 Examen LISTO.pdf.md | 11 | 47 | 30 | 9 | correct_count_9, duplicate_option_ids_a_b_c_d | - 11) paciente caída de 6mts de altura que ingresa con taquipnea, taquicardia, ingurgitación yugular, y no ingresaba aire en pulmón derecho.Que hacer: |
-| 258 | 2023 Examen LISTO.pdf.md | 5 | 153 | 6 | 2 | correct_count_2, duplicate_option_ids_a_b | 5. 28 Caso de paciente con dismetria,reflejos pendulares Opciones: |
-| 259 | 2023 Examen LISTO.pdf.md | 3 | 163 | 2 | 0 | correct_count_0 | 3. C)guillain barre |
-| 260 | 2023 Examen LISTO.pdf.md | 5 | 165 | 84 | 28 | correct_count_28, duplicate_option_ids_a_b_c_d | 5. 30 Enfermedad multifactorial, poligénica y que se relaciona con estilo de vida: |
-| 261 | 2023 Examen LISTO.pdf.md | 4 | 398 | 20 | 7 | correct_count_7, duplicate_option_ids_a_b_c_d | 4. 63 Causa más fr hipertiroidismo ? |
-| 262 | 2023 Examen LISTO.pdf.md | 71 | 449 | 13 | 5 | correct_count_5, duplicate_option_ids_a_b_c_d | - 71) ¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis? |
-| 263 | 2023 Examen LISTO.pdf.md | 81 | 497 | 14 | 4 | correct_count_4, duplicate_option_ids_a_b_c_d | - 81) El trastorno de conducción mas frecuente en la Enfermedad de Chagas es: |
-| 264 | 2023 Examen LISTO.pdf.md | 88 | 550 | 4 | 2 | correct_count_2, duplicate_option_ids_a | - 88) Niño con shock como lo hidratas: |
-| 265 | 2023 Examen LISTO.pdf.md | 94 | 584 | 0 | 0 | no_options | Cual NO es complicación de crohn |
-| 266 | 2023 Examen LISTO.pdf.md | 100 | 623 | 1 | 0 | correct_count_0, option_count_1 | - 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada |
+| 258 | 2023 Examen LISTO.pdf.md | 30 | 165 | 5 | 2 | correct_count_2, duplicate_option_ids_a_b | 30. Enfermedad multifactorial, poligénica y que se relaciona con estilo de vida: |
+| 259 | 2023 Examen LISTO.pdf.md | 34 | 192 | 77 | 24 | correct_count_24, duplicate_option_ids_a_d_c_b | 34. ¿Cómo podemos determinar riesgo de preeclampsia en el primer trimestre? |
+| 260 | 2023 Examen LISTO.pdf.md | 63 | 398 | 21 | 8 | correct_count_8, duplicate_option_ids_a_b_c_d | 63. Causa más fr hipertiroidismo ? |
+| 261 | 2023 Examen LISTO.pdf.md | 71 | 449 | 13 | 5 | correct_count_5, duplicate_option_ids_a_b_c_d | - 71) ¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis? |
+| 262 | 2023 Examen LISTO.pdf.md | 81 | 497 | 14 | 4 | correct_count_4, duplicate_option_ids_a_b_c_d | - 81) El trastorno de conducción mas frecuente en la Enfermedad de Chagas es: |
+| 263 | 2023 Examen LISTO.pdf.md | 89 | 558 | 1 | 1 | option_count_1 | 89. parálisis de VI par: |
+| 264 | 2023 Examen LISTO.pdf.md | 94 | 584 | 0 | 0 | no_options | Cual NO es complicación de crohn |
+| 265 | 2023 Examen LISTO.pdf.md | 100 | 623 | 1 | 0 | correct_count_0, option_count_1 | - 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada |
 
 ## Bloque excluido 001
 
@@ -4068,7 +4067,7 @@ D DIU de cobre
 
 - 13 Que pensas con una mujer postmenopáusica con sangrado uterino:
 
-a.problemas endometriales **[CORRECTA]** **[CORRECTA]**
+a.problemas endometriales **[CORRECTA]**
 
 B.tumor ovárico
 
@@ -4102,12 +4101,12 @@ B Se cierran las venas comunicantes y el retorno se realiza por ambos sistemas
 - D. Solo profundo
 - 17 Cáncer que da mts más frecuente en cerebro
 
-A.pulmón **[CORRECTA]** **[CORRECTA]**
+A.pulmón **[CORRECTA]**
 
 B.próstata C.páncreas D.estómago
 
 - 18 Cuál es el principal agente etiológico infec resp bajas en menores de dos años?
-- A. Vírus respiratorios. **[CORRECTA]** **[CORRECTA]**
+- A. Vírus respiratorios. **[CORRECTA]**
 - B. Streptococo
 - C. Staphilo aureus
 - D. Atipicos
@@ -4119,13 +4118,13 @@ B.próstata C.páncreas D.estómago
 
 20 Cuándo sospechas hipotiroidismo en el recién nacido?
 
-A.Ictericia persistente **[CORRECTA]** **[CORRECTA]**
+A.Ictericia persistente **[CORRECTA]**
 
 - B.Temblor
 - C.Bajo peso al nacer
 - D.Irritabilidad
 - 21 Diferencia de insuficiencia suprarrenal 2° con 1°:
-- a) no hay hiperpigmentación ( porque no aumenta la ACTH) **[CORRECTA]** **[CORRECTA]**
+- a) no hay hiperpigmentación ( porque no aumenta la ACTH) **[CORRECTA]**
 - b) Fatiga, cansancio
 - c) Anorexia, vómitos
 - d) Hiperglucemia
@@ -4138,58 +4137,22 @@ b pelvis simétrica con reducción del diámetro anteroposterior C. Pelvis asim�
 ## Bloque excluido 258
 
 - Archivo: 2023 Examen LISTO.pdf.md
-- Numero fuente: 5
-- Linea inicial: 153
-- Opciones detectadas: 6
+- Numero fuente: 30
+- Linea inicial: 165
+- Opciones detectadas: 5
 - Marcadores `## `: 2
 - Problemas: `correct_count_2`, `duplicate_option_ids_a_b`
 
 ~~~markdown
-5. 28 Caso de paciente con dismetria,reflejos pendulares Opciones:
-- A. sx piramidal
-- B. sx cerebeloso **[CORRECTA]** **[CORRECTA]**
-- C. sx extrapiramidal,
-- D. Miastenia gravis
+30. Enfermedad multifactorial, poligénica y que se relaciona con estilo de vida:
 
-29 Caso de paciente con debilidad muscular proximal que cede con el reposo y ptosis palpebral:
-
-- A. Botulismo
-- B) miastenia gravis **[CORRECTA]** **[CORRECTA]**
-~~~
-
-## Bloque excluido 259
-
-- Archivo: 2023 Examen LISTO.pdf.md
-- Numero fuente: 3
-- Linea inicial: 163
-- Opciones detectadas: 2
-- Marcadores `## `: 0
-- Problemas: `correct_count_0`
-
-~~~markdown
-3. C)guillain barre
-- D) sx piramidal
-~~~
-
-## Bloque excluido 260
-
-- Archivo: 2023 Examen LISTO.pdf.md
-- Numero fuente: 5
-- Linea inicial: 165
-- Opciones detectadas: 84
-- Marcadores `## `: 28
-- Problemas: `correct_count_28`, `duplicate_option_ids_a_b_c_d`
-
-~~~markdown
-5. 30 Enfermedad multifactorial, poligénica y que se relaciona con estilo de vida:
-
-A)Dbt **[CORRECTA]** **[CORRECTA]**
+A)Dbt **[CORRECTA]**
 
 - B)Marfan
 - C)Down
 - 31 Dolor post evacuatorio, con dolor escasa sangre luego de defecar
 
-a)fisura **[CORRECTA]** **[CORRECTA]**
+a)fisura **[CORRECTA]**
 
 - b)Hemorroides
 - 32 Sobre liquen plano escleroatrófico marque lo correcto
@@ -4201,16 +4164,21 @@ A lesión hiperpigmentada .
 ## c presenta piel fina como papel de cigarrillo **[CORRECTA]**
 
 D úlcera vegetante
+~~~
 
-33¿Cuándo se aplica la vacuna de la hepatitis b?
+## Bloque excluido 259
 
-A.Al nacer **[CORRECTA]** **[CORRECTA]**
+- Archivo: 2023 Examen LISTO.pdf.md
+- Numero fuente: 34
+- Linea inicial: 192
+- Opciones detectadas: 77
+- Marcadores `## `: 24
+- Problemas: `correct_count_24`, `duplicate_option_ids_a_d_c_b`
 
-B.al mes y otras más
+~~~markdown
+34. ¿Cómo podemos determinar riesgo de preeclampsia en el primer trimestre?
 
-34¿Cómo podemos determinar riesgo de preeclampsia en el primer trimestre?
-
-- a) pfizer/moderna. **[CORRECTA]** **[CORRECTA]**
+- a) pfizer/moderna. **[CORRECTA]**
 - b) Sinopharm.
 - c) astrazeneca o Covishield
 - d) cansino
@@ -4222,7 +4190,7 @@ A)Doppler de las arterias uterina y s **[CORRECTA]** B)Doppler arteria umbilical
 
 A.Vulvectomia simple con exploración de ganglios B.vulvectomia +Collarete vaginal
 
-C.Vulvectomia radical y linfadenectomía **[CORRECTA]** **[CORRECTA]**
+C.Vulvectomia radical y linfadenectomía **[CORRECTA]**
 
 D.Cirugía de Wertheim Meigs
 
@@ -4232,13 +4200,13 @@ A)disminuyen La absorción De colesterol
 
 - B)Aumentan la actividad de la lipoproteinlipasa
 
-C)Bloquean la síntesis de colesterol. **[CORRECTA]** **[CORRECTA]**
+C)Bloquean la síntesis de colesterol. **[CORRECTA]**
 
 D)Aumento del catabolismo de triglicéridos
 
 - 37 Causa frecuente de ambliopía en pediatría:
 
-A)Estrabismo **[CORRECTA]** **[CORRECTA]**
+A)Estrabismo **[CORRECTA]**
 
 - B)Tu neurológicos
 - C)Miopía
@@ -4259,7 +4227,7 @@ No se puede medir por la nitidez algo así (es la correcta)
 
 - 41 .Hombre 50 años aprox que trabaja con cristales que empieza con disnea y rx que se ven imágenes redondeadas en lóbulos superiores Dx :
 
-a.Fibrosis pulmonar por sílice **[CORRECTA]** **[CORRECTA]**
+a.Fibrosis pulmonar por sílice **[CORRECTA]**
 
 B.Fibrosis quística
 
@@ -4271,7 +4239,7 @@ D. Asma
 
 A)grado1.
 
-B)grado2. **[CORRECTA]** **[CORRECTA]**
+B)grado2. **[CORRECTA]**
 
 C)grado3.
 
@@ -4279,7 +4247,7 @@ D)grado4
 
 43 Cefalea en racimos en niños:
 
-A.Migraña **[CORRECTA]** **[CORRECTA]**
+A.Migraña **[CORRECTA]**
 
 - B.Tec
 
@@ -4287,13 +4255,13 @@ C.Tensional
 
 44 Origen embriológico del útero:
 
-A)Conductos de müller **[CORRECTA]** **[CORRECTA]**
+A)Conductos de müller **[CORRECTA]**
 
 B)Conductos de Wolff
 
 45 De donde nace la arteria esplénica?
 
-A.Tronco celíaco **[CORRECTA]** **[CORRECTA]**
+A.Tronco celíaco **[CORRECTA]**
 
 - B.Mesentérica superior
 - C.Coronaria estomáquica
@@ -4308,7 +4276,7 @@ A.Hemorroides (para mí esta)
 
 47 Causa más frecuente de hemorragia digestiva grave baja:
 
-A.Diverticulosis **[CORRECTA]** **[CORRECTA]**
+A.Diverticulosis **[CORRECTA]**
 
 - B.Ca de Colón
 - C. Diverticulitis
@@ -4318,7 +4286,7 @@ A.Diverticulosis **[CORRECTA]** **[CORRECTA]**
 
 A.Se considera segunda etapa del parto
 
-B.El principal mecanismo de hemostasia está dado por las "ligaduras vivientes de pinard" **[CORRECTA]** **[CORRECTA]**
+B.El principal mecanismo de hemostasia está dado por las "ligaduras vivientes de pinard" **[CORRECTA]**
 
 C.En el alumbramiento no hay contracciones
 
@@ -4328,7 +4296,7 @@ C.En el alumbramiento no hay contracciones
 
 A.CIN1 displasia moderada displasia severa
 
-B. CiN 2 displasia moderada displasia severa **[CORRECTA]** **[CORRECTA]**
+B. CiN 2 displasia moderada displasia severa **[CORRECTA]**
 
 - C.Displasia simple cIN2 CIN3
 - D. Displasia leve moderada severa
@@ -4338,7 +4306,7 @@ rifampicina, isoniazida, etambutol y Pirazinamida
 
 51 Cefalohematoma vs tumor serosanguineo:
 
-a.El cefalohematoma es subperióstico y respeta los huesos entre los que se encuentra **[CORRECTA]** **[CORRECTA]**
+a.El cefalohematoma es subperióstico y respeta los huesos entre los que se encuentra **[CORRECTA]**
 
 52 Screening de displasia de cadera:
 
@@ -4346,15 +4314,15 @@ A.Rx
 
 - B.Ecografía a todos los RN antes de los 4 meses
 
-C. La pesquisa universal es Control clínico y examen físico **[CORRECTA]** **[CORRECTA]**
+C. La pesquisa universal es Control clínico y examen físico **[CORRECTA]**
 
 53 Maniobra de Ortolani barlow positiva:
 
-A.Sirve para dx de displasia congénita de cadera **[CORRECTA]** **[CORRECTA]**
+A.Sirve para dx de displasia congénita de cadera **[CORRECTA]**
 
 54 Embarazada con vdrl cualitativa (+) qué hacer:
 
-A.Tratar con 3 dosis im de peni, pedir vdrl cuantitativa, ftb abs,y tratar a La pareja **[CORRECTA]** **[CORRECTA]**
+A.Tratar con 3 dosis im de peni, pedir vdrl cuantitativa, ftb abs,y tratar a La pareja **[CORRECTA]**
 
 - B.Esperar un mes y volver a pedir
 - C.Tratar con 3 dosis de penicilina
@@ -4370,7 +4338,7 @@ A.Aborto incompleto (correcto)
 
 56 Síntomas de FQ:
 
-A.. Infecciones es respiratorias frecuentes, infección por pseudomona, retardo del crecimiento, síndrome de malabsorción **[CORRECTA]** **[CORRECTA]**
+A.. Infecciones es respiratorias frecuentes, infección por pseudomona, retardo del crecimiento, síndrome de malabsorción **[CORRECTA]**
 
 B infecciones respiratorias frecuentes, infección por pseudomona, esteatorrea.. distinta a la anterior
 
@@ -4379,18 +4347,18 @@ B infecciones respiratorias frecuentes, infección por pseudomona, esteatorrea..
 
 57 Riesgo de cáncer de endometrio:
 
-A.Hiperplasia compleja con atipia **[CORRECTA]** **[CORRECTA]**
+A.Hiperplasia compleja con atipia **[CORRECTA]**
 
 - B.Hiperplasia compleja sin atipia
 - C. Hiperplasia simple sin atípia
 - D. Hiperplasia simple con atipia
 - 58 Causa Más frecuente de parálisis facial central:
-- a) Acv **[CORRECTA]** **[CORRECTA]**
+- a) Acv **[CORRECTA]**
 - b) Diabetes II
 
 59 Alerón Anterior del ligamento ancho:
 
-a) ligamento redondo**[CORRECTA]** **[CORRECTA]**
+a) ligamento redondo**[CORRECTA]**
 
 - b) útero ovárico
 
@@ -4409,39 +4377,39 @@ B cirrosis
 
 62 Tercer Maniobra de Leopold:
 
-A. Unimanual con manos en pinza / **[CORRECTA]** **[CORRECTA]**
+A. Unimanual con manos en pinza / **[CORRECTA]**
 
 - A. médico de espaldas a la pte /
 - B. ambas manos de arriba hacia abajo
 - C. Manos que palpando laterales del utero
 ~~~
 
-## Bloque excluido 261
+## Bloque excluido 260
 
 - Archivo: 2023 Examen LISTO.pdf.md
-- Numero fuente: 4
+- Numero fuente: 63
 - Linea inicial: 398
-- Opciones detectadas: 20
-- Marcadores `## `: 7
-- Problemas: `correct_count_7`, `duplicate_option_ids_a_b_c_d`
+- Opciones detectadas: 21
+- Marcadores `## `: 8
+- Problemas: `correct_count_8`, `duplicate_option_ids_a_b_c_d`
 
 ~~~markdown
-4. 63 Causa más fr hipertiroidismo ?
+63. Causa más fr hipertiroidismo ?
 
-## -A.enf graves **[CORRECTA]**,
+- A. enf graves **[CORRECTA]**,
 
 - -b. Tirotoxicosis facticia
 - -C adenoma productor de TSH
 - -Bocio multinodular
 - 64 En relación al K+
-- A. Está relacionada al Equilibrio ácido base **[CORRECTA]** **[CORRECTA]**
+- A. Está relacionada al Equilibrio ácido base **[CORRECTA]**
 - B. Es el principal catión extracelular
 - C. Qrs de la hipopotasemia: t picudas, Y otras características que Estaban mal
 - D. Diureticos del asa no producen ninguna alteración del metabolismo del potasio
 
 65 Hamartoma de pulmón:
 
-A.Benigno **[CORRECTA]** **[CORRECTA]**
+A.Benigno **[CORRECTA]**
 
 - B.Maligno
 - C.Teratoma
@@ -4453,13 +4421,13 @@ B.dolor
 
 67 Signo en insuficiencia aórtica
 
-- a. hippus pupilar **[CORRECTA]** **[CORRECTA]**
+- a. hippus pupilar **[CORRECTA]**
 - b. lagoftalmos
 - c. retracción del párpado
 
 68 Histerosalpingografía sirve para evaluar:
 
-A.útero y trompas **[CORRECTA]** **[CORRECTA]**
+A.útero y trompas **[CORRECTA]**
 
 - B.solo trompas
 - C. Ovarios
@@ -4467,18 +4435,18 @@ A.útero y trompas **[CORRECTA]** **[CORRECTA]**
 
 69 Niño Lactante de 1 mes con acolia,ictericia desde el nacimiento
 
-- A. Atresia de conductos biliares **[CORRECTA]** **[CORRECTA]**
+- A. Atresia de conductos biliares **[CORRECTA]**
 - B. Incompatibilidad ABO
 3. C.incompatiblidad rh
 
 70 Método dx de colestasis en joven:
 
-A.Ecografía **[CORRECTA]** **[CORRECTA]**
+A.Ecografía **[CORRECTA]**
 
 C.Ercp
 ~~~
 
-## Bloque excluido 262
+## Bloque excluido 261
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 71
@@ -4491,14 +4459,14 @@ C.Ercp
 - 71) ¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis?
 2. A- Dolor preingesta localizado en epigastrio.
 
-B- Intolerancia ante la ingestión de productos grasos **[CORRECTA]** **[CORRECTA]**
+B- Intolerancia ante la ingestión de productos grasos **[CORRECTA]**
 
 - C- Diarrea inducida por productos con alta concentración de lactosa.
 - D- Meteorismo persistente.
 
 72 Contraindicación de lactancia:
 
-A.galactosemia **[CORRECTA]** **[CORRECTA]**
+A.galactosemia **[CORRECTA]**
 
 - B.fenilcetonuria
 - C. Fq
@@ -4528,7 +4496,7 @@ A- cesárea previa **[CORRECTA]**
 
 - a) ECG
 
-b) Clínica **[CORRECTA]** **[CORRECTA]**
+b) Clínica **[CORRECTA]**
 
 - c) Ergometría
 
@@ -4537,7 +4505,7 @@ D) Ecocardiograma
 <!-- image -->
 ~~~
 
-## Bloque excluido 263
+## Bloque excluido 262
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 81
@@ -4549,9 +4517,9 @@ D) Ecocardiograma
 ~~~markdown
 - 81) El trastorno de conducción mas frecuente en la Enfermedad de Chagas es:
 - a) Bloqueo completo de rama izquierda.
-- b) Hemibloqueo posterior izquierdo.
+- b) Hemibloqueo posterior izquierdo. **[CORRECTA]**
 
-c) Bloqueo completo de rama derecha **[CORRECTA]** **[CORRECTA]**
+c) Bloqueo completo de rama derecha
 
 - d) Bloqueo A - V de primer grado
 
@@ -4563,13 +4531,13 @@ c) Bloqueo completo de rama derecha **[CORRECTA]** **[CORRECTA]**
 - A- Antibiótico preoperatorio.
 - B- Kinesioterapia preoperatoria.
 
-C- Movilización precoz y heparino profilaxis. **[CORRECTA]** **[CORRECTA]**
+C- Movilización precoz y heparino profilaxis. **[CORRECTA]**
 
 - D- No movilizar al paciente en las primeras 48 horas
 
 84 Desnutrición Aguda en el niño. Parámetro:
 
-a.Peso **[CORRECTA]** **[CORRECTA]**
+a.Peso **[CORRECTA]**
 
 - b. Talla
 - c. Perímetro cefálico
@@ -4578,30 +4546,22 @@ a.Peso **[CORRECTA]** **[CORRECTA]**
 
 A.en general con fiebre y conjuntivitis
 
-B.Comienzo brusco con dolor de garganta y fiebre **[CORRECTA]** **[CORRECTA]**
+B.Comienzo brusco con dolor de garganta y fiebre **[CORRECTA]**
 
 - C. Cursa con rinorrea y tos
 ~~~
 
-## Bloque excluido 264
+## Bloque excluido 263
 
 - Archivo: 2023 Examen LISTO.pdf.md
-- Numero fuente: 88
-- Linea inicial: 550
-- Opciones detectadas: 4
-- Marcadores `## `: 2
-- Problemas: `correct_count_2`, `duplicate_option_ids_a`
+- Numero fuente: 89
+- Linea inicial: 558
+- Opciones detectadas: 1
+- Marcadores `## `: 1
+- Problemas: `option_count_1`
 
 ~~~markdown
-- 88) Niño con shock como lo hidratas:
-
-- A- Dextrosa 5%
-
-- B- Sangre entera
-
-- C- Expansión con cristaloides **[CORRECTA]**
-
-89 parálisis de VI par:
+89. parálisis de VI par:
 
 - A- Ojo desviado hacia adentro **[CORRECTA]**
 
@@ -4614,7 +4574,7 @@ Parto prematuro **[CORRECTA]** 💕
 Hipotensión Parto post término Incompatibilidad RH
 ~~~
 
-## Bloque excluido 265
+## Bloque excluido 264
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 94
@@ -4629,7 +4589,7 @@ Cual NO es complicación de crohn
 Pólipos
 ~~~
 
-## Bloque excluido 266
+## Bloque excluido 265
 
 - Archivo: 2023 Examen LISTO.pdf.md
 - Numero fuente: 100

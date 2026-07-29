@@ -9906,6 +9906,77 @@
   {
     "id": "q0373",
     "order": 373,
+    "statement": "Caso de paciente con dismetria,reflejos pendulares Opciones:",
+    "options": [
+      {
+        "id": "a",
+        "text": "sx piramidal",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "sx cerebeloso",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "sx extrapiramidal,",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Miastenia gravis",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0374",
+    "order": 374,
+    "statement": "Caso de paciente con debilidad muscular proximal que cede con el reposo y ptosis palpebral:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Botulismo",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "miastenia gravis",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "guillain barre",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "sx piramidal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0375",
+    "order": 375,
+    "statement": "¿Cuándo se aplica la vacuna de la hepatitis b?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Al nacer",
+        "isCorrect": true
+      },
+      {
+        "id": "b",
+        "text": "al mes y otras más",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "q0376",
+    "order": 376,
     "statement": "Los abscesos perianales se originan frecuentemente en:",
     "options": [
       {
@@ -9931,8 +10002,8 @@
     ]
   },
   {
-    "id": "q0374",
-    "order": 374,
+    "id": "q0377",
+    "order": 377,
     "statement": "La infección urinaria baja presenta:",
     "options": [
       {
@@ -9958,8 +10029,30 @@
     ]
   },
   {
-    "id": "q0375",
-    "order": 375,
+    "id": "q0378",
+    "order": 378,
+    "statement": "Niño con shock como lo hidratas:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dextrosa 5%",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Sangre entera",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Expansión con cristaloides",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "q0379",
+    "order": 379,
     "statement": "¿Por qué se caracterizan las QUEMADURAS DE TIPO A o de 1° Grado?",
     "options": [
       {
@@ -9985,8 +10078,8 @@
     ]
   },
   {
-    "id": "q0376",
-    "order": 376,
+    "id": "q0380",
+    "order": 380,
     "statement": "¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico?",
     "options": [
       {
@@ -10012,8 +10105,8 @@
     ]
   },
   {
-    "id": "q0377",
-    "order": 377,
+    "id": "q0381",
+    "order": 381,
     "statement": "El edema en esclavina es característico de:",
     "options": [
       {
@@ -10039,8 +10132,8 @@
     ]
   },
   {
-    "id": "q0378",
-    "order": 378,
+    "id": "q0382",
+    "order": 382,
     "statement": "¿Cuál de éstos es criterio de posible benignidad en una lesión pigmentada melanocítica?",
     "options": [
       {
@@ -10056,8 +10149,8 @@
     ]
   },
   {
-    "id": "q0379",
-    "order": 379,
+    "id": "q0383",
+    "order": 383,
     "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del",
     "options": [
       {
@@ -10078,8 +10171,8 @@
     ]
   },
   {
-    "id": "q0380",
-    "order": 380,
+    "id": "q0384",
+    "order": 384,
     "statement": "Usted siendo profesional de la salud ¿Quién tiene permitido solicitarle una historia clínica?",
     "options": [
       {
@@ -10105,8 +10198,8 @@
     ]
   },
   {
-    "id": "q0381",
-    "order": 381,
+    "id": "q0385",
+    "order": 385,
     "statement": "Uno de los derechos del paciente es la 'Autonomía de la Voluntad', esto le permite al paciente:",
     "options": [
       {
