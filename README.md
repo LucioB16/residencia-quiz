@@ -4,7 +4,7 @@
 [![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy%20to%20GitHub%20Pages-live-2ea44f?logo=githubpages&logoColor=white)](https://luciob16.github.io/residencia-quiz/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-publicado-222?logo=github)](https://luciob16.github.io/residencia-quiz/)
 [![Storage](https://img.shields.io/badge/storage-localStorage-156f72)](#privacidad)
-[![Questions](https://img.shields.io/badge/preguntas-listas-315c9c)](src/data/questions.json)
+[![Questions](https://img.shields.io/badge/preguntas-409-315c9c)](src/data/questions.json)
 
 Mini web estática en Astro para practicar preguntas de Residencias Médicas Córdoba desde un navegador. El cuestionario usa datos locales versionados en el repositorio y guarda un ranking solamente en `localStorage` cuando se completa un intento.
 
@@ -28,6 +28,10 @@ Sitio publicado: [https://luciob16.github.io/residencia-quiz/](https://luciob16.
 ├── conversion-excluded-blocks.md
 ├── astro.config.mjs
 ├── package.json
+├── docs/
+│   └── AI_PROMPT_PROCESS_PDFS.md
+├── fuentes/
+│   └── pdf/
 ├── public/
 │   └── favicon.svg
 ├── scripts/
@@ -56,6 +60,14 @@ bun run validate
 bun run dev
 bun run build
 ```
+
+## Agregar Nuevos PDFs
+
+Si deseas contribuir agregando nuevos exámenes al banco de preguntas, este proyecto cuenta con un proceso semi-automatizado preparado para extraer texto y marcar las opciones correctas utilizando Inteligencia Artificial.
+
+1. **Guarda el PDF original:** Coloca tu nuevo archivo PDF en la carpeta `fuentes/pdf/`.
+2. **Utiliza la IA:** Lee y copia el texto del archivo `docs/AI_PROMPT_PROCESS_PDFS.md`. Pégalo en tu asistente de Inteligencia Artificial (ChatGPT, Claude, Gemini, etc.).
+3. **Ejecuta el pipeline:** La IA te guiará para extraer el texto con IBM Docling, cruzar las coordenadas de los resaltados con Python (usando la librería PyMuPDF) y compilar todo en `src/data/questions.json` usando el script de conversión interno.
 
 ## Despliegue En GitHub Pages
 
