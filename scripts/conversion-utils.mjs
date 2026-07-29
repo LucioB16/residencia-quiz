@@ -6,7 +6,7 @@ export const QUESTIONS_JSON = path.join("src", "data", "questions.json");
 export const EXCLUDED_BLOCKS_MD = "conversion-excluded-blocks.md";
 
 const questionStartPattern = /^\s*(?:-\s*)?(\d{1,3})[.)]\s*(.*)$/;
-const optionStartPattern = /^\s*(?:-\s*)?(?:\d+\.\s*)?([a-eA-E])[.)-]\s*(.*)$/;
+const optionStartPattern = /^\s*(?:-\s*)?(?:\d+\.\s*)?(?:#+\s+)?([a-eA-E])[.)-]\s*(.*)$/;
 
 export function looksLikeQuestionStart(line, previousNumber) {
   const match = line.match(questionStartPattern);
