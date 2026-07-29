@@ -155,6 +155,7 @@ button:disabled {
 }
 
 .metric-strip span,
+.metric-strip a,
 .final-stats span,
 .scoreboard span {
   min-width: 128px;
@@ -163,9 +164,15 @@ button:disabled {
   border-radius: 8px;
   background: rgb(255 255 255 / 10%);
   color: inherit;
+  text-decoration: none;
+}
+
+.metric-strip a:hover {
+  background: rgb(255 255 255 / 20%);
 }
 
 .metric-strip strong,
+.metric-strip a strong,
 .final-stats strong,
 .scoreboard strong {
   display: block;
