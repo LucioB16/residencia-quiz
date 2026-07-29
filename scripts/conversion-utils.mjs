@@ -6,7 +6,7 @@ export const QUESTIONS_JSON = path.join("src", "data", "questions.json");
 export const EXCLUDED_BLOCKS_MD = "conversion-excluded-blocks.md";
 
 const questionStartPattern = /^\s*(?:-\s*)?(\d{1,3})[.)]\s*(.*)$/;
-const optionStartPattern = /^\s*(?:-\s*)?(?:\d+\.\s*)?(##\s+)?([a-eA-E])[.)-]\s*(.*)$/;
+const optionStartPattern = /^\s*(?:-\s*)?(?:\d+\.\s*)?([a-eA-E])[.)-]\s*(.*)$/;
 
 export function looksLikeQuestionStart(line, previousNumber) {
   const match = line.match(questionStartPattern);
@@ -84,7 +84,7 @@ function optionLineIndexes(blockLines) {
     const match = blockLines[index].match(optionStartPattern);
     if (!match) continue;
 
-    const optionCode = match[2].toLowerCase().charCodeAt(0);
+    const optionCode = match[1].toLowerCase().charCodeAt(0);
     // Be a bit lenient, sometimes they skip letters or start with A again
     if (optionCode >= "a".charCodeAt(0) && optionCode <= "e".charCodeAt(0)) {
       indexes.push(index);
@@ -122,18 +122,20 @@ function parseOptions(blockLines) {
     const nextOptionIndex = index + 1 < indexes.length ? indexes[index + 1] : lastOptionEnd;
     const firstLine = blockLines[startIndex];
     const match = firstLine.match(optionStartPattern);
-    const isCorrect = !!match[1]; // match[1] is the `## ` capture group
     
     const rawOptionLines = [
-      match[3], // The rest of the line after option letter
+      match[2], // The rest of the line after option letter
       ...blockLines.slice(startIndex + 1, nextOptionIndex),
     ];
 
     const rawText = rawOptionLines.join("\n");
+    const isCorrect = rawText.includes("**[CORRECTA]**");
+    
+    const cleanedText = normalizeText(rawOptionLines).replace(/\s*\*\*\[CORRECTA\]\*\*/g, "");
 
     return {
-      id: match[2].toLowerCase(),
-      text: normalizeText(rawOptionLines),
+      id: match[1].toLowerCase(),
+      text: cleanedText,
       isCorrect,
       startLineOffset: startIndex,
     };
@@ -292,10 +294,10 @@ export function parseMarkdownFiles() {
   const questions = allValid.map((block, index) => ({
     id: questionId(index + 1),
     order: index + 1,
-    statement: block.statement,
+    statement: block.statement.trim() || "(Pregunta sin enunciado en PDF original)",
     options: block.options.map((option) => ({
       id: option.id,
-      text: option.text,
+      text: option.text.trim() || "(Opción sin texto)",
       isCorrect: option.isCorrect,
     })),
   }));
