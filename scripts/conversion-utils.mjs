@@ -210,47 +210,50 @@ function renderExcludedMarkdown(problemBlocks, totalBlocks) {
     .sort(([left], [right]) => left.localeCompare(right))
     .map(([issue, count]) => `- \`${issue}\`: ${count}`);
 
-  const tableRows = problemBlocks.map((block, index) => (
-    `| ${index + 1} | ${block.file} | ${block.sourceNumber} | ${block.lineNumber} | ${block.options.length} | ${block.markerCount} | ${escapeTableCell(block.issues.join(", "))} | ${escapeTableCell(block.firstLine)} |`
-  ));
+  const blocksByYear = {};
+  for (const block of problemBlocks) {
+    const yearMatch = block.file.match(/20\d{2}/);
+    const year = yearMatch ? yearMatch[0] : "Desconocido";
+    if (!blocksByYear[year]) blocksByYear[year] = [];
+    blocksByYear[year].push(block);
+  }
 
-  const blocks = problemBlocks.map((block, index) => [
-    `## Bloque excluido ${String(index + 1).padStart(3, "0")}`,
-    "",
-    `- Archivo: ${block.file}`,
-    `- Numero fuente: ${block.sourceNumber}`,
-    `- Linea inicial: ${block.lineNumber}`,
-    `- Opciones detectadas: ${block.options.length}`,
-    `- Marcadores \`## \`: ${block.markerCount}`,
-    `- Problemas: ${block.issues.map((issue) => "\`" + issue + "\`").join(", ")}`,
-    "",
-    "~~~markdown",
-    block.rawBlock,
-    "~~~",
-    "",
-  ].join("\n"));
+  const allBlocksMarkdown = [];
+  const years = Object.keys(blocksByYear).sort();
+
+  for (const year of years) {
+    allBlocksMarkdown.push(`## Examen ${year}`);
+    allBlocksMarkdown.push("");
+    
+    const sortedBlocks = blocksByYear[year].sort((a, b) => a.sourceNumber - b.sourceNumber);
+    for (const block of sortedBlocks) {
+      allBlocksMarkdown.push(`### Pregunta ${block.sourceNumber}`);
+      allBlocksMarkdown.push("");
+      allBlocksMarkdown.push(`- **Problema detectado:** ${block.issues.map((issue) => "\`" + issue + "\`").join(", ")}`);
+      allBlocksMarkdown.push("");
+      allBlocksMarkdown.push("```markdown");
+      allBlocksMarkdown.push(block.rawBlock);
+      allBlocksMarkdown.push("```");
+      allBlocksMarkdown.push("");
+    }
+  }
 
   return [
-    "# Bloques Excluidos De La Conversion",
+    "# Preguntas Excluidas",
     "",
-    "Estos bloques fueron excluidos de `src/data/questions.json` porque no tienen exactamente una opcion correcta o son ambiguos.",
+    "Estos bloques fueron detectados como preguntas pero fueron excluidos del cuestionario final (`questions.json`) porque tienen errores de formato o no son preguntas de opción múltiple válidas.",
     "",
-    "## Resumen",
+    "## Resumen General",
     "",
-    `- Preguntas detectadas en total: ${totalBlocks}`,
-    `- Bloques excluidos: ${problemBlocks.length}`,
+    `- Preguntas totales detectadas: **${totalBlocks}**`,
+    `- Preguntas válidas convertidas: **${totalBlocks - problemBlocks.length}**`,
+    `- Bloques excluidos: **${problemBlocks.length}**`,
     "",
-    "## Conteo Por Tipo De Problema",
+    "### Frecuencia de Errores",
     "",
     ...summaryRows,
     "",
-    "## Indice",
-    "",
-    "| # | Archivo | Num | Linea | Opciones | Correctas | Problemas | Primera linea |",
-    "| ---: | --- | ---: | ---: | ---: | ---: | --- | --- |",
-    ...tableRows,
-    "",
-    ...blocks,
+    ...allBlocksMarkdown,
   ].join("\n");
 }
 

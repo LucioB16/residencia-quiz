@@ -60,6 +60,8 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
         startedAt: 0,
         finalDurationMs: 0,
         result: null,
+        feedback: [],
+        reportingError: false,
       };
 
       function escapeHtml(value) {
@@ -187,7 +189,9 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
               <h1>Cuestionario interactivo</h1>
               <div class="metric-strip" aria-label="Resumen">
                 <span><strong>${questions.length}</strong> preguntas</span>
-                <span><strong>${excludedCount}</strong> excluidas</span>
+                <a href="https://github.com/LucioB16/residencia-quiz/blob/main/conversion-excluded-blocks.md" target="_blank" rel="noopener noreferrer">
+                  <strong>${excludedCount}</strong> excluidas
+                </a>
                 <span><strong>local</strong> ranking</span>
                 <a href="https://github.com/LucioB16/residencia-quiz/tree/main/fuentes/pdf" target="_blank" rel="noopener noreferrer">
                   <strong>PDFs</strong> fuentes
@@ -224,6 +228,8 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
         state.startedAt = performance.now();
         state.finalDurationMs = 0;
         state.result = null;
+        state.feedback = [];
+        state.reportingError = false;
         renderQuestion();
       }
 
@@ -275,6 +281,7 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
 
         state.current += 1;
         state.result = null;
+        state.reportingError = false;
         renderQuestion();
       }
 
@@ -324,6 +331,60 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
         });
         app.querySelector("[data-action='skip']")?.addEventListener("click", skipQuestion);
         app.querySelector("[data-action='continue']")?.addEventListener("click", continueQuiz);
+
+        app.querySelector("[data-action='report-error']")?.addEventListener("click", () => {
+          state.reportingError = true;
+          renderQuestion();
+        });
+
+        app.querySelector("[data-action='cancel-feedback']")?.addEventListener("click", () => {
+          state.reportingError = false;
+          renderQuestion();
+        });
+
+        app.querySelector("[data-action='save-feedback']")?.addEventListener("click", () => {
+          const text = app.querySelector("#feedback-input").value.trim();
+          if (text) {
+            state.feedback.push({
+              questionId: state.sequence[state.current].id,
+              text: text
+            });
+          }
+          state.reportingError = false;
+          renderQuestion();
+        });
+      }
+
+      function renderFeedbackForm(question) {
+        if (!state.result) return "";
+        
+        const existingFeedback = state.feedback.find(f => f.questionId === question.id);
+        if (existingFeedback) {
+          return `
+            <div class="feedback-panel" style="margin-top: 18px; padding: 14px; border: 1px solid var(--green); border-radius: 8px; background: #eef8f1; color: var(--green);">
+              <p style="margin: 0;">✓ Reporte guardado para esta pregunta. Se descargará al final.</p>
+            </div>
+          `;
+        }
+
+        if (state.reportingError) {
+          return `
+            <div class="feedback-panel" style="margin-top: 18px; padding: 18px; border: 1px solid var(--line); border-radius: 8px; background: #fff;">
+              <label for="feedback-input" style="display:block; margin-bottom:8px; font-weight:bold;">¿Cuál considerás que es la opción correcta o qué error encontraste?</label>
+              <textarea id="feedback-input" rows="3" style="width:100%; border-radius:4px; border:1px solid var(--line); padding:8px; margin-bottom:12px; font-family: inherit;"></textarea>
+              <div style="display: flex; gap: 10px;">
+                <button class="primary-action compact" type="button" data-action="save-feedback" style="margin-top:0;">Guardar reporte</button>
+                <button class="secondary-action compact" type="button" data-action="cancel-feedback">Cancelar</button>
+              </div>
+            </div>
+          `;
+        }
+
+        return `
+          <div style="margin-top: 18px; text-align: right;">
+            <button class="secondary-action compact" type="button" data-action="report-error" style="border-color: #ffd666; background: #fffbe6; color: #d48806;">⚠️ Reportar error</button>
+          </div>
+        `;
       }
 
       function renderQuestion() {
@@ -374,6 +435,7 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
             </div>
 
             ${renderResult(question)}
+            ${renderFeedbackForm(question)}
           </article>
         `;
         bindQuestionEvents();
@@ -386,8 +448,36 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
         });
       }
 
+      function downloadFeedback() {
+        if (state.feedback.length === 0) return;
+        
+        const dataStr = JSON.stringify(state.feedback, null, 2);
+        const blob = new Blob([dataStr], { type: "application/json" });
+        const url = URL.createObjectURL(blob);
+        
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `feedback-residencias-${new Date().toISOString().slice(0,10)}.json`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      }
+
       function renderFinal() {
         const finalPercentage = percentage(state.correct, state.sequence.length);
+        
+        let feedbackMessage = "";
+        if (state.feedback.length > 0) {
+          feedbackMessage = `
+            <div class="feedback-alert" style="margin-top: 18px; padding: 14px; background: #fffbe6; color: #d48806; border: 1px solid #ffe58f; border-radius: 8px;">
+              <p style="margin: 0 0 8px;"><strong>¡Gracias por tu reporte!</strong></p>
+              <p style="margin: 0;">Se descargó un archivo JSON con tus sugerencias. Por favor, envíalo a <a href="mailto:luciobotacin@gmail.com" style="color: #ad6800; text-decoration: underline; font-weight: bold;">luciobotacin@gmail.com</a> para procesarlo.</p>
+            </div>
+          `;
+          setTimeout(downloadFeedback, 500);
+        }
+
         app.innerHTML = `
           <div class="final-layout">
             <section class="final-panel">
@@ -399,7 +489,10 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
                 <span><strong>${formatDuration(state.finalDurationMs)}</strong> tiempo</span>
                 <span><strong>${escapeHtml(modeLabels[state.mode])}</strong> modo</span>
               </div>
-              <button class="primary-action compact" type="button" data-action="restart">Reiniciar</button>
+              ${feedbackMessage}
+              <div style="margin-top: 20px;">
+                <button class="primary-action compact" type="button" data-action="restart">Reiniciar</button>
+              </div>
             </section>
             ${renderHistory()}
           </div>
