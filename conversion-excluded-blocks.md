@@ -28,9 +28,9 @@ Estos bloques fueron detectados como preguntas pero fueron excluidos del cuestio
 
 ### Pregunta 29
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2016%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ¿?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -38,9 +38,9 @@ Estos bloques fueron detectados como preguntas pero fueron excluidos del cuestio
 
 ### Pregunta 53
 
-- **Problema detectado:** `correct_count_3`, `duplicate_option_ids_d`
+[📄 Ver PDF original](fuentes/pdf/2016%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 53) Una paciente de 64 años, diabética y depresiva, cumple tratamiento con 5mg de glibenclamida y 75mg de amitriptilina, presenta depresión del sensorio. ¿Cuál sería el primer diagnóstico a considerar?
 
 - A- Accidente cerebrovascular.
@@ -60,9 +60,9 @@ Estos bloques fueron detectados como preguntas pero fueron excluidos del cuestio
 
 ### Pregunta 8
 
-- **Problema detectado:** `correct_count_3`, `duplicate_option_ids_d`
+[📄 Ver PDF original](fuentes/pdf/2017%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 8) Un ejecutivo de una gran empresa, de 40 años y sin antecedentes de interés, acude al servicio de urgencias por presentar un dolor brusco y de gran intensidad, localizado en el epigastrio que ha comenzado una hora antes y no cede. A la exploración, el paciente está pálido, sudoroso, hipotenso, con respiración superficial; el abdomen tenso y muy doloroso a la palpación superficial, mostrando desaparición de la matidez hepática a la percusión. ¿Cuál de los siguientes es el diagnóstico más probable?
 2. A- Apendicitis aguda.
 3. B- Pancreatitis aguda. **[CORRECTA]**
@@ -77,9 +77,9 @@ Estos bloques fueron detectados como preguntas pero fueron excluidos del cuestio
 
 ### Pregunta 47
 
-- **Problema detectado:** `correct_count_2`
+[📄 Ver PDF original](fuentes/pdf/2017%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 47) Paciente de 28 años de edad, consulta por presentar lesiones en piel con pápula central, redondeadas y ovales, bordeadas por franja eritematosa, muy pruriginosas, en brazos, región del tórax y muslo, de 10 horas de evolución posterior a automedicación con amoxicilina por dolor de garganta. No presenta otras lesiones ni en cara ni en mucosas. Su diagnóstico es urticaria por fármacos. ¿Qué tratamiento sugiere para este paciente?
 
 A- Los antihistamínicos orales son suficientes para este caso, control clínico en caso de no presentar mejoría y suspensión de antibiótico. **[CORRECTA]**
@@ -95,9 +95,9 @@ A- Los antihistamínicos orales son suficientes para este caso, control clínico
 
 ### Pregunta 64
 
-- **Problema detectado:** `correct_count_2`
+[📄 Ver PDF original](fuentes/pdf/2017%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 64) Ante un bebé de 1 mes, que súbitamente comienza con vómitos no biliosos, justo luego de ingerir leche, con ictericia leve, cuya madre le relata que después de vomitar el niño se muestra hambriento, usted sospecha:
 
 ## A- Estenosis hipertrófica del píloro. **[CORRECTA]**
@@ -113,9 +113,9 @@ A- Los antihistamínicos orales son suficientes para este caso, control clínico
 
 ### Pregunta 84
 
-- **Problema detectado:** `correct_count_2`, `duplicate_option_ids_d`
+[📄 Ver PDF original](fuentes/pdf/2017%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 84) La medicación local más efectiva indicada ante el prurito vulvar por liquen escleroso es:
 
 - A- Estrógenos.
@@ -129,9 +129,9 @@ A- Los antihistamínicos orales son suficientes para este caso, control clínico
 
 ### Pregunta 100
 
-- **Problema detectado:** `correct_count_2`, `duplicate_option_ids_d`
+[📄 Ver PDF original](fuentes/pdf/2017%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada respecto a:
 - A- Su estado de salud.
 - B- Su estado de salud, el procedimiento propuesto con especificación de los objetivos perseguidos.
@@ -145,9 +145,9 @@ D- Su estado de salud, el procedimiento propuesto con especificación de los obj
 
 ### Pregunta 32
 
-- **Problema detectado:** `duplicate_option_ids_d`
+[📄 Ver PDF original](fuentes/pdf/2018%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 32) ¿Cuál es la causa más frecuente de meningitis aséptica?
 
 - A- Tuberculosis.
@@ -162,9 +162,9 @@ D- Su estado de salud, el procedimiento propuesto con especificación de los obj
 
 ### Pregunta 78
 
-- **Problema detectado:** `duplicate_option_ids_d`
+[📄 Ver PDF original](fuentes/pdf/2018%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 78) ¿Cuál es la causa más frecuente de cáncer de cuello uterino?
 
 - A- Alcoholismo.
@@ -181,289 +181,289 @@ D- Su estado de salud, el procedimiento propuesto con especificación de los obj
 
 ### Pregunta 1
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Fisura anal: dolor
 ```
 
 ### Pregunta 2
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Colelitiasis simple: Vesícula con cálculos: la clínica es asintomática: No se opera
 ```
 
 ### Pregunta 2
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -PRIMARIO: aumenta la aldosterona, disminuye la renina y la angiotensina.
 ```
 
 ### Pregunta 2
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Prematuro: 2mg/kg/día desde el nacimiento
 ```
 
 ### Pregunta 3
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cáncer de colon derecho: Hemicolectomía derecha + ileotransversoanastomosis
 ```
 
 ### Pregunta 3
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -SECUNDARIO: aumenta la renina, aumenta la angiotensina y la aldosterona.
 ```
 
 ### Pregunta 3
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -A término: 1 mg/kg/día a partir de los 2 meses
 ```
 
 ### Pregunta 4
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cáncer de colon derecho: (ángulo hepático): Unión Ileotransverso
 ```
 
 ### Pregunta 4
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -A partir del 3 mes: 4mg/kg/día.
 ```
 
 ### Pregunta 5
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Peritonitis bacteriana espontánea:
 ```
 
 ### Pregunta 5
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Embarazo en cualquier trimestre
 ```
 
 ### Pregunta 5
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Hijo de madre anémica: 2 mg desde los 2 meses
 ```
 
 ### Pregunta 5
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Madre RH negativa: coombs indirecta negtiva
 ```
 
 ### Pregunta 6
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Clínica: Fiebre, dolor abdominal, encefalopatía, deterioro del Estado general.
 ```
 
 ### Pregunta 6
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ERCP: Calculo que migró desde vesícula hacia vía biliar.
 ```
 
 ### Pregunta 6
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Trabajadores de salud
 ```
 
 ### Pregunta 6
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Formula de suplemento de hierro: Número de mes x 400 + peso al nacer.
 ```
 
 ### Pregunta 6
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Hijo RH positivo: coombs directa negativa. (Está bien explicado en el Botita de obstetricia)
 ```
 
 ### Pregunta 7
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Liquido ascítico: Leucocitos ˃ 500, Neutrófilos ˃ 250.
 ```
 
 ### Pregunta 7
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Clínica de cólico biliar
 ```
 
 ### Pregunta 7
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Niños de 6 meses a 2 años (2 dosis separadas por un mes)
 ```
 
 ### Pregunta 7
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -5: Síndrome de Marfan.
 ```
 
 ### Pregunta 8
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Tratamiento: Cefalosporinas de 3 ra  generación por 5-10 días.
 ```
 
 ### Pregunta 8
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Oclusión por tumor de colon descendente: si se produce un abdomen agudo oclusivo los ruidos hidroaéreos van a estar aumentados. Rx directa de abdomen: niveles hidroaéreos?
 ```
 
 ### Pregunta 8
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Menores de 65 años con factores de riesgo
 ```
 
 ### Pregunta 8
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -7: Fibrosis quística
 ```
 
 ### Pregunta 9
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Profilaxis: Norfloxacina
 ```
 
 ### Pregunta 9
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Anciano con dolor abdominal alto que irradia a dorso: IAM de Base?. Disección de aorta (se diagnostica con TAC con contraste).
 ```
 
 ### Pregunta 9
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Mayores de 65 años con o sin factores de riesgo
 ```
 
 ### Pregunta 9
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -13: Síndrome de Patau: labio leporino, microcefalia, anencefalia
 ```
 
 ### Pregunta 10
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -18: Síndrome de Edward
 ```
 
 ### Pregunta 11
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Complicaciones:  La más frecuente: hemorragia La más grave: perforación
 ```
 
 ### Pregunta 11
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Rectorragia: cáncer de colon
 ```
 
 ### Pregunta 11
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Anemia drepanocítica
 ```
 
 ### Pregunta 11
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -21: Síndrome de Down » PREGUNTAS DE CHOISE «
 ```
 
 ### Pregunta 12
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Tumor más frecuente de vía biliar: Klatsking (Porción proximal o superior)
 
 ## EXAMEN DE RESIDENCIAS MEDICAS
@@ -473,17 +473,17 @@ CÓRDOBA - 2019
 
 ### Pregunta 12
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Predomina la Hb F?
 ```
 
 ### Pregunta 12
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -22: Síndrome Di George.
 
 TIENEN PALADAR HENDIDO
@@ -491,97 +491,97 @@ TIENEN PALADAR HENDIDO
 
 ### Pregunta 13
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hepatopatía alcohólica: Profilaxis: abandono del alcohol. (GGT aumentada en hepatograma)
 ```
 
 ### Pregunta 13
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Anemia de Cooley (Talasemia mayor o beta: es la más grave)
 ```
 
 ### Pregunta 14
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Colelitiasis: Diagnóstico: ecografía
 ```
 
 ### Pregunta 14
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Hierro normal o aumentado
 ```
 
 ### Pregunta 15
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 10)
 ```
 
 ### Pregunta 15
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Intoxicación con benzodiacepinas: Lavado gástrico + Carbón Activado (Flumazenil no estaba)
 ```
 
 ### Pregunta 15
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 -Ferritina y Transferrina normal
 ```
 
 ### Pregunta 16
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Persona con traumatismo precordial: Diagnóstico: taponamiento cardíaco. Qué método complementario usaría para diagnosticar el taponamiento cardíaco? Eco fast
 ```
 
 ### Pregunta 16
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Intoxicación con carbamazepina: Intubar‼ (porque se produce una alteración de la ventilación mecánica).
 ```
 
 ### Pregunta 17
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Líquido pleural con ADA positivo: exudado por tuberculosis
 ```
 
 ### Pregunta 17
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 30)
 ```
 
 ### Pregunta 18
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hipoamilasemia:
 
 Pancreatitis Crónica? (Triada: dolor abdominal + DBT + Esteatorrea y malabsorción). ¿La hipoamilasemia se asocia con hipertrigliceridemia? Causas de Hiperamilasemia:
@@ -597,9 +597,9 @@ Pancreatitis Crónica? (Triada: dolor abdominal + DBT + Esteatorrea y malabsorci
 
 ### Pregunta 18
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Disfagia en Cáncer de esófago: es progresiva y comienza con sólidos.
 
 (Nemotecnia: 'El Mecánico Organiza': la disfagia es mecánica y / u orgánica)
@@ -607,17 +607,17 @@ Disfagia en Cáncer de esófago: es progresiva y comienza con sólidos.
 
 ### Pregunta 19
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Anemia hemolítica: se produce un aumento de Bilirrubina a predominio Indirecto y de LDH. Se produce destrucción celular, por lo que la anemia es REGENERATIVA.
 ```
 
 ### Pregunta 20
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cáncer que produce hipercalcemia:
 - -35% Epidermoide de pulmón (produce un aumento de PTH).
 - -25% Mama, riñón y próstata.
@@ -626,9 +626,9 @@ Cáncer que produce hipercalcemia:
 
 ### Pregunta 21
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Oat Cell. (Cáncer microcítico de pulmón):
 
 Clínica paraneoplásica:
@@ -642,25 +642,25 @@ Clínica paraneoplásica:
 
 ### Pregunta 22
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cáncer anaplásico de células grandes:
 ```
 
 ### Pregunta 23
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 EPOC y tabaquismo.
 ```
 
 ### Pregunta 24
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Niño sano de 18 meses con diarrea autolimitada:
 
 Clínica paraneoplásica: ginecomastia
@@ -672,17 +672,17 @@ Si es una diarrea que inicia en menos de 6 horas desde la ingesta de comida teng
 
 ### Pregunta 25
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Causa de Cáncer de cuello de útero: HPV
 ```
 
 ### Pregunta 26
 
-- **Problema detectado:** `correct_count_0`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 26) Recién Nacido con APGAR de 8, con cianosis acra y auscultación normal:
 
 Las opciones del choise eran las siguientes:
@@ -694,65 +694,65 @@ Las opciones del choise eran las siguientes:
 
 ### Pregunta 27
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 A quien se le coloca la vacuna antigripal:
 ```
 
 ### Pregunta 28
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Características de la talasemia:
 ```
 
 ### Pregunta 29
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Síndrome de Cushing: tiene miopatía: debilidad muscular próxima.
 ```
 
 ### Pregunta 31
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Dolor epigástrico: ulcera péptica
 ```
 
 ### Pregunta 32
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Ulcera duodenal de cara posterior: produce hemorragia por erosión de la Arteria Gastroduodenal.
 ```
 
 ### Pregunta 33
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Durante el trabajo de parto cual es la actitud en la que no se puede llevar a cabo un parto vaginal: Cara. » RESPUESTA CORRECTA «
 ```
 
 ### Pregunta 34
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hormonas en la menopausia: aumento de gonadotrofinas (FSH, LH), disminución de estrógeno y progesterona.
 ```
 
 ### Pregunta 35
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 EPI: Leucorrea purulenta + DIU:
 
 Dolor anexial
@@ -768,17 +768,17 @@ Criterios mayores:   -      Dolor a la movilización del cuello
 
 ### Pregunta 36
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hiperaldosteronismo: hipernatremia, hipopotasemia, HTA, alcalosis metabólica.
 ```
 
 ### Pregunta 37
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Síndrome carcinoide del aparato digestivo: se produce por un aumento de la serotonina.
 
 Recordar: hipopotasemia = alcalosis metabólica
@@ -820,41 +820,41 @@ Tratamiento: furosemida + IECA o ARA II
 
 ### Pregunta 42
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cáncer de endometrio: el signo más frecuente es la metrorragia.
 ```
 
 ### Pregunta 43
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Diagnóstico de cáncer de mama: mamografía.
 ```
 
 ### Pregunta 44
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Lactante de 2 - 3 semanas con vómitos blancos en escopetazo, con oliva pilórica + signo de la cuerda. Laboratorio: alcalosis metabólica hipoclorémica.
 ```
 
 ### Pregunta 45
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Corioamnionitis: inducir el parto por vía más adecuada.? (Cesárea?)
 ```
 
 ### Pregunta 46
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Sufrimiento fetal agudo: se representa con liquido meconial.
 - -DIPS 1: compresión de la cabeza fetal. (Fisiológico)
 - -DIPS 2:  hipoxia fetal (mayor de 18 seg.) o tardía. Significa que tiene insuficiencia placentaria. (es el de peor pronóstico).
@@ -863,33 +863,33 @@ Sufrimiento fetal agudo: se representa con liquido meconial.
 
 ### Pregunta 47
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ITU en embarazo: E. coli
 ```
 
 ### Pregunta 48
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cómo se previene la muerte súbita del lactante: lactancia materna, dormirlo de decúbito dorsal!
 ```
 
 ### Pregunta 49
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cuáles son las malformaciones cardiacas en hijo de madre DBT: macrosómicos, TGV, Hipertrofia simétrica del septum, prematurez, hipoglucemia, hipocalcemia, RCIU, defecto del tubo neural, macro/micro/hidrocefalia, estenosis pilórica, atresia duodenal, hernias. Urogenitales: agenesia renal, hidronefrosis, micropene, criptorquidias, hipospadia. Musculoesquelético: pie varo, labio leporino.
 ```
 
 ### Pregunta 50
 
-- **Problema detectado:** `correct_count_0`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 50) Cuando se presenta la DBT pregestacional (que produce las malformaciones cardiacas) Las opciones del choise eran las siguientes:
 - a) Hiperglucemia en periodo prenatal y primer trimestre. » RESPUESTA CORRECTA «
 - b) Hipoglucemia en primer trimestre
@@ -907,25 +907,25 @@ Tratamiento: Pilorotomía.
 
 ### Pregunta 52
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 DPPNI: sufrimiento fetal agudo + HTA + hipertono uterino: Cesárea de urgencia!!
 ```
 
 ### Pregunta 53
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Exantema súbito es sinónimo de: Virus Herpes 6, Roséola, Sexta Enfermedad.
 ```
 
 ### Pregunta 54
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cefalea en racimos: Cefalea de Horton:
 - -Mas frecuente en hombres jóvenes
 - -Es unilateral
@@ -938,9 +938,9 @@ Cefalea en racimos: Cefalea de Horton:
 
 ### Pregunta 55
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Parálisis del 6  to  par (Motor Ocular Externo): estrabismo convergente
 
 Parálisis del 4 to  par (Patético): estrabismo convergente
@@ -957,25 +957,25 @@ Parálisis del 3  er  par (Motor Ocular Común): estrabismo divergente + ptosis.
 
 ### Pregunta 58
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Retinoblastoma: da leucocoria.
 ```
 
 ### Pregunta 59
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Sonrisa social: 2 meses
 ```
 
 ### Pregunta 60
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Lactante con falta de crecimiento + fiebre de origen desconocido: realizar urocultivo. (sospechar ITU).
 
 ITU:
@@ -994,9 +994,9 @@ ITU:
 
 ### Pregunta 62
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 9-10 meses: nena se sienta y con ayuda da pasos.
 
 8 meses: nena que se sienta sin apoyo.
@@ -1006,9 +1006,9 @@ ITU:
 
 ### Pregunta 63
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Nena que patea la pelota: entre 15 y 20 meses
 
 ## 64) Nena que lanza la pelota: 2 años.
@@ -1016,33 +1016,33 @@ Nena que patea la pelota: entre 15 y 20 meses
 
 ### Pregunta 65
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hierro en lactante de 3 meses:
 ```
 
 ### Pregunta 66
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 De donde se obtiene la mayor fuente de hierro en un lactante de 3 meses: lactancia!!
 ```
 
 ### Pregunta 67
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Endometritis: es la infección puerperal mas frecuente (complicación tardía de parto)!!
 ```
 
 ### Pregunta 68
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ¿Como se contagia la madre embarazada de listeriosis? Por vía digestiva!! (carne, frutas, verduras, lácteos mal pasteurizados, quesos blancos y productos de mar). Clínica: cuadro pseudogripal.
 
 ¿Como se contagia el recién nacido?
@@ -1053,33 +1053,33 @@ Endometritis: es la infección puerperal mas frecuente (complicación tardía de
 
 ### Pregunta 69
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Colpitis con puntos blancos: cándida.
 ```
 
 ### Pregunta 70
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Kernicterus: incompatibilidad RH (enfermedad hemolítica del RN)
 ```
 
 ### Pregunta 71
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hipotiroidismo congénito: ictericia persistente
 ```
 
 ### Pregunta 72
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Síndrome de Down: se da por trisomía del par 21 (cariotipo 21)
 
 - Cardiopatía congénita: CAI, CIV, canal AV completo.
@@ -1093,9 +1093,9 @@ Síndrome de Down: se da por trisomía del par 21 (cariotipo 21)
 
 ### Pregunta 74
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Test del sudor (fibrosis quística):
 - -Menor de 30 mmol/L: normal (descarta)
 - -30 - 60 mmol/L: posible o intermedio. Repetir la prueba o realizar prueba de ADN.
@@ -1104,9 +1104,9 @@ Test del sudor (fibrosis quística):
 
 ### Pregunta 75
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hiperparatiroidismo Secundario: ↑ PTH , ↑ Ca ++ , ↓ PO4 -.
 
 Causa más frecuente: IRC»RESPUESTA CORRECTA«(↓ Vit D, ↓ Ca ++ , ↑ PTH, ↑ Ca ++ ,↓ PO4 - ), osteodistrofia renal, etc.
@@ -1114,9 +1114,9 @@ Causa más frecuente: IRC»RESPUESTA CORRECTA«(↓ Vit D, ↓ Ca ++ , ↑ PTH, 
 
 ### Pregunta 76
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Enfermedad de Graves: Ac. Anti receptor TSH.
 
 Es la causa más frecuente de hipertiroidismo
@@ -1126,25 +1126,25 @@ Triada clínica: bocio, exoftalmos, hipertiroidismo.
 
 ### Pregunta 77
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Complicaciones de Enfermedad de Crohn: oclusión, suboclusion, fistulas » PREGUNTA DE CHOISE «, abscesos. Manifestaciones extraintestinales: uveítis anterior aguda.
 ```
 
 ### Pregunta 78
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Localización del embarazo ectópico:  trompa / ampolla.
 ```
 
 ### Pregunta 79
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Mujer embarazada de 16 semanas de gestación con TVP, ¿qué hacer?
 
 Dar Enoxaparina (HBPM) 1 mg/kg/12hs
@@ -1157,17 +1157,17 @@ TVP en embarazo:
 
 ### Pregunta 80
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Sulfato de Magnesio EV en prematuros: es un uteroinhibidor! También se usa para profilaxis de parálisis cerebral.
 ```
 
 ### Pregunta 81
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Vómitos en el lactante:
 - -Biliosos: atresia duodenal, vólvulos.
 - -No biliosos: hipertrofia del píloro. ERGE (se da a los 6 meses), hiperplasia suprarrenal congénita (se da a los pocos días de vida).
@@ -1175,73 +1175,73 @@ Vómitos en el lactante:
 
 ### Pregunta 82
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Fecha probable de parto: FUM + 10 días - 3 meses.
 ```
 
 ### Pregunta 83
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Embarazo: hiperuricemia = predispone HTA en el embarazo!!! Es un predictor de preeclampsia.
 ```
 
 ### Pregunta 84
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Variedad de posición: se puede determinar con el Tacto Vaginal.
 ```
 
 ### Pregunta 85
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Historia clínica: ver definición de consentimiento informado.
 ```
 
 ### Pregunta 86
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Autonomía: ver definición de consentimiento informado.
 ```
 
 ### Pregunta 87
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Solicitar HC: ver definición de consentimiento informado.
 ```
 
 ### Pregunta 88
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ¿Cuál es la fractura que más sangra? Fractura de Fémur
 ```
 
 ### Pregunta 89
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ¿Que favorece el acercamiento de la madre con el recién nacido en la 1 er  hora? El apego.
 ```
 
 ### Pregunta 90
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Diagnostico de sinusitis: es clínico!
 
 ## 91) Mola hidatiforme:
@@ -1296,25 +1296,25 @@ Hombre joven con HTA controlada = ASA II.
 
 ### Pregunta 95
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Shock en un niño: ¿cuál es el signo más precoz?: relleno capilar mayor a 2 segundos. Tratamiento del shock hipovolémico: ¿con que empiezo? Con expansores y coloides (Ringer Lactato).
 ```
 
 ### Pregunta 96
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Diagnóstico de cardiopatía ventricular hipertrófica: ecocardiograma.
 ```
 
 ### Pregunta 97
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hematuria glomerular: características:
 
 - Hematíes dismórficos » PREGUNTA DE CHOISE «
@@ -1332,65 +1332,65 @@ Hematuria glomerular: características:
 
 ### Pregunta 98
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Tumor benigno de pulmón: Hamartoma. (tiene forma de palomita de maíz)
 ```
 
 ### Pregunta 99
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Serotipos de HPV predictores de Cáncer: 16-18-31-33-35-41…
 ```
 
 ### Pregunta 100
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Causa más frecuente de colecistitis: litiasis
 ```
 
 ### Pregunta 101
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Trastornos de ansiedad e hiperactividad: DX: impulsos? Control? Memoria, lenguaje y pensamiento abstracto.
 ```
 
 ### Pregunta 102
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hombre con cálculos biliares sin comorbilidades: ¿cuál es el abordaje quirúrgico? Laparoscopia.
 ```
 
 ### Pregunta 103
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Triada clínica de Cáncer de Células Renales: hematuria - dolor - tumor.
 ```
 
 ### Pregunta 104
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Diagnóstico de cariotipo de:
 ```
 
 ### Pregunta 105
 
-- **Problema detectado:** `correct_count_0`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 105) Cefalea en racimo en pediatría:
 
 Las opciones del choise eran las siguientes:
@@ -1402,33 +1402,33 @@ Las opciones del choise eran las siguientes:
 
 ### Pregunta 106
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ¿Cuando colocar la gamma globulina dentro de las 72 hs del parto?
 ```
 
 ### Pregunta 107
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Como se realiza el diagnostico de un incidentaloma renal: ecografía.
 ```
 
 ### Pregunta 108
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Caso clínico de Artritis Reumatoidea y anemia normocítica normocrómica que no responde al tratamiento con Hierro, con aumento de plaquetas y aumento de GB con predominio de eosinófilos.
 ```
 
 ### Pregunta 109
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Patología poligénica multifactorial con participación ambiental:
 
 - DBT » RESPUESTA DEL CHOISE «
@@ -1442,9 +1442,9 @@ Patología poligénica multifactorial con participación ambiental:
 
 ### Pregunta 110
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2019%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Migraña: cual es el aura más frecuente: visual: fotopsias!
 ```
 
@@ -1452,9 +1452,9 @@ Migraña: cual es el aura más frecuente: visual: fotopsias!
 
 ### Pregunta 29
 
-- **Problema detectado:** `duplicate_option_ids_a_b_c_d`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 29) En un traumatismo abdominal cerrado de abdomen en un niño, el órgano que mas frecuentemente puede lesionarse es:
 
 - a) El hígado. **[CORRECTA]**
@@ -1473,281 +1473,281 @@ Migraña: cual es el aura más frecuente: visual: fotopsias!
 
 ### Pregunta 49
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 ¿Cuál es el cáncer de páncreas más frecuente?: Adenocarcinoma ductal.
 ```
 
 ### Pregunta 50
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Paciente con abdomen agudo hemorrágico con shock, que es lo primero que haces: tratar la inestabilidad.
 ```
 
 ### Pregunta 51
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Te daba la clínica de un viejo con síndrome pilórico, en que dx piensas: Ca gástrico.
 ```
 
 ### Pregunta 52
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Que tumor causa síndrome obstructivo: Ca de colon descendente.
 ```
 
 ### Pregunta 68
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Difteria
 ```
 
 ### Pregunta 69
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Paciente vacunado con la Vacuna de HB, que encontras en sangre: Anticuerpo anti HBags
 ```
 
 ### Pregunta 70
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Caso de un nene con clínica de Púrpura SH
 ```
 
 ### Pregunta 71
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Niño con fiebre, estado tóxico y púrpura, Dx: meningococcemia
 ```
 
 ### Pregunta 72
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Principal causa de derrame exudativo: Neumonía
 ```
 
 ### Pregunta 73
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cuerpo extraño en vías aéreas superiores, clínica: ahogo, sofocamiento, tos.
 ```
 
 ### Pregunta 74
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Artrosis primaria
 ```
 
 ### Pregunta 75
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Causas de DPPNI: preeclampsia
 ```
 
 ### Pregunta 76
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cuál es el musculo del cual deriva el Cremáster: oblicuo menor (algo así, vofi)
 ```
 
 ### Pregunta 77
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Origen arteria ovárica: aorta
 ```
 
 ### Pregunta 78
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Candidiasis esofágica: marcadora de sida
 ```
 
 ### Pregunta 79
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Niño mayor a 6 meses con vómitos: reflujo / sobrealimentación (averiguar)
 ```
 
 ### Pregunta 80
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Niño con ttraumatismo y convulsiones: interno y tac
 ```
 
 ### Pregunta 81
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Principal causa de marcha hemiparetica en &gt; 60: ACV
 ```
 
 ### Pregunta 82
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Complicación de resfrío común: otitis
 ```
 
 ### Pregunta 83
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Debilidad en miembros inferior que cede con el descanso, leve ptosis palpebral: Miastenia Gravis
 ```
 
 ### Pregunta 84
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cual no es complicación de Enfermedad de Crohn: poliposis
 ```
 
 ### Pregunta 85
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Infección puerperal más frecuente: endometritis (no mastitis)
 ```
 
 ### Pregunta 86
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Triada de Charcot: ictericia, dolor en hipocondrio derecho y fiebre
 ```
 
 ### Pregunta 87
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Enfermedad Hemolítica: madre Rh -, padre Rh +, Coombs indirecta negativa
 ```
 
 ### Pregunta 88
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Como realizo diagnóstico de presencia de estrógenos: prueba de progesterona
 ```
 
 ### Pregunta 89
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Dengue
 ```
 
 ### Pregunta 90
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Síndrome nefrotico primario en pediatría: enfermedad de cambios mínimos
 ```
 
 ### Pregunta 91
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Screening de mama: mamografía
 ```
 
 ### Pregunta 92
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Mujer embarazada de 9 meses le diagnostican Listeriosis. Cuál es la vía de contagio de más frecuente de la madre: vía digestiva CORRECTA (otras opciones: vía transplacentaria, canal de parto, transfusiones) (PREGUNTA SOBRE LA VIA DE CONTAGIO DE LA MADRE NO DEL HIJO)
 ```
 
 ### Pregunta 93
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Criterio mayor de IC (criterios de Framingam): reflujo hepatoyugular
 ```
 
 ### Pregunta 94
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Hemorragia en la posmenopausia: histeroscopia + biopsia
 ```
 
 ### Pregunta 95
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Mamo y palpación anual a partir de los 40: screeing de cáncer de mama
 ```
 
 ### Pregunta 96
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Nena de 11 meses que desde los 8 presenta esteatorrea, hipoalbuminemia, anemia. A los 6 había incorporado harinas: enfermedad celiaca
 ```
 
 ### Pregunta 97
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Causa de alcalosis metabólica: Diurético de asa
 ```
 
 ### Pregunta 98
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Empiezan a caminar: de 12 a 15
 ```
 
@@ -1755,73 +1755,73 @@ Empiezan a caminar: de 12 a 15
 
 ### Pregunta 5
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 d .Arteria coronaria estomaquica
 ```
 
 ### Pregunta 9
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Un caso de dengue
 ```
 
 ### Pregunta 10
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Un caso de fiebre tifoidea/malaria/dengue?
 ```
 
 ### Pregunta 12
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Sindrome de basedow triada : Hipertitoidismo, bocio y oftalmopatia
 ```
 
 ### Pregunta 13
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Causa de nefritis en niños: Postinfecciosa
 ```
 
 ### Pregunta 15
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Niño de 9 meses con fiebre alta de 24 hs de evolucion, a las 12 hs de la desaparición de la fiebre aparece un rash morbiliforme en tronco, cara y extremidades: Exantema súbito (6ta enfermedad)
 ```
 
 ### Pregunta 17
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Punto de referencia en la presentación de vértice
 ```
 
 ### Pregunta 19
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Causa de obstrucción de intestino delgado más frecuente: bridas.
 ```
 
 ### Pregunta 20
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2021%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Caso en paciente pediátrico con deposiciones sanguinolentas y dolor cólico (llora un rato, se calma y vuelve a llorar): invaginación intestinal
 ```
 
@@ -1829,33 +1829,33 @@ Caso en paciente pediátrico con deposiciones sanguinolentas y dolor cólico (ll
 
 ### Pregunta 13
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 test de schiller negativo que significa: epitelio normal
 ```
 
 ### Pregunta 28
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Niño con antecedente de impetigo, presenta edema periorbitario bilateral, hipertension y hematuria: Sx nefritico
 ```
 
 ### Pregunta 33
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservativo, consejeria para prevencion de its. Habia otras opciones que hablaban que primero habia que pedirle estudios o hacerle pap y colpo y recien darle los aco cuando tengas los resultados… no.
 ```
 
 ### Pregunta 34
 
-- **Problema detectado:** `correct_count_0`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 34. Si consulta un anciano con clinica de sindrome pilorico cual es la causa que pensas:
 - a. cancer gastrico
 - b. hipetrofia pilorica
@@ -1863,9 +1863,9 @@ Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservat
 
 ### Pregunta 35
 
-- **Problema detectado:** `correct_count_0`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 35. Que es lo primero que solicitas cuando sospechas colestasis
 - a. ecografia
 - b. ERCP
@@ -1874,9 +1874,9 @@ Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservat
 
 ### Pregunta 36
 
-- **Problema detectado:** `correct_count_0`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 36. Cuando sospechas que hay sinusitis (esta en otros pregunteros)
 - a. con clinica
 - b. rx
@@ -1884,81 +1884,81 @@ Paciente joven consulta para solicitar anticoncepcion, que hacer: ACO+ preservat
 
 ### Pregunta 40
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Agente etiologico de FR: Streptococo B hemolitico del grupo A
 ```
 
 ### Pregunta 42
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Niño con hematuria, orina espumosa: Sc nefrotico
 ```
 
 ### Pregunta 43
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Hacia donde se desvia el ojo en la paralisis del VI par: Hacia adentro
 ```
 
 ### Pregunta 45
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Cual de estas es correcta sobre la sutura sagital: Va del bregma hacia la fontanela menor, el punto medio corresponde la vertice, algo asi…
 ```
 
 ### Pregunta 46
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Causa de hipotiroidismo en lugares donde el iodo es suficiente: Autoinmune
 ```
 
 ### Pregunta 48
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Cual es la tercer maniobra de leopold
 ```
 
 ### Pregunta 49
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Casito de hemorragia posparto con hipotension, utero blando: Atonia uterina
 ```
 
 ### Pregunta 55
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Mujer 25 años con dolor abdominal y signos de shock. Hay que estabilizar hemodinamicamente
 ```
 
 ### Pregunta 56
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Caso paciente con dolor post defecacion, estrias de sangre en papel higienico: Fisura 57. Si una mujer de 40 años tiene antecedentes de abortos, parto prematuro, accidente isquemico transitorio, que pensas: Sindrome antifosfolipidos
 ```
 
 ### Pregunta 59
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Niño 13 años con dolor en escroto (creo que era) y reflejo cremasteriano ausente:
 
 Torsion testicular
@@ -1966,217 +1966,217 @@ Torsion testicular
 
 ### Pregunta 60
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Que produce la hipopotasemia en el ecg: Prolongacion del QT
 ```
 
 ### Pregunta 62
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Consentimiento informado
 ```
 
 ### Pregunta 63
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Autonomia
 ```
 
 ### Pregunta 64
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Historia clinica
 ```
 
 ### Pregunta 65
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Triada de charcot
 ```
 
 ### Pregunta 66
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Trada de beck
 ```
 
 ### Pregunta 68
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Paciente con asma parcialmente controlada y ataques en el ejercicio.
 ```
 
 ### Pregunta 69
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Marcar la incorrecta sobre hitos del desarrollo
 ```
 
 ### Pregunta 70
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 En un paciente con abdomen agudo obstructivo con sospecha de CA de colon, en que porcion es mas frecuente: Descendente
 ```
 
 ### Pregunta 71
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Cuando esta contraindicada la colecistectomia por videolaparoscopia
 ```
 
 ### Pregunta 72
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Todos son complicacion de Chron excepto: Polipos
 ```
 
 ### Pregunta 73
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Lo correcto sobre convulsion febril: se presenta desde los 6 m hasta los 6a
 ```
 
 ### Pregunta 74
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Caso que esta en otros pregunteros del niño con PTI
 ```
 
 ### Pregunta 75
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Fiebre, aftas orales, manos y pies: Enterovirus no polio
 ```
 
 ### Pregunta 76
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Que produce el deficit de acido folico: Defectos en el tubo neural
 ```
 
 ### Pregunta 77
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Lo correcto sobre el cordon umbilical: Tiene dos arterias y una vena
 ```
 
 ### Pregunta 78
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Causa de neumotorax espontaneo: Bullas supleurales
 ```
 
 ### Pregunta 79
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Cancer de tiroides mas frecuente: Papilar
 ```
 
 ### Pregunta 80
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Correcto sobre sincope: Recuperacion espontanea
 ```
 
 ### Pregunta 81
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Correcto sobre addison: disminuye el cortisol plasmatico
 ```
 
 ### Pregunta 82
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Factor importante en ulcera peptica: pylori y aines
 ```
 
 ### Pregunta 83
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Patologia maligna de higado mas frecuente: metastasis
 ```
 
 ### Pregunta 84
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Mujer posmenopausica con dolor cervical que empeora con el movimiento y cede en reposo, rigidez de interfalangicas distales que a la mañana dura menos de una hora: Artrosis primaria
 ```
 
 ### Pregunta 87
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Cancer de estomago, ubicacion mas frecuente: Antro
 ```
 
 ### Pregunta 89
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Bebe con ictericia, acolia: Atresia de vias biliares
 ```
 
 ### Pregunta 90
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Niño con diarrea sanguinolenta y oliguria: SUH
 ```
 
 ### Pregunta 92
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2022%20Preguntero%20LISTO.pdf)
 
-```markdown
+```text
 Que se observa en el hiperaldosteronismo: Hipopotasemia por perdida urinaria
 ```
 
@@ -2184,18 +2184,18 @@ Que se observa en el hiperaldosteronismo: Hipopotasemia por perdida urinaria
 
 ### Pregunta 3
 
-- **Problema detectado:** `correct_count_0`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 3. C)guillain barre
 - D) sx piramidal
 ```
 
 ### Pregunta 4
 
-- **Problema detectado:** `correct_count_7`, `duplicate_option_ids_a_b_c_d`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 4. 63 Causa más fr hipertiroidismo ?
 
 ## -A.enf graves (CORRECTA), **[CORRECTA]**
@@ -2250,9 +2250,9 @@ C.Ercp
 
 ### Pregunta 5
 
-- **Problema detectado:** `correct_count_2`, `duplicate_option_ids_a_b`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 5. 28 28. 28. Caso de paciente con dismetria,reflejos pendulares Opciones:
 - A. sx piramidal
 - B. sx cerebeloso (correcta) **[CORRECTA]**
@@ -2267,9 +2267,9 @@ C.Ercp
 
 ### Pregunta 5
 
-- **Problema detectado:** `correct_count_29`, `duplicate_option_ids_a_b_c_d`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 5. 30 Enfermedad multifactorial, poligénica y que se relaciona con estilo de vida:
 
 ## A)Dbt (correcta) **[CORRECTA]**
@@ -2507,9 +2507,9 @@ B cirrosis
 
 ### Pregunta 11
 
-- **Problema detectado:** `correct_count_9`, `duplicate_option_ids_a_b_c_d`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 11) paciente caída de 6mts de altura que ingresa con taquipnea, taquicardia, ingurgitación yugular, y no ingresaba aire en pulmón derecho.Que hacer:
 
 A.rx de tórax
@@ -2599,25 +2599,25 @@ b pelvis simétrica con reducción del diámetro anteroposterior C. Pelvis asim�
 
 ### Pregunta 14
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 5 Hernia de Spiegel (protuberancia por debajo de arco de douglas por fuera de músculo recto anterior del abdomen) **[CORRECTA]**
 ```
 
 ### Pregunta 24
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 8 Caso clínico de Nena con Varicela con clínica característica: máculas , pápulas y vesículas que comienza en cabeza y luego en tronco. Fiebre. **[CORRECTA]**
 ```
 
 ### Pregunta 71
 
-- **Problema detectado:** `correct_count_5`, `duplicate_option_ids_a_b_c_d`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 71) ¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis?
 2. A- Dolor preingesta localizado en epigastrio.
 
@@ -2669,9 +2669,9 @@ D) Ecocardiograma
 
 ### Pregunta 81
 
-- **Problema detectado:** `correct_count_4`, `duplicate_option_ids_a_b_c_d`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 81) El trastorno de conducción mas frecuente en la Enfermedad de Chagas es:
 - a) Bloqueo completo de rama izquierda.
 - b) Hemibloqueo posterior izquierdo.
@@ -2710,9 +2710,9 @@ A.en general con fiebre y conjuntivitis
 
 ### Pregunta 88
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Niño con shock como lo hidratas:
 
 Dextrosa 5%
@@ -2736,9 +2736,9 @@ Hipotensión Parto post término Incompatibilidad RH
 
 ### Pregunta 92
 
-- **Problema detectado:** `correct_count_2`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 92) ¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico?
 - a) Perforación de ulcera gástrica.
 - b) Perforación de apéndice.
@@ -2749,9 +2749,9 @@ Hipotensión Parto post término Incompatibilidad RH
 
 ### Pregunta 94
 
-- **Problema detectado:** `no_options`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 Cual NO es complicación de crohn
 
 Pólipos
@@ -2759,9 +2759,9 @@ Pólipos
 
 ### Pregunta 100
 
-- **Problema detectado:** `correct_count_0`, `option_count_1`
+[📄 Ver PDF original](fuentes/pdf/2023%20Examen%20LISTO.pdf)
 
-```markdown
+```text
 - 100) Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada
 
 respecto a: A- Su estado de salud. B- Su estado de salud, el procedimiento propuesto con especificación de los objetivos

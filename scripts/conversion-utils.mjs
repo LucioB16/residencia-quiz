@@ -227,11 +227,14 @@ function renderExcludedMarkdown(problemBlocks, totalBlocks) {
     
     const sortedBlocks = blocksByYear[year].sort((a, b) => a.sourceNumber - b.sourceNumber);
     for (const block of sortedBlocks) {
+      const originalPdf = block.file.replace('.md', '');
+      const pdfLink = `fuentes/pdf/${encodeURIComponent(originalPdf)}`;
+
       allBlocksMarkdown.push(`### Pregunta ${block.sourceNumber}`);
       allBlocksMarkdown.push("");
-      allBlocksMarkdown.push(`- **Problema detectado:** ${block.issues.map((issue) => "\`" + issue + "\`").join(", ")}`);
+      allBlocksMarkdown.push(`[📄 Ver PDF original](${pdfLink})`);
       allBlocksMarkdown.push("");
-      allBlocksMarkdown.push("```markdown");
+      allBlocksMarkdown.push("```text");
       allBlocksMarkdown.push(block.rawBlock);
       allBlocksMarkdown.push("```");
       allBlocksMarkdown.push("");
@@ -309,10 +312,19 @@ export function writeConversion(root = process.cwd()) {
   const parsed = parseMarkdownFiles();
   const questionsPath = path.join(root, QUESTIONS_JSON);
   const excludedPath = path.join(root, EXCLUDED_BLOCKS_MD);
+  const excludedJsonPath = path.join(root, "src", "data", "excluded-questions.json");
 
   fs.mkdirSync(path.dirname(questionsPath), { recursive: true });
   fs.writeFileSync(questionsPath, JSON.stringify(parsed.questions, null, 2) + "\n", "utf8");
   fs.writeFileSync(excludedPath, parsed.excludedMarkdown, "utf8");
+  
+  const cleanExcludedJson = parsed.excluded.map(b => ({
+    file: b.file,
+    sourceNumber: b.sourceNumber,
+    rawBlock: b.rawBlock,
+    issues: b.issues
+  }));
+  fs.writeFileSync(excludedJsonPath, JSON.stringify(cleanExcludedJson, null, 2) + "\n", "utf8");
 
   return {
     ...parsed,
