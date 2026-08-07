@@ -5,7 +5,7 @@ import questions from "../data/questions.json";
 import "../styles/global.css";
 
 const excludedContent = fs.readFileSync(path.join(process.cwd(), 'conversion-excluded-blocks.md'), 'utf-8');
-const excludedCount = (excludedContent.match(/^\| \d+ \|/gm) || []).length;
+const excludedCount = (excludedContent.match(/^### Pregunta \d+/gm) || []).length;
 
 const totalQuestions = questions.length;
 const base = import.meta.env.BASE_URL;
