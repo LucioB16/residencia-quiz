@@ -17,6 +17,160 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
+    <style is:inline>
+      .start-layout {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      .glass-panel {
+        background: rgba(255, 255, 255, 0.85);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border: 1px solid rgba(255, 255, 255, 0.4);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+        border-radius: 16px;
+        padding: 32px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      .glass-panel:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 12px 48px rgba(0, 0, 0, 0.12);
+      }
+      .control-group {
+        margin-bottom: 24px;
+      }
+      .control-group label {
+        display: block;
+        font-weight: 600;
+        margin-bottom: 8px;
+        color: #333;
+      }
+      .mode-selector {
+        display: flex;
+        gap: 16px;
+        margin-bottom: 16px;
+      }
+      .mode-card {
+        flex: 1;
+        border: 2px solid #e2e8f0;
+        border-radius: 12px;
+        padding: 16px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        text-align: center;
+        background: #f8fafc;
+      }
+      .mode-card input {
+        display: none;
+      }
+      .mode-card:has(input:checked) {
+        border-color: #3b82f6;
+        background: #eff6ff;
+        box-shadow: 0 4px 12px rgba(59, 130, 246, 0.15);
+      }
+      .mode-card-title {
+        font-weight: bold;
+        font-size: 1.1rem;
+        color: #1e293b;
+        margin-bottom: 4px;
+        display: block;
+      }
+      .mode-card-desc {
+        font-size: 0.85rem;
+        color: #64748b;
+      }
+      .source-dropdown {
+        width: 100%;
+        padding: 12px 16px;
+        border: 1px solid #cbd5e1;
+        border-radius: 8px;
+        font-size: 1rem;
+        background-color: white;
+        cursor: pointer;
+        appearance: none;
+        background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23475569%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E");
+        background-repeat: no-repeat;
+        background-position: right 16px top 50%;
+        background-size: 12px auto;
+        transition: border-color 0.2s;
+      }
+      .source-dropdown:focus {
+        outline: none;
+        border-color: #3b82f6;
+        box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2);
+      }
+      .toggle-container {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 12px 16px;
+        background: #f8fafc;
+        border-radius: 8px;
+        border: 1px solid #e2e8f0;
+      }
+      .toggle-switch {
+        position: relative;
+        display: inline-block;
+        width: 50px;
+        height: 28px;
+      }
+      .toggle-switch input {
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+      .toggle-slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background-color: #cbd5e1;
+        transition: .3s;
+        border-radius: 28px;
+      }
+      .toggle-slider:before {
+        position: absolute;
+        content: "";
+        height: 20px;
+        width: 20px;
+        left: 4px;
+        bottom: 4px;
+        background-color: white;
+        transition: .3s;
+        border-radius: 50%;
+      }
+      input:checked + .toggle-slider {
+        background-color: #3b82f6;
+      }
+      input:checked + .toggle-slider:before {
+        transform: translateX(22px);
+      }
+      .btn-start {
+        width: 100%;
+        padding: 16px;
+        font-size: 1.1rem;
+        font-weight: bold;
+        border-radius: 12px;
+        background: linear-gradient(135deg, #3b82f6, #2563eb);
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: transform 0.2s, box-shadow 0.2s;
+        box-shadow: 0 4px 14px rgba(37, 99, 235, 0.3);
+      }
+      .btn-start:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(37, 99, 235, 0.4);
+      }
+      .btn-start:active {
+        transform: translateY(1px);
+      }
+      .hidden {
+        display: none !important;
+      }
+    </style>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
@@ -46,13 +200,20 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
       const HISTORY_KEY = "residencia-quiz-history-v1";
       const app = document.querySelector("[data-app]");
       const excludedCount = app.dataset.excluded;
-      const modeLabels = {
-        original: "orden original",
-        random: "orden aleatorio",
-      };
+      
+      const uniqueSources = [...new Set(questions.map(q => q.id.split('-')[0].trim()))].sort((a, b) => b.localeCompare(a));
+      
+      function getModeLabel(mode, randomize, source) {
+        if (mode === "source") return `${source} ${randomize ? "(Mix)" : "(Ord)"}`;
+        if (mode === "global") return `Global ${randomize ? "(Mix)" : "(Ord)"}`;
+        if (mode === "random") return "orden aleatorio";
+        return "orden original";
+      }
 
       const state = {
-        mode: "original",
+        quizMode: "global",
+        selectedSource: uniqueSources.length > 0 ? uniqueSources[0] : "",
+        randomize: true,
         sequence: [],
         current: 0,
         correct: 0,
@@ -144,7 +305,7 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
               <td>${record.incorrect}</td>
               <td>${record.percentage}%</td>
               <td>${formatDuration(record.durationMs)}</td>
-              <td>${escapeHtml(modeLabels[record.mode] ?? record.mode)}</td>
+              <td>${escapeHtml(record.quizMode ? getModeLabel(record.quizMode, record.randomize, record.selectedSource) : getModeLabel(record.mode))}</td>
             </tr>
           `;
         }).join("");
@@ -173,45 +334,89 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
       }
 
       function bindStartEvents() {
-        app.querySelectorAll("input[name='mode']").forEach((input) => {
-          input.addEventListener("change", () => {
-            state.mode = input.value;
+        app.querySelectorAll("input[name='quizMode']").forEach((input) => {
+          input.addEventListener("change", (e) => {
+            state.quizMode = e.target.value;
+            const sourceContainer = app.querySelector("#source-select-container");
+            if (state.quizMode === "source") {
+              sourceContainer.classList.remove("hidden");
+            } else {
+              sourceContainer.classList.add("hidden");
+            }
           });
         });
+
+        const sourceSelect = app.querySelector("#sourceSelect");
+        if (sourceSelect) {
+          sourceSelect.addEventListener("change", (e) => {
+            state.selectedSource = e.target.value;
+          });
+        }
+
+        const randomizeToggle = app.querySelector("#randomizeToggle");
+        if (randomizeToggle) {
+          randomizeToggle.addEventListener("change", (e) => {
+            state.randomize = e.target.checked;
+          });
+        }
+
         app.querySelector("[data-action='start']").addEventListener("click", startQuiz);
       }
 
       function renderStart() {
+        const sourcesOptions = uniqueSources.map(source => 
+          `<option value="${source}" ${state.selectedSource === source ? "selected" : ""}>Examen ${source}</option>`
+        ).join("");
+
         app.innerHTML = `
           <div class="start-layout">
-            <section class="hero-panel">
-              <p class="eyebrow">Banco Residencias Médicas Córdoba</p>
-              <h1>Cuestionario interactivo</h1>
-              <div class="metric-strip" aria-label="Resumen">
+            <section class="glass-panel">
+              <p class="eyebrow" style="text-align: center; margin-bottom: 8px;">Banco Residencias Médicas Córdoba</p>
+              <h1 style="text-align: center; margin-bottom: 24px; font-size: 2rem;">Cuestionario interactivo</h1>
+              <div class="metric-strip" aria-label="Resumen" style="justify-content: center; margin-bottom: 32px;">
                 <span><strong>${questions.length}</strong> preguntas</span>
                 <a href="https://github.com/LucioB16/residencia-quiz/blob/main/conversion-excluded-blocks.md" target="_blank" rel="noopener noreferrer">
                   <strong>${excludedCount}</strong> excluidas
                 </a>
-                <span><strong>local</strong> ranking</span>
-                <a href="https://github.com/LucioB16/residencia-quiz/tree/main/fuentes/pdf" target="_blank" rel="noopener noreferrer">
-                  <strong>PDFs</strong> fuentes
-                </a>
               </div>
-            </section>
 
-            <section class="control-panel" aria-label="Inicio">
-              <fieldset class="mode-picker">
-                <legend>Modo</legend>
-                <label>
-                  <input type="radio" name="mode" value="original" ${state.mode === "original" ? "checked" : ""} />
-                  <span>Orden original</span>
-                </label>
-                <label>
-                  <input type="radio" name="mode" value="random" ${state.mode === "random" ? "checked" : ""} />
-                  <span>Orden aleatorio</span>
-                </label>
-              </fieldset>
-              <button class="primary-action" type="button" data-action="start">Play</button>
+              <div class="control-group">
+                <label>Modo de juego</label>
+                <div class="mode-selector">
+                  <label class="mode-card">
+                    <input type="radio" name="quizMode" value="global" ${state.quizMode === "global" ? "checked" : ""}>
+                    <span class="mode-card-title">Modo Global</span>
+                    <span class="mode-card-desc">Todas las preguntas</span>
+                  </label>
+                  <label class="mode-card">
+                    <input type="radio" name="quizMode" value="source" ${state.quizMode === "source" ? "checked" : ""}>
+                    <span class="mode-card-title">Modo por Fuente</span>
+                    <span class="mode-card-desc">Elegir un año/examen</span>
+                  </label>
+                </div>
+              </div>
+
+              <div class="control-group ${state.quizMode === "global" ? "hidden" : ""}" id="source-select-container">
+                <label for="sourceSelect">Seleccionar Fuente</label>
+                <select id="sourceSelect" class="source-dropdown">
+                  ${sourcesOptions}
+                </select>
+              </div>
+
+              <div class="control-group">
+                <div class="toggle-container">
+                  <div>
+                    <strong>Mezclar el orden</strong>
+                    <div style="font-size: 0.85rem; color: #64748b;">Aparición aleatoria de preguntas</div>
+                  </div>
+                  <label class="toggle-switch">
+                    <input type="checkbox" id="randomizeToggle" ${state.randomize ? "checked" : ""}>
+                    <span class="toggle-slider"></span>
+                  </label>
+                </div>
+              </div>
+
+              <button class="btn-start" type="button" data-action="start">¡Comenzar Examen!</button>
             </section>
 
             ${renderHistory()}
@@ -221,7 +426,11 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
       }
 
       function startQuiz() {
-        state.sequence = state.mode === "random" ? shuffle(questions) : [...questions];
+        let filteredQuestions = questions;
+        if (state.quizMode === "source") {
+          filteredQuestions = questions.filter(q => q.id.startsWith(state.selectedSource));
+        }
+        state.sequence = state.randomize ? shuffle(filteredQuestions) : [...filteredQuestions].sort((a, b) => a.order - b.order);
         state.current = 0;
         state.correct = 0;
         state.incorrect = 0;
@@ -294,7 +503,10 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
           incorrect: state.incorrect,
           percentage: finalPercentage,
           durationMs: Math.round(state.finalDurationMs),
-          mode: state.mode,
+          quizMode: state.quizMode,
+          selectedSource: state.selectedSource,
+          randomize: state.randomize,
+          mode: (state.quizMode === "global" && state.randomize) ? "random" : "original"
         });
         renderFinal();
       }
@@ -430,7 +642,7 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
             </section>
 
             <div class="quiz-actions">
-              <span>Modo: ${escapeHtml(modeLabels[state.mode])}</span>
+              <span>Modo: ${escapeHtml(getModeLabel(state.quizMode, state.randomize, state.selectedSource))}</span>
               <button class="secondary-action" type="button" data-action="skip" ${state.result ? "disabled" : ""}>Saltear</button>
             </div>
 
@@ -455,9 +667,11 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
         const blob = new Blob([dataStr], { type: "application/json" });
         const url = URL.createObjectURL(blob);
         
+        const modeIdentifier = state.quizMode === "global" ? "global" : state.selectedSource;
+        
         const a = document.createElement('a');
         a.href = url;
-        a.download = `feedback-residencias-${new Date().toISOString().slice(0,10)}.json`;
+        a.download = `feedback-residencias-${modeIdentifier}-${new Date().toISOString().slice(0,10)}.json`;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
@@ -487,7 +701,7 @@ const serializedQuestions = JSON.stringify(questions).replaceAll("<", "\\u003c")
                 <span><strong>${state.correct}</strong> correctas</span>
                 <span><strong>${state.incorrect}</strong> incorrectas</span>
                 <span><strong>${formatDuration(state.finalDurationMs)}</strong> tiempo</span>
-                <span><strong>${escapeHtml(modeLabels[state.mode])}</strong> modo</span>
+                <span><strong>${escapeHtml(getModeLabel(state.quizMode, state.randomize, state.selectedSource))}</strong> modo</span>
               </div>
               ${feedbackMessage}
               <div style="margin-top: 20px;">
