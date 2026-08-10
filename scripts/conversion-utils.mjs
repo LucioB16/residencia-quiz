@@ -286,7 +286,10 @@ export function parseMarkdownFiles() {
 
   const questions = allValid.map((block, index) => {
     const yearMatch = block.file.match(/20\d{2}/);
-    const year = yearMatch ? yearMatch[0] : "Desconocido";
+    let year = yearMatch ? yearMatch[0] : "Desconocido";
+    if (block.file.includes("Cursos_Residencias")) {
+      year += " B";
+    }
     return {
       id: `${year} - Pregunta ${block.sourceNumber}`,
       order: index + 1,

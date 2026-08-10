@@ -4,22 +4,22 @@ Estos bloques fueron detectados como preguntas pero fueron excluidos del cuestio
 
 ## Resumen General
 
-- Preguntas totales detectadas: **647**
-- Preguntas válidas convertidas: **409**
-- Bloques excluidos: **238**
+- Preguntas totales detectadas: **1063**
+- Preguntas válidas convertidas: **820**
+- Bloques excluidos: **243**
 
 ### Frecuencia de Errores
 
 - `correct_count_0`: 8
-- `correct_count_2`: 6
+- `correct_count_2`: 10
 - `correct_count_29`: 1
-- `correct_count_3`: 2
+- `correct_count_3`: 3
 - `correct_count_4`: 1
 - `correct_count_5`: 1
 - `correct_count_7`: 1
 - `correct_count_9`: 1
 - `duplicate_option_ids_a_b`: 1
-- `duplicate_option_ids_a_b_c_d`: 6
+- `duplicate_option_ids_a_b_c_d`: 7
 - `duplicate_option_ids_d`: 6
 - `no_options`: 214
 - `option_count_1`: 1
@@ -54,6 +54,46 @@ Estos bloques fueron detectados como preguntas pero fueron excluidos del cuestio
 - E- Hipoglucemia.
 
 - D- Hipoglucemia. **[CORRECTA]**
+```
+
+### Pregunta 61
+
+[📄 Ver PDF original](fuentes/pdf/2016_Cursos_Residencias.pdf)
+
+```text
+61. Durante el examen clínico de un paciente portador de un nódulo tiroideo ¿Cuál sería el algoritmo diagnóstico inicial?
+A) Ecografía, TSH y T4.  **[CORRECTA]**
+B) PAAF.
+C) Centellografía tiroidea.
+D) TSH y T4. **[CORRECTA]**
+```
+
+### Pregunta 81
+
+[📄 Ver PDF original](fuentes/pdf/2016_Cursos_Residencias.pdf)
+
+```text
+81. Señale las ramas del tronco celíaco:
+A) Hepática común, mesentérica superior, esplénica.
+B) Hepática común, esplénica, coronaria estomáquica.
+C) Hepática común, mesentérica superior y gástrica derecha.
+D) Hepática común, esplénica y gástrica izquierda.  Las respuestas correctas son: Hepática común, esplénica, coronaria estomáquica., Hepática común, esplénica y gástrica izquierda. ¿Cuál es la neoplasia anal más frecuente? **[CORRECTA]**
+A) Carcinoma indiferenciado.
+B) Adenocarcinoma.
+C) Melanomas.
+D) Carcinoma epidermoide. **[CORRECTA]**
+```
+
+### Pregunta 96
+
+[📄 Ver PDF original](fuentes/pdf/2016_Cursos_Residencias.pdf)
+
+```text
+96. La velocidad de segmentación globular en una apendicitis aguda se haya habitualmente:
+A) Muy elevada. **[CORRECTA]**
+B) Moderadamente elevada. **[CORRECTA]**
+C) Elevada. **[CORRECTA]**
+D) Dentro de límites normales. 
 ```
 
 ## Examen 2017
@@ -1450,6 +1490,18 @@ Migraña: cual es el aura más frecuente: visual: fotopsias!
 
 ## Examen 2020
 
+### Pregunta 7
+
+[📄 Ver PDF original](fuentes/pdf/2020_Cursos_Residencias.pdf)
+
+```text
+7. En el contexto de la migraña, el aura más típica se manifiesta en forma de:
+A) Parestesia.
+B) Visión borrosa **[CORRECTA]**
+C) Amaurosis. 
+D) Afasia. La migraña con aura representa el 20 % de las migrañas. Es una cefalea recurrente, de predominio hemicraneal y carácter pulsátil, que puede acompañarse de náuseas, vómitos, fotofobia y sonofobia, que dura entre 4 y 72 horas. Se precede de clínica de focalidad neurológica (aura), siendo las manifestaciones visuales las más frecuentes (escotomas centelleantes, visión borrosa, etc.) **[CORRECTA]**
+```
+
 ### Pregunta 29
 
 [📄 Ver PDF original](fuentes/pdf/2020%20Examen%20LISTO.pdf)
@@ -2771,4 +2823,18 @@ respecto a: A- Su estado de salud. B- Su estado de salud, el procedimiento propu
 C- Su estado de salud, el procedimiento propuesto con especificación de los objetivos perseguidos; los beneficios esperados del procedimiento, los riesgos, molestias y efectos adversos previsibles. D- Su estado de salud, el procedimiento propuesto con especificación de los objetivos perseguidos; los beneficios esperados del procedimiento, los riesgos, molestias y efectos adversos previsibles; la especificación de los procedimientos alternativos y sus riesgos y las consecuencias previsibles de la no realización del procedimiento propuesto o de los
 
 alternativos especificados. (Correcta) **[CORRECTA]**
+```
+
+## Examen 2025
+
+### Pregunta 56
+
+[📄 Ver PDF original](fuentes/pdf/2025_Cursos_Residencias.pdf)
+
+```text
+56. ¿Cuál es la causa más frecuente de hemorragia digestiva baja masiva (grave) en adultos mayores?
+A) Cáncer colorrectal
+B) Enfermedad inflamatoria intestinal
+C) Diverticulosis colónica **[CORRECTA]**
+D) Angiodisplasia  Aunque las hemorroides y fisuras son causas frecuentes de sangrado leve, la diverticulosis colónica es la causa más común de hemorragia digestiva baja masiva aguda, indolora y sin dolor abdominal asociado. **[CORRECTA]**
 ```

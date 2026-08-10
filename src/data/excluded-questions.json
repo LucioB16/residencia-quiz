@@ -17,6 +17,31 @@
     ]
   },
   {
+    "file": "2016_Cursos_Residencias.pdf.md",
+    "sourceNumber": 61,
+    "rawBlock": "61. Durante el examen clínico de un paciente portador de un nódulo tiroideo ¿Cuál sería el algoritmo diagnóstico inicial?\nA) Ecografía, TSH y T4.  **[CORRECTA]**\nB) PAAF.\nC) Centellografía tiroidea.\nD) TSH y T4. **[CORRECTA]**",
+    "issues": [
+      "correct_count_2"
+    ]
+  },
+  {
+    "file": "2016_Cursos_Residencias.pdf.md",
+    "sourceNumber": 81,
+    "rawBlock": "81. Señale las ramas del tronco celíaco:\nA) Hepática común, mesentérica superior, esplénica.\nB) Hepática común, esplénica, coronaria estomáquica.\nC) Hepática común, mesentérica superior y gástrica derecha.\nD) Hepática común, esplénica y gástrica izquierda.  Las respuestas correctas son: Hepática común, esplénica, coronaria estomáquica., Hepática común, esplénica y gástrica izquierda. ¿Cuál es la neoplasia anal más frecuente? **[CORRECTA]**\nA) Carcinoma indiferenciado.\nB) Adenocarcinoma.\nC) Melanomas.\nD) Carcinoma epidermoide. **[CORRECTA]**",
+    "issues": [
+      "correct_count_2",
+      "duplicate_option_ids_a_b_c_d"
+    ]
+  },
+  {
+    "file": "2016_Cursos_Residencias.pdf.md",
+    "sourceNumber": 96,
+    "rawBlock": "96. La velocidad de segmentación globular en una apendicitis aguda se haya habitualmente:\nA) Muy elevada. **[CORRECTA]**\nB) Moderadamente elevada. **[CORRECTA]**\nC) Elevada. **[CORRECTA]**\nD) Dentro de límites normales. ",
+    "issues": [
+      "correct_count_3"
+    ]
+  },
+  {
     "file": "2017 Examen LISTO.pdf.md",
     "sourceNumber": 8,
     "rawBlock": "- 8) Un ejecutivo de una gran empresa, de 40 años y sin antecedentes de interés, acude al servicio de urgencias por presentar un dolor brusco y de gran intensidad, localizado en el epigastrio que ha comenzado una hora antes y no cede. A la exploración, el paciente está pálido, sudoroso, hipotenso, con respiración superficial; el abdomen tenso y muy doloroso a la palpación superficial, mostrando desaparición de la matidez hepática a la percusión. ¿Cuál de los siguientes es el diagnóstico más probable?\n2. A- Apendicitis aguda.\n3. B- Pancreatitis aguda. **[CORRECTA]**\n4. D- Corticoides locales. **[CORRECTA]**\n\n- C- Perforación gástrica. **[CORRECTA]**\n\n- D- Colecistitis aguda.\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_",
@@ -1388,6 +1413,14 @@
     ]
   },
   {
+    "file": "2020_Cursos_Residencias.pdf.md",
+    "sourceNumber": 7,
+    "rawBlock": "7. En el contexto de la migraña, el aura más típica se manifiesta en forma de:\nA) Parestesia.\nB) Visión borrosa **[CORRECTA]**\nC) Amaurosis. \nD) Afasia. La migraña con aura representa el 20 % de las migrañas. Es una cefalea recurrente, de predominio hemicraneal y carácter pulsátil, que puede acompañarse de náuseas, vómitos, fotofobia y sonofobia, que dura entre 4 y 72 horas. Se precede de clínica de focalidad neurológica (aura), siendo las manifestaciones visuales las más frecuentes (escotomas centelleantes, visión borrosa, etc.) **[CORRECTA]**",
+    "issues": [
+      "correct_count_2"
+    ]
+  },
+  {
     "file": "2021 Examen LISTO.pdf.md",
     "sourceNumber": 5,
     "rawBlock": "d .Arteria coronaria estomaquica",
@@ -1912,6 +1945,14 @@
     "issues": [
       "correct_count_0",
       "option_count_1"
+    ]
+  },
+  {
+    "file": "2025_Cursos_Residencias.pdf.md",
+    "sourceNumber": 56,
+    "rawBlock": "56. ¿Cuál es la causa más frecuente de hemorragia digestiva baja masiva (grave) en adultos mayores?\nA) Cáncer colorrectal\nB) Enfermedad inflamatoria intestinal\nC) Diverticulosis colónica **[CORRECTA]**\nD) Angiodisplasia  Aunque las hemorroides y fisuras son causas frecuentes de sangrado leve, la diverticulosis colónica es la causa más común de hemorragia digestiva baja masiva aguda, indolora y sin dolor abdominal asociado. **[CORRECTA]**",
+    "issues": [
+      "correct_count_2"
     ]
   }
 ]
