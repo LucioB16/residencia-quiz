@@ -4271,8 +4271,35 @@
     ]
   },
   {
-    "id": "2016 B - Pregunta 62",
+    "id": "2016 B - Pregunta 61",
     "order": 159,
+    "statement": "Durante el examen clínico de un paciente portador de un nódulo tiroideo ¿Cuál sería el algoritmo diagnóstico inicial?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ecografía, TSH y T4. ",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "PAAF.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Centellografía tiroidea.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "TSH y T4.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": "2016 B - Pregunta 62",
+    "order": 160,
     "statement": "El patrón típico del líquido cefalorraquídeo de un paciente con meningitis bacteriana es:",
     "options": [
       {
@@ -4299,7 +4326,7 @@
   },
   {
     "id": "2016 B - Pregunta 63",
-    "order": 160,
+    "order": 161,
     "statement": "¿Cuál de estas patologías produce un derrame pleural tipo trasudado?",
     "options": [
       {
@@ -4326,7 +4353,7 @@
   },
   {
     "id": "2016 B - Pregunta 64",
-    "order": 161,
+    "order": 162,
     "statement": "Referido a los síntomas y signos del Síndrome de Cushing:",
     "options": [
       {
@@ -4353,7 +4380,7 @@
   },
   {
     "id": "2016 B - Pregunta 65",
-    "order": 162,
+    "order": 163,
     "statement": "La causa más frecuente de síndrome de hipertensión portal es:",
     "options": [
       {
@@ -4380,7 +4407,7 @@
   },
   {
     "id": "2016 B - Pregunta 66",
-    "order": 163,
+    "order": 164,
     "statement": "La talasemia se diferencia de la anemia ferropénica porque:",
     "options": [
       {
@@ -4407,7 +4434,7 @@
   },
   {
     "id": "2016 B - Pregunta 67",
-    "order": 164,
+    "order": 165,
     "statement": "¿Cuál de las siguientes es una modificación fisiológica en el aparato CARDIOVASCULAR durante el embarazo?",
     "options": [
       {
@@ -4434,7 +4461,7 @@
   },
   {
     "id": "2016 B - Pregunta 68",
-    "order": 165,
+    "order": 166,
     "statement": "En el estadio inicial ¿cuál es la forma de presentación clínica más frecuente de la glomerulonefritis membranosa?",
     "options": [
       {
@@ -4461,7 +4488,7 @@
   },
   {
     "id": "2016 B - Pregunta 69",
-    "order": 166,
+    "order": 167,
     "statement": "¿Cuál es la etiología más frecuente de bronquiectasias en países subdesarrollados?",
     "options": [
       {
@@ -4488,7 +4515,7 @@
   },
   {
     "id": "2016 B - Pregunta 70",
-    "order": 167,
+    "order": 168,
     "statement": "¿Cuál de las siguientes manifestaciones clínicas es la más frecuente en los pacientes con disección aórtica?",
     "options": [
       {
@@ -4515,7 +4542,7 @@
   },
   {
     "id": "2016 B - Pregunta 71",
-    "order": 168,
+    "order": 169,
     "statement": "El síndrome de derrame pleural se caracteriza por:",
     "options": [
       {
@@ -4542,7 +4569,7 @@
   },
   {
     "id": "2016 B - Pregunta 72",
-    "order": 169,
+    "order": 170,
     "statement": "¿Cuál de los siguientes forma parte de los criterios mayores de Duke para Endocarditis Infecciosa?",
     "options": [
       {
@@ -4569,7 +4596,7 @@
   },
   {
     "id": "2016 B - Pregunta 73",
-    "order": 170,
+    "order": 171,
     "statement": "Consideramos que una enfermedad es pandémica cuando:",
     "options": [
       {
@@ -4596,7 +4623,7 @@
   },
   {
     "id": "2016 B - Pregunta 74",
-    "order": 171,
+    "order": 172,
     "statement": "El ABDOMEN AGUDO VASCULAR se caracteriza por:",
     "options": [
       {
@@ -4623,7 +4650,7 @@
   },
   {
     "id": "2016 B - Pregunta 75",
-    "order": 172,
+    "order": 173,
     "statement": "Paciente de 19 años de sexo masculino, longilíneo, consulta por presentar dolor en hemitórax izquierdo, que se exacerba con la inspiración profunda, de aparición brusca. Al examen físico se constata disminución del murmullo vesicular en campo superior izquierdo, aumento de la sonoridad a la percusión y disminución de las vibraciones vocales. ¿Cuál es su impresión diagnóstica?",
     "options": [
       {
@@ -4650,7 +4677,7 @@
   },
   {
     "id": "2016 B - Pregunta 76",
-    "order": 173,
+    "order": 174,
     "statement": "Un testículo criptorquídico de localización abdominal no adecuadamente tratado puede traer aparejado:",
     "options": [
       {
@@ -4677,7 +4704,7 @@
   },
   {
     "id": "2016 B - Pregunta 77",
-    "order": 174,
+    "order": 175,
     "statement": "¿Qué sector del intestino irriga la arteria mesentérica superior?",
     "options": [
       {
@@ -4704,7 +4731,7 @@
   },
   {
     "id": "2016 B - Pregunta 78",
-    "order": 175,
+    "order": 176,
     "statement": "¿Cuál es la anemia más frecuente asociada con el embarazo?",
     "options": [
       {
@@ -4731,7 +4758,7 @@
   },
   {
     "id": "2016 B - Pregunta 79",
-    "order": 176,
+    "order": 177,
     "statement": "La tríada de dolor abdominal, vómitos y fiebre leve en un niño de edad escolar, debe siempre pensar primero el diagnóstico de:",
     "options": [
       {
@@ -4758,7 +4785,7 @@
   },
   {
     "id": "2016 B - Pregunta 80",
-    "order": 177,
+    "order": 178,
     "statement": "La vena safena interna, se origina:",
     "options": [
       {
@@ -4784,8 +4811,62 @@
     ]
   },
   {
+    "id": "2016 B - Pregunta 81",
+    "order": 179,
+    "statement": "Señale las ramas del tronco celíaco:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hepática común, mesentérica superior, esplénica.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Hepática común, esplénica, coronaria estomáquica.",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Hepática común, mesentérica superior y gástrica derecha.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Hepática común, esplénica y gástrica izquierda.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": "2016 B - Pregunta 819",
+    "order": 180,
+    "statement": "¿Cuál es la neoplasia anal más frecuente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Carcinoma indiferenciado.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Adenocarcinoma.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Melanomas.",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Carcinoma epidermoide.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
     "id": "2016 B - Pregunta 82",
-    "order": 178,
+    "order": 181,
     "statement": "¿Cuál es el factor etiopatogénico más frecuente de las pancreatitis crónicas?",
     "options": [
       {
@@ -4812,7 +4893,7 @@
   },
   {
     "id": "2016 B - Pregunta 83",
-    "order": 179,
+    "order": 182,
     "statement": "El examen físico de un paciente con sospecha de ABDOMEN AGUDO PERFORATIVO nos muestra:",
     "options": [
       {
@@ -4839,7 +4920,7 @@
   },
   {
     "id": "2016 B - Pregunta 84",
-    "order": 180,
+    "order": 183,
     "statement": "En la percusión abdominal, la matidez de concavidad superior es signo de:",
     "options": [
       {
@@ -4866,7 +4947,7 @@
   },
   {
     "id": "2016 B - Pregunta 85",
-    "order": 181,
+    "order": 184,
     "statement": "La clasificación de Hinchey se utiliza en:",
     "options": [
       {
@@ -4893,7 +4974,7 @@
   },
   {
     "id": "2016 B - Pregunta 86",
-    "order": 182,
+    "order": 185,
     "statement": "¿Cuál es la posición más frecuente del apéndice cecal?",
     "options": [
       {
@@ -4920,7 +5001,7 @@
   },
   {
     "id": "2016 B - Pregunta 87",
-    "order": 183,
+    "order": 186,
     "statement": "¿Dónde se encuentran ubicadas las válvulas de Heister?",
     "options": [
       {
@@ -4947,7 +5028,7 @@
   },
   {
     "id": "2016 B - Pregunta 88",
-    "order": 184,
+    "order": 187,
     "statement": "El descenso fetal a través del canal del parto recorre los planos de HODGE. Marque la opción CORRECTA respecto al segundo plano de HODGE.",
     "options": [
       {
@@ -4974,7 +5055,7 @@
   },
   {
     "id": "2016 B - Pregunta 89",
-    "order": 185,
+    "order": 188,
     "statement": "Ante la palpación de una vesícula distendida e indolora en un paciente ictérico con síndrome constitucional. ¿Qué diagnóstico sospecha?",
     "options": [
       {
@@ -5001,7 +5082,7 @@
   },
   {
     "id": "2016 B - Pregunta 90",
-    "order": 186,
+    "order": 189,
     "statement": "El divertículo de Meckel se encuentra en:",
     "options": [
       {
@@ -5028,7 +5109,7 @@
   },
   {
     "id": "2016 B - Pregunta 91",
-    "order": 187,
+    "order": 190,
     "statement": "¿Cuál de las siguientes es una característica del carcinoma de colon derecho?",
     "options": [
       {
@@ -5055,7 +5136,7 @@
   },
   {
     "id": "2016 B - Pregunta 92",
-    "order": 188,
+    "order": 191,
     "statement": "La intervención quirúrgica que establece una comunicación entre el estómago y la piel recibe el nombre de:",
     "options": [
       {
@@ -5082,7 +5163,7 @@
   },
   {
     "id": "2016 B - Pregunta 93",
-    "order": 189,
+    "order": 192,
     "statement": "¿Cuál es la principal causa de síndrome coledociano benigno?",
     "options": [
       {
@@ -5109,7 +5190,7 @@
   },
   {
     "id": "2016 B - Pregunta 94",
-    "order": 190,
+    "order": 193,
     "statement": "¿Cuál de los siguientes factores probablemente está relacionado con mayor incidencia de cáncer gástrico?",
     "options": [
       {
@@ -5136,7 +5217,7 @@
   },
   {
     "id": "2016 B - Pregunta 95",
-    "order": 191,
+    "order": 194,
     "statement": "Ante la sospecha clínica de oclusión intestinal, el primer estudio que debe solicitar es:",
     "options": [
       {
@@ -5162,8 +5243,35 @@
     ]
   },
   {
+    "id": "2016 B - Pregunta 96",
+    "order": 195,
+    "statement": "La velocidad de segmentación globular en una apendicitis aguda se haya habitualmente:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Muy elevada.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Moderadamente elevada.",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Elevada.",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Dentro de límites normales. ",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
     "id": "2016 B - Pregunta 97",
-    "order": 192,
+    "order": 196,
     "statement": "¿Cuál de las siguientes es una característica de la colesterolosis?",
     "options": [
       {
@@ -5190,7 +5298,7 @@
   },
   {
     "id": "2016 B - Pregunta 98",
-    "order": 193,
+    "order": 197,
     "statement": "¿Cuál es la localización más frecuente de Diverticulosis colónica?",
     "options": [
       {
@@ -5217,7 +5325,7 @@
   },
   {
     "id": "2017 - Pregunta 1",
-    "order": 194,
+    "order": 198,
     "statement": "El tratamiento quirúrgico del cáncer de colon de derecho es:",
     "options": [
       {
@@ -5244,7 +5352,7 @@
   },
   {
     "id": "2017 - Pregunta 2",
-    "order": 195,
+    "order": 199,
     "statement": "¿A qué se denomina operación de Billroth I?",
     "options": [
       {
@@ -5271,7 +5379,7 @@
   },
   {
     "id": "2017 - Pregunta 3",
-    "order": 196,
+    "order": 200,
     "statement": "El DOLOR PARIETAL tiene como característica:",
     "options": [
       {
@@ -5298,7 +5406,7 @@
   },
   {
     "id": "2017 - Pregunta 4",
-    "order": 197,
+    "order": 201,
     "statement": "¿Cuál es la manifestación más frecuente en los pacientes con litiasis biliar?",
     "options": [
       {
@@ -5325,7 +5433,7 @@
   },
   {
     "id": "2017 - Pregunta 5",
-    "order": 198,
+    "order": 202,
     "statement": "¿Qué tipo de hernia es la más frecuente en la población general?",
     "options": [
       {
@@ -5352,7 +5460,7 @@
   },
   {
     "id": "2017 - Pregunta 6",
-    "order": 199,
+    "order": 203,
     "statement": "¿Cuál de las siguientes medidas es útil para la prevención del Tromboembolismo Pulmonar postquirúrgico?",
     "options": [
       {
@@ -5379,7 +5487,7 @@
   },
   {
     "id": "2017 - Pregunta 7",
-    "order": 200,
+    "order": 204,
     "statement": "El hamartoma de pulmón es:",
     "options": [
       {
@@ -5406,7 +5514,7 @@
   },
   {
     "id": "2017 - Pregunta 9",
-    "order": 201,
+    "order": 205,
     "statement": "¿Cuál de los siguientes es un criterio de Ranson?",
     "options": [
       {
@@ -5433,7 +5541,7 @@
   },
   {
     "id": "2017 - Pregunta 10",
-    "order": 202,
+    "order": 206,
     "statement": "¿Cuál es el síntoma más común en la fisura anal?",
     "options": [
       {
@@ -5460,7 +5568,7 @@
   },
   {
     "id": "2017 - Pregunta 11",
-    "order": 203,
+    "order": 207,
     "statement": "¿Cuál es la manifestación clínica más frecuente de la ÚLCERA PÉPTICA?",
     "options": [
       {
@@ -5487,7 +5595,7 @@
   },
   {
     "id": "2017 - Pregunta 12",
-    "order": 204,
+    "order": 208,
     "statement": "¿Cuál es la causa más frecuente de hiperparatiroidismo secundario?",
     "options": [
       {
@@ -5514,7 +5622,7 @@
   },
   {
     "id": "2017 - Pregunta 13",
-    "order": 205,
+    "order": 209,
     "statement": "Los criterios tomográficos de Balthazar, ¿en qué patología se aplican?",
     "options": [
       {
@@ -5541,7 +5649,7 @@
   },
   {
     "id": "2017 - Pregunta 14",
-    "order": 206,
+    "order": 210,
     "statement": "¿Por qué se caracterizan las QUEMADURAS DE TIPO A o de 1° Grado?",
     "options": [
       {
@@ -5568,7 +5676,7 @@
   },
   {
     "id": "2017 - Pregunta 15",
-    "order": 207,
+    "order": 211,
     "statement": "¿Cuál es el método por imágenes de elección para el estudio de la colelitiasis?",
     "options": [
       {
@@ -5595,7 +5703,7 @@
   },
   {
     "id": "2017 - Pregunta 16",
-    "order": 208,
+    "order": 212,
     "statement": "¿Cuáles son las ulceras duodenales que sangran en forma masiva con mayor frecuencia?",
     "options": [
       {
@@ -5622,7 +5730,7 @@
   },
   {
     "id": "2017 - Pregunta 17",
-    "order": 209,
+    "order": 213,
     "statement": "¿Cuál es la principal causa de peritonitis generalizada?",
     "options": [
       {
@@ -5649,7 +5757,7 @@
   },
   {
     "id": "2017 - Pregunta 18",
-    "order": 210,
+    "order": 214,
     "statement": "Los abscesos perianales se originan frecuentemente en:",
     "options": [
       {
@@ -5676,7 +5784,7 @@
   },
   {
     "id": "2017 - Pregunta 19",
-    "order": 211,
+    "order": 215,
     "statement": "Una paciente de 57 años consulta por dolor epigástrico tipo cólico luego de la ingesta de comidas ricas en grasas, que se repitió en varias oportunidades. Tiene el antecedente de colecistectomía laparoscópica siete años antes. El examen físico es normal y el laboratorio muestra: GR 4.300.000 mm3, HTO 42%, Hb 12,9 mg/dL, glóbulos blancos 4.500 mm3, bilirrubina total 3,5 md/dL, bilirrubina directa 3,1 mg/dL, GPT 120 UI/L, GOT 115 UI/L, FA 690 UI/L. ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -5703,7 +5811,7 @@
   },
   {
     "id": "2017 - Pregunta 20",
-    "order": 212,
+    "order": 216,
     "statement": "¿Cuál es la causa más frecuente de hemorragia digestiva alta?",
     "options": [
       {
@@ -5730,7 +5838,7 @@
   },
   {
     "id": "2017 - Pregunta 21",
-    "order": 213,
+    "order": 217,
     "statement": "¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis?",
     "options": [
       {
@@ -5757,7 +5865,7 @@
   },
   {
     "id": "2017 - Pregunta 22",
-    "order": 214,
+    "order": 218,
     "statement": "¿Cuál es el cáncer de tiroides más frecuente?",
     "options": [
       {
@@ -5784,7 +5892,7 @@
   },
   {
     "id": "2017 - Pregunta 23",
-    "order": 215,
+    "order": 219,
     "statement": "La causa más frecuente de pancreatitis aguda en nuestro medio es:",
     "options": [
       {
@@ -5811,7 +5919,7 @@
   },
   {
     "id": "2017 - Pregunta 24",
-    "order": 216,
+    "order": 220,
     "statement": "En un paciente con sospecha de ABDOMEN AGUDO OBSTRUCTIVO el examen físico nos muestra:",
     "options": [
       {
@@ -5838,7 +5946,7 @@
   },
   {
     "id": "2017 - Pregunta 25",
-    "order": 217,
+    "order": 221,
     "statement": "El patrón electrocardiográfico QRS de duración mayor a 0,12 seg con morfología QS en V1 con R ancha y empastada en V6 corresponde a:",
     "options": [
       {
@@ -5865,7 +5973,7 @@
   },
   {
     "id": "2017 - Pregunta 26",
-    "order": 218,
+    "order": 222,
     "statement": "¿En cuál de los siguientes procesos es característica la presencia de un soplo diastólico?",
     "options": [
       {
@@ -5892,7 +6000,7 @@
   },
   {
     "id": "2017 - Pregunta 27",
-    "order": 219,
+    "order": 223,
     "statement": "Ante un paciente con ojo rojo, sensación de cuerpo extraño, secreciones mucosas, adenopatías preauticulares y el antecedente de un cuadro de vías aéreas superiores, usted pensaría en:",
     "options": [
       {
@@ -5919,7 +6027,7 @@
   },
   {
     "id": "2017 - Pregunta 28",
-    "order": 220,
+    "order": 224,
     "statement": "Una de las características del síncope es:",
     "options": [
       {
@@ -5946,7 +6054,7 @@
   },
   {
     "id": "2017 - Pregunta 29",
-    "order": 221,
+    "order": 225,
     "statement": "La enfermedad de Addison se asocia con:",
     "options": [
       {
@@ -5973,7 +6081,7 @@
   },
   {
     "id": "2017 - Pregunta 30",
-    "order": 222,
+    "order": 226,
     "statement": "¿Qué situación produce una anemia regenerativa?",
     "options": [
       {
@@ -6000,7 +6108,7 @@
   },
   {
     "id": "2017 - Pregunta 31",
-    "order": 223,
+    "order": 227,
     "statement": "El edema en esclavina es característico de:",
     "options": [
       {
@@ -6027,7 +6135,7 @@
   },
   {
     "id": "2017 - Pregunta 32",
-    "order": 224,
+    "order": 228,
     "statement": "Mujer de 70 años que consulta por cuadro de poco tiempo […] Muestra una intensa pigmentación melánica cutáneo-mucosa […] hiperpotasemia e hipoglucemia. Con estos datos, la sospecha diagnóstica será:",
     "options": [
       {
@@ -6054,7 +6162,7 @@
   },
   {
     "id": "2017 - Pregunta 33",
-    "order": 225,
+    "order": 229,
     "statement": "Paciente de 25 años de edad, con antecedentes de asma intermitente leve, que presenta crisis de broncorreactividad con el ejercicio por lo que decide consultar. Usted indica:",
     "options": [
       {
@@ -6081,7 +6189,7 @@
   },
   {
     "id": "2017 - Pregunta 34",
-    "order": 226,
+    "order": 230,
     "statement": "¿Cuál de éstos es criterio de posible benignidad en una lesión pigmentada melanocítica?",
     "options": [
       {
@@ -6108,7 +6216,7 @@
   },
   {
     "id": "2017 - Pregunta 35",
-    "order": 227,
+    "order": 231,
     "statement": "¿Qué anomalía sospecha cuando un paciente tiene diarrea después de la ingesta de leche?",
     "options": [
       {
@@ -6135,7 +6243,7 @@
   },
   {
     "id": "2017 - Pregunta 36",
-    "order": 228,
+    "order": 232,
     "statement": "De acuerdo a los criterios de Framingham para el diagnóstico de insuficiencia cardíaca congestiva, ¿cuál es uno de los criterios mayores?",
     "options": [
       {
@@ -6162,7 +6270,7 @@
   },
   {
     "id": "2017 - Pregunta 37",
-    "order": 229,
+    "order": 233,
     "statement": "¿Qué dato se encuentra en el HIPERALDOSTERONISMO?",
     "options": [
       {
@@ -6189,7 +6297,7 @@
   },
   {
     "id": "2017 - Pregunta 38",
-    "order": 230,
+    "order": 234,
     "statement": "¿Cuál de las siguientes es causa de trombocitopenia periférica?",
     "options": [
       {
@@ -6216,7 +6324,7 @@
   },
   {
     "id": "2017 - Pregunta 39",
-    "order": 231,
+    "order": 235,
     "statement": "La infección urinaria baja presenta:",
     "options": [
       {
@@ -6243,7 +6351,7 @@
   },
   {
     "id": "2017 - Pregunta 40",
-    "order": 232,
+    "order": 236,
     "statement": "¿Cuál es la manifestación clínica más frecuente de los tumores renales?",
     "options": [
       {
@@ -6270,7 +6378,7 @@
   },
   {
     "id": "2017 - Pregunta 41",
-    "order": 233,
+    "order": 237,
     "statement": "Una paciente de 78 años es traída por los familiares a la guardia por hematemesis. Sólo refieren que padece artrosis, por lo que ingiere diclofenac.  A la exploración física: PA 100/60 mmHg, FC 100/min, con palidez generalizada. ¿Cuál es la etiología más frecuente en este cuadro de hemorragia digestiva?",
     "options": [
       {
@@ -6297,7 +6405,7 @@
   },
   {
     "id": "2017 - Pregunta 42",
-    "order": 234,
+    "order": 238,
     "statement": "¿Cuál de las siguientes situaciones produce hiperuricemia por sobreproducción de uratos?",
     "options": [
       {
@@ -6324,7 +6432,7 @@
   },
   {
     "id": "2017 - Pregunta 43",
-    "order": 235,
+    "order": 239,
     "statement": "Un hombre de 45 años de edad con antecedentes de poliquistosis renal consulta en la guardia por cefalea intensa de comienzo súbito. Al examen usted sólo encuentra rigidez de nuca, sin fiebre. Los signos vitales son normales. Debe sospechar de:",
     "options": [
       {
@@ -6351,7 +6459,7 @@
   },
   {
     "id": "2017 - Pregunta 44",
-    "order": 236,
+    "order": 240,
     "statement": "Paciente de 45 años de edad, internado por tumor cerebral, que presenta durante la internación rápido deterioro del sensorio por lo que usted acude a la sala a evaluar al paciente. Al examen corrobora que el paciente no responde a estímulos verbales, responde a estímulos nociceptivos con flexión de los miembros; presenta la pupila izquierda de 6mm de diámetro sin reactividad a la luz y alteración de la respiración. El manejo inicial del paciente es:",
     "options": [
       {
@@ -6378,7 +6486,7 @@
   },
   {
     "id": "2017 - Pregunta 45",
-    "order": 237,
+    "order": 241,
     "statement": "¿Cuál es el tratamiento de elección en una fibrilación auricular aguda, con descompensación hemodinámica, sin cardiopatía estructural?",
     "options": [
       {
@@ -6405,7 +6513,7 @@
   },
   {
     "id": "2017 - Pregunta 46",
-    "order": 238,
+    "order": 242,
     "statement": "¿Cuáles son las manifestaciones más frecuentes (tríada de Beck) en el taponamiento cardíaco?",
     "options": [
       {
@@ -6432,7 +6540,7 @@
   },
   {
     "id": "2017 - Pregunta 48",
-    "order": 239,
+    "order": 243,
     "statement": "¿Cuáles son las causas predominantes de las úlceras pépticas?",
     "options": [
       {
@@ -6459,7 +6567,7 @@
   },
   {
     "id": "2017 - Pregunta 49",
-    "order": 240,
+    "order": 244,
     "statement": "Ante un paciente pediátrico con shock ¿Cuál de los siguientes signos es de aparición más precoz?",
     "options": [
       {
@@ -6486,7 +6594,7 @@
   },
   {
     "id": "2017 - Pregunta 50",
-    "order": 241,
+    "order": 245,
     "statement": "Niño de 18 meses de edad, con calendario de vacunas completo hasta la fecha, que consulta en el servicio de urgencias por tumefacción de la rodilla derecha tras jugar en el parque, sin traumatismo evidente. En la anamnesis dirigida, la madre refiere que un tío de ella tenía problemas similares. La exploración ecográfica es compatible con hemartrosis y en la analítica sólo destaca un alargamiento del KPTT de 52'' (normal25-35''). ¿Cuál es la hipótesis diagnóstica más probable?",
     "options": [
       {
@@ -6513,7 +6621,7 @@
   },
   {
     "id": "2017 - Pregunta 51",
-    "order": 242,
+    "order": 246,
     "statement": "Erupción en alas de mariposa, manifestaciones musculoesqueléticas (artritis, miositis), serositis, hepatoesplenoegalia, pericarditis y signos de afectación neurológica, son manifestaciones de:",
     "options": [
       {
@@ -6540,7 +6648,7 @@
   },
   {
     "id": "2017 - Pregunta 52",
-    "order": 243,
+    "order": 247,
     "statement": "¿Cuál de los siguientes tratamientos sería más apropiado para un paciente de 10 años con hematuria macroscópica, edema en párpados y dorso de manos, y tensión arterial de 150/110?",
     "options": [
       {
@@ -6567,7 +6675,7 @@
   },
   {
     "id": "2017 - Pregunta 53",
-    "order": 244,
+    "order": 248,
     "statement": "¿Cuál de los siguientes alimentos puede gatillar anafilaxia en edad pediátrica con más frecuencia?",
     "options": [
       {
@@ -6594,7 +6702,7 @@
   },
   {
     "id": "2017 - Pregunta 54",
-    "order": 245,
+    "order": 249,
     "statement": "El órgano más afectado por la desnutrición durante los primeros meses de vida es:",
     "options": [
       {
@@ -6621,7 +6729,7 @@
   },
   {
     "id": "2017 - Pregunta 55",
-    "order": 246,
+    "order": 250,
     "statement": "Los vómitos en el lactante mayor de 6 meses suele relacionarse con:",
     "options": [
       {
@@ -6648,7 +6756,7 @@
   },
   {
     "id": "2017 - Pregunta 56",
-    "order": 247,
+    "order": 251,
     "statement": "¿Cuál es el criterio válido para diagnosticar sinusitis aguda, como complicación bacteriana del resfrío común?",
     "options": [
       {
@@ -6675,7 +6783,7 @@
   },
   {
     "id": "2017 - Pregunta 57",
-    "order": 248,
+    "order": 252,
     "statement": "Una niña de 13 meses de vida presenta diarrea desde los 8 meses de edad. A los 6 meses de vida se introdujeron harinas en su alimentación. Entre los estudios solicitados se detectó anemia, hipoalbuminemia y pérdida excesiva de grasas en materia fecal. Entre los diagnósticos probables. ¿Cuál sería el más apropiado?",
     "options": [
       {
@@ -6702,7 +6810,7 @@
   },
   {
     "id": "2017 - Pregunta 58",
-    "order": 249,
+    "order": 253,
     "statement": "La diarrea aguda prevalente durante el período de lactante se caracteriza preferentemente por:",
     "options": [
       {
@@ -6729,7 +6837,7 @@
   },
   {
     "id": "2017 - Pregunta 59",
-    "order": 250,
+    "order": 254,
     "statement": "Un niño de tres años de edad ingresa en el hospital con un síndrome hemolítico-urémico (SHU) aparecido después de tres días de diarrea sanguinolenta sin fiebre. ¿Cuál es el agente causal más probable de este síndrome diarreico asociado a SHU?",
     "options": [
       {
@@ -6756,7 +6864,7 @@
   },
   {
     "id": "2017 - Pregunta 60",
-    "order": 251,
+    "order": 255,
     "statement": "Señalar lo correcto en relación con el síndrome nefrótico:",
     "options": [
       {
@@ -6783,7 +6891,7 @@
   },
   {
     "id": "2017 - Pregunta 61",
-    "order": 252,
+    "order": 256,
     "statement": "Un niño de dos años ingirió accidentalmente una pila alcalina, tipo botón, hace una hora y por estudio radiográfico se encuentra ubicada en una de las estrecheces fisiológicas del esófago. Usted considera que la conducta terapéutica es:",
     "options": [
       {
@@ -6810,7 +6918,7 @@
   },
   {
     "id": "2017 - Pregunta 62",
-    "order": 253,
+    "order": 257,
     "statement": "El SÍNDROME NEFRÓTICO en pediatría puede ser primario o secundario. La forma primaria más frecuente es:",
     "options": [
       {
@@ -6837,7 +6945,7 @@
   },
   {
     "id": "2017 - Pregunta 63",
-    "order": 254,
+    "order": 258,
     "statement": "Una de las causas más frecuentes de abdomen agudo en el LACTANTE es:",
     "options": [
       {
@@ -6864,7 +6972,7 @@
   },
   {
     "id": "2017 - Pregunta 65",
-    "order": 255,
+    "order": 259,
     "statement": "Ante un niño que súbitamente presenta petequias, púrpura palpable en especial en miembros inferiores, fiebre y estado tóxico, el primer diagnóstico a considerar es el de:",
     "options": [
       {
@@ -6891,7 +6999,7 @@
   },
   {
     "id": "2017 - Pregunta 66",
-    "order": 256,
+    "order": 260,
     "statement": "El adenocarcinoma de próstata es una enfermedad frecuente en el sexo masculino. La indicación más frecuente para el tratamiento  de la enfermedad localizada es:",
     "options": [
       {
@@ -6918,7 +7026,7 @@
   },
   {
     "id": "2017 - Pregunta 67",
-    "order": 257,
+    "order": 261,
     "statement": "Un niño con diarrea, que presenta: pulso normal, disminución del volumen urinario, está sediento, con examen físico normal, tiene:",
     "options": [
       {
@@ -6945,7 +7053,7 @@
   },
   {
     "id": "2017 - Pregunta 68",
-    "order": 258,
+    "order": 262,
     "statement": "La carencia de folatos antes y durante el embarazo puede producir en el feto (marcar lo correcto):",
     "options": [
       {
@@ -6972,7 +7080,7 @@
   },
   {
     "id": "2017 - Pregunta 69",
-    "order": 259,
+    "order": 263,
     "statement": "Ante un paciente de 2 años de edad, que presenta palidez y oligoanuria de inicio súbito, con antecedentes de una diarrea sanguinolenta que se acompañó de fiebre, usted sospecha:",
     "options": [
       {
@@ -6999,7 +7107,7 @@
   },
   {
     "id": "2017 - Pregunta 70",
-    "order": 260,
+    "order": 264,
     "statement": "La leucocoria en niño es la presentación inicial de:",
     "options": [
       {
@@ -7026,7 +7134,7 @@
   },
   {
     "id": "2017 - Pregunta 71",
-    "order": 261,
+    "order": 265,
     "statement": "¿Cuál es la cardiopatía congénita más frecuente en la edad pediátrica?",
     "options": [
       {
@@ -7053,7 +7161,7 @@
   },
   {
     "id": "2017 - Pregunta 72",
-    "order": 262,
+    "order": 266,
     "statement": "Las lesiones elementales características de VARICELA NO COMPLICADA son:",
     "options": [
       {
@@ -7080,7 +7188,7 @@
   },
   {
     "id": "2017 - Pregunta 73",
-    "order": 263,
+    "order": 267,
     "statement": "El parto se produce mediante fenómenos activos: contracciones uterinas y pujos. ¿Cuál de los siguientes es otro fenómeno activo?",
     "options": [
       {
@@ -7107,7 +7215,7 @@
   },
   {
     "id": "2017 - Pregunta 74",
-    "order": 264,
+    "order": 268,
     "statement": "¿Cuál de los siguientes hallazgos están presentes en el síndrome de ovario poliquístico?",
     "options": [
       {
@@ -7134,7 +7242,7 @@
   },
   {
     "id": "2017 - Pregunta 75",
-    "order": 265,
+    "order": 269,
     "statement": "De todas las masas anexiales diagnosticadas en el embarazo, como malignas, la más frecuente es:",
     "options": [
       {
@@ -7161,7 +7269,7 @@
   },
   {
     "id": "2017 - Pregunta 76",
-    "order": 266,
+    "order": 270,
     "statement": "La localización más frecuente del embarazo ectópico es:",
     "options": [
       {
@@ -7188,7 +7296,7 @@
   },
   {
     "id": "2017 - Pregunta 77",
-    "order": 267,
+    "order": 271,
     "statement": "Lo consulta una mujer de 28 años, sana, que cursa la semana 11 de su segundo embarazo. Le pregunta si puede colocarse la vacuna antigripal, ya que se la han ofrecido en su trabajo. Usted contesta:",
     "options": [
       {
@@ -7215,7 +7323,7 @@
   },
   {
     "id": "2017 - Pregunta 78",
-    "order": 268,
+    "order": 272,
     "statement": "Paciente de 25 años, gestas: 1, paras: 1. Refiere dolor abdominal de comienzo brusco de 3 hs de evolución, fiebre de 38°C, leucorrea escasa con olor fétido verdoso. Refiere utilizar como método anticonceptivo dispositivo intrauterino desde hace 2 años. ¿Qué diagnóstico sospecha?",
     "options": [
       {
@@ -7242,7 +7350,7 @@
   },
   {
     "id": "2017 - Pregunta 79",
-    "order": 269,
+    "order": 273,
     "statement": "¿Cuál de los siguientes agentes infecciosos produce Síndrome de Mondor?",
     "options": [
       {
@@ -7269,7 +7377,7 @@
   },
   {
     "id": "2017 - Pregunta 80",
-    "order": 270,
+    "order": 274,
     "statement": "Paciente de 35 años cursando embarazo de 32 semanas de gestación, consulta a la guardia con genitorragia roja oscura, al examen físico se constata: TA 180/120, hipertonía uterina, latidos cardíacos fetales 100/minuto. ¿Cuál sería la conducta correcta?",
     "options": [
       {
@@ -7296,7 +7404,7 @@
   },
   {
     "id": "2017 - Pregunta 81",
-    "order": 271,
+    "order": 275,
     "statement": "La mayor parte del incremento de peso durante el embarazo no patológico es atribuible al aumento del:",
     "options": [
       {
@@ -7323,7 +7431,7 @@
   },
   {
     "id": "2017 - Pregunta 82",
-    "order": 272,
+    "order": 276,
     "statement": "¿Cuál es la fractura más frecuente asociada a partos dificultosos?",
     "options": [
       {
@@ -7350,7 +7458,7 @@
   },
   {
     "id": "2017 - Pregunta 83",
-    "order": 273,
+    "order": 277,
     "statement": "El síntoma más común de cáncer de endometrio es:",
     "options": [
       {
@@ -7377,7 +7485,7 @@
   },
   {
     "id": "2017 - Pregunta 85",
-    "order": 274,
+    "order": 278,
     "statement": "¿Cuál de los siguientes patrones hormonales es el más frecuente durante el climaterio?",
     "options": [
       {
@@ -7404,7 +7512,7 @@
   },
   {
     "id": "2017 - Pregunta 86",
-    "order": 275,
+    "order": 279,
     "statement": "¿Cuál es la causa más frecuente de desprendimiento prematuro de placenta?",
     "options": [
       {
@@ -7431,7 +7539,7 @@
   },
   {
     "id": "2017 - Pregunta 87",
-    "order": 276,
+    "order": 280,
     "statement": "¿Cuál es la causa más frecuente de aborto temprano?",
     "options": [
       {
@@ -7458,7 +7566,7 @@
   },
   {
     "id": "2017 - Pregunta 88",
-    "order": 277,
+    "order": 281,
     "statement": "¿Cuál es la causa más frecuente de cáncer de cuello uterino?",
     "options": [
       {
@@ -7485,7 +7593,7 @@
   },
   {
     "id": "2017 - Pregunta 89",
-    "order": 278,
+    "order": 282,
     "statement": "¿Cuál de estas medidas es útil para disminuir el riesgo de parálisis cerebral en el feto, ante una amenaza de parto pre-término?",
     "options": [
       {
@@ -7512,7 +7620,7 @@
   },
   {
     "id": "2017 - Pregunta 90",
-    "order": 279,
+    "order": 283,
     "statement": "El tumor de ovario más común que se presenta en la infancia es:",
     "options": [
       {
@@ -7539,7 +7647,7 @@
   },
   {
     "id": "2017 - Pregunta 91",
-    "order": 280,
+    "order": 284,
     "statement": "Paciente de 25 años que presenta embarazo de 38 semanas, concurre a la consulta por dolor tipo cólico abdominal. Al examen constata contracciones uterinas, frecuencia cardíaca fetal de 150 latidos por minuto, al tacto vaginal se constata cuello borrado centrado 4cm de dilatación. Usted hace diagnóstico de:",
     "options": [
       {
@@ -7566,7 +7674,7 @@
   },
   {
     "id": "2017 - Pregunta 92",
-    "order": 281,
+    "order": 285,
     "statement": "¿Cuál de las siguientes definiciones corresponde al término METRORRAGIA?",
     "options": [
       {
@@ -7593,7 +7701,7 @@
   },
   {
     "id": "2017 - Pregunta 93",
-    "order": 282,
+    "order": 286,
     "statement": "En una mujer postmenopáusica con hemorragia uterina anormal, la actitud diagnóstica a seguir es:",
     "options": [
       {
@@ -7620,7 +7728,7 @@
   },
   {
     "id": "2017 - Pregunta 94",
-    "order": 283,
+    "order": 287,
     "statement": "¿La aparición de kernicterus del recién nacido (RN) se asocia con cuál de estas patologías?",
     "options": [
       {
@@ -7647,7 +7755,7 @@
   },
   {
     "id": "2017 - Pregunta 95",
-    "order": 284,
+    "order": 288,
     "statement": "¿Cuáles son las INFECCIONES BACTERIANAS más frecuentes que complican el embarazo?",
     "options": [
       {
@@ -7674,7 +7782,7 @@
   },
   {
     "id": "2017 - Pregunta 96",
-    "order": 285,
+    "order": 289,
     "statement": "Paciente cursando embarazo de 8 semanas consulta por genitorragia escasa, roja, a la especuloscopía se objetiva cuello sano, cerrado. ¿Cuál es su diagnóstico presuntivo?",
     "options": [
       {
@@ -7701,7 +7809,7 @@
   },
   {
     "id": "2017 - Pregunta 97",
-    "order": 286,
+    "order": 290,
     "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
     "options": [
       {
@@ -7728,7 +7836,7 @@
   },
   {
     "id": "2017 - Pregunta 98",
-    "order": 287,
+    "order": 291,
     "statement": "Usted siendo profesional de la salud ¿Quién tiene permitido solicitarle una historia clínica?",
     "options": [
       {
@@ -7755,7 +7863,7 @@
   },
   {
     "id": "2017 - Pregunta 99",
-    "order": 288,
+    "order": 292,
     "statement": "Uno de los derechos del paciente es la 'Autonomía de la Voluntad', esto le permite al paciente:",
     "options": [
       {
@@ -7782,7 +7890,7 @@
   },
   {
     "id": "2017 B - Pregunta 1",
-    "order": 289,
+    "order": 293,
     "statement": "Estado Finalizado Comenzado sábado, 31 de enero de 2026, 16:38 Completado sábado, 31 de enero de 2026, 17:45 Duración 1 hora 6 minutos Puntos 91,00/100,00 Calificación 9,10 de 10,00 (91%) El tratamiento quirúrgico del cáncer de colon derecho es:",
     "options": [
       {
@@ -7809,7 +7917,7 @@
   },
   {
     "id": "2017 B - Pregunta 2",
-    "order": 290,
+    "order": 294,
     "statement": "¿Cuál es el síntoma más común en la fisura anal?",
     "options": [
       {
@@ -7836,7 +7944,7 @@
   },
   {
     "id": "2017 B - Pregunta 3",
-    "order": 291,
+    "order": 295,
     "statement": "Se entiende por Consentimiento Informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada respecto a:",
     "options": [
       {
@@ -7863,7 +7971,7 @@
   },
   {
     "id": "2017 B - Pregunta 4",
-    "order": 292,
+    "order": 296,
     "statement": "objetivos perseguidos; los beneficios esperados del procedimiento, los riesgos, molestias y efectos adversos previsibles; la especificación de los procedimientos alternativos y sus riesgos y las consecuencias previsibles de la no realización del procedimiento propuesto o de los alternativos especificados. ¿Cuál es la manifestación clínica más frecuente de la ÚLCERA PÉPTICA?",
     "options": [
       {
@@ -7890,7 +7998,7 @@
   },
   {
     "id": "2017 B - Pregunta 5",
-    "order": 293,
+    "order": 297,
     "statement": "¿Cuál es la causa más frecuente de hiperparatiroidismo secundario?",
     "options": [
       {
@@ -7917,7 +8025,7 @@
   },
   {
     "id": "2017 B - Pregunta 6",
-    "order": 294,
+    "order": 298,
     "statement": "Los criterios tomográficos de Balthazar, ¿en qué patología se aplican?",
     "options": [
       {
@@ -7944,7 +8052,7 @@
   },
   {
     "id": "2017 B - Pregunta 7",
-    "order": 295,
+    "order": 299,
     "statement": "¿Por qué se caracterizan las QUEMADURAS DE TIPO A o de 1° Grado?",
     "options": [
       {
@@ -7971,7 +8079,7 @@
   },
   {
     "id": "2017 B - Pregunta 8",
-    "order": 296,
+    "order": 300,
     "statement": "¿Cuál es el método por imágenes de elección para el estudio de la colelitiasis?",
     "options": [
       {
@@ -7998,7 +8106,7 @@
   },
   {
     "id": "2017 B - Pregunta 9",
-    "order": 297,
+    "order": 301,
     "statement": "¿Cuáles son las ulceras duodenales que sangran en forma masiva con mayor frecuencia?",
     "options": [
       {
@@ -8025,7 +8133,7 @@
   },
   {
     "id": "2017 B - Pregunta 10",
-    "order": 298,
+    "order": 302,
     "statement": "¿Cuál es la principal causa de peritonitis generalizada?",
     "options": [
       {
@@ -8052,7 +8160,7 @@
   },
   {
     "id": "2017 B - Pregunta 11",
-    "order": 299,
+    "order": 303,
     "statement": "Los abscesos perianales se originan frecuentemente en:",
     "options": [
       {
@@ -8079,7 +8187,7 @@
   },
   {
     "id": "2017 B - Pregunta 12",
-    "order": 300,
+    "order": 304,
     "statement": "Una paciente de 57 años consulta por dolor epigástrico tipo cólico luego de la ingesta de comidas ricas en grasas, que se repitió en varias oportunidades. Tiene el antecedente de colecistectomía laparoscópica siete años antes. El examen físico es normal y el laboratorio muestra: GR 4.300.000 mm3, HTO 42%, Hb 12,9 mg/dL, glóbulos blancos 4.500 mm3, bilirrubina total 3,5 md/dL, bilirrubina directa 3,1 mg/dL, GPT 120 UI/L, GOT 115 UI/L, FA 690 UI/L. ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -8106,7 +8214,7 @@
   },
   {
     "id": "2017 B - Pregunta 13",
-    "order": 301,
+    "order": 305,
     "statement": "¿A qué se denomina operación de Billroth I?",
     "options": [
       {
@@ -8133,7 +8241,7 @@
   },
   {
     "id": "2017 B - Pregunta 14",
-    "order": 302,
+    "order": 306,
     "statement": "¿Cuál es la causa más frecuente de hemorragia digestiva alta?",
     "options": [
       {
@@ -8160,7 +8268,7 @@
   },
   {
     "id": "2017 B - Pregunta 15",
-    "order": 303,
+    "order": 307,
     "statement": "¿Qué dato semiológico presente en un adolescente puede orientar su diagnóstico hacia el de colelitiasis?",
     "options": [
       {
@@ -8187,7 +8295,7 @@
   },
   {
     "id": "2017 B - Pregunta 16",
-    "order": 304,
+    "order": 308,
     "statement": "¿Cuál es el cáncer de tiroides más frecuente?",
     "options": [
       {
@@ -8214,7 +8322,7 @@
   },
   {
     "id": "2017 B - Pregunta 17",
-    "order": 305,
+    "order": 309,
     "statement": "La causa más frecuente de pancreatitis aguda en nuestro medio es:",
     "options": [
       {
@@ -8241,7 +8349,7 @@
   },
   {
     "id": "2017 B - Pregunta 18",
-    "order": 306,
+    "order": 310,
     "statement": "En un paciente con sospecha de ABDOMEN AGUDO OBSTRUCTIVO el examen físico nos muestra:",
     "options": [
       {
@@ -8268,7 +8376,7 @@
   },
   {
     "id": "2017 B - Pregunta 19",
-    "order": 307,
+    "order": 311,
     "statement": "El patrón electrocardiográfico QRS de duración mayor a 0,12 seg con morfología QS en V1 con R ancha y empastada en V6 corresponde a:",
     "options": [
       {
@@ -8295,7 +8403,7 @@
   },
   {
     "id": "2017 B - Pregunta 20",
-    "order": 308,
+    "order": 312,
     "statement": "¿En cuál de los siguientes procesos es característica la presencia de un soplo diastólico?",
     "options": [
       {
@@ -8322,7 +8430,7 @@
   },
   {
     "id": "2017 B - Pregunta 21",
-    "order": 309,
+    "order": 313,
     "statement": "Ante un paciente con ojo rojo, sensación de cuerpo extraño, secreciones mucosas, adenopatías preauticulares y el antecedente de un cuadro de vías aéreas superiores, usted pensaría en:",
     "options": [
       {
@@ -8349,7 +8457,7 @@
   },
   {
     "id": "2017 B - Pregunta 22",
-    "order": 310,
+    "order": 314,
     "statement": "Una de las características del síncope es:",
     "options": [
       {
@@ -8376,7 +8484,7 @@
   },
   {
     "id": "2017 B - Pregunta 23",
-    "order": 311,
+    "order": 315,
     "statement": "La enfermedad de Addison se asocia con:",
     "options": [
       {
@@ -8403,7 +8511,7 @@
   },
   {
     "id": "2017 B - Pregunta 24",
-    "order": 312,
+    "order": 316,
     "statement": "El DOLOR PARIETAL tiene como característica:",
     "options": [
       {
@@ -8430,7 +8538,7 @@
   },
   {
     "id": "2017 B - Pregunta 25",
-    "order": 313,
+    "order": 317,
     "statement": "¿Qué situación produce una anemia regenerativa?",
     "options": [
       {
@@ -8457,7 +8565,7 @@
   },
   {
     "id": "2017 B - Pregunta 26",
-    "order": 314,
+    "order": 318,
     "statement": "El edema en esclavina es característico de:",
     "options": [
       {
@@ -8484,7 +8592,7 @@
   },
   {
     "id": "2017 B - Pregunta 27",
-    "order": 315,
+    "order": 319,
     "statement": "Mujer de 70 años que consulta por cuadro de poco tiempo […] Muestra una intensa pigmentación melánica cutáneo-mucosa […] hiperpotasemia e hipoglucemia. Con estos datos, la sospecha diagnóstica será:",
     "options": [
       {
@@ -8511,7 +8619,7 @@
   },
   {
     "id": "2017 B - Pregunta 28",
-    "order": 316,
+    "order": 320,
     "statement": "Paciente de 25 años de edad, con antecedentes de asma intermitente leve, que presenta crisis de broncorreactividad con el ejercicio por lo que decide consultar. Usted indica:",
     "options": [
       {
@@ -8538,7 +8646,7 @@
   },
   {
     "id": "2017 B - Pregunta 29",
-    "order": 317,
+    "order": 321,
     "statement": "¿Cuál de éstos es criterio de posible benignidad en una lesión pigmentada melanocítica?",
     "options": [
       {
@@ -8565,7 +8673,7 @@
   },
   {
     "id": "2017 B - Pregunta 30",
-    "order": 318,
+    "order": 322,
     "statement": "¿Qué anomalía sospecha cuando un paciente tiene diarrea después de la ingesta de leche?",
     "options": [
       {
@@ -8592,7 +8700,7 @@
   },
   {
     "id": "2017 B - Pregunta 31",
-    "order": 319,
+    "order": 323,
     "statement": "De acuerdo a los criterios de Framingham para el diagnóstico de insuficiencia cardíaca congestiva, ¿cuál es uno de los criterios mayores?",
     "options": [
       {
@@ -8619,7 +8727,7 @@
   },
   {
     "id": "2017 B - Pregunta 32",
-    "order": 320,
+    "order": 324,
     "statement": "¿Qué dato se encuentra en el HIPERALDOSTERONISMO?",
     "options": [
       {
@@ -8646,7 +8754,7 @@
   },
   {
     "id": "2017 B - Pregunta 33",
-    "order": 321,
+    "order": 325,
     "statement": "¿Cuál de las siguientes es causa de trombocitopenia periférica?",
     "options": [
       {
@@ -8673,7 +8781,7 @@
   },
   {
     "id": "2017 B - Pregunta 34",
-    "order": 322,
+    "order": 326,
     "statement": "La infección urinaria baja presenta:",
     "options": [
       {
@@ -8700,7 +8808,7 @@
   },
   {
     "id": "2017 B - Pregunta 35",
-    "order": 323,
+    "order": 327,
     "statement": "¿Cuál es la manifestación más frecuente en los pacientes con litiasis biliar?",
     "options": [
       {
@@ -8727,7 +8835,7 @@
   },
   {
     "id": "2017 B - Pregunta 36",
-    "order": 324,
+    "order": 328,
     "statement": "¿Cuál es la manifestación clínica más frecuente de los tumores renales?",
     "options": [
       {
@@ -8754,7 +8862,7 @@
   },
   {
     "id": "2017 B - Pregunta 37",
-    "order": 325,
+    "order": 329,
     "statement": "Una paciente de 78 años es traída por los familiares a la guardia por hematemesis. Sólo refieren que padece artrosis, por lo que ingiere diclofenac. A la exploración física: PA 100/60 mmHg, FC 100/min, con palidez generalizada. ¿Cuál es la etiología más frecuente en este cuadro de hemorragia digestiva?",
     "options": [
       {
@@ -8781,7 +8889,7 @@
   },
   {
     "id": "2017 B - Pregunta 38",
-    "order": 326,
+    "order": 330,
     "statement": "¿Cuál de las siguientes situaciones produce hiperuricemia por sobreproducción de uratos?",
     "options": [
       {
@@ -8808,7 +8916,7 @@
   },
   {
     "id": "2017 B - Pregunta 39",
-    "order": 327,
+    "order": 331,
     "statement": "Un hombre de 45 años de edad con antecedentes de poliquistosis renal consulta en la guardia por cefalea intensa de comienzo súbito. Al examen usted sólo encuentra rigidez de nuca, sin fiebre. Los signos vitales son normales. Debe sospechar de:",
     "options": [
       {
@@ -8835,7 +8943,7 @@
   },
   {
     "id": "2017 B - Pregunta 40",
-    "order": 328,
+    "order": 332,
     "statement": "Paciente de 45 años de edad, internado por tumor cerebral, que presenta durante la internación rápido deterioro del sensorio por lo que usted acude a la sala a evaluar al paciente. Al examen corrobora que el paciente no responde a estímulos verbales, responde a estímulos nociceptivos con flexión de los miembros; presenta la pupila izquierda de 6mm de diámetro sin reactividad a la luz y alteración de la respiración. El manejo inicial del paciente es:",
     "options": [
       {
@@ -8862,7 +8970,7 @@
   },
   {
     "id": "2017 B - Pregunta 41",
-    "order": 329,
+    "order": 333,
     "statement": "y realización de tomografía de cerebro de urgencia. ¿Cuál es el tratamiento de elección en una fibrilación auricular aguda, con descompensación hemodinámica, sin cardiopatía estructural?",
     "options": [
       {
@@ -8889,7 +8997,7 @@
   },
   {
     "id": "2017 B - Pregunta 42",
-    "order": 330,
+    "order": 334,
     "statement": "¿Cuáles son las manifestaciones más frecuentes (tríada de Beck) en el taponamiento cardíaco?",
     "options": [
       {
@@ -8916,7 +9024,7 @@
   },
   {
     "id": "2017 B - Pregunta 43",
-    "order": 331,
+    "order": 335,
     "statement": "Paciente de 28 años de edad, consulta por presentar lesiones en piel con pápula central, redondeadas y ovales, bordeadas por franja eritematosa, muy pruriginosas, en brazos, región del tórax y muslo, de 10 horas de evolución posterior a automedicación con amoxicilina por dolor de garganta. No presenta otras lesiones ni en cara ni en mucosas. Su diagnóstico es urticaria por fármacos. ¿Qué tratamiento sugiere para este paciente?",
     "options": [
       {
@@ -8943,7 +9051,7 @@
   },
   {
     "id": "2017 B - Pregunta 44",
-    "order": 332,
+    "order": 336,
     "statement": "caso de no presentar mejoría y suspensión de antibiótico. ¿Cuáles son las causas predominantes de las úlceras pépticas?",
     "options": [
       {
@@ -8970,7 +9078,7 @@
   },
   {
     "id": "2017 B - Pregunta 45",
-    "order": 333,
+    "order": 337,
     "statement": "Ante un paciente pediátrico con shock ¿Cuál de los siguientes signos es de aparición más precoz?",
     "options": [
       {
@@ -8997,7 +9105,7 @@
   },
   {
     "id": "2017 B - Pregunta 46",
-    "order": 334,
+    "order": 338,
     "statement": "¿Qué tipo de hernia es la más frecuente en la población general?",
     "options": [
       {
@@ -9024,7 +9132,7 @@
   },
   {
     "id": "2017 B - Pregunta 47",
-    "order": 335,
+    "order": 339,
     "statement": "Niño de 18 meses de edad, con calendario de vacunas completo hasta la fecha, que consulta en el servicio de urgencias por tumefacción de la rodilla derecha tras jugar en el parque, sin traumatismo evidente. En la anamnesis dirigida, la madre refiere que un tío de ella tenía problemas similares. La exploración ecográfica es compatible con hemartrosis y en la analítica sólo destaca un alargamiento del KPTT de 52’’ (normal25-35’’). ¿Cuál es la hipótesis diagnóstica más probable?",
     "options": [
       {
@@ -9051,7 +9159,7 @@
   },
   {
     "id": "2017 B - Pregunta 48",
-    "order": 336,
+    "order": 340,
     "statement": "Erupción en alas de mariposa, manifestaciones musculoesqueléticas (artritis, miositis), serositis, hepatoesplenoegalia, pericarditis y signos de afectación neurológica, son manifestaciones de:",
     "options": [
       {
@@ -9078,7 +9186,7 @@
   },
   {
     "id": "2017 B - Pregunta 49",
-    "order": 337,
+    "order": 341,
     "statement": "¿Cuál de los siguientes tratamientos sería más apropiado para un paciente de 10 años con hematuria macroscópica, edema en párpados y dorso de manos, y tensión arterial de 150/110?",
     "options": [
       {
@@ -9105,7 +9213,7 @@
   },
   {
     "id": "2017 B - Pregunta 50",
-    "order": 338,
+    "order": 342,
     "statement": "¿Cuál de los siguientes alimentos puede gatillar anafilaxia en edad pediátrica con más frecuencia?",
     "options": [
       {
@@ -9132,7 +9240,7 @@
   },
   {
     "id": "2017 B - Pregunta 51",
-    "order": 339,
+    "order": 343,
     "statement": "El órgano más afectado por la desnutrición durante los primeros meses de vida es:",
     "options": [
       {
@@ -9159,7 +9267,7 @@
   },
   {
     "id": "2017 B - Pregunta 52",
-    "order": 340,
+    "order": 344,
     "statement": "Los vómitos en el lactante mayor de 6 meses suele relacionarse con:",
     "options": [
       {
@@ -9186,7 +9294,7 @@
   },
   {
     "id": "2017 B - Pregunta 53",
-    "order": 341,
+    "order": 345,
     "statement": "¿Cuál es el criterio válido para diagnosticar sinusitis aguda, como complicación bacteriana del resfrío común?",
     "options": [
       {
@@ -9213,7 +9321,7 @@
   },
   {
     "id": "2017 B - Pregunta 54",
-    "order": 342,
+    "order": 346,
     "statement": "Una niña de 13 meses de vida presenta diarrea desde los 8 meses de edad. A los 6 meses de vida se introdujeron harinas en su alimentación. Entre los estudios solicitados se detectó anemia, hipoalbuminemia y pérdida excesiva de grasas en materia fecal. Entre los diagnósticos probables. ¿Cuál sería el más apropiado?",
     "options": [
       {
@@ -9240,7 +9348,7 @@
   },
   {
     "id": "2017 B - Pregunta 55",
-    "order": 343,
+    "order": 347,
     "statement": "La diarrea aguda prevalente durante el período de lactante se caracteriza preferentemente por:",
     "options": [
       {
@@ -9267,7 +9375,7 @@
   },
   {
     "id": "2017 B - Pregunta 56",
-    "order": 344,
+    "order": 348,
     "statement": "adecuado. Un niño de tres años de edad ingresa en el hospital con un síndrome hemolítico-urémico (SHU) aparecido después de tres días de diarrea sanguinolenta sin fiebre. ¿Cuál es el agente causal más probable de este síndrome diarreico asociado a SHU?",
     "options": [
       {
@@ -9294,7 +9402,7 @@
   },
   {
     "id": "2017 B - Pregunta 57",
-    "order": 345,
+    "order": 349,
     "statement": "¿Cuál de las siguientes medidas es útil para la prevención del Tromboembolismo Pulmonar postquirúrgico?",
     "options": [
       {
@@ -9321,7 +9429,7 @@
   },
   {
     "id": "2017 B - Pregunta 58",
-    "order": 346,
+    "order": 350,
     "statement": "Señalar lo correcto en relación con el síndrome nefrótico:",
     "options": [
       {
@@ -9348,7 +9456,7 @@
   },
   {
     "id": "2017 B - Pregunta 59",
-    "order": 347,
+    "order": 351,
     "statement": "tromboembólicos. Un niño de dos años ingirió accidentalmente una pila alcalina, tipo botón, hace una hora y por estudio radiográfico se encuentra ubicada en una de las estrecheces fisiológicas del esófago. Usted considera que la conducta terapéutica es:",
     "options": [
       {
@@ -9375,7 +9483,7 @@
   },
   {
     "id": "2017 B - Pregunta 60",
-    "order": 348,
+    "order": 352,
     "statement": "El SÍNDROME NEFRÓTICO en pediatría puede ser primario o secundario. La forma primaria más frecuente es:",
     "options": [
       {
@@ -9402,7 +9510,7 @@
   },
   {
     "id": "2017 B - Pregunta 61",
-    "order": 349,
+    "order": 353,
     "statement": "Una de las causas más frecuentes de abdomen agudo en el LACTANTE es:",
     "options": [
       {
@@ -9429,7 +9537,7 @@
   },
   {
     "id": "2017 B - Pregunta 62",
-    "order": 350,
+    "order": 354,
     "statement": "Ante un bebé de 1 mes, que súbitamente comienza con vómitos no biliosos, justo luego de ingerir leche, con ictericia leve, cuya madre le relata que después de vomitar el niño se muestra hambriento, usted sospecha:",
     "options": [
       {
@@ -9456,7 +9564,7 @@
   },
   {
     "id": "2017 B - Pregunta 63",
-    "order": 351,
+    "order": 355,
     "statement": "Ante un niño que súbitamente presenta petequias, púrpura palpable en especial en miembros inferiores, fiebre y estado tóxico, el primer diagnóstico a considerar es el de:",
     "options": [
       {
@@ -9483,7 +9591,7 @@
   },
   {
     "id": "2017 B - Pregunta 64",
-    "order": 352,
+    "order": 356,
     "statement": "El adenocarcinoma de próstata es una enfermedad frecuente en el sexo masculino. La indicación más frecuente para el tratamiento de la enfermedad localizada es:",
     "options": [
       {
@@ -9510,7 +9618,7 @@
   },
   {
     "id": "2017 B - Pregunta 65",
-    "order": 353,
+    "order": 357,
     "statement": "Un niño con diarrea, que presenta: pulso normal, disminución del volumen urinario, está sediento, con examen físico normal, tiene:",
     "options": [
       {
@@ -9537,7 +9645,7 @@
   },
   {
     "id": "2017 B - Pregunta 66",
-    "order": 354,
+    "order": 358,
     "statement": "La carencia de folatos antes y durante el embarazo puede producir en el feto (marcar lo correcto):",
     "options": [
       {
@@ -9564,7 +9672,7 @@
   },
   {
     "id": "2017 B - Pregunta 67",
-    "order": 355,
+    "order": 359,
     "statement": "Ante un paciente de 2 años de edad, que presenta palidez y oligoanuria de inicio súbito, con antecedentes de una diarrea sanguinolenta que se acompañó de fiebre, usted sospecha:",
     "options": [
       {
@@ -9591,7 +9699,7 @@
   },
   {
     "id": "2017 B - Pregunta 68",
-    "order": 356,
+    "order": 360,
     "statement": "El hamartoma de pulmón es:",
     "options": [
       {
@@ -9618,7 +9726,7 @@
   },
   {
     "id": "2017 B - Pregunta 69",
-    "order": 357,
+    "order": 361,
     "statement": "La leucocoria en niño es la presentación inicial de:",
     "options": [
       {
@@ -9645,7 +9753,7 @@
   },
   {
     "id": "2017 B - Pregunta 70",
-    "order": 358,
+    "order": 362,
     "statement": "¿Cuál es la cardiopatía congénita más frecuente en la edad pediátrica?",
     "options": [
       {
@@ -9672,7 +9780,7 @@
   },
   {
     "id": "2017 B - Pregunta 71",
-    "order": 359,
+    "order": 363,
     "statement": "Las lesiones elementales características de VARICELA NO COMPLICADA son:",
     "options": [
       {
@@ -9699,7 +9807,7 @@
   },
   {
     "id": "2017 B - Pregunta 72",
-    "order": 360,
+    "order": 364,
     "statement": "El parto se produce mediante fenómenos activos: contracciones uterinas y pujos. ¿Cuál de los siguientes es otro fenómeno activo?",
     "options": [
       {
@@ -9726,7 +9834,7 @@
   },
   {
     "id": "2017 B - Pregunta 73",
-    "order": 361,
+    "order": 365,
     "statement": "¿Cuál de los siguientes hallazgos están presentes en el síndrome de ovario poliquístico?",
     "options": [
       {
@@ -9753,7 +9861,7 @@
   },
   {
     "id": "2017 B - Pregunta 74",
-    "order": 362,
+    "order": 366,
     "statement": "De todas las masas anexiales diagnosticadas en el embarazo, como malignas, la más frecuente es:",
     "options": [
       {
@@ -9780,7 +9888,7 @@
   },
   {
     "id": "2017 B - Pregunta 75",
-    "order": 363,
+    "order": 367,
     "statement": "La localización más frecuente del embarazo ectópico es:",
     "options": [
       {
@@ -9807,7 +9915,7 @@
   },
   {
     "id": "2017 B - Pregunta 76",
-    "order": 364,
+    "order": 368,
     "statement": "Lo consulta una mujer de 28 años, sana, que cursa la semana 11 de su segundo embarazo. Le pregunta si puede colocarse la vacuna antigripal, ya que se la han ofrecido en su trabajo. Usted contesta:",
     "options": [
       {
@@ -9834,7 +9942,7 @@
   },
   {
     "id": "2017 B - Pregunta 77",
-    "order": 365,
+    "order": 369,
     "statement": "Paciente de 25 años, gestas: 1, paras: 1. Refiere dolor abdominal de comienzo brusco de 3 hs de evolución, fiebre de 38°C, leucorrea escasa con olor fétido verdoso. Refiere utilizar como método anticonceptivo dispositivo intrauterino desde hace 2 años. ¿Qué diagnóstico sospecha?",
     "options": [
       {
@@ -9861,7 +9969,7 @@
   },
   {
     "id": "2017 B - Pregunta 78",
-    "order": 366,
+    "order": 370,
     "statement": "¿Cuál de los siguientes agentes infecciosos produce Síndrome de Mondor?",
     "options": [
       {
@@ -9888,7 +9996,7 @@
   },
   {
     "id": "2017 B - Pregunta 79",
-    "order": 367,
+    "order": 371,
     "statement": "Un ejecutivo de una gran empresa, de 40 años y sin antecedentes de interés, acude al servicio de urgencias por presentar un dolor brusco y de gran intensidad, localizado en el epigastrio que ha comenzado una hora antes y no cede. A la exploración, el paciente está pálido, sudoroso, hipotenso, con respiración superficial; el abdomen tenso y muy doloroso a la palpación superficial, mostrando desaparición de la matidez hepática a la percusión. ¿Cuál de los siguientes es el diagnóstico más probable?",
     "options": [
       {
@@ -9915,7 +10023,7 @@
   },
   {
     "id": "2017 B - Pregunta 80",
-    "order": 368,
+    "order": 372,
     "statement": "Paciente de 35 años cursando embarazo de 32 semanas de gestación, consulta a la guardia con genitorragia roja oscura, al examen físico se constata: TA 180/120, hipertonía uterina, latidos cardíacos fetales 100/minuto. ¿Cuál sería la conducta correcta?",
     "options": [
       {
@@ -9942,7 +10050,7 @@
   },
   {
     "id": "2017 B - Pregunta 81",
-    "order": 369,
+    "order": 373,
     "statement": "La mayor parte del incremento de peso durante el embarazo no patológico es atribuible al aumento del:",
     "options": [
       {
@@ -9969,7 +10077,7 @@
   },
   {
     "id": "2017 B - Pregunta 82",
-    "order": 370,
+    "order": 374,
     "statement": "¿Cuál es la fractura más frecuente asociada a partos dificultosos?",
     "options": [
       {
@@ -9996,7 +10104,7 @@
   },
   {
     "id": "2017 B - Pregunta 83",
-    "order": 371,
+    "order": 375,
     "statement": "El síntoma más común de cáncer de endometrio es:",
     "options": [
       {
@@ -10023,7 +10131,7 @@
   },
   {
     "id": "2017 B - Pregunta 84",
-    "order": 372,
+    "order": 376,
     "statement": "La medicación local más efectiva indicada ante el prurito vulvar por liquen escleroso es:",
     "options": [
       {
@@ -10050,7 +10158,7 @@
   },
   {
     "id": "2017 B - Pregunta 85",
-    "order": 373,
+    "order": 377,
     "statement": "¿Cuál de los siguientes patrones hormonales es el más frecuente durante el climaterio?",
     "options": [
       {
@@ -10077,7 +10185,7 @@
   },
   {
     "id": "2017 B - Pregunta 86",
-    "order": 374,
+    "order": 378,
     "statement": "¿Cuál es la causa más frecuente de desprendimiento prematuro de placenta?",
     "options": [
       {
@@ -10104,7 +10212,7 @@
   },
   {
     "id": "2017 B - Pregunta 87",
-    "order": 375,
+    "order": 379,
     "statement": "¿Cuál es la causa más frecuente de aborto temprano?",
     "options": [
       {
@@ -10131,7 +10239,7 @@
   },
   {
     "id": "2017 B - Pregunta 88",
-    "order": 376,
+    "order": 380,
     "statement": "¿Cuál es la causa más frecuente de cáncer de cuello uterino?",
     "options": [
       {
@@ -10158,7 +10266,7 @@
   },
   {
     "id": "2017 B - Pregunta 89",
-    "order": 377,
+    "order": 381,
     "statement": "¿Cuál de estas medidas es útil para disminuir el riesgo de parálisis cerebral en el feto, ante una amenaza de parto pre-término?",
     "options": [
       {
@@ -10185,7 +10293,7 @@
   },
   {
     "id": "2017 B - Pregunta 90",
-    "order": 378,
+    "order": 382,
     "statement": "¿Cuál de los siguientes es un criterio de Ranson?",
     "options": [
       {
@@ -10212,7 +10320,7 @@
   },
   {
     "id": "2017 B - Pregunta 91",
-    "order": 379,
+    "order": 383,
     "statement": "El tumor de ovario más común que se presenta en la infancia es:",
     "options": [
       {
@@ -10239,7 +10347,7 @@
   },
   {
     "id": "2017 B - Pregunta 92",
-    "order": 380,
+    "order": 384,
     "statement": "Paciente de 25 años que presenta embarazo de 38 semanas, concurre a la consulta por dolor tipo cólico abdominal. Al examen constata contracciones uterinas, frecuencia cardíaca fetal de 150 latidos por minuto, al tacto vaginal se constata cuello borrado centrado 4cm de dilatación. Usted hace diagnóstico de:",
     "options": [
       {
@@ -10266,7 +10374,7 @@
   },
   {
     "id": "2017 B - Pregunta 93",
-    "order": 381,
+    "order": 385,
     "statement": "¿Cuál de las siguientes definiciones corresponde al término METRORRAGIA?",
     "options": [
       {
@@ -10293,7 +10401,7 @@
   },
   {
     "id": "2017 B - Pregunta 94",
-    "order": 382,
+    "order": 386,
     "statement": "En una mujer postmenopáusica con hemorragia uterina anormal, la actitud diagnóstica a seguir es:",
     "options": [
       {
@@ -10320,7 +10428,7 @@
   },
   {
     "id": "2017 B - Pregunta 95",
-    "order": 383,
+    "order": 387,
     "statement": "¿La aparición de kernicterus del recién nacido (RN) se asocia con cuál de estas patologías?",
     "options": [
       {
@@ -10347,7 +10455,7 @@
   },
   {
     "id": "2017 B - Pregunta 96",
-    "order": 384,
+    "order": 388,
     "statement": "¿Cuáles son las INFECCIONES BACTERIANAS más frecuentes que complican el embarazo?",
     "options": [
       {
@@ -10374,7 +10482,7 @@
   },
   {
     "id": "2017 B - Pregunta 97",
-    "order": 385,
+    "order": 389,
     "statement": "Paciente cursando embarazo de 8 semanas consulta por genitorragia escasa, roja, a la especuloscopía se objetiva cuello sano, cerrado. ¿Cuál es su diagnóstico presuntivo?",
     "options": [
       {
@@ -10401,7 +10509,7 @@
   },
   {
     "id": "2017 B - Pregunta 98",
-    "order": 386,
+    "order": 390,
     "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
     "options": [
       {
@@ -10428,7 +10536,7 @@
   },
   {
     "id": "2017 B - Pregunta 99",
-    "order": 387,
+    "order": 391,
     "statement": "Usted siendo profesional de la salud ¿Quién tiene permitido solicitarle una historia clínica?",
     "options": [
       {
@@ -10455,7 +10563,7 @@
   },
   {
     "id": "2017 B - Pregunta 100",
-    "order": 388,
+    "order": 392,
     "statement": "paciente, los médicos y otros profesionales del arte de curar. Uno de los derechos del paciente es la “Autonomía de la Voluntad”, esto le permite al paciente:",
     "options": [
       {
@@ -10482,7 +10590,7 @@
   },
   {
     "id": "2018 - Pregunta 10",
-    "order": 389,
+    "order": 393,
     "statement": "¿Cuál de las siguientes patologías produce neumotórax espontáneo?",
     "options": [
       {
@@ -10509,7 +10617,7 @@
   },
   {
     "id": "2018 - Pregunta 11",
-    "order": 390,
+    "order": 394,
     "statement": "¿El sufijo 'ostomía' qué significa?",
     "options": [
       {
@@ -10536,7 +10644,7 @@
   },
   {
     "id": "2018 - Pregunta 12",
-    "order": 391,
+    "order": 395,
     "statement": "Ante una estructura radiológica dudosa a nivel del colon sigmoides alto, usted indica:",
     "options": [
       {
@@ -10563,7 +10671,7 @@
   },
   {
     "id": "2018 - Pregunta 13",
-    "order": 392,
+    "order": 396,
     "statement": "Todas las siguientes lesiones son premalignas excepto:",
     "options": [
       {
@@ -10590,7 +10698,7 @@
   },
   {
     "id": "2018 - Pregunta 14",
-    "order": 393,
+    "order": 397,
     "statement": "¿Cuál es el elemento más posterior del pedículo hepático?",
     "options": [
       {
@@ -10617,7 +10725,7 @@
   },
   {
     "id": "2018 - Pregunta 15",
-    "order": 394,
+    "order": 398,
     "statement": "¿Cuál es el orden de aparición de los síntomas en la apendicitis aguda (cronología de Murphy)?",
     "options": [
       {
@@ -10644,7 +10752,7 @@
   },
   {
     "id": "2018 - Pregunta 16",
-    "order": 395,
+    "order": 399,
     "statement": "Ante una paciente de 40 años de edad que fue diagnosticada de pancreatitis aguda, a las 3 semanas de evolución de la enfermedad, encontrándose asintomática, la ecografía abdominal evidencia una colección delimitada, de 35mmx30mm, la cual tiene características de pseudoquiste pancreático. ¿Qué conducta tomaría?",
     "options": [
       {
@@ -10671,7 +10779,7 @@
   },
   {
     "id": "2018 - Pregunta 17",
-    "order": 396,
+    "order": 400,
     "statement": "En la hemorragia digestiva baja grave la causa etiológica más frecuente es:",
     "options": [
       {
@@ -10698,7 +10806,7 @@
   },
   {
     "id": "2018 - Pregunta 18",
-    "order": 397,
+    "order": 401,
     "statement": "Las hemorroides internas que solo se objetivan por anoscopia. ¿A qué grado corresponden?",
     "options": [
       {
@@ -10725,7 +10833,7 @@
   },
   {
     "id": "2018 - Pregunta 19",
-    "order": 398,
+    "order": 402,
     "statement": "¿Cuál es el cáncer de tiroides más frecuente?",
     "options": [
       {
@@ -10752,7 +10860,7 @@
   },
   {
     "id": "2018 - Pregunta 20",
-    "order": 399,
+    "order": 403,
     "statement": "¿Cuál de estas fracturas puede originar una pérdida sanguínea de 1500cc de sangre?",
     "options": [
       {
@@ -10779,7 +10887,7 @@
   },
   {
     "id": "2018 - Pregunta 21",
-    "order": 400,
+    "order": 404,
     "statement": "¿Cuál es el tipo histológico más común en el cáncer gástrico?",
     "options": [
       {
@@ -10806,7 +10914,7 @@
   },
   {
     "id": "2018 - Pregunta 22",
-    "order": 401,
+    "order": 405,
     "statement": "El tratamiento quirúrgico del cáncer de colon derecho es:",
     "options": [
       {
@@ -10833,7 +10941,7 @@
   },
   {
     "id": "2018 - Pregunta 23",
-    "order": 402,
+    "order": 406,
     "statement": "¿Cuál es el síntoma más común en la fisura anal?",
     "options": [
       {
@@ -10860,7 +10968,7 @@
   },
   {
     "id": "2018 - Pregunta 24",
-    "order": 403,
+    "order": 407,
     "statement": "El tumor maligno hepático más frecuente es:",
     "options": [
       {
@@ -10887,7 +10995,7 @@
   },
   {
     "id": "2018 - Pregunta 25",
-    "order": 404,
+    "order": 408,
     "statement": "¿Cuál es la localización más frecuente de tumores carcinoides?",
     "options": [
       {
@@ -10914,7 +11022,7 @@
   },
   {
     "id": "2018 - Pregunta 26",
-    "order": 405,
+    "order": 409,
     "statement": "Una paciente de 78 años es traída por los familiares a la Guardia por hematemesis. Sólo refieren que padece artrosis, por lo que ingiere diclofenac. A la exploración física: PA 100/60 mmHg. Fc100/min., con palidez generalizada. ¿Cuál es la etiología más frecuente en este cuadro de hemorragia digestiva?",
     "options": [
       {
@@ -10941,7 +11049,7 @@
   },
   {
     "id": "2018 - Pregunta 27",
-    "order": 406,
+    "order": 410,
     "statement": "Paciente de 25 años de edad, con antecedentes de asma intermitente leve, que presenta crisis de broncorreactividad con el ejercicio por lo que decide consultar. Ud. Indica:",
     "options": [
       {
@@ -10968,7 +11076,7 @@
   },
   {
     "id": "2018 - Pregunta 28",
-    "order": 407,
+    "order": 411,
     "statement": "Si se presenta a la consulta una paciente de 60 años de edad refiriendo debilidad muscular que empeora hacia el anochecer y mejora con el reposo, diplopía, disartria, voz nasal y disfonía, usted considera como diagnóstico más probable a:",
     "options": [
       {
@@ -10995,7 +11103,7 @@
   },
   {
     "id": "2018 - Pregunta 29",
-    "order": 408,
+    "order": 412,
     "statement": "El síndrome de Zollinger Ellison se caracteriza por:",
     "options": [
       {
@@ -11022,7 +11130,7 @@
   },
   {
     "id": "2018 - Pregunta 30",
-    "order": 409,
+    "order": 413,
     "statement": "¿Cuál es una manifestación clínica de la INSUFICIENCIA SUPRERRENAL PRIMARIA Crónica?",
     "options": [
       {
@@ -11049,7 +11157,7 @@
   },
   {
     "id": "2018 - Pregunta 31",
-    "order": 410,
+    "order": 414,
     "statement": "Maque lo correcto con respecto a ascitis:",
     "options": [
       {
@@ -11076,7 +11184,7 @@
   },
   {
     "id": "2018 - Pregunta 33",
-    "order": 411,
+    "order": 415,
     "statement": "La mayoría de los enfermos con glomerulopatía membranosa se presenta con:",
     "options": [
       {
@@ -11103,7 +11211,7 @@
   },
   {
     "id": "2018 - Pregunta 34",
-    "order": 412,
+    "order": 416,
     "statement": "¿A qué síndrome neurológico corresponde la presencia de hipotonía, reflejos pendulares y dismetría?",
     "options": [
       {
@@ -11130,7 +11238,7 @@
   },
   {
     "id": "2018 - Pregunta 35",
-    "order": 413,
+    "order": 417,
     "statement": "La angina de pecho se diagnostica por:",
     "options": [
       {
@@ -11157,7 +11265,7 @@
   },
   {
     "id": "2018 - Pregunta 36",
-    "order": 414,
+    "order": 418,
     "statement": "En los pacientes son síndrome de Cushing, la causa de muerte más importante es:",
     "options": [
       {
@@ -11184,7 +11292,7 @@
   },
   {
     "id": "2018 - Pregunta 37",
-    "order": 415,
+    "order": 419,
     "statement": "¿Cuál de los siguientes métodos diagnósticos es el gold standard para enfermedad celíaca?",
     "options": [
       {
@@ -11211,7 +11319,7 @@
   },
   {
     "id": "2018 - Pregunta 38",
-    "order": 416,
+    "order": 420,
     "statement": "¿Cuál es el tratamiento de elección en una fibrilación auricular aguda, con descompensación hemodinámica, sin cardiopatía estructural?",
     "options": [
       {
@@ -11238,7 +11346,7 @@
   },
   {
     "id": "2018 - Pregunta 39",
-    "order": 417,
+    "order": 421,
     "statement": "En el tratamiento del asma crónico parcialmente controlado Ud. Indica:",
     "options": [
       {
@@ -11265,7 +11373,7 @@
   },
   {
     "id": "2018 - Pregunta 40",
-    "order": 418,
+    "order": 422,
     "statement": "El compromiso de dolor al movimiento en la columna vertebral que calma en reposo, asociado a dolor de articulaciones interfalángicas distales con rigidez matinal de menos de 1 hora de duración en una mujer de 60 años nos hace pensar, en primer lugar en:",
     "options": [
       {
@@ -11292,7 +11400,7 @@
   },
   {
     "id": "2018 - Pregunta 41",
-    "order": 419,
+    "order": 423,
     "statement": "Un paciente de 18 años de edad sin enfermedades constatadas ingresa a la guardia tras haber consumido 20 comprimidos de Carbamazepina de 200mg hace una hora atrás con fines autolíticos. Al examen se evidencia. TA 100/60mmHg FC 110 lpm, FR 25 rpm, T° 36,5°C. Presenta una mecánica ventilatoria regular, pupilas mióticas, hiporreactivas, estuporoso. Reacciona a estímulos fuertes. Ante  este caso Ud. Lo primero que haría es:",
     "options": [
       {
@@ -11319,7 +11427,7 @@
   },
   {
     "id": "2018 - Pregunta 42",
-    "order": 420,
+    "order": 424,
     "statement": "Más del 90% de los pacientes con Lupus eritematoso sistémico presentan artritis. ¿Cuáles son las características de la misma? A- Artritis por depósito de microcristales.",
     "options": [
       {
@@ -11341,7 +11449,7 @@
   },
   {
     "id": "2018 - Pregunta 43",
-    "order": 421,
+    "order": 425,
     "statement": "¿Cuál es la complicación neurológica más frecuente en los pacientes con diabetes mellitus?",
     "options": [
       {
@@ -11368,7 +11476,7 @@
   },
   {
     "id": "2018 - Pregunta 44",
-    "order": 422,
+    "order": 426,
     "statement": "El síndrome piramidal cursa con el siguiente signo:",
     "options": [
       {
@@ -11395,7 +11503,7 @@
   },
   {
     "id": "2018 - Pregunta 45",
-    "order": 423,
+    "order": 427,
     "statement": "¿Cuál de las siguientes entidades se asocia con alcalosis metabólica?",
     "options": [
       {
@@ -11422,7 +11530,7 @@
   },
   {
     "id": "2018 - Pregunta 46",
-    "order": 424,
+    "order": 428,
     "statement": "En el síndrome piramidal crónico se encuentra:",
     "options": [
       {
@@ -11449,7 +11557,7 @@
   },
   {
     "id": "2018 - Pregunta 47",
-    "order": 425,
+    "order": 429,
     "statement": "¿Qué situación produce una anemia regenerativa?",
     "options": [
       {
@@ -11476,7 +11584,7 @@
   },
   {
     "id": "2018 - Pregunta 48",
-    "order": 426,
+    "order": 430,
     "statement": "¿Cuál es la enfermedad del tejido conectivo que se acompaña con mayor frecuencia de hipertensión pulmonar?",
     "options": [
       {
@@ -11498,7 +11606,7 @@
   },
   {
     "id": "2018 - Pregunta 49",
-    "order": 427,
+    "order": 431,
     "statement": "Ante un adolescente que consulta por prurito intenso y molesto confinado al área genital. ¿cuál sería el origen más lógico de ese síntoma si no refiere ninguna otra molestia?",
     "options": [
       {
@@ -11525,7 +11633,7 @@
   },
   {
     "id": "2018 - Pregunta 50",
-    "order": 428,
+    "order": 432,
     "statement": "Una niña de 5 meses está internada en terapia intensiva por un cuadro de hipotonía grave, con asistencia respiratoria mecánica, la función hepática y renal están normales. En los días previos a la internación comió miel de abeja (los padres se la dieron por un cuadro de tos) y estuvo constipada. El esquema de vacunación estaba completo para su edad. ¿Cuál de las siguientes toxinas es más probable detectar en el laboratorio?",
     "options": [
       {
@@ -11552,7 +11660,7 @@
   },
   {
     "id": "2018 - Pregunta 51",
-    "order": 429,
+    "order": 433,
     "statement": "Señale lo CORRECTO sobre sarampión en la edad pediátrica:",
     "options": [
       {
@@ -11579,7 +11687,7 @@
   },
   {
     "id": "2018 - Pregunta 52",
-    "order": 430,
+    "order": 434,
     "statement": "Ud. Examina a un lactante de 2 meses de edad y detecta fimosis, al respecto les informa a los padres del niño:",
     "options": [
       {
@@ -11606,7 +11714,7 @@
   },
   {
     "id": "2018 - Pregunta 53",
-    "order": 431,
+    "order": 435,
     "statement": "La realización de la pinza permite explorar:",
     "options": [
       {
@@ -11633,7 +11741,7 @@
   },
   {
     "id": "2018 - Pregunta 54",
-    "order": 432,
+    "order": 436,
     "statement": "¿Cuál es la talla media aproximada a los 4 años de edad?",
     "options": [
       {
@@ -11660,7 +11768,7 @@
   },
   {
     "id": "2018 - Pregunta 55",
-    "order": 433,
+    "order": 437,
     "statement": "Ante un lactante de 3 meses de edad, luce agitado y sudoroso en la frente al alimentarse y se ausculta un soplo continuo en maquinaria. El niño tiene:",
     "options": [
       {
@@ -11687,7 +11795,7 @@
   },
   {
     "id": "2018 - Pregunta 56",
-    "order": 434,
+    "order": 438,
     "statement": "Señale cuál de las siguientes es la complicación más frecuente del resfrío común en lactantes:",
     "options": [
       {
@@ -11714,7 +11822,7 @@
   },
   {
     "id": "2018 - Pregunta 57",
-    "order": 435,
+    "order": 439,
     "statement": "Un niño de 20 meses de edad que presenta leucocoria en el ojo derecho. ¿Qué enfermedad entre las enumeradas puede padecer?",
     "options": [
       {
@@ -11741,7 +11849,7 @@
   },
   {
     "id": "2018 - Pregunta 58",
-    "order": 436,
+    "order": 440,
     "statement": "En relación con la hipopotasemia, señalar lo correcto:",
     "options": [
       {
@@ -11768,7 +11876,7 @@
   },
   {
     "id": "2018 - Pregunta 59",
-    "order": 437,
+    "order": 441,
     "statement": "Marcar la respuesta correcta relacionada con la Ascaridiasis:",
     "options": [
       {
@@ -11795,7 +11903,7 @@
   },
   {
     "id": "2018 - Pregunta 60",
-    "order": 438,
+    "order": 442,
     "statement": "¿Cuál de las siguientes situaciones clínicas contraindica la maniobra para investigar el reflejo óculo cefálico o en 'ojos de muñeca'?",
     "options": [
       {
@@ -11822,7 +11930,7 @@
   },
   {
     "id": "2018 - Pregunta 61",
-    "order": 439,
+    "order": 443,
     "statement": "Un niño que recibe alimentación con pecho materno exclusivo debe incorporar alimentos semisólidos a la edad de:",
     "options": [
       {
@@ -11849,7 +11957,7 @@
   },
   {
     "id": "2018 - Pregunta 62",
-    "order": 440,
+    "order": 444,
     "statement": "¿Cuál de las siguientes situaciones constituye una contraindicación absoluta para la lactancia materna?",
     "options": [
       {
@@ -11876,7 +11984,7 @@
   },
   {
     "id": "2018 - Pregunta 63",
-    "order": 441,
+    "order": 445,
     "statement": "Paciente de dos años que ingresa con petequias generalizadas, gingivorragia y epistaxis de 2 días previos, con infección respiratoria hace 15 días. Hemograma: Hemoglobina 12 gs/dl; G. Blancos 6500 mm3 (fórmula normal); Plaquetas 9000 mm3. Buen estado general, signos vitales normales. ¿Cuál es su sospecha diagnóstica?",
     "options": [
       {
@@ -11903,7 +12011,7 @@
   },
   {
     "id": "2018 - Pregunta 64",
-    "order": 442,
+    "order": 446,
     "statement": "En un paciente de 8 años, previamente sano, que presenta dolor abdominal difuso y artralgias con tumefacción articular y cuadro purpúrico (púrpura palpable) limitado a extremidades inferiores que evoluciona por brotes debe hacer pensar, como diagnóstico más probable, en:",
     "options": [
       {
@@ -11930,7 +12038,7 @@
   },
   {
     "id": "2018 - Pregunta 65",
-    "order": 443,
+    "order": 447,
     "statement": "Juan Ignacio cumplió 11 años el 5 de enero y concurre para realizar la ficha médica escolar. ¿Qué vacuna le corresponde aplicarse según las normas vigentes?",
     "options": [
       {
@@ -11957,7 +12065,7 @@
   },
   {
     "id": "2018 - Pregunta 66",
-    "order": 444,
+    "order": 448,
     "statement": "Ante un niño con sospecha de osteomielitis, ¿cuál es el estudio de imágenes que puede confirmar el diagnóstico dentro de las primeras 24-48hs?",
     "options": [
       {
@@ -11984,7 +12092,7 @@
   },
   {
     "id": "2018 - Pregunta 67",
-    "order": 445,
+    "order": 449,
     "statement": "Un lactante de 1 mes de vida presenta ictericia colestásica desde el nacimiento, tiene deposiciones blancas y el hígado y el bazo agrandados. La fascie y el examen ocular son normales. ¿Cuáles de las siguientes opciones sería la causa más probable de la ictericia?",
     "options": [
       {
@@ -12011,7 +12119,7 @@
   },
   {
     "id": "2018 - Pregunta 68",
-    "order": 446,
+    "order": 450,
     "statement": "La mayoría de los niños comienzan a caminar de manera independiente a la edad de:",
     "options": [
       {
@@ -12038,7 +12146,7 @@
   },
   {
     "id": "2018 - Pregunta 69",
-    "order": 447,
+    "order": 451,
     "statement": "Un niño de dos años ingirió accidentalmente una pila alcalina, tipo botón, hace una hora y por estudio radiográfico se encuentra ubicada en una de las estrecheces fisiológicas del esófago. Usted considera que la conducta terapéutica es:",
     "options": [
       {
@@ -12065,7 +12173,7 @@
   },
   {
     "id": "2018 - Pregunta 70",
-    "order": 448,
+    "order": 452,
     "statement": "En niños, la causa principal de hipertensión arterial secundaria es:",
     "options": [
       {
@@ -12092,7 +12200,7 @@
   },
   {
     "id": "2018 - Pregunta 71",
-    "order": 449,
+    "order": 453,
     "statement": "¿En qué casos debe diferirse la vacunación antirrubeólica?",
     "options": [
       {
@@ -12119,7 +12227,7 @@
   },
   {
     "id": "2018 - Pregunta 72",
-    "order": 450,
+    "order": 454,
     "statement": "Un niño con diarrea, que presenta: pulso normal, mucosas semi-húmedas, sediento, con un examen físico normal, tiene:",
     "options": [
       {
@@ -12146,7 +12254,7 @@
   },
   {
     "id": "2018 - Pregunta 73",
-    "order": 451,
+    "order": 455,
     "statement": "¿Cuál de los siguientes agentes infecciosos produce el síndrome de Mondor?",
     "options": [
       {
@@ -12173,7 +12281,7 @@
   },
   {
     "id": "2018 - Pregunta 74",
-    "order": 452,
+    "order": 456,
     "statement": "¿Cuál de los siguientes métodos permite hacer el diagnóstico de embarazo más precozmente?",
     "options": [
       {
@@ -12200,7 +12308,7 @@
   },
   {
     "id": "2018 - Pregunta 75",
-    "order": 453,
+    "order": 457,
     "statement": "Una embarazada de 36 semanas, se presenta con pérdida de líquido claro por vagina. Ella está febril, 37,9 grados. La palpación del abdomen es dolorosa, hay leucocitosis con 16.000 blancos y taquicardia fetal. ¿Cuál es la conducta?",
     "options": [
       {
@@ -12227,7 +12335,7 @@
   },
   {
     "id": "2018 - Pregunta 76",
-    "order": 454,
+    "order": 458,
     "statement": "Una paciente de 22 años se presenta a la guardia con una amenorrea de 9 semanas, un test de embarazo positivo, náuseas y vómitos, y en la ecografía se observa la cavidad uterina distendida a expensas de una imagen vacuolada en copos de nieve o racimo de uva, no visualizándose embrión. El diagnóstico más probable es:",
     "options": [
       {
@@ -12254,7 +12362,7 @@
   },
   {
     "id": "2018 - Pregunta 77",
-    "order": 455,
+    "order": 459,
     "statement": "Se cita como causa probable de hidramnios. (Poli-hidramnios):",
     "options": [
       {
@@ -12281,7 +12389,7 @@
   },
   {
     "id": "2018 - Pregunta 95",
-    "order": 456,
+    "order": 460,
     "statement": "Paciente cursando embarazo de 8 semanas consulta por genitorragia escasa, roja, a la especuloscopía se objetiva cuello sano, cerrado. ¿Cuál es su diagnóstico presuntivo?",
     "options": [
       {
@@ -12308,7 +12416,7 @@
   },
   {
     "id": "2018 - Pregunta 79",
-    "order": 457,
+    "order": 461,
     "statement": "¿Cuál es la fecha probable de parto, si la paciente presentó como Fecha de última menstruación el 5 de agosto? A- 5 de junio.",
     "options": [
       {
@@ -12330,7 +12438,7 @@
   },
   {
     "id": "2018 - Pregunta 80",
-    "order": 458,
+    "order": 462,
     "statement": "En mujeres embarazadas Rh(-), la gammaglobulina híper inmune, debe ser prescripta en:",
     "options": [
       {
@@ -12357,7 +12465,7 @@
   },
   {
     "id": "2018 - Pregunta 81",
-    "order": 459,
+    "order": 463,
     "statement": "Paciente de 70 años de edad con tumor palpable en cuadrante supero externo de mama derecha, asociado en la mamografía a imagen de bordes espiculados y microcalcificaciones. Ud. Debería pensar en:",
     "options": [
       {
@@ -12384,7 +12492,7 @@
   },
   {
     "id": "2018 - Pregunta 82",
-    "order": 460,
+    "order": 464,
     "statement": "El tratamiento de elección para toxoplasmosis durante el embarazo es:",
     "options": [
       {
@@ -12411,7 +12519,7 @@
   },
   {
     "id": "2018 - Pregunta 83",
-    "order": 461,
+    "order": 465,
     "statement": "Para el screening de cáncer de mama, la conducta adecuada sería la siguiente:",
     "options": [
       {
@@ -12438,7 +12546,7 @@
   },
   {
     "id": "2018 - Pregunta 84",
-    "order": 462,
+    "order": 466,
     "statement": "¿Cuál es el agente infeccioso más frecuentemente involucrado en la infección urinaria durante el embarazo?",
     "options": [
       {
@@ -12465,7 +12573,7 @@
   },
   {
     "id": "2018 - Pregunta 85",
-    "order": 463,
+    "order": 467,
     "statement": "¿Cuál de las siguientes presentaciones cefálicas es imposible finalizar por vía vaginal?",
     "options": [
       {
@@ -12492,7 +12600,7 @@
   },
   {
     "id": "2018 - Pregunta 86",
-    "order": 464,
+    "order": 468,
     "statement": "De todas las masas anexiales malignas diagnosticadas durante el embarazo, la más frecuente es:",
     "options": [
       {
@@ -12514,7 +12622,7 @@
   },
   {
     "id": "2018 - Pregunta 87",
-    "order": 465,
+    "order": 469,
     "statement": "¿Cuál es el cáncer de mama más frecuente?",
     "options": [
       {
@@ -12541,7 +12649,7 @@
   },
   {
     "id": "2018 - Pregunta 88",
-    "order": 466,
+    "order": 470,
     "statement": "¿Cuál es el principal mecanismo de acción de los anticonceptivos orales?",
     "options": [
       {
@@ -12568,7 +12676,7 @@
   },
   {
     "id": "2018 - Pregunta 89",
-    "order": 467,
+    "order": 471,
     "statement": "En cuanto a endometriosis:",
     "options": [
       {
@@ -12595,7 +12703,7 @@
   },
   {
     "id": "2018 - Pregunta 90",
-    "order": 468,
+    "order": 472,
     "statement": "La arteria ovárica se origina en:",
     "options": [
       {
@@ -12622,7 +12730,7 @@
   },
   {
     "id": "2018 - Pregunta 91",
-    "order": 469,
+    "order": 473,
     "statement": "¿Cuáles son los serotipos del virus del HPV más frecuentemente involucrados en la génesis del cáncer cervical?",
     "options": [
       {
@@ -12644,7 +12752,7 @@
   },
   {
     "id": "2018 - Pregunta 92",
-    "order": 470,
+    "order": 474,
     "statement": "¿Mediante ecografía transvaginal, a qué edad gestacional se puede objetivar por primera vez la presencia de latidos cardíacos fetales?",
     "options": [
       {
@@ -12671,7 +12779,7 @@
   },
   {
     "id": "2018 - Pregunta 93",
-    "order": 471,
+    "order": 475,
     "statement": "Paciente de 25 años que presenta embarazo de 38 semanas, concurre a la consulta por dolor tipo cólico abdominal. AL examen constata contracciones uterinas, frecuencia cardíaca fetal de 150 latidos por minuto, al tacto vaginal se constata cuello borrado centrado. 4cm de dilatación. Ud. Hace diagnóstico de:",
     "options": [
       {
@@ -12698,7 +12806,7 @@
   },
   {
     "id": "2018 - Pregunta 94",
-    "order": 472,
+    "order": 476,
     "statement": "El síntoma más común del cáncer de endometrio es:",
     "options": [
       {
@@ -12725,7 +12833,7 @@
   },
   {
     "id": "2018 - Pregunta 96",
-    "order": 473,
+    "order": 477,
     "statement": "¿Cuál de las siguientes es rama de la hipogástrica?",
     "options": [
       {
@@ -12752,7 +12860,7 @@
   },
   {
     "id": "2018 - Pregunta 97",
-    "order": 474,
+    "order": 478,
     "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
     "options": [
       {
@@ -12779,7 +12887,7 @@
   },
   {
     "id": "2018 - Pregunta 98",
-    "order": 475,
+    "order": 479,
     "statement": "Como profesional de la salud, si el paciente le solicita la historia clínica, Ud. Debe:",
     "options": [
       {
@@ -12806,7 +12914,7 @@
   },
   {
     "id": "2018 - Pregunta 99",
-    "order": 476,
+    "order": 480,
     "statement": "Ud. Siendo profesional de la salud ¿Quién tiene permitido solicitarle una historia clínica?",
     "options": [
       {
@@ -12833,7 +12941,7 @@
   },
   {
     "id": "2018 - Pregunta 100",
-    "order": 477,
+    "order": 481,
     "statement": "Se entiende por consentimiento informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada con respecto a:",
     "options": [
       {
@@ -12860,7 +12968,7 @@
   },
   {
     "id": "2018 B - Pregunta 1",
-    "order": 478,
+    "order": 482,
     "statement": "¿Cuál de las siguientes patologías produce neumotórax espontáneo?",
     "options": [
       {
@@ -12887,7 +12995,7 @@
   },
   {
     "id": "2018 B - Pregunta 2",
-    "order": 479,
+    "order": 483,
     "statement": "Se entiende por consentimiento informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada con respecto a:",
     "options": [
       {
@@ -12914,7 +13022,7 @@
   },
   {
     "id": "2018 B - Pregunta 3",
-    "order": 480,
+    "order": 484,
     "statement": "objetivos perseguidos, los beneficios esperados del procedimiento, los riesgos, molestias y efectos adversos previsibles, la especificación de los procedimientos alternativos y sus riesgos y las consecuencias previsibles de la no realización del procedimiento propuesto o de los alternativos especificados. ¿El sufijo “ostomía” qué significa?",
     "options": [
       {
@@ -12941,7 +13049,7 @@
   },
   {
     "id": "2018 B - Pregunta 4",
-    "order": 481,
+    "order": 485,
     "statement": "Ante una estructura radiológica dudosa a nivel del colon sigmoides alto, usted indica:",
     "options": [
       {
@@ -12968,7 +13076,7 @@
   },
   {
     "id": "2018 B - Pregunta 5",
-    "order": 482,
+    "order": 486,
     "statement": "Todas las siguientes lesiones son premalignas excepto:",
     "options": [
       {
@@ -12995,7 +13103,7 @@
   },
   {
     "id": "2018 B - Pregunta 6",
-    "order": 483,
+    "order": 487,
     "statement": "¿Cuál es el elemento más posterior del pedículo hepático?",
     "options": [
       {
@@ -13022,7 +13130,7 @@
   },
   {
     "id": "2018 B - Pregunta 7",
-    "order": 484,
+    "order": 488,
     "statement": "¿Cuál es el orden de aparición de los síntomas en la apendicitis aguda (cronología de Murphy)?",
     "options": [
       {
@@ -13049,7 +13157,7 @@
   },
   {
     "id": "2018 B - Pregunta 8",
-    "order": 485,
+    "order": 489,
     "statement": "Ante una paciente de 40 años de edad que fue diagnosticada de pancreatitis aguda, a las 3 semanas de evolución de la enfermedad, encontrándose asintomática, la ecografía abdominal evidencia una colección delimitada, de 35mmx30mm, la cual tiene características de pseudoquiste pancreático. ¿Qué conducta tomaría?",
     "options": [
       {
@@ -13076,7 +13184,7 @@
   },
   {
     "id": "2018 B - Pregunta 9",
-    "order": 486,
+    "order": 490,
     "statement": "En la hemorragia digestiva baja grave la causa etiológica más frecuente es:",
     "options": [
       {
@@ -13103,7 +13211,7 @@
   },
   {
     "id": "2018 B - Pregunta 10",
-    "order": 487,
+    "order": 491,
     "statement": "Las hemorroides internas que solo se objetivan por anoscopia. ¿A qué grado corresponden?",
     "options": [
       {
@@ -13130,7 +13238,7 @@
   },
   {
     "id": "2018 B - Pregunta 11",
-    "order": 488,
+    "order": 492,
     "statement": "¿Cuál es el cáncer de tiroides más frecuente?",
     "options": [
       {
@@ -13157,7 +13265,7 @@
   },
   {
     "id": "2018 B - Pregunta 12",
-    "order": 489,
+    "order": 493,
     "statement": "¿Cuál de estas fracturas puede originar una pérdida sanguínea de 1500cc de sangre?",
     "options": [
       {
@@ -13184,7 +13292,7 @@
   },
   {
     "id": "2018 B - Pregunta 13",
-    "order": 490,
+    "order": 494,
     "statement": "¿Cuál es el tipo histológico más común en el cáncer gástrico?",
     "options": [
       {
@@ -13211,7 +13319,7 @@
   },
   {
     "id": "2018 B - Pregunta 14",
-    "order": 491,
+    "order": 495,
     "statement": "El tratamiento quirúrgico del cáncer de colon derecho es:",
     "options": [
       {
@@ -13238,7 +13346,7 @@
   },
   {
     "id": "2018 B - Pregunta 15",
-    "order": 492,
+    "order": 496,
     "statement": "¿Cuál es el síntoma más común en la fisura anal?",
     "options": [
       {
@@ -13265,7 +13373,7 @@
   },
   {
     "id": "2018 B - Pregunta 16",
-    "order": 493,
+    "order": 497,
     "statement": "El tumor maligno hepático más frecuente es:",
     "options": [
       {
@@ -13292,7 +13400,7 @@
   },
   {
     "id": "2018 B - Pregunta 17",
-    "order": 494,
+    "order": 498,
     "statement": "¿Cuál es la localización más frecuente de tumores carcinoides?",
     "options": [
       {
@@ -13319,7 +13427,7 @@
   },
   {
     "id": "2018 B - Pregunta 18",
-    "order": 495,
+    "order": 499,
     "statement": "Una paciente de 78 años es traída por los familiares a la Guardia por hematemesis. Sólo refieren que padece artrosis, por lo que ingiere diclofenac. A la exploración física: PA 100/60 mmHg. Fc100/min., con palidez generalizada. ¿Cuál es la etiología más frecuente en este cuadro de hemorragia digestiva?",
     "options": [
       {
@@ -13346,7 +13454,7 @@
   },
   {
     "id": "2018 B - Pregunta 19",
-    "order": 496,
+    "order": 500,
     "statement": "Paciente de 25 años de edad, con antecedentes de asma intermitente leve, que presenta crisis de broncorreactividad con el ejercicio por lo que decide consultar. Ud. Indica:",
     "options": [
       {
@@ -13373,7 +13481,7 @@
   },
   {
     "id": "2018 B - Pregunta 20",
-    "order": 497,
+    "order": 501,
     "statement": "Si se presenta a la consulta una paciente de 60 años de edad refiriendo debilidad muscular que empeora hacia el anochecer y mejora con el reposo, diplopía, disartria, voz nasal y disfonía, usted considera como diagnóstico más probable a:",
     "options": [
       {
@@ -13400,7 +13508,7 @@
   },
   {
     "id": "2018 B - Pregunta 21",
-    "order": 498,
+    "order": 502,
     "statement": "El síndrome de Zollinger Ellison se caracteriza por:",
     "options": [
       {
@@ -13427,7 +13535,7 @@
   },
   {
     "id": "2018 B - Pregunta 22",
-    "order": 499,
+    "order": 503,
     "statement": "¿Cuál es una manifestación clínica de la INSUFICIENCIA SUPRERRENAL PRIMARIA Crónica?",
     "options": [
       {
@@ -13454,7 +13562,7 @@
   },
   {
     "id": "2018 B - Pregunta 23",
-    "order": 500,
+    "order": 504,
     "statement": "Marque lo correcto con respecto a ascitis:",
     "options": [
       {
@@ -13481,7 +13589,7 @@
   },
   {
     "id": "2018 B - Pregunta 24",
-    "order": 501,
+    "order": 505,
     "statement": "entre ascitis con o sin hipertensión portal. ¿Cuál es la causa más frecuente de meningitis aséptica?",
     "options": [
       {
@@ -13508,7 +13616,7 @@
   },
   {
     "id": "2018 B - Pregunta 25",
-    "order": 502,
+    "order": 506,
     "statement": "La mayoría de los enfermos con glomerulopatía membranosa se presenta con:",
     "options": [
       {
@@ -13535,7 +13643,7 @@
   },
   {
     "id": "2018 B - Pregunta 26",
-    "order": 503,
+    "order": 507,
     "statement": "¿A qué síndrome neurológico corresponde la presencia de hipotonía, reflejos pendulares y dismetría?",
     "options": [
       {
@@ -13562,7 +13670,7 @@
   },
   {
     "id": "2018 B - Pregunta 27",
-    "order": 504,
+    "order": 508,
     "statement": "La angina de pecho se diagnostica por:",
     "options": [
       {
@@ -13589,7 +13697,7 @@
   },
   {
     "id": "2018 B - Pregunta 28",
-    "order": 505,
+    "order": 509,
     "statement": "En los pacientes son síndrome de Cushing, la causa de muerte más importante es:",
     "options": [
       {
@@ -13616,7 +13724,7 @@
   },
   {
     "id": "2018 B - Pregunta 29",
-    "order": 506,
+    "order": 510,
     "statement": "¿Cuál de los siguientes métodos diagnósticos es el gold standard para enfermedad celíaca?",
     "options": [
       {
@@ -13643,7 +13751,7 @@
   },
   {
     "id": "2018 B - Pregunta 30",
-    "order": 507,
+    "order": 511,
     "statement": "¿Cuál es el tratamiento de elección en una fibrilación auricular aguda, con descompensación hemodinámica, sin cardiopatía estructural?",
     "options": [
       {
@@ -13670,7 +13778,7 @@
   },
   {
     "id": "2018 B - Pregunta 31",
-    "order": 508,
+    "order": 512,
     "statement": "En el tratamiento del asma crónico parcialmente controlado Ud. Indica:",
     "options": [
       {
@@ -13697,7 +13805,7 @@
   },
   {
     "id": "2018 B - Pregunta 32",
-    "order": 509,
+    "order": 513,
     "statement": "El compromiso de dolor al movimiento en la columna vertebral que calma en reposo, asociado a dolor de articulaciones interfalángicas distales con rigidez matinal de menos de 1 hora de duración en una mujer de 60 años nos hace pensar, en primer lugar en:",
     "options": [
       {
@@ -13724,7 +13832,7 @@
   },
   {
     "id": "2018 B - Pregunta 33",
-    "order": 510,
+    "order": 514,
     "statement": "Un paciente de 18 años de edad sin enfermedades constatadas ingresa a la guardia tras haber consumido 20 comprimidos de Carbamazepina de 200mg hace una hora atrás con fines autolíticos. Al examen se evidencia. TA 100/60mmHg FC 110 lpm, FR 25 rpm, T° 36,5°C. Presenta una mecánica ventilatoria regular, pupilas mióticas, hiporreactivas, estuporoso. Reacciona a estímulos fuertes. Ante este caso Ud. Lo primero que haría es:",
     "options": [
       {
@@ -13751,7 +13859,7 @@
   },
   {
     "id": "2018 B - Pregunta 34",
-    "order": 511,
+    "order": 515,
     "statement": "Más del 90% de los pacientes con Lupus eritematoso sistémico presentan artritis. ¿Cuáles son las características de la misma?",
     "options": [
       {
@@ -13778,7 +13886,7 @@
   },
   {
     "id": "2018 B - Pregunta 35",
-    "order": 512,
+    "order": 516,
     "statement": "¿Cuál es la complicación neurológica más frecuente en los pacientes con diabetes mellitus?",
     "options": [
       {
@@ -13805,7 +13913,7 @@
   },
   {
     "id": "2018 B - Pregunta 36",
-    "order": 513,
+    "order": 517,
     "statement": "El síndrome piramidal cursa con el siguiente signo:",
     "options": [
       {
@@ -13832,7 +13940,7 @@
   },
   {
     "id": "2018 B - Pregunta 37",
-    "order": 514,
+    "order": 518,
     "statement": "¿Cuál de las siguientes entidades se asocia con alcalosis metabólica?",
     "options": [
       {
@@ -13859,7 +13967,7 @@
   },
   {
     "id": "2018 B - Pregunta 38",
-    "order": 515,
+    "order": 519,
     "statement": "En el síndrome piramidal crónico se encuentra:",
     "options": [
       {
@@ -13886,7 +13994,7 @@
   },
   {
     "id": "2018 B - Pregunta 39",
-    "order": 516,
+    "order": 520,
     "statement": "¿Qué situación produce una anemia regenerativa?",
     "options": [
       {
@@ -13913,7 +14021,7 @@
   },
   {
     "id": "2018 B - Pregunta 40",
-    "order": 517,
+    "order": 521,
     "statement": "¿Cuál es la enfermedad del tejido conectivo que se acompaña con mayor frecuencia de hipertensión pulmonar?",
     "options": [
       {
@@ -13940,7 +14048,7 @@
   },
   {
     "id": "2018 B - Pregunta 41",
-    "order": 518,
+    "order": 522,
     "statement": "Ante un adolescente que consulta por prurito intenso y molesto confinado al área genital. ¿cuál sería el origen más lógico de ese síntoma si no refiere ninguna otra molestia?",
     "options": [
       {
@@ -13967,7 +14075,7 @@
   },
   {
     "id": "2018 B - Pregunta 42",
-    "order": 519,
+    "order": 523,
     "statement": "Una niña de 5 meses está internada en terapia intensiva por un cuadro de hipotonía grave, con asistencia respiratoria mecánica, la función hepática y renal están normales. En los días previos a la internación comió miel de abeja (los padres se la dieron por un cuadro de tos) y estuvo constipada. El esquema de vacunación estaba completo para su edad. ¿Cuál de las siguientes toxinas es más probable detectar en el laboratorio?",
     "options": [
       {
@@ -13994,7 +14102,7 @@
   },
   {
     "id": "2018 B - Pregunta 43",
-    "order": 520,
+    "order": 524,
     "statement": "Señale lo CORRECTO sobre sarampión en la edad pediátrica:",
     "options": [
       {
@@ -14021,7 +14129,7 @@
   },
   {
     "id": "2018 B - Pregunta 44",
-    "order": 521,
+    "order": 525,
     "statement": "encefalitis. Ud. Examina a un lactante de 2 meses de edad y detecta fimosis, al respecto les informa a los padres del niño:",
     "options": [
       {
@@ -14048,7 +14156,7 @@
   },
   {
     "id": "2018 B - Pregunta 45",
-    "order": 522,
+    "order": 526,
     "statement": "La realización de la pinza permite explorar:",
     "options": [
       {
@@ -14075,7 +14183,7 @@
   },
   {
     "id": "2018 B - Pregunta 46",
-    "order": 523,
+    "order": 527,
     "statement": "¿Cuál es la talla media aproximada a los 4 años de edad?",
     "options": [
       {
@@ -14102,7 +14210,7 @@
   },
   {
     "id": "2018 B - Pregunta 47",
-    "order": 524,
+    "order": 528,
     "statement": "Ante un lactante de 3 meses de edad, luce agitado y sudoroso en la frente al alimentarse y se ausculta un soplo continuo en maquinaria. El niño tiene:",
     "options": [
       {
@@ -14129,7 +14237,7 @@
   },
   {
     "id": "2018 B - Pregunta 48",
-    "order": 525,
+    "order": 529,
     "statement": "Señale cuál de las siguientes es la complicación más frecuente del resfrío común en lactantes:",
     "options": [
       {
@@ -14156,7 +14264,7 @@
   },
   {
     "id": "2018 B - Pregunta 49",
-    "order": 526,
+    "order": 530,
     "statement": "Un niño de 20 meses de edad que presenta leucocoria en el ojo derecho. ¿Qué enfermedad entre las enumeradas puede padecer?",
     "options": [
       {
@@ -14183,7 +14291,7 @@
   },
   {
     "id": "2018 B - Pregunta 50",
-    "order": 527,
+    "order": 531,
     "statement": "En relación con la hipopotasemia, señalar lo correcto:",
     "options": [
       {
@@ -14210,7 +14318,7 @@
   },
   {
     "id": "2018 B - Pregunta 51",
-    "order": 528,
+    "order": 532,
     "statement": "hipopotasemia. Marcar la respuesta correcta relacionada con la Ascaridiasis:",
     "options": [
       {
@@ -14237,7 +14345,7 @@
   },
   {
     "id": "2018 B - Pregunta 52",
-    "order": 529,
+    "order": 533,
     "statement": "y a la obstrucción intestinal. ¿Cuál de las siguientes situaciones clínicas contraindica la maniobra para investigar el reflejo óculo cefálico o en “ojos de muñeca”?",
     "options": [
       {
@@ -14264,7 +14372,7 @@
   },
   {
     "id": "2018 B - Pregunta 53",
-    "order": 530,
+    "order": 534,
     "statement": "Un niño que recibe alimentación con pecho materno exclusivo debe incorporar alimentos semisólidos a la edad de:",
     "options": [
       {
@@ -14291,7 +14399,7 @@
   },
   {
     "id": "2018 B - Pregunta 54",
-    "order": 531,
+    "order": 535,
     "statement": "¿Cuál de las siguientes situaciones constituye una contraindicación absoluta para la lactancia materna?",
     "options": [
       {
@@ -14318,7 +14426,7 @@
   },
   {
     "id": "2018 B - Pregunta 55",
-    "order": 532,
+    "order": 536,
     "statement": "Paciente de dos años que ingresa con petequias generalizadas, gingivorragia y epistaxis de 2 días previos, con infección respiratoria hace 15 días. Hemograma: Hemoglobina 12 gs/dl; G. Blancos 6500 mm3 (fórmula normal); Plaquetas 9000 mm3. Buen estado general, signos vitales normales. ¿Cuál es su sospecha diagnóstica?",
     "options": [
       {
@@ -14345,7 +14453,7 @@
   },
   {
     "id": "2018 B - Pregunta 56",
-    "order": 533,
+    "order": 537,
     "statement": "En un paciente de 8 años, previamente sano, que presenta dolor abdominal difuso y artralgias con tumefacción articular y cuadro purpúrico (púrpura palpable) limitado a extremidades inferiores que evoluciona por brotes debe hacer pensar, como diagnóstico más probable, en:",
     "options": [
       {
@@ -14372,7 +14480,7 @@
   },
   {
     "id": "2018 B - Pregunta 57",
-    "order": 534,
+    "order": 538,
     "statement": "Juan Ignacio cumplió 11 años el 5 de enero y concurre para realizar la ficha médica escolar. ¿Qué vacuna le corresponde aplicarse según las normas vigentes?",
     "options": [
       {
@@ -14399,7 +14507,7 @@
   },
   {
     "id": "2018 B - Pregunta 58",
-    "order": 535,
+    "order": 539,
     "statement": "Ante un niño con sospecha de osteomielitis, ¿cuál es el estudio de imágenes que puede confirmar el diagnóstico dentro de las primeras 24-48hs?",
     "options": [
       {
@@ -14426,7 +14534,7 @@
   },
   {
     "id": "2018 B - Pregunta 59",
-    "order": 536,
+    "order": 540,
     "statement": "Un lactante de 1 mes de vida presenta ictericia colestásica desde el nacimiento, tiene deposiciones blancas y el hígado y el bazo agrandados. La fascie y el examen ocular son normales. ¿Cuáles de las siguientes opciones sería la causa más probable de la ictericia?",
     "options": [
       {
@@ -14453,7 +14561,7 @@
   },
   {
     "id": "2018 B - Pregunta 60",
-    "order": 537,
+    "order": 541,
     "statement": "La mayoría de los niños comienzan a caminar de manera independiente a la edad de:",
     "options": [
       {
@@ -14480,7 +14588,7 @@
   },
   {
     "id": "2018 B - Pregunta 61",
-    "order": 538,
+    "order": 542,
     "statement": "Un niño de dos años ingirió accidentalmente una pila alcalina, tipo botón, hace una hora y por estudio radiográfico se encuentra ubicada en una de las estrecheces fisiológicas del esófago. Usted considera que la conducta terapéutica es:",
     "options": [
       {
@@ -14507,7 +14615,7 @@
   },
   {
     "id": "2018 B - Pregunta 62",
-    "order": 539,
+    "order": 543,
     "statement": "En niños, la causa principal de hipertensión arterial secundaria es:",
     "options": [
       {
@@ -14534,7 +14642,7 @@
   },
   {
     "id": "2018 B - Pregunta 63",
-    "order": 540,
+    "order": 544,
     "statement": "¿En qué casos debe diferirse la vacunación antirrubeólica?",
     "options": [
       {
@@ -14561,7 +14669,7 @@
   },
   {
     "id": "2018 B - Pregunta 64",
-    "order": 541,
+    "order": 545,
     "statement": "Un niño con diarrea, que presenta: pulso normal, mucosas semi-húmedas, sediento, con un examen físico normal, tiene:",
     "options": [
       {
@@ -14588,7 +14696,7 @@
   },
   {
     "id": "2018 B - Pregunta 65",
-    "order": 542,
+    "order": 546,
     "statement": "¿Cuál de los siguientes agentes infecciosos produce el síndrome de Mondor?",
     "options": [
       {
@@ -14615,7 +14723,7 @@
   },
   {
     "id": "2018 B - Pregunta 66",
-    "order": 543,
+    "order": 547,
     "statement": "¿Cuál de los siguientes métodos permite hacer el diagnóstico de embarazo más precozmente?",
     "options": [
       {
@@ -14642,7 +14750,7 @@
   },
   {
     "id": "2018 B - Pregunta 67",
-    "order": 544,
+    "order": 548,
     "statement": "Una embarazada de 36 semanas, se presenta con pérdida de líquido claro por vagina. Ella está febril, 37,9 grados. La palpación del abdomen es dolorosa, hay leucocitosis con 16.000 blancos y taquicardia fetal. ¿Cuál es la conducta?",
     "options": [
       {
@@ -14669,7 +14777,7 @@
   },
   {
     "id": "2018 B - Pregunta 68",
-    "order": 545,
+    "order": 549,
     "statement": "el parto de inmediato según condiciones obstétricas y fetales. Una paciente de 22 años se presenta a la guardia con una amenorrea de 9 semanas, un test de embarazo positivo, náuseas y vómitos, y en la ecografía se observa la cavidad uterina distendida a expensas de una imagen vacuolada en copos de nieve o racimo de uva, no visualizándose embrión. El diagnóstico más probable es:",
     "options": [
       {
@@ -14696,7 +14804,7 @@
   },
   {
     "id": "2018 B - Pregunta 69",
-    "order": 546,
+    "order": 550,
     "statement": "Se cita como causa probable de hidramnios. (Poli-hidramnios):",
     "options": [
       {
@@ -14723,7 +14831,7 @@
   },
   {
     "id": "2018 B - Pregunta 70",
-    "order": 547,
+    "order": 551,
     "statement": "¿Cuál es la causa más frecuente de cáncer de cuello uterino?",
     "options": [
       {
@@ -14750,7 +14858,7 @@
   },
   {
     "id": "2018 B - Pregunta 71",
-    "order": 548,
+    "order": 552,
     "statement": "¿Cuál es la fecha probable de parto, si la paciente presentó como Fecha de última menstruación el 5 de agosto?",
     "options": [
       {
@@ -14777,7 +14885,7 @@
   },
   {
     "id": "2018 B - Pregunta 72",
-    "order": 549,
+    "order": 553,
     "statement": "En mujeres embarazadas Rh(-), la gammaglobulina híper inmune, debe ser prescripta en:",
     "options": [
       {
@@ -14804,7 +14912,7 @@
   },
   {
     "id": "2018 B - Pregunta 73",
-    "order": 550,
+    "order": 554,
     "statement": "después del parto siempre que el hijo sea Rh(+) y la reacción de Coombs sea negativa. Paciente de 70 años de edad con tumor palpable en cuadrante supero externo de mama derecha, asociado en la mamografía a imagen de bordes espiculados y microcalcificaciones. Ud. Debería pensar en:",
     "options": [
       {
@@ -14831,7 +14939,7 @@
   },
   {
     "id": "2018 B - Pregunta 74",
-    "order": 551,
+    "order": 555,
     "statement": "El tratamiento de elección para toxoplasmosis durante el embarazo es:",
     "options": [
       {
@@ -14858,7 +14966,7 @@
   },
   {
     "id": "2018 B - Pregunta 75",
-    "order": 552,
+    "order": 556,
     "statement": "Para el screening de cáncer de mama, la conducta adecuada sería la siguiente:",
     "options": [
       {
@@ -14885,7 +14993,7 @@
   },
   {
     "id": "2018 B - Pregunta 76",
-    "order": 553,
+    "order": 557,
     "statement": "de los 40 años. ¿Cuál es el agente infeccioso más frecuentemente involucrado en la infección urinaria durante el embarazo?",
     "options": [
       {
@@ -14912,7 +15020,7 @@
   },
   {
     "id": "2018 B - Pregunta 77",
-    "order": 554,
+    "order": 558,
     "statement": "¿Cuál de las siguientes presentaciones cefálicas es imposible finalizar por vía vaginal?",
     "options": [
       {
@@ -14939,7 +15047,7 @@
   },
   {
     "id": "2018 B - Pregunta 78",
-    "order": 555,
+    "order": 559,
     "statement": "De todas las masas anexiales malignas diagnosticadas durante el embarazo, la más frecuente es:",
     "options": [
       {
@@ -14966,7 +15074,7 @@
   },
   {
     "id": "2018 B - Pregunta 79",
-    "order": 556,
+    "order": 560,
     "statement": "¿Cuál es el cáncer de mama más frecuente?",
     "options": [
       {
@@ -14993,7 +15101,7 @@
   },
   {
     "id": "2018 B - Pregunta 80",
-    "order": 557,
+    "order": 561,
     "statement": "¿Cuál es el principal mecanismo de acción de los anticonceptivos orales?",
     "options": [
       {
@@ -15020,7 +15128,7 @@
   },
   {
     "id": "2018 B - Pregunta 81",
-    "order": 558,
+    "order": 562,
     "statement": "En cuanto a endometriosis:",
     "options": [
       {
@@ -15047,7 +15155,7 @@
   },
   {
     "id": "2018 B - Pregunta 82",
-    "order": 559,
+    "order": 563,
     "statement": "La arteria ovárica se origina en:",
     "options": [
       {
@@ -15074,7 +15182,7 @@
   },
   {
     "id": "2018 B - Pregunta 83",
-    "order": 560,
+    "order": 564,
     "statement": "¿Cuáles son los serotipos del virus del HPV más frecuentemente involucrados en la génesis del cáncer cervical?",
     "options": [
       {
@@ -15096,7 +15204,7 @@
   },
   {
     "id": "2018 B - Pregunta 84",
-    "order": 561,
+    "order": 565,
     "statement": "¿Mediante ecografía transvaginal, a qué edad gestacional se puede objetivar por primera vez la presencia de latidos cardíacos fetales?",
     "options": [
       {
@@ -15123,7 +15231,7 @@
   },
   {
     "id": "2018 B - Pregunta 85",
-    "order": 562,
+    "order": 566,
     "statement": "Paciente de 25 años que presenta embarazo de 38 semanas, concurre a la consulta por dolor tipo cólico abdominal. AL examen constata contracciones uterinas, frecuencia cardíaca fetal de 150 latidos por minuto, al tacto vaginal se constata cuello borrado centrado. 4cm de dilatación. Ud. Hace diagnóstico de:",
     "options": [
       {
@@ -15150,7 +15258,7 @@
   },
   {
     "id": "2018 B - Pregunta 86",
-    "order": 563,
+    "order": 567,
     "statement": "El síntoma más común del cáncer de endometrio es:",
     "options": [
       {
@@ -15177,7 +15285,7 @@
   },
   {
     "id": "2018 B - Pregunta 87",
-    "order": 564,
+    "order": 568,
     "statement": "Paciente cursando embarazo de 8 semanas consulta por genitorragia escasa, roja, a la especuloscopía se objetiva cuello sano, cerrado. ¿Cuál es su diagnóstico presuntivo?",
     "options": [
       {
@@ -15204,7 +15312,7 @@
   },
   {
     "id": "2018 B - Pregunta 88",
-    "order": 565,
+    "order": 569,
     "statement": "¿Cuál de las siguientes es rama de la hipogástrica?",
     "options": [
       {
@@ -15231,7 +15339,7 @@
   },
   {
     "id": "2018 B - Pregunta 89",
-    "order": 566,
+    "order": 570,
     "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
     "options": [
       {
@@ -15258,7 +15366,7 @@
   },
   {
     "id": "2018 B - Pregunta 90",
-    "order": 567,
+    "order": 571,
     "statement": "Como profesional de la salud, si el paciente le solicita la historia clínica, Ud. Debe:",
     "options": [
       {
@@ -15285,7 +15393,7 @@
   },
   {
     "id": "2018 B - Pregunta 91",
-    "order": 568,
+    "order": 572,
     "statement": "institución asistencial. La entrega se realizará dentro de las cuarenta y ocho (48) horas de solicitada, salvo caso de emergencia. Ud. Siendo profesional de la salud ¿Quién tiene permitido solicitarle una historia clínica?",
     "options": [
       {
@@ -15312,7 +15420,7 @@
   },
   {
     "id": "2020 - Pregunta 1",
-    "order": 569,
+    "order": 573,
     "statement": "¿Cuál es la manifestación más frecuente en los pacientes con litiasis biliar?",
     "options": [
       {
@@ -15339,7 +15447,7 @@
   },
   {
     "id": "2020 - Pregunta 2",
-    "order": 570,
+    "order": 574,
     "statement": "Todas las siguientes lesiones son premalignas excepto:",
     "options": [
       {
@@ -15366,7 +15474,7 @@
   },
   {
     "id": "2020 - Pregunta 3",
-    "order": 571,
+    "order": 575,
     "statement": "Las infecciones quirúrgicas forman parte de las más frecuentes infecciones nosocomiales, provocando un incremento notable de la morbimortalidad y de los costos asistenciales y sociales de los pacientes. Hay algunas medidas que consiguen reducir estas infecciones. Indique cual es la mas eficaz:",
     "options": [
       {
@@ -15393,7 +15501,7 @@
   },
   {
     "id": "2020 - Pregunta 4",
-    "order": 572,
+    "order": 576,
     "statement": "La colecistectomía por cirugía videolaparoscópica está contraindicada en:",
     "options": [
       {
@@ -15420,7 +15528,7 @@
   },
   {
     "id": "2020 - Pregunta 5",
-    "order": 573,
+    "order": 577,
     "statement": "Los criterios tomográficos de Balthazar ¿En qué patología se aplican?",
     "options": [
       {
@@ -15447,7 +15555,7 @@
   },
   {
     "id": "2020 - Pregunta 6",
-    "order": 574,
+    "order": 578,
     "statement": "¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico?",
     "options": [
       {
@@ -15474,7 +15582,7 @@
   },
   {
     "id": "2020 - Pregunta 7",
-    "order": 575,
+    "order": 579,
     "statement": "¿Cuál es el tipo histológico más común en el cancer gástrico?",
     "options": [
       {
@@ -15501,7 +15609,7 @@
   },
   {
     "id": "2020 - Pregunta 8",
-    "order": 576,
+    "order": 580,
     "statement": "Mujer de 70 años, que consulta por cuadro de poco tiempo de evolución, con intensa astenia, dolor abdominal y vómitos a repetición. Muestra una intensa pigmentación melánica cutáneo mucosa y esta con hipotensión arterial. Se comprueba hiponatremia intensa, con hiperpotasemia e hipoglucemia. Con estos datos, la sospecha diagnostica ser:",
     "options": [
       {
@@ -15528,7 +15636,7 @@
   },
   {
     "id": "2020 - Pregunta 9",
-    "order": 577,
+    "order": 581,
     "statement": "¿Cuál es la manifestación clínica más frecuente de los tumores renales?",
     "options": [
       {
@@ -15555,7 +15663,7 @@
   },
   {
     "id": "2020 - Pregunta 10",
-    "order": 578,
+    "order": 582,
     "statement": "La anemia perniciosa presenta como característica:",
     "options": [
       {
@@ -15582,7 +15690,7 @@
   },
   {
     "id": "2020 - Pregunta 11",
-    "order": 579,
+    "order": 583,
     "statement": "¿Cuál es el tumor que frecuentemente se asocia a miastenia gravis?",
     "options": [
       {
@@ -15609,7 +15717,7 @@
   },
   {
     "id": "2020 - Pregunta 12",
-    "order": 580,
+    "order": 584,
     "statement": "Para el diagnostico de artritis gotosa es necesario la identificación de depósitos de cristales intraarticulares. Marque la opción CORRECTA respecto a su composición:",
     "options": [
       {
@@ -15636,7 +15744,7 @@
   },
   {
     "id": "2020 - Pregunta 13",
-    "order": 581,
+    "order": 585,
     "statement": "La causa más frecuente de una marcha hemiparetica en las personas mayores de 60 años es:",
     "options": [
       {
@@ -15663,7 +15771,7 @@
   },
   {
     "id": "2020 - Pregunta 14",
-    "order": 582,
+    "order": 586,
     "statement": "¿Cuál es la cefalea primaria más frecuente?",
     "options": [
       {
@@ -15690,7 +15798,7 @@
   },
   {
     "id": "2020 - Pregunta 15",
-    "order": 583,
+    "order": 587,
     "statement": "En el contexto de la migraña, el aura más típica se manifiesta en forma de:",
     "options": [
       {
@@ -15717,7 +15825,7 @@
   },
   {
     "id": "2020 - Pregunta 16",
-    "order": 584,
+    "order": 588,
     "statement": "(Pregunta sin enunciado en PDF original)",
     "options": [
       {
@@ -15744,7 +15852,7 @@
   },
   {
     "id": "2020 - Pregunta 17",
-    "order": 585,
+    "order": 589,
     "statement": "El trastorno de conducción mas frecuente en la Enfermedad de Chagas es:",
     "options": [
       {
@@ -15771,7 +15879,7 @@
   },
   {
     "id": "2020 - Pregunta 18",
-    "order": 586,
+    "order": 590,
     "statement": "Señale cual de las siguientes recomendaciones profesionales promueve la lactancia materna.",
     "options": [
       {
@@ -15798,7 +15906,7 @@
   },
   {
     "id": "2020 - Pregunta 19",
-    "order": 587,
+    "order": 591,
     "statement": "Hasta que edad recomienda lactancia materna exclusiva la Organización Mundial de la Salud.",
     "options": [
       {
@@ -15825,7 +15933,7 @@
   },
   {
     "id": "2020 - Pregunta 20",
-    "order": 588,
+    "order": 592,
     "statement": "Según el CALENDARIO vigente en Argentina, la vacuna triple viral se administra:",
     "options": [
       {
@@ -15852,7 +15960,7 @@
   },
   {
     "id": "2020 - Pregunta 21",
-    "order": 589,
+    "order": 593,
     "statement": "Niño de 2 meses que acude a urgencias por tos emetizante, con antecedentes de congestión de vías aéreas superiores y episodios de apnea con cianosis. No a presentado fiebre. ¿Cuál es el agente etiológico más probable de este cuadro?",
     "options": [
       {
@@ -15879,7 +15987,7 @@
   },
   {
     "id": "2020 - Pregunta 22",
-    "order": 590,
+    "order": 594,
     "statement": "Niño de 7 meses de edad, con deshidratación debido a vómitos y diarrea, presenta los siguientes resultados de laboratorio. Sodio 137mEq/L; Potasio 5,6 mEq/L; pH 7,20; pCO2 25 mmHg; CO3H 11 mEq/L; EB - 19 mEq/L; Lactato 5,3 mEq/L; ¿Cuál es la valoración metabólica de la deshidratación que presenta este paciente?",
     "options": [
       {
@@ -15906,7 +16014,7 @@
   },
   {
     "id": "2020 - Pregunta 23",
-    "order": 591,
+    "order": 595,
     "statement": "Con respecto a las convulsiones febriles típicas:",
     "options": [
       {
@@ -15933,7 +16041,7 @@
   },
   {
     "id": "2020 - Pregunta 30",
-    "order": 592,
+    "order": 596,
     "statement": "Señale cuál de las siguientes vacunar requiere, antes de su aplicación, conocer el grado de inmunosupresión en pacientes con infección por HIV.",
     "options": [
       {
@@ -15960,7 +16068,7 @@
   },
   {
     "id": "2020 - Pregunta 31",
-    "order": 593,
+    "order": 597,
     "statement": "Niño de 6 años que comienza hace 24 hs con fiebre, dolor de garganta y vómitos. Hoy presenta exantemas en cara y tronco, micropapular rojo, rugoso al tacto con lengua saburral, sin adenomegalia, usted piensa en:",
     "options": [
       {
@@ -15987,7 +16095,7 @@
   },
   {
     "id": "2020 - Pregunta 32",
-    "order": 594,
+    "order": 598,
     "statement": "¿En qué consiste el Plan A para tratar un lactante con diarrea sin deshidratación, en la terapia de rehidratación oral (TRO)?",
     "options": [
       {
@@ -16014,7 +16122,7 @@
   },
   {
     "id": "2020 - Pregunta 33",
-    "order": 595,
+    "order": 599,
     "statement": "¿La aparición de Kernicterus del Recién Nacido se asocia con cual de estas patologías?",
     "options": [
       {
@@ -16041,7 +16149,7 @@
   },
   {
     "id": "2020 - Pregunta 34",
-    "order": 596,
+    "order": 600,
     "statement": "La localización mas frecuente del embarazo ectópico es:",
     "options": [
       {
@@ -16068,7 +16176,7 @@
   },
   {
     "id": "2020 - Pregunta 35",
-    "order": 597,
+    "order": 601,
     "statement": "¿Cuál de las siguientes malformaciones congénitas se asocia con el déficit de ácido fólico?",
     "options": [
       {
@@ -16095,7 +16203,7 @@
   },
   {
     "id": "2020 - Pregunta 36",
-    "order": 598,
+    "order": 602,
     "statement": "De todas las masas anexiales malignas diagnosticadas en el embarazo, la mas frecuente es:",
     "options": [
       {
@@ -16122,7 +16230,7 @@
   },
   {
     "id": "2020 - Pregunta 37",
-    "order": 599,
+    "order": 603,
     "statement": "La medicación local mas efectiva indicada ante el prurito vulvar por liquen escleroso es:",
     "options": [
       {
@@ -16149,7 +16257,7 @@
   },
   {
     "id": "2020 - Pregunta 38",
-    "order": 600,
+    "order": 604,
     "statement": "Paciente de 35 años cursando embarazo de 32 semanas de gestación, consulta a la guardia con genitorragia, al examen físico se constata: TA 180/120, hipertonía uterina, latidos cardiofetales 100x'. Cual seria la conducta correcta:",
     "options": [
       {
@@ -16176,7 +16284,7 @@
   },
   {
     "id": "2020 - Pregunta 39",
-    "order": 601,
+    "order": 605,
     "statement": "Paciente de 25 años, gestas 1, paras 1. Refiere dolor abdominal de comienzo brusco de 3 hs de evolución, fiebre de 38 ̊C, leucorrea escasa con olor fétido verdoso. ¿Qué diagnostico sospecha?",
     "options": [
       {
@@ -16203,7 +16311,7 @@
   },
   {
     "id": "2020 - Pregunta 40",
-    "order": 602,
+    "order": 606,
     "statement": "Se presenta a la consulta paciente de 26 años con deseo de fertilidad, que manifiesta amenorrea y galactorrea bilateral. ¿Qué sospecha?",
     "options": [
       {
@@ -16225,7 +16333,7 @@
   },
   {
     "id": "2020 - Pregunta 24",
-    "order": 603,
+    "order": 607,
     "statement": "Juan es un niño de 2 años que es traído a consulta por presentar de forma brusca: dolor de garganta, salivación, mal aliento y fiebre de 39 ̊C",
     "options": [
       {
@@ -16252,7 +16360,7 @@
   },
   {
     "id": "2020 - Pregunta 25",
-    "order": 604,
+    "order": 608,
     "statement": "(Pregunta sin enunciado en PDF original)",
     "options": [
       {
@@ -16279,7 +16387,7 @@
   },
   {
     "id": "2020 - Pregunta 26",
-    "order": 605,
+    "order": 609,
     "statement": "Señale de los siguientes cual es un hito anormal durante el primer año de vida.",
     "options": [
       {
@@ -16306,7 +16414,7 @@
   },
   {
     "id": "2020 - Pregunta 27",
-    "order": 606,
+    "order": 610,
     "statement": "Paciente de 4 años de edad que consulta por diarrea aguda, amaurosis aguda e hipertensión arterial, se objetivan lesiones impetiginizadas en piel, su sospecha diagnostica es:",
     "options": [
       {
@@ -16333,7 +16441,7 @@
   },
   {
     "id": "2020 - Pregunta 28",
-    "order": 607,
+    "order": 611,
     "statement": "El cuadro clínico caracterizado por fiebre, aftas orales y vesículas en manos y pies, es producido por el siguiente agente etiológico:",
     "options": [
       {
@@ -16360,7 +16468,7 @@
   },
   {
     "id": "2020 - Pregunta 42",
-    "order": 608,
+    "order": 612,
     "statement": "¿Cuál de las siguientes definiciones corresponde al termino metrorragia?",
     "options": [
       {
@@ -16387,7 +16495,7 @@
   },
   {
     "id": "2020 - Pregunta 43",
-    "order": 609,
+    "order": 613,
     "statement": "¿Cuál de los siguientes patrones hormonales de las postmenopáusicas es más probable en una mujer de 65 años?",
     "options": [
       {
@@ -16414,7 +16522,7 @@
   },
   {
     "id": "2020 - Pregunta 44",
-    "order": 610,
+    "order": 614,
     "statement": "Paciente de 70 años de edad con tumor palpable en cuadrante superoexterno de mama derecha, asociado en la mamografía a imagen de bordes espiculados y microcalcificaciones. Usted debe pensar en:",
     "options": [
       {
@@ -16441,7 +16549,7 @@
   },
   {
     "id": "2020 - Pregunta 45",
-    "order": 611,
+    "order": 615,
     "statement": "Se entiende por consentimiento informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada con respecto a:",
     "options": [
       {
@@ -16468,7 +16576,7 @@
   },
   {
     "id": "2020 - Pregunta 46",
-    "order": 612,
+    "order": 616,
     "statement": "Uno de los derechos del paciente es la 'Autonomía de la Voluntad', esto le permite al paciente:",
     "options": [
       {
@@ -16495,7 +16603,7 @@
   },
   {
     "id": "2020 - Pregunta 47",
-    "order": 613,
+    "order": 617,
     "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
     "options": [
       {
@@ -16522,7 +16630,7 @@
   },
   {
     "id": "2020 - Pregunta 48",
-    "order": 614,
+    "order": 618,
     "statement": "Como profesionales de la salud, si el paciente le solicita la historia clínica, Ud. debe:",
     "options": [
       {
@@ -16549,7 +16657,7 @@
   },
   {
     "id": "2020 - Pregunta 53",
-    "order": 615,
+    "order": 619,
     "statement": "Tumor renal más frecuente:",
     "options": [
       {
@@ -16571,7 +16679,7 @@
   },
   {
     "id": "2020 B - Pregunta 1",
-    "order": 616,
+    "order": 620,
     "statement": "¿Cuál es la manifestación más frecuente en los pacientes con litiasis biliar?",
     "options": [
       {
@@ -16598,7 +16706,7 @@
   },
   {
     "id": "2020 B - Pregunta 2",
-    "order": 617,
+    "order": 621,
     "statement": "La anemia perniciosa presenta como característica:",
     "options": [
       {
@@ -16625,7 +16733,7 @@
   },
   {
     "id": "2020 B - Pregunta 3",
-    "order": 618,
+    "order": 622,
     "statement": "¿Cuál es el tumor que frecuentemente se asocia a miastenia gravis?",
     "options": [
       {
@@ -16652,7 +16760,7 @@
   },
   {
     "id": "2020 B - Pregunta 4",
-    "order": 619,
+    "order": 623,
     "statement": "Para el diagnostico de artritis gotosa es necesario la identificación de depósitos de cristales intraarticulares. Marque la opción CORRECTA respecto a su composición:",
     "options": [
       {
@@ -16679,7 +16787,7 @@
   },
   {
     "id": "2020 B - Pregunta 5",
-    "order": 620,
+    "order": 624,
     "statement": "La causa más frecuente de una marcha hemiparetica en las personas mayores de 60 años es:",
     "options": [
       {
@@ -16706,7 +16814,7 @@
   },
   {
     "id": "2020 B - Pregunta 6",
-    "order": 621,
+    "order": 625,
     "statement": "¿Cuál es la cefalea primaria más frecuente?",
     "options": [
       {
@@ -16732,8 +16840,35 @@
     ]
   },
   {
+    "id": "2020 B - Pregunta 7",
+    "order": 626,
+    "statement": "En el contexto de la migraña, el aura más típica se manifiesta en forma de:",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parestesia.",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Visión borrosa",
+        "isCorrect": true
+      },
+      {
+        "id": "c",
+        "text": "Amaurosis. ",
+        "isCorrect": false
+      },
+      {
+        "id": "d",
+        "text": "Afasia. La migraña con aura representa el 20 % de las migrañas. Es una cefalea recurrente, de predominio hemicraneal y carácter pulsátil, que puede acompañarse de náuseas, vómitos, fotofobia y sonofobia, que dura entre 4 y 72 horas. Se precede de clínica de focalidad neurológica (aura), siendo las manifestaciones visuales las más frecuentes (escotomas centelleantes, visión borrosa, etc.)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
     "id": "2020 B - Pregunta 8",
-    "order": 622,
+    "order": 627,
     "statement": "El trastorno de conducción mas frecuente en la Enfermedad de Chagas es:",
     "options": [
       {
@@ -16760,7 +16895,7 @@
   },
   {
     "id": "2020 B - Pregunta 9",
-    "order": 623,
+    "order": 628,
     "statement": "Señale cual de las siguientes recomendaciones profesionales promueve la lactancia materna.",
     "options": [
       {
@@ -16787,7 +16922,7 @@
   },
   {
     "id": "2020 B - Pregunta 10",
-    "order": 624,
+    "order": 629,
     "statement": "espontanea. Hasta que edad recomienda lactancia materna exclusiva la Organización Mundial de la Salud.",
     "options": [
       {
@@ -16814,7 +16949,7 @@
   },
   {
     "id": "2020 B - Pregunta 11",
-    "order": 625,
+    "order": 630,
     "statement": "Todas las siguientes lesiones son premalignas excepto:",
     "options": [
       {
@@ -16841,7 +16976,7 @@
   },
   {
     "id": "2020 B - Pregunta 12",
-    "order": 626,
+    "order": 631,
     "statement": "Según el CALENDARIO vigente en Argentina, la vacuna triple viral se administra:",
     "options": [
       {
@@ -16868,7 +17003,7 @@
   },
   {
     "id": "2020 B - Pregunta 13",
-    "order": 627,
+    "order": 632,
     "statement": "Niño de 2 meses que acude a urgencias por tos emetizante, con antecedentes de congestión de vías aéreas superiores y episodios de apnea con cianosis. No ha presentado fiebre. ¿Cuál es el agente etiológico más probable de este cuadro?",
     "options": [
       {
@@ -16895,7 +17030,7 @@
   },
   {
     "id": "2020 B - Pregunta 14",
-    "order": 628,
+    "order": 633,
     "statement": "Niño de 7 meses de edad, con deshidratación debido a vómitos y diarrea, presenta los siguientes resultados de laboratorio. Sodio 137mEq/L; Potasio 5,6 mEq/L; pH 7,20; pCO2 25 mmHg; CO3H 11 mEq/L; EB – 19 mEq/L; Lactato 5,3 mEq/L; ¿Cuál es la valoración metabólica de la deshidratación que presenta este paciente?",
     "options": [
       {
@@ -16922,7 +17057,7 @@
   },
   {
     "id": "2020 B - Pregunta 15",
-    "order": 629,
+    "order": 634,
     "statement": "Con respecto a las convulsiones febriles típicas:",
     "options": [
       {
@@ -16949,7 +17084,7 @@
   },
   {
     "id": "2020 B - Pregunta 16",
-    "order": 630,
+    "order": 635,
     "statement": "Juan es un niño de 2 años que es traído a consulta por presentar de forma brusca: dolor de garganta, salivación, mal aliento y fiebre de 39 ̊C. Al examen físico presenta hiperextensión de la cabeza, estridor, taquipnea y tiraje intercostal. ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -16976,7 +17111,7 @@
   },
   {
     "id": "2020 B - Pregunta 17",
-    "order": 631,
+    "order": 636,
     "statement": "Niña de 18 meses que comenzó hace 48 horas con vómitos (4 por día) y diarrea (5 deposiciones líquidas por día). ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -17003,7 +17138,7 @@
   },
   {
     "id": "2020 B - Pregunta 18",
-    "order": 632,
+    "order": 637,
     "statement": "Señale de los siguientes cual es un hito anormal durante el primer año de vida.",
     "options": [
       {
@@ -17030,7 +17165,7 @@
   },
   {
     "id": "2020 B - Pregunta 19",
-    "order": 633,
+    "order": 638,
     "statement": "séptimo mes. El cuadro clínico caracterizado por fiebre, aftas orales y vesículas en manos y pies, es producido por el siguiente agente etiológico:",
     "options": [
       {
@@ -17057,7 +17192,7 @@
   },
   {
     "id": "2020 B - Pregunta 20",
-    "order": 634,
+    "order": 639,
     "statement": "En un traumatismo abdominal cerrado de abdomen en un niño, el órgano que mas frecuentemente puede lesionarse es:",
     "options": [
       {
@@ -17084,7 +17219,7 @@
   },
   {
     "id": "2020 B - Pregunta 21",
-    "order": 635,
+    "order": 640,
     "statement": "Las infecciones quirúrgicas forman parte de las más frecuentes infecciones nosocomiales, provocando un incremento notable de la morbimortalidad y de los costos asistenciales y sociales de los pacientes. Hay algunas medidas que consiguen reducir estas infecciones. Indique cual es la mas eficaz:",
     "options": [
       {
@@ -17111,7 +17246,7 @@
   },
   {
     "id": "2020 B - Pregunta 22",
-    "order": 636,
+    "order": 641,
     "statement": "el mismo día de la intervención o como máximo la tarde anterior. Señale cuál de las siguientes vacunas requiere, antes de su aplicación, conocer el grado de inmunosupresión en pacientes con infección por HIV.",
     "options": [
       {
@@ -17138,7 +17273,7 @@
   },
   {
     "id": "2020 B - Pregunta 23",
-    "order": 637,
+    "order": 642,
     "statement": "Niño de 6 años que comienza hace 24 hs con fiebre, dolor de garganta y vómitos. Hoy presenta exantemas en cara y tronco, micropapular rojo, rugoso al tacto con lengua saburral, sin adenomegalia, usted piensa en:",
     "options": [
       {
@@ -17165,7 +17300,7 @@
   },
   {
     "id": "2020 B - Pregunta 24",
-    "order": 638,
+    "order": 643,
     "statement": "¿En qué consiste el Plan A para tratar un lactante con diarrea sin deshidratación, en la terapia de rehidratación oral (TRO)?",
     "options": [
       {
@@ -17192,7 +17327,7 @@
   },
   {
     "id": "2020 B - Pregunta 25",
-    "order": 639,
+    "order": 644,
     "statement": "ofrecer SRO después de cada deposición diarreica y reconocer signos de alarma. ¿La aparición de Kernicterus del Recién Nacido se asocia con cual de estas patologías?",
     "options": [
       {
@@ -17219,7 +17354,7 @@
   },
   {
     "id": "2020 B - Pregunta 26",
-    "order": 640,
+    "order": 645,
     "statement": "La localización mas frecuente del embarazo ectópico es:",
     "options": [
       {
@@ -17246,7 +17381,7 @@
   },
   {
     "id": "2020 B - Pregunta 27",
-    "order": 641,
+    "order": 646,
     "statement": "¿Cuál de las siguientes malformaciones congénitas se asocia con el déficit de ácido fólico?",
     "options": [
       {
@@ -17273,7 +17408,7 @@
   },
   {
     "id": "2020 B - Pregunta 28",
-    "order": 642,
+    "order": 647,
     "statement": "De todas las masas anexiales malignas diagnosticadas en el embarazo, la mas frecuente es:",
     "options": [
       {
@@ -17300,7 +17435,7 @@
   },
   {
     "id": "2020 B - Pregunta 29",
-    "order": 643,
+    "order": 648,
     "statement": "La medicación local mas efectiva indicada ante el prurito vulvar por liquen escleroso es:",
     "options": [
       {
@@ -17327,7 +17462,7 @@
   },
   {
     "id": "2020 B - Pregunta 30",
-    "order": 644,
+    "order": 649,
     "statement": "Paciente de 35 años cursando embarazo de 32 semanas de gestación, consulta a la guardia con genitorragia, al examen físico se constata: TA 180/120, hipertonía uterina, latidos cardiofetales 100x’. Cual seria la conducta correcta:",
     "options": [
       {
@@ -17354,7 +17489,7 @@
   },
   {
     "id": "2020 B - Pregunta 31",
-    "order": 645,
+    "order": 650,
     "statement": "Paciente de 25 años, gestas 1, paras 1. Refiere dolor abdominal de comienzo brusco de 3 hs de evolución, fiebre de 38 ̊C, leucorrea escasa con olor fétido verdoso. ¿Qué diagnostico sospecha?",
     "options": [
       {
@@ -17381,7 +17516,7 @@
   },
   {
     "id": "2020 B - Pregunta 32",
-    "order": 646,
+    "order": 651,
     "statement": "La colecistectomía por cirugía videolaparoscópica está contraindicada en:",
     "options": [
       {
@@ -17408,7 +17543,7 @@
   },
   {
     "id": "2020 B - Pregunta 33",
-    "order": 647,
+    "order": 652,
     "statement": "Se presenta a la consulta paciente de 26 años con deseo de fertilidad, que manifiesta amenorrea y galactorrea bilateral. ¿Qué sospecha?",
     "options": [
       {
@@ -17435,7 +17570,7 @@
   },
   {
     "id": "2020 B - Pregunta 34",
-    "order": 648,
+    "order": 653,
     "statement": "¿Cuál de las siguientes definiciones corresponde al termino metrorragia?",
     "options": [
       {
@@ -17462,7 +17597,7 @@
   },
   {
     "id": "2020 B - Pregunta 35",
-    "order": 649,
+    "order": 654,
     "statement": "¿Cuál de los siguientes patrones hormonales de las postmenopáusicas es más probable en una mujer de 65 años?",
     "options": [
       {
@@ -17489,7 +17624,7 @@
   },
   {
     "id": "2020 B - Pregunta 36",
-    "order": 650,
+    "order": 655,
     "statement": "Paciente de 70 años de edad con tumor palpable en cuadrante superoexterno de mama derecha, asociado en la mamografía a imagen de bordes espiculados y microcalcificaciones. Usted debe pensar en:",
     "options": [
       {
@@ -17516,7 +17651,7 @@
   },
   {
     "id": "2020 B - Pregunta 37",
-    "order": 651,
+    "order": 656,
     "statement": "Se entiende por consentimiento informado, la declaración de voluntad suficiente efectuada por el paciente, o por sus representantes legales en su caso, emitida luego de recibir, por parte del profesional interviniente, información clara, precisa y adecuada con respecto a:",
     "options": [
       {
@@ -17543,7 +17678,7 @@
   },
   {
     "id": "2020 B - Pregunta 38",
-    "order": 652,
+    "order": 657,
     "statement": "objetivos perseguidos; los beneficios esperados del procedimiento; los riesgos, molestias y efectos previsibles; la especificación de los procedimientos alternativos y sus riesgos y las consecuencias previsibles de la no realización del procedimiento propuesto o de los alternativos especificados. Uno de los derechos del paciente es la “Autonomía de la Voluntad”, esto le permite al paciente:",
     "options": [
       {
@@ -17570,7 +17705,7 @@
   },
   {
     "id": "2020 B - Pregunta 39",
-    "order": 653,
+    "order": 658,
     "statement": "biológicos, con o sin expresión de causa. ¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del paciente?",
     "options": [
       {
@@ -17597,7 +17732,7 @@
   },
   {
     "id": "2020 B - Pregunta 40",
-    "order": 654,
+    "order": 659,
     "statement": "Como profesionales de la salud, si el paciente le solicita la historia clínica, Ud. debe:",
     "options": [
       {
@@ -17624,7 +17759,7 @@
   },
   {
     "id": "2020 B - Pregunta 41",
-    "order": 655,
+    "order": 660,
     "statement": "institución asistencial. La entrega se realizará dentro de las 48 horas de solicitada, salvo casos de emergencia. Los criterios tomográficos de Balthazar ¿En qué patología se aplican?",
     "options": [
       {
@@ -17651,7 +17786,7 @@
   },
   {
     "id": "2020 B - Pregunta 42",
-    "order": 656,
+    "order": 661,
     "statement": "¿Cuál de los siguientes cuadros de abdomen agudo pueden tener resolución con tratamiento médico?",
     "options": [
       {
@@ -17678,7 +17813,7 @@
   },
   {
     "id": "2020 B - Pregunta 43",
-    "order": 657,
+    "order": 662,
     "statement": "¿Cuál es el tipo histológico más común en el cancer gástrico?",
     "options": [
       {
@@ -17705,7 +17840,7 @@
   },
   {
     "id": "2020 B - Pregunta 44",
-    "order": 658,
+    "order": 663,
     "statement": "Mujer de 70 años, que consulta por cuadro de poco tiempo de evolución, con intensa astenia, dolor abdominal y vómitos a repetición. Muestra una intensa pigmentación melánica cutáneo mucosa y esta con hipotensión arterial. Se comprueba hiponatremia intensa, con hiperpotasemia e hipoglucemia. Con estos datos, la sospecha diagnostica ser:",
     "options": [
       {
@@ -17732,7 +17867,7 @@
   },
   {
     "id": "2020 B - Pregunta 45",
-    "order": 659,
+    "order": 664,
     "statement": "¿Cuál es la manifestación clínica más frecuente de los tumores renales?",
     "options": [
       {
@@ -17759,7 +17894,7 @@
   },
   {
     "id": "2021 - Pregunta 1",
-    "order": 660,
+    "order": 665,
     "statement": "¿De quién es rama la arteria cística?",
     "options": [
       {
@@ -17781,7 +17916,7 @@
   },
   {
     "id": "2021 - Pregunta 2",
-    "order": 661,
+    "order": 666,
     "statement": "¿Qué arteria irriga al nodulo AV en el 90% de los casos?",
     "options": [
       {
@@ -17808,7 +17943,7 @@
   },
   {
     "id": "2021 - Pregunta 3",
-    "order": 662,
+    "order": 667,
     "statement": "Caso de un niño de 12 años con dolor agudo testicular y ausencia de reflejo cremasteriano",
     "options": [
       {
@@ -17835,7 +17970,7 @@
   },
   {
     "id": "2021 - Pregunta 4",
-    "order": 663,
+    "order": 668,
     "statement": "Causa más frecuente de hemoptisis",
     "options": [
       {
@@ -17862,7 +17997,7 @@
   },
   {
     "id": "2021 - Pregunta 5",
-    "order": 664,
+    "order": 669,
     "statement": "Madre consumidora de cocaína efectos sobre el feto",
     "options": [
       {
@@ -17889,7 +18024,7 @@
   },
   {
     "id": "2021 - Pregunta 6",
-    "order": 665,
+    "order": 670,
     "statement": "Agua que tiene altos contenido de nitritos, consecuencias **[CORRECTA]**",
     "options": [
       {
@@ -17916,7 +18051,7 @@
   },
   {
     "id": "2021 - Pregunta 7",
-    "order": 666,
+    "order": 671,
     "statement": "¿Cuál de las siguientes drogas puede generar hiperkalemia?",
     "options": [
       {
@@ -17943,7 +18078,7 @@
   },
   {
     "id": "2021 - Pregunta 8",
-    "order": 667,
+    "order": 672,
     "statement": "Unión escamo columnar tipo 1 que significa",
     "options": [
       {
@@ -17970,7 +18105,7 @@
   },
   {
     "id": "2021 - Pregunta 11",
-    "order": 668,
+    "order": 673,
     "statement": "Niño de 16 años afebril con ataxia, cefalea y vómitos matutinos",
     "options": [
       {
@@ -17997,7 +18132,7 @@
   },
   {
     "id": "2021 - Pregunta 14",
-    "order": 669,
+    "order": 674,
     "statement": "ECG  con hipokalemia",
     "options": [
       {
@@ -18019,7 +18154,7 @@
   },
   {
     "id": "2021 - Pregunta 16",
-    "order": 670,
+    "order": 675,
     "statement": "Todas las siguientes están presentes en la acalasia excepto",
     "options": [
       {
@@ -18046,7 +18181,7 @@
   },
   {
     "id": "2021 - Pregunta 18",
-    "order": 671,
+    "order": 676,
     "statement": "Componente más importante de las hernias inguinales",
     "options": [
       {
@@ -18073,7 +18208,7 @@
   },
   {
     "id": "2021 - Pregunta 21",
-    "order": 672,
+    "order": 677,
     "statement": "¿Cuándo se pueden objetivar los LCF en la ecografía transvaginal?",
     "options": [
       {
@@ -18100,7 +18235,7 @@
   },
   {
     "id": "2022 - Pregunta 1",
-    "order": 673,
+    "order": 678,
     "statement": "Ca renal mas frecuente (no esta el de celulas claras)",
     "options": [
       {
@@ -18127,7 +18262,7 @@
   },
   {
     "id": "2022 - Pregunta 2",
-    "order": 674,
+    "order": 679,
     "statement": "tto giardiasis:",
     "options": [
       {
@@ -18144,7 +18279,7 @@
   },
   {
     "id": "2022 - Pregunta 3",
-    "order": 675,
+    "order": 680,
     "statement": "tto ascariasis no complicada:",
     "options": [
       {
@@ -18161,7 +18296,7 @@
   },
   {
     "id": "2022 - Pregunta 4",
-    "order": 676,
+    "order": 681,
     "statement": "Cuando se diagnostica en ecografia el embarazo gemelar:",
     "options": [
       {
@@ -18183,7 +18318,7 @@
   },
   {
     "id": "2022 - Pregunta 5",
-    "order": 677,
+    "order": 682,
     "statement": "En que caso se ve en eco el 'estomago pequeño' en el feto",
     "options": [
       {
@@ -18210,7 +18345,7 @@
   },
   {
     "id": "2022 - Pregunta 6",
-    "order": 678,
+    "order": 683,
     "statement": "Origen embriologico del útero",
     "options": [
       {
@@ -18227,7 +18362,7 @@
   },
   {
     "id": "2022 - Pregunta 7",
-    "order": 679,
+    "order": 684,
     "statement": "el aleron anterior del ligamento ancho esta constituido por:",
     "options": [
       {
@@ -18249,7 +18384,7 @@
   },
   {
     "id": "2022 - Pregunta 8",
-    "order": 680,
+    "order": 685,
     "statement": "cual de todos estos farmacos provoca ginecomastia como ram:",
     "options": [
       {
@@ -18271,7 +18406,7 @@
   },
   {
     "id": "2022 - Pregunta 9",
-    "order": 681,
+    "order": 686,
     "statement": "Caso de hombre con hipersecreción y miosis. Estuvo haciendo trabajo en jardinería. Intoxicacion por:",
     "options": [
       {
@@ -18293,7 +18428,7 @@
   },
   {
     "id": "2022 - Pregunta 10",
-    "order": 682,
+    "order": 687,
     "statement": "diámetro mas grande del estrecho superior",
     "options": [
       {
@@ -18320,7 +18455,7 @@
   },
   {
     "id": "2022 - Pregunta 11",
-    "order": 683,
+    "order": 688,
     "statement": "Paciente de 35 semanas con clinica de corioamnionitis, conducta:",
     "options": [
       {
@@ -18342,7 +18477,7 @@
   },
   {
     "id": "2022 - Pregunta 12",
-    "order": 684,
+    "order": 689,
     "statement": "Niño con hemofilia por deficiencia de favtor VIII grave, sufre caida de bicicleta, sin perdida de conocimiento, solo hematoma en cabeza, que hacer:",
     "options": [
       {
@@ -18369,7 +18504,7 @@
   },
   {
     "id": "2022 - Pregunta 14",
-    "order": 685,
+    "order": 690,
     "statement": "niño 5 meses con esteatorrea, diarrea, no gana peso. Que hay que hacer?",
     "options": [
       {
@@ -18396,7 +18531,7 @@
   },
   {
     "id": "2022 - Pregunta 15",
-    "order": 686,
+    "order": 691,
     "statement": "que patologia se puede diagnosticar por cariotipo?",
     "options": [
       {
@@ -18423,7 +18558,7 @@
   },
   {
     "id": "2022 - Pregunta 16",
-    "order": 687,
+    "order": 692,
     "statement": "Que pedis cuando sospechas adenomiosis?",
     "options": [
       {
@@ -18445,7 +18580,7 @@
   },
   {
     "id": "2022 - Pregunta 17",
-    "order": 688,
+    "order": 693,
     "statement": "Factor de riesgo para enfermedad coronaria",
     "options": [
       {
@@ -18467,7 +18602,7 @@
   },
   {
     "id": "2022 - Pregunta 18",
-    "order": 689,
+    "order": 694,
     "statement": "Con respecto a abdomen agudo marcar correcta:",
     "options": [
       {
@@ -18489,7 +18624,7 @@
   },
   {
     "id": "2022 - Pregunta 19",
-    "order": 690,
+    "order": 695,
     "statement": "Signo o sintoma mas especifico en niño al que se le sospecha diagnostico de neumonia?",
     "options": [
       {
@@ -18511,7 +18646,7 @@
   },
   {
     "id": "2022 - Pregunta 20",
-    "order": 691,
+    "order": 696,
     "statement": "la anteroversion del utero se refiere a:",
     "options": [
       {
@@ -18533,7 +18668,7 @@
   },
   {
     "id": "2022 - Pregunta 21",
-    "order": 692,
+    "order": 697,
     "statement": "El dolor de la fisura anal es",
     "options": [
       {
@@ -18560,7 +18695,7 @@
   },
   {
     "id": "2022 - Pregunta 22",
-    "order": 693,
+    "order": 698,
     "statement": "Causa mas frecuente de proctorragia en el adulto",
     "options": [
       {
@@ -18577,7 +18712,7 @@
   },
   {
     "id": "2022 - Pregunta 23",
-    "order": 694,
+    "order": 699,
     "statement": "Sintomas en cushing, marcar el correcto:",
     "options": [
       {
@@ -18599,7 +18734,7 @@
   },
   {
     "id": "2022 - Pregunta 24",
-    "order": 695,
+    "order": 700,
     "statement": "signo en insuficiencia aortica",
     "options": [
       {
@@ -18621,7 +18756,7 @@
   },
   {
     "id": "2022 - Pregunta 25",
-    "order": 696,
+    "order": 701,
     "statement": "paciente diabetico que consulta por parestesias bilaterales, calambres, etc, diagnostico?:",
     "options": [
       {
@@ -18638,7 +18773,7 @@
   },
   {
     "id": "2022 - Pregunta 26",
-    "order": 697,
+    "order": 702,
     "statement": "Forma de presentacion mas frecuente del cancer renal",
     "options": [
       {
@@ -18655,7 +18790,7 @@
   },
   {
     "id": "2022 - Pregunta 27",
-    "order": 698,
+    "order": 703,
     "statement": "Paciente joven sin antecedentes, se diagnostica colelitiasis, conducta:",
     "options": [
       {
@@ -18672,7 +18807,7 @@
   },
   {
     "id": "2022 - Pregunta 29",
-    "order": 699,
+    "order": 704,
     "statement": "Niño de 9 meses con dolor abdominal, letargo, llora y se calma, deposición roja oscura:",
     "options": [
       {
@@ -18689,7 +18824,7 @@
   },
   {
     "id": "2022 - Pregunta 30",
-    "order": 700,
+    "order": 705,
     "statement": "Aporte nutricional a un niño con desnutricion moderada, cuantas calorias diarias y proteinas hay que darle.",
     "options": [
       {
@@ -18716,7 +18851,7 @@
   },
   {
     "id": "2022 - Pregunta 31",
-    "order": 701,
+    "order": 706,
     "statement": "A que se asocia la esplenectomia:",
     "options": [
       {
@@ -18743,7 +18878,7 @@
   },
   {
     "id": "2022 - Pregunta 32",
-    "order": 702,
+    "order": 707,
     "statement": "Primer parametro que disminuye en anemia ferropenica",
     "options": [
       {
@@ -18770,7 +18905,7 @@
   },
   {
     "id": "2022 - Pregunta 32",
-    "order": 703,
+    "order": 708,
     "statement": "Principal consulta de niñas:",
     "options": [
       {
@@ -18797,7 +18932,7 @@
   },
   {
     "id": "2022 - Pregunta 33",
-    "order": 704,
+    "order": 709,
     "statement": "Principal motivo de consulta en cancer esofagico",
     "options": [
       {
@@ -18814,7 +18949,7 @@
   },
   {
     "id": "2022 - Pregunta 37",
-    "order": 705,
+    "order": 710,
     "statement": "Cefalea en pediatria tipo en racimos, pensar:",
     "options": [
       {
@@ -18841,7 +18976,7 @@
   },
   {
     "id": "2022 - Pregunta 38",
-    "order": 706,
+    "order": 711,
     "statement": "Acalasia se define por:",
     "options": [
       {
@@ -18863,7 +18998,7 @@
   },
   {
     "id": "2022 - Pregunta 39",
-    "order": 707,
+    "order": 712,
     "statement": "Sintoma mas frecuente de hipertiroidismo:",
     "options": [
       {
@@ -18890,7 +19025,7 @@
   },
   {
     "id": "2022 - Pregunta 41",
-    "order": 708,
+    "order": 713,
     "statement": "Signo de parkinson:",
     "options": [
       {
@@ -18912,7 +19047,7 @@
   },
   {
     "id": "2022 - Pregunta 44",
-    "order": 709,
+    "order": 714,
     "statement": "Cual de todas estas es una presentacion:",
     "options": [
       {
@@ -18934,7 +19069,7 @@
   },
   {
     "id": "2022 - Pregunta 45",
-    "order": 710,
+    "order": 715,
     "statement": "Que se afecta en la desnutricion aguda",
     "options": [
       {
@@ -18961,7 +19096,7 @@
   },
   {
     "id": "2022 - Pregunta 47",
-    "order": 711,
+    "order": 716,
     "statement": "Peritonitis bacteriana espontanea, en quienes se presenta?",
     "options": [
       {
@@ -18978,7 +19113,7 @@
   },
   {
     "id": "2022 - Pregunta 50",
-    "order": 712,
+    "order": 717,
     "statement": "Arteria ovarica: Aorta\n- 51: Factor de riesgo para placenta acreta",
     "options": [
       {
@@ -18995,7 +19130,7 @@
   },
   {
     "id": "2022 - Pregunta 52",
-    "order": 713,
+    "order": 718,
     "statement": "Itu baja se caracteriza por:",
     "options": [
       {
@@ -19017,7 +19152,7 @@
   },
   {
     "id": "2022 - Pregunta 53",
-    "order": 714,
+    "order": 719,
     "statement": "Que le solicitas a una mujer con feto muerto y retenido",
     "options": [
       {
@@ -19039,7 +19174,7 @@
   },
   {
     "id": "2022 - Pregunta 54",
-    "order": 715,
+    "order": 720,
     "statement": "Que hacer en un paciente con HDA activa?",
     "options": [
       {
@@ -19061,7 +19196,7 @@
   },
   {
     "id": "2022 - Pregunta 58",
-    "order": 716,
+    "order": 721,
     "statement": "Con que hb se diagnostica anemia en la embarazada",
     "options": [
       {
@@ -19088,7 +19223,7 @@
   },
   {
     "id": "2022 - Pregunta 61",
-    "order": 717,
+    "order": 722,
     "statement": "Traumatismo cerrado en niño, produce mas daño en;:",
     "options": [
       {
@@ -19105,7 +19240,7 @@
   },
   {
     "id": "2022 - Pregunta 67",
-    "order": 718,
+    "order": 723,
     "statement": "Cardiopatia congenita no cianozante",
     "options": [
       {
@@ -19122,7 +19257,7 @@
   },
   {
     "id": "2022 - Pregunta 85",
-    "order": 719,
+    "order": 724,
     "statement": "Embarazada primer control con glucemia en ayunas menos de 100 mg/dl, sin factores de riesgo, que hacer",
     "options": [
       {
@@ -19144,7 +19279,7 @@
   },
   {
     "id": "2022 - Pregunta 86",
-    "order": 720,
+    "order": 725,
     "statement": "Niño con mucosas semihumedas, sediento, examen fisico normal",
     "options": [
       {
@@ -19166,7 +19301,7 @@
   },
   {
     "id": "2022 - Pregunta 88",
-    "order": 721,
+    "order": 726,
     "statement": "Cuando esta conraindicada la colecistectomia por video:",
     "options": [
       {
@@ -19188,7 +19323,7 @@
   },
   {
     "id": "2022 - Pregunta 91",
-    "order": 722,
+    "order": 727,
     "statement": "Complicacion mas frecuente en todas las tiroidectomias:",
     "options": [
       {
@@ -19205,7 +19340,7 @@
   },
   {
     "id": "2023 - Pregunta 4",
-    "order": 723,
+    "order": 728,
     "statement": "3 Hormonas en el determinismo del parto:",
     "options": [
       {
@@ -19232,7 +19367,7 @@
   },
   {
     "id": "2023 - Pregunta 9",
-    "order": 724,
+    "order": 729,
     "statement": "4 Como inhibís la lactancia?",
     "options": [
       {
@@ -19259,7 +19394,7 @@
   },
   {
     "id": "2023 - Pregunta 6",
-    "order": 725,
+    "order": 730,
     "statement": "¿Cuál es el tipo histológico más común en el cáncer gástrico?",
     "options": [
       {
@@ -19286,7 +19421,7 @@
   },
   {
     "id": "2023 - Pregunta 20",
-    "order": 726,
+    "order": 731,
     "statement": "7 Características de Parkinson:",
     "options": [
       {
@@ -19308,7 +19443,7 @@
   },
   {
     "id": "2023 - Pregunta 25",
-    "order": 727,
+    "order": 732,
     "statement": "9 Qué agente causa el mano pie boca: **[CORRECTA]**",
     "options": [
       {
@@ -19325,7 +19460,7 @@
   },
   {
     "id": "2023 - Pregunta 28",
-    "order": 728,
+    "order": 733,
     "statement": "10 Lactante con sx pilórico:",
     "options": [
       {
@@ -19352,7 +19487,7 @@
   },
   {
     "id": "2023 - Pregunta 23",
-    "order": 729,
+    "order": 734,
     "statement": "¿Cuál de los siguientes es un criterio de Ranson?",
     "options": [
       {
@@ -19379,7 +19514,7 @@
   },
   {
     "id": "2023 - Pregunta 6",
-    "order": 730,
+    "order": 735,
     "statement": "24 Ante imagen sospechosa en sigmoides alto ud indica:",
     "options": [
       {
@@ -19406,7 +19541,7 @@
   },
   {
     "id": "2023 - Pregunta 11",
-    "order": 731,
+    "order": 736,
     "statement": "25 Qué vacuna para covid en pacientes de 12 a 17 años según ministerio de salud .\n\n26 .\n\n27 cuál es un hito ANORMAL al año de vida",
     "options": [
       {
@@ -19433,7 +19568,7 @@
   },
   {
     "id": "2023 - Pregunta 86",
-    "order": 732,
+    "order": 737,
     "statement": "Los abscesos perianales se originan frecuentemente en:",
     "options": [
       {
@@ -19460,7 +19595,7 @@
   },
   {
     "id": "2023 - Pregunta 87",
-    "order": 733,
+    "order": 738,
     "statement": "La infección urinaria baja presenta:",
     "options": [
       {
@@ -19487,7 +19622,7 @@
   },
   {
     "id": "2023 - Pregunta 91",
-    "order": 734,
+    "order": 739,
     "statement": "¿Por qué se caracterizan las QUEMADURAS DE TIPO A o de 1° Grado?",
     "options": [
       {
@@ -19514,7 +19649,7 @@
   },
   {
     "id": "2023 - Pregunta 95",
-    "order": 735,
+    "order": 740,
     "statement": "El edema en esclavina es característico de:",
     "options": [
       {
@@ -19541,7 +19676,7 @@
   },
   {
     "id": "2023 - Pregunta 96",
-    "order": 736,
+    "order": 741,
     "statement": "¿Cuál de éstos es criterio de posible benignidad en una lesión pigmentada melanocítica?",
     "options": [
       {
@@ -19558,7 +19693,7 @@
   },
   {
     "id": "2023 - Pregunta 97",
-    "order": 737,
+    "order": 742,
     "statement": "¿Cuándo el profesional de la salud puede actuar sin el consentimiento informado del",
     "options": [
       {
@@ -19580,7 +19715,7 @@
   },
   {
     "id": "2023 - Pregunta 98",
-    "order": 738,
+    "order": 743,
     "statement": "Usted siendo profesional de la salud ¿Quién tiene permitido solicitarle una historia clínica?",
     "options": [
       {
@@ -19607,7 +19742,7 @@
   },
   {
     "id": "2023 - Pregunta 99",
-    "order": 739,
+    "order": 744,
     "statement": "Uno de los derechos del paciente es la 'Autonomía de la Voluntad', esto le permite al paciente:",
     "options": [
       {
@@ -19634,7 +19769,7 @@
   },
   {
     "id": "2025 B - Pregunta 1",
-    "order": 740,
+    "order": 745,
     "statement": "En el contexto de un paciente con patología oncológica, ¿en cuál de las siguientes situaciones no se espera encontrar una elevación del Antígeno Carcinoembrionario (CEA)?",
     "options": [
       {
@@ -19661,7 +19796,7 @@
   },
   {
     "id": "2025 B - Pregunta 2",
-    "order": 741,
+    "order": 746,
     "statement": "¿Cuál es el síntoma esofágico reportado con mayor frecuencia en la población general?",
     "options": [
       {
@@ -19688,7 +19823,7 @@
   },
   {
     "id": "2025 B - Pregunta 3",
-    "order": 742,
+    "order": 747,
     "statement": "¿Qué tipo de placenta aberrante se caracteriza por la presencia de uno o más lóbulos accesorios separados del disco placentario principal por vasos sanguíneos?",
     "options": [
       {
@@ -19715,7 +19850,7 @@
   },
   {
     "id": "2025 B - Pregunta 4",
-    "order": 743,
+    "order": 748,
     "statement": "Según la clasificación de desgarros perineales durante el parto, ¿a qué grado corresponde una lesión que afecta la mucosa vaginal y los músculos del periné, pero sin comprometer el esfínter anal?",
     "options": [
       {
@@ -19742,7 +19877,7 @@
   },
   {
     "id": "2025 B - Pregunta 5",
-    "order": 744,
+    "order": 749,
     "statement": "En un niño de 6 meses de edad con esquema de vacunación completo para su edad, ¿qué conducta se debe tomar con respecto a la vacuna de rotavirus si esta no fue administrada a los 2 y 4 meses?",
     "options": [
       {
@@ -19769,7 +19904,7 @@
   },
   {
     "id": "2025 B - Pregunta 6",
-    "order": 745,
+    "order": 750,
     "statement": "para la primera dosis. Lactante que presenta un cuadro de deposiciones malolientes, ácidas y explosivas, acompañado de distensión abdominal posprandial, pero conservando un buen estado general. ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -19796,7 +19931,7 @@
   },
   {
     "id": "2025 B - Pregunta 7",
-    "order": 746,
+    "order": 751,
     "statement": "Un lactante de 2 meses presenta fimosis en el examen físico. ¿Cuál es la conducta adecuada?",
     "options": [
       {
@@ -19823,7 +19958,7 @@
   },
   {
     "id": "2025 B - Pregunta 8",
-    "order": 747,
+    "order": 752,
     "statement": "Niño de 8 años que consulta por dolor en cadera y cojera después de realizar actividad deportiva. Se encuentra afebril y tiene antecedente reciente de infección respiratoria alta. ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -19850,7 +19985,7 @@
   },
   {
     "id": "2025 B - Pregunta 9",
-    "order": 748,
+    "order": 753,
     "statement": "Con respecto a los hallazgos en el líquido cefalorraquídeo (LCR), ¿cuál de las siguientes afirmaciones es correcta?",
     "options": [
       {
@@ -19877,7 +20012,7 @@
   },
   {
     "id": "2025 B - Pregunta 10",
-    "order": 749,
+    "order": 754,
     "statement": "herpes. ¿Cuál es la principal causa de muerte en pacientes con insuficiencia renal crónica en todas sus etapas?",
     "options": [
       {
@@ -19904,7 +20039,7 @@
   },
   {
     "id": "2025 B - Pregunta 11",
-    "order": 750,
+    "order": 755,
     "statement": "En la presentación de vértice modalidad bregma, ¿cuál es el punto de referencia fetal?",
     "options": [
       {
@@ -19931,7 +20066,7 @@
   },
   {
     "id": "2025 B - Pregunta 12",
-    "order": 751,
+    "order": 756,
     "statement": "¿Cuál es la etiología más frecuente de hemorragia durante el período del alumbramiento (tercer período del parto)?",
     "options": [
       {
@@ -19958,7 +20093,7 @@
   },
   {
     "id": "2025 B - Pregunta 13",
-    "order": 752,
+    "order": 757,
     "statement": "¿A qué edad se espera que un niño logre el sostén cefálico?",
     "options": [
       {
@@ -19985,7 +20120,7 @@
   },
   {
     "id": "2025 B - Pregunta 14",
-    "order": 753,
+    "order": 758,
     "statement": "¿Cuál es una característica distintiva del dolor abdominal de tipo parietal (somático)?",
     "options": [
       {
@@ -20012,7 +20147,7 @@
   },
   {
     "id": "2025 B - Pregunta 15",
-    "order": 754,
+    "order": 759,
     "statement": "Ante la sospecha clínica de diverticulitis aguda, ¿cuál es el método diagnóstico de elección (Gold Standard)?",
     "options": [
       {
@@ -20039,7 +20174,7 @@
   },
   {
     "id": "2025 B - Pregunta 16",
-    "order": 755,
+    "order": 760,
     "statement": "¿En qué se basa principalmente el diagnóstico de una rinosinusitis aguda bacteriana no complicada?",
     "options": [
       {
@@ -20066,7 +20201,7 @@
   },
   {
     "id": "2025 B - Pregunta 17",
-    "order": 756,
+    "order": 761,
     "statement": "En una mujer posmenopáusica que presenta hemorragia uterina anormal, ¿cuál es la actitud diagnóstica inicial más adecuada para descartar patología endometrial maligna?",
     "options": [
       {
@@ -20093,7 +20228,7 @@
   },
   {
     "id": "2025 B - Pregunta 18",
-    "order": 757,
+    "order": 762,
     "statement": "Neonato de 1 día de vida, nacido a término, que presenta cianosis en extremidades, con saturación de oxígeno del 96% y auscultación cardiopulmonar normal. ¿Cuál es la interpretación más probable?",
     "options": [
       {
@@ -20120,7 +20255,7 @@
   },
   {
     "id": "2025 B - Pregunta 19",
-    "order": 758,
+    "order": 763,
     "statement": "¿Cuál de los siguientes alimentos se asocia con mayor frecuencia a anafilaxia en la edad pediátrica?",
     "options": [
       {
@@ -20147,7 +20282,7 @@
   },
   {
     "id": "2025 B - Pregunta 20",
-    "order": 759,
+    "order": 764,
     "statement": "Ante una imagen radiológica de estrechez (estenosis) dudosa a nivel del colon sigmoides alto (\"corazón de manzana\"), ¿cuál es el estudio indicado para confirmar la etiología?",
     "options": [
       {
@@ -20174,7 +20309,7 @@
   },
   {
     "id": "2025 B - Pregunta 21",
-    "order": 760,
+    "order": 765,
     "statement": "¿Qué perfil de laboratorio confirma el diagnóstico de anemia ferropénica?",
     "options": [
       {
@@ -20201,7 +20336,7 @@
   },
   {
     "id": "2025 B - Pregunta 22",
-    "order": 761,
+    "order": 766,
     "statement": "¿Cuál es el signo clínico más confiable para el diagnóstico de una oclusión arterial aguda en una extremidad?",
     "options": [
       {
@@ -20228,7 +20363,7 @@
   },
   {
     "id": "2025 B - Pregunta 23",
-    "order": 762,
+    "order": 767,
     "statement": "Según los criterios de Williams y guías actuales, ¿cómo se define la hipertensión arterial crónica en el embarazo?",
     "options": [
       {
@@ -20255,7 +20390,7 @@
   },
   {
     "id": "2025 B - Pregunta 24",
-    "order": 763,
+    "order": 768,
     "statement": "Varón de 20 días de vida que presenta vómitos posprandiales proyectivos, no biliosos. ¿Cuál es la sospecha diagnóstica principal?",
     "options": [
       {
@@ -20282,7 +20417,7 @@
   },
   {
     "id": "2025 B - Pregunta 25",
-    "order": 764,
+    "order": 769,
     "statement": "Según la Ley de Derechos del Paciente (26.529), ¿quiénes están legitimados para solicitar la entrega de la historia clínica?",
     "options": [
       {
@@ -20309,7 +20444,7 @@
   },
   {
     "id": "2025 B - Pregunta 26",
-    "order": 765,
+    "order": 770,
     "statement": "imposibilidad/muerte). ¿Para el diagnóstico de qué patologías es de mayor utilidad la medición de la translucencia nucal (TN) en la ecografía del primer trimestre?",
     "options": [
       {
@@ -20336,7 +20471,7 @@
   },
   {
     "id": "2025 B - Pregunta 27",
-    "order": 766,
+    "order": 771,
     "statement": "Recién nacido de 20 días de vida que presenta rinitis serosanguinolenta persistente y lesiones cutáneas descamativas palmoplantares. ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -20363,7 +20498,7 @@
   },
   {
     "id": "2025 B - Pregunta 28",
-    "order": 767,
+    "order": 772,
     "statement": "¿A qué patología orienta la tétrada clásica de Sabin: hidrocefalia, calcificaciones intracraneales difusas, coriorretinitis y convulsiones?",
     "options": [
       {
@@ -20390,7 +20525,7 @@
   },
   {
     "id": "2025 B - Pregunta 29",
-    "order": 768,
+    "order": 773,
     "statement": "En el estudio del líquido ascítico, ¿qué indica un Gradiente Albúmina Sérica-Ascitis (GASA) mayor a 1.1 g/dL?",
     "options": [
       {
@@ -20417,7 +20552,7 @@
   },
   {
     "id": "2025 B - Pregunta 30",
-    "order": 769,
+    "order": 774,
     "statement": "Niño que consulta por prurito perianal de predominio nocturno e insomnio. ¿Cuál es el agente etiológico más probable?",
     "options": [
       {
@@ -20444,7 +20579,7 @@
   },
   {
     "id": "2025 B - Pregunta 31",
-    "order": 770,
+    "order": 775,
     "statement": "¿A qué edad se espera que el lenguaje de un niño sea 100% inteligible para personas ajenas a su núcleo familiar?",
     "options": [
       {
@@ -20471,7 +20606,7 @@
   },
   {
     "id": "2025 B - Pregunta 32",
-    "order": 771,
+    "order": 776,
     "statement": "Paciente que regresa de viaje de Brasil y presenta fiebre alta, dolor retroocular intenso, mialgias y trombocitopenia en el laboratorio. ¿Cuál es la sospecha diagnóstica principal?",
     "options": [
       {
@@ -20498,7 +20633,7 @@
   },
   {
     "id": "2025 B - Pregunta 33",
-    "order": 772,
+    "order": 777,
     "statement": "La presencia de células de Reed-Sternberg en la biopsia ganglionar es patognomónica de:",
     "options": [
       {
@@ -20525,7 +20660,7 @@
   },
   {
     "id": "2025 B - Pregunta 34",
-    "order": 773,
+    "order": 778,
     "statement": "En un embarazo normal, ¿a qué edad gestacional el fondo uterino alcanza habitualmente la altura del ombligo (cicatriz umbilical)?",
     "options": [
       {
@@ -20552,7 +20687,7 @@
   },
   {
     "id": "2025 B - Pregunta 35",
-    "order": 774,
+    "order": 779,
     "statement": "¿Cuál es la utilidad principal de los criterios de Ranson en la pancreatitis aguda?",
     "options": [
       {
@@ -20579,7 +20714,7 @@
   },
   {
     "id": "2025 B - Pregunta 36",
-    "order": 775,
+    "order": 780,
     "statement": "¿Cómo se denomina la situación en la que el cordón umbilical se palpa por delante de la presentación fetal, pero con las membranas ovulares (bolsa) íntegras?",
     "options": [
       {
@@ -20606,7 +20741,7 @@
   },
   {
     "id": "2025 B - Pregunta 37",
-    "order": 776,
+    "order": 781,
     "statement": "¿Cuál es la recomendación principal para prevenir el Síndrome de Muerte Súbita del Lactante (SMSL) al momento de dormir?",
     "options": [
       {
@@ -20633,7 +20768,7 @@
   },
   {
     "id": "2025 B - Pregunta 38",
-    "order": 777,
+    "order": 782,
     "statement": "En el pedículo hepático, ¿cuál es el elemento anatómico que se ubica más posteriormente?",
     "options": [
       {
@@ -20660,7 +20795,7 @@
   },
   {
     "id": "2025 B - Pregunta 39",
-    "order": 778,
+    "order": 783,
     "statement": "Epidemiológicamente, ¿En cual de los siguientes grupos se observan con mayor frecuencia las hernias inguinales?",
     "options": [
       {
@@ -20687,7 +20822,7 @@
   },
   {
     "id": "2025 B - Pregunta 40",
-    "order": 779,
+    "order": 784,
     "statement": "Paciente sufre un Traumatismo Encefalocraneano (TEC) y presenta una convulsión en el lugar del hecho. ¿Cuál es la conducta adecuada al llegar al hospital?",
     "options": [
       {
@@ -20714,7 +20849,7 @@
   },
   {
     "id": "2025 B - Pregunta 41",
-    "order": 780,
+    "order": 785,
     "statement": "¿Cuál es el hallazgo electrocardiográfico característico de la miocardiopatía chagásica crónica?",
     "options": [
       {
@@ -20741,7 +20876,7 @@
   },
   {
     "id": "2025 B - Pregunta 42",
-    "order": 781,
+    "order": 786,
     "statement": "izquierdo). ¿Cuál es una complicación fetal frecuente secundaria al hiperinsulinismo provocado por la diabetes gestacional mal controlada?",
     "options": [
       {
@@ -20768,7 +20903,7 @@
   },
   {
     "id": "2025 B - Pregunta 43",
-    "order": 782,
+    "order": 787,
     "statement": "Ante un resultado de Papanicolau (Pap) que informa una Lesión Intraepitelial de Alto Grado (HSIL / CIN 2-3), ¿cuál es la conducta a seguir?",
     "options": [
       {
@@ -20795,7 +20930,7 @@
   },
   {
     "id": "2025 B - Pregunta 44",
-    "order": 783,
+    "order": 788,
     "statement": "Según los criterios de Framingham para insuficiencia cardíaca, ¿cuál de los siguientes se considera un criterio mayor?",
     "options": [
       {
@@ -20822,7 +20957,7 @@
   },
   {
     "id": "2025 B - Pregunta 45",
-    "order": 784,
+    "order": 789,
     "statement": "Paciente que consulta por dolor anal intenso y punzante durante la defecación, que persiste horas después (\"dolor en tres tiempos\"), asociado a rectorragia leve rutilante en el papel higiénico. ¿Cuál es el diagnóstico más probable?",
     "options": [
       {
@@ -20849,7 +20984,7 @@
   },
   {
     "id": "2025 B - Pregunta 46",
-    "order": 785,
+    "order": 790,
     "statement": "¿Cuál es el mecanismo fisiopatológico de la anemia perniciosa?",
     "options": [
       {
@@ -20876,7 +21011,7 @@
   },
   {
     "id": "2025 B - Pregunta 47",
-    "order": 786,
+    "order": 791,
     "statement": "¿Cuál de los siguientes signos es característico del síndrome piramidal (lesión de motoneurona superior)?",
     "options": [
       {
@@ -20903,7 +21038,7 @@
   },
   {
     "id": "2025 B - Pregunta 48",
-    "order": 787,
+    "order": 792,
     "statement": "En la segunda mitad del embarazo, ¿cuál es la fuente principal de producción del líquido amniótico?",
     "options": [
       {
@@ -20930,7 +21065,7 @@
   },
   {
     "id": "2025 B - Pregunta 49",
-    "order": 788,
+    "order": 793,
     "statement": "¿Qué indica el Signo de Jobert (desaparición de la matidez hepática a la percusión) correlacionado con una radiografía de tórax de pie?",
     "options": [
       {
@@ -20957,7 +21092,7 @@
   },
   {
     "id": "2025 B - Pregunta 50",
-    "order": 789,
+    "order": 794,
     "statement": "Según las metas internacionales de seguridad, ¿cuáles son los identificadores inequívocos correctos para un paciente antes de realizar cualquier procedimiento?",
     "options": [
       {
@@ -20984,7 +21119,7 @@
   },
   {
     "id": "2025 B - Pregunta 51",
-    "order": 790,
+    "order": 795,
     "statement": "¿Qué tipo de mioma uterino es el que se asocia con mayor frecuencia a hemorragias (menorragias) y anemia?",
     "options": [
       {
@@ -21011,7 +21146,7 @@
   },
   {
     "id": "2025 B - Pregunta 52",
-    "order": 791,
+    "order": 796,
     "statement": "Paciente internado por TVP que recibe heparina y presenta un descenso brusco del recuento de plaquetas (>50%) asociado a nuevos eventos trombóticos. ¿Cuál es el diagnóstico?",
     "options": [
       {
@@ -21038,7 +21173,7 @@
   },
   {
     "id": "2025 B - Pregunta 53",
-    "order": 792,
+    "order": 797,
     "statement": "¿Cuál es la causa más frecuente de hemorragia posparto inmediata (dentro de las primeras 24 horas)?",
     "options": [
       {
@@ -21065,7 +21200,7 @@
   },
   {
     "id": "2025 B - Pregunta 54",
-    "order": 793,
+    "order": 798,
     "statement": "¿De qué arteria nace habitualmente la arteria cística que irriga la vesícula biliar?",
     "options": [
       {
@@ -21092,7 +21227,7 @@
   },
   {
     "id": "2025 B - Pregunta 55",
-    "order": 794,
+    "order": 799,
     "statement": "En una paciente embarazada con glucemia en ayunas normal (<100 mg/dL) en el primer control, ¿cuándo se debe solicitar la Prueba de Tolerancia Oral a la Glucosa (PTOG) para screening de diabetes gestacional?",
     "options": [
       {
@@ -21118,8 +21253,35 @@
     ]
   },
   {
+    "id": "2025 B - Pregunta 56",
+    "order": 800,
+    "statement": "¿Cuál es la causa más frecuente de hemorragia digestiva baja masiva (grave) en adultos mayores?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cáncer colorrectal",
+        "isCorrect": false
+      },
+      {
+        "id": "b",
+        "text": "Enfermedad inflamatoria intestinal",
+        "isCorrect": false
+      },
+      {
+        "id": "c",
+        "text": "Diverticulosis colónica",
+        "isCorrect": true
+      },
+      {
+        "id": "d",
+        "text": "Angiodisplasia  Aunque las hemorroides y fisuras son causas frecuentes de sangrado leve, la diverticulosis colónica es la causa más común de hemorragia digestiva baja masiva aguda, indolora y sin dolor abdominal asociado.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
     "id": "2025 B - Pregunta 57",
-    "order": 795,
+    "order": 801,
     "statement": "¿Cuál es la localización anatómica más frecuente de los abscesos anorrectales?",
     "options": [
       {
@@ -21146,7 +21308,7 @@
   },
   {
     "id": "2025 B - Pregunta 58",
-    "order": 796,
+    "order": 802,
     "statement": "¿Cuál de las siguientes lesiones histológicas se considera la precursora directa más importante del cáncer de endometrio tipo I?",
     "options": [
       {
@@ -21173,7 +21335,7 @@
   },
   {
     "id": "2025 B - Pregunta 59",
-    "order": 797,
+    "order": 803,
     "statement": "¿Cuál es la presentación clínica clásica que orienta a una faringitis de etiología bacteriana (Estreptocócica) en un niño en edad escolar?",
     "options": [
       {
@@ -21200,7 +21362,7 @@
   },
   {
     "id": "2025 B - Pregunta 60",
-    "order": 798,
+    "order": 804,
     "statement": "¿Cuál es la etiología más frecuente de pancreatitis aguda en nuestro medio?",
     "options": [
       {
@@ -21227,7 +21389,7 @@
   },
   {
     "id": "2025 B - Pregunta 61",
-    "order": 799,
+    "order": 805,
     "statement": "¿En cuál de las siguientes patologías es mandatorio el estudio genético y seguimiento familiar por el altísimo riesgo de desarrollo de cáncer de colon (casi 100%)?",
     "options": [
       {
@@ -21254,7 +21416,7 @@
   },
   {
     "id": "2025 B - Pregunta 62",
-    "order": 800,
+    "order": 806,
     "statement": "Paciente anciano que presenta síndrome pilórico (vómitos de retención gástrica), sin antecedentes de úlcera péptica ni consumo de AINES. ¿Cuál es el diagnóstico más probable que se debe descartar?",
     "options": [
       {
@@ -21281,7 +21443,7 @@
   },
   {
     "id": "2025 B - Pregunta 63",
-    "order": 801,
+    "order": 807,
     "statement": "¿Cuál es el tipo histológico más frecuente de cáncer renal en adultos?",
     "options": [
       {
@@ -21308,7 +21470,7 @@
   },
   {
     "id": "2025 B - Pregunta 64",
-    "order": 802,
+    "order": 808,
     "statement": "El hamartoma pulmonar es una lesión que se comporta biológicamente como:",
     "options": [
       {
@@ -21335,7 +21497,7 @@
   },
   {
     "id": "2025 B - Pregunta 65",
-    "order": 803,
+    "order": 809,
     "statement": "¿Cuál es la causa más frecuente de proctorragia (sangrado rojo rutilante, escaso, al final de la deposición) en la población general?",
     "options": [
       {
@@ -21362,7 +21524,7 @@
   },
   {
     "id": "2025 B - Pregunta 66",
-    "order": 804,
+    "order": 810,
     "statement": "¿Cuál de las siguientes condiciones es una causa reconocida de hipertensión arterial secundaria de origen endocrino?",
     "options": [
       {
@@ -21389,7 +21551,7 @@
   },
   {
     "id": "2025 B - Pregunta 67",
-    "order": 805,
+    "order": 811,
     "statement": "En el análisis citoquímico del LCR de una meningitis bacteriana aguda, ¿qué alteración de la glucosa (glucorraquia) es característica?",
     "options": [
       {
@@ -21416,7 +21578,7 @@
   },
   {
     "id": "2025 B - Pregunta 68",
-    "order": 806,
+    "order": 812,
     "statement": "¿Cuál es el signo clínico característico que distingue a la Insuficiencia Suprarrenal Primaria (Enfermedad de Addison) de la secundaria?",
     "options": [
       {
@@ -21443,7 +21605,7 @@
   },
   {
     "id": "2025 B - Pregunta 69",
-    "order": 807,
+    "order": 813,
     "statement": "¿Cuál es la etiología más frecuente de la Enfermedad de Addison (insuficiencia suprarrenal primaria) en países desarrollados?",
     "options": [
       {
@@ -21470,7 +21632,7 @@
   },
   {
     "id": "2025 B - Pregunta 70",
-    "order": 808,
+    "order": 814,
     "statement": "En el diagnóstico diferencial de un derrame pleural exudativo linfocitario, ¿qué etiología debe considerarse prioritariamente en nuestro medio?",
     "options": [
       {
@@ -21497,7 +21659,7 @@
   },
   {
     "id": "2025 B - Pregunta 71",
-    "order": 809,
+    "order": 815,
     "statement": "Un lactante con diarrea presenta pulso filiforme, ausencia de lágrimas, signo del pliegue positivo y relleno capilar muy lento. ¿Cómo se clasifica su estado de deshidratación?",
     "options": [
       {
@@ -21524,7 +21686,7 @@
   },
   {
     "id": "2025 B - Pregunta 72",
-    "order": 810,
+    "order": 816,
     "statement": "En una hernia estrangulada, ¿cuál es el elemento anatómico responsable de la constricción vascular y compromiso del asa?",
     "options": [
       {
@@ -21551,7 +21713,7 @@
   },
   {
     "id": "2025 B - Pregunta 73",
-    "order": 811,
+    "order": 817,
     "statement": "¿Qué es el trofoblasto en el contexto del desarrollo embrionario?",
     "options": [
       {
@@ -21578,7 +21740,7 @@
   },
   {
     "id": "2025 B - Pregunta 74",
-    "order": 812,
+    "order": 818,
     "statement": "¿Qué huesos separa la sutura sagital en el cráneo fetal?",
     "options": [
       {
@@ -21605,7 +21767,7 @@
   },
   {
     "id": "2025 B - Pregunta 75",
-    "order": 813,
+    "order": 819,
     "statement": "¿Cuál es el síntoma cardinal y más constante que define el cuadro de abdomen agudo?",
     "options": [
       {
@@ -21632,7 +21794,7 @@
   },
   {
     "id": "2025 B - Pregunta 76",
-    "order": 814,
+    "order": 820,
     "statement": "Además de la vacuna antigripal (en temporada), ¿qué vacunas del Calendario Nacional corresponden a los 6 meses de vida?",
     "options": [
       {
@@ -21659,7 +21821,7 @@
   },
   {
     "id": "2025 B - Pregunta 77",
-    "order": 815,
+    "order": 821,
     "statement": "En una paciente con diabetes gestacional bajo tratamiento, ¿cuál es el rango objetivo de glucemia en ayunas para considerar un buen control metabólico?",
     "options": [
       {
@@ -21686,7 +21848,7 @@
   },
   {
     "id": "2025 B - Pregunta 78",
-    "order": 816,
+    "order": 822,
     "statement": "¿Cuál es el fármaco de elección para la prevención del broncoespasmo inducido por el ejercicio?",
     "options": [
       {
@@ -21713,7 +21875,7 @@
   },
   {
     "id": "2025 B - Pregunta 79",
-    "order": 817,
+    "order": 823,
     "statement": "Según los \"5 momentos para la higiene de manos\" de la OMS, ¿cuál de los siguientes es una indicación precisa para lavarse las manos?",
     "options": [
       {
@@ -21740,7 +21902,7 @@
   },
   {
     "id": "2025 B - Pregunta 80",
-    "order": 818,
+    "order": 824,
     "statement": "¿Cuál es el agente etiológico de la faringoamigdalitis bacteriana que se asocia al riesgo de Fiebre Reumática?",
     "options": [
       {
@@ -21767,7 +21929,7 @@
   },
   {
     "id": "2025 B - Pregunta 81",
-    "order": 819,
+    "order": 825,
     "statement": "¿Qué característica de los índices hematimétricos orienta al diagnóstico de Beta-Talasemia menor?",
     "options": [
       {
@@ -21794,7 +21956,7 @@
   },
   {
     "id": "2025 B - Pregunta 82",
-    "order": 820,
+    "order": 826,
     "statement": "desproporcionado a la anemia. ¿Cuál es la característica clínica típica del dolor en la osteoartritis (artrosis) primaria?",
     "options": [
       {
