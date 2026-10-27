@@ -1,16 +1,19 @@
-# Residencias Médicas Córdoba Quiz
+# Residencias Médicas Córdoba · Quiz
 
-[![Astro](https://img.shields.io/badge/Astro-5.x-ff5d01?logo=astro&logoColor=white)](https://astro.build/)
-[![Deploy to GitHub Pages](https://img.shields.io/badge/Deploy%20to%20GitHub%20Pages-live-2ea44f?logo=githubpages&logoColor=white)](https://luciob16.github.io/residencia-quiz/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-publicado-222?logo=github)](https://luciob16.github.io/residencia-quiz/)
-[![Storage](https://img.shields.io/badge/storage-localStorage-156f72)](#privacidad)
-[![Questions](https://img.shields.io/badge/preguntas-409-315c9c)](src/data/questions.json)
+**Una herramienta de práctica para repasar preguntas de exámenes de residencia, directamente desde el navegador.**
 
-Mini web estática en Astro para practicar preguntas de Residencias Médicas Córdoba desde un navegador. El cuestionario usa datos locales versionados en el repositorio y guarda un ranking solamente en `localStorage` cuando se completa un intento.
+La web estática usa preguntas versionadas dentro del repositorio y permite revisar respuestas, resultados y tiempo por intento. No requiere una cuenta ni envía el historial a un servidor.
 
-Sitio publicado: [https://luciob16.github.io/residencia-quiz/](https://luciob16.github.io/residencia-quiz/)
+**[Empezar a practicar](https://luciob16.github.io/residencia-quiz/)** · [Consultar las fuentes](fuentes/) · [Agregar exámenes](#incorporar-nuevos-exámenes)
 
-## Características
+| Practicar | Corregir | Incorporar material |
+| :-- | :-- | :-- |
+| Preguntas en orden o aleatorias. | Feedback inmediato y resumen del intento. | Flujo documentado para convertir nuevos PDF al banco local. |
+
+> [!NOTE]
+> El archivo `src/data/questions.json` contiene actualmente **826 registros**. Se retiró el antiguo badge fijo de 409 preguntas, que ya no coincidía con los datos del repositorio.
+
+## Funciones del cuestionario
 
 - Conversor reproducible de archivos `.md` de Docling hacia `src/data/questions.json`.
 - Heurística automática para detectar preguntas correctas con prefijo `## `.
@@ -20,7 +23,32 @@ Sitio publicado: [https://luciob16.github.io/residencia-quiz/](https://luciob16.
 - Ranking local del navegador sin guardar respuestas individuales.
 - Deploy automático a GitHub Pages mediante GitHub Actions.
 
-## Estructura
+## Desarrollo local
+
+Requisitos locales:
+
+- Bun 1.3 o superior.
+- Node.js compatible con Astro.
+
+Comandos:
+
+```bash
+bun install
+bun run convert
+bun run validate
+bun run dev
+bun run build
+```
+
+## Incorporar nuevos exámenes
+
+Si deseas contribuir agregando nuevos exámenes al banco de preguntas, este proyecto cuenta con un proceso semi-automatizado preparado para extraer texto y marcar las opciones correctas utilizando Inteligencia Artificial.
+
+1. **Guarda el PDF original:** Coloca tu nuevo archivo PDF en la carpeta `fuentes/pdf/`.
+2. **Utiliza la IA:** Lee y copia el texto del archivo `docs/AI_PROMPT_PROCESS_PDFS.md`. Pégalo en tu asistente de Inteligencia Artificial (ChatGPT, Claude, Gemini, etc.).
+3. **Ejecuta el pipeline:** La IA te guiará para extraer el texto con IBM Docling, cruzar las coordenadas de los resaltados con Python (usando la librería PyMuPDF) y compilar todo en `src/data/questions.json` usando el script de conversión interno.
+
+## Organización del proyecto
 
 ```text
 .
@@ -44,32 +72,7 @@ Sitio publicado: [https://luciob16.github.io/residencia-quiz/](https://luciob16.
     └── styles/global.css
 ```
 
-## Desarrollo
-
-Requisitos locales:
-
-- Bun 1.3 o superior.
-- Node.js compatible con Astro.
-
-Comandos:
-
-```bash
-bun install
-bun run convert
-bun run validate
-bun run dev
-bun run build
-```
-
-## Agregar Nuevos PDFs
-
-Si deseas contribuir agregando nuevos exámenes al banco de preguntas, este proyecto cuenta con un proceso semi-automatizado preparado para extraer texto y marcar las opciones correctas utilizando Inteligencia Artificial.
-
-1. **Guarda el PDF original:** Coloca tu nuevo archivo PDF en la carpeta `fuentes/pdf/`.
-2. **Utiliza la IA:** Lee y copia el texto del archivo `docs/AI_PROMPT_PROCESS_PDFS.md`. Pégalo en tu asistente de Inteligencia Artificial (ChatGPT, Claude, Gemini, etc.).
-3. **Ejecuta el pipeline:** La IA te guiará para extraer el texto con IBM Docling, cruzar las coordenadas de los resaltados con Python (usando la librería PyMuPDF) y compilar todo en `src/data/questions.json` usando el script de conversión interno.
-
-## Despliegue En GitHub Pages
+## Publicación
 
 El sitio está configurado para publicarse en GitHub Pages desde GitHub Actions al hacer push a `main`.
 
